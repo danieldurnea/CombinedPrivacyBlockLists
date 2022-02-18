@@ -1,4 +1,4 @@
-// **** Fri Feb 11 10:10:28 PM UTC 2022
+// **** Fri Feb 18 07:03:50 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1400,7 +1400,6 @@ shExpMatch(host, '*.adserver.freecity.de') ||
 shExpMatch(host, '*.adserver.freenet.de') ||
 shExpMatch(host, '*.adserver.friendfinder.com') ||
 shExpMatch(host, '*.adserver.generationiron.com') ||
-shExpMatch(host, '*.adserver.gilligan.tech') ||
 shExpMatch(host, '*.adserver.hardsextube.com') ||
 shExpMatch(host, '*.adserver.hardwareanalysis.com') ||
 shExpMatch(host, '*.adserver.html.it') ||
@@ -1637,7 +1636,6 @@ shExpMatch(host, '*.adzbazar.com') ||
 shExpMatch(host, '*.adzerk.net') ||
 shExpMatch(host, '*.adzerk.s3.amazonaws.com') ||
 shExpMatch(host, '*.adzestocp.com') ||
-shExpMatch(host, '*.adzone.temp.co.za') ||
 shExpMatch(host, '*.adzones.com') ||
 shExpMatch(host, '*.adzrevads.com') ||
 shExpMatch(host, '*.aeaaea.com') ||
@@ -3408,7 +3406,6 @@ shExpMatch(host, '*.cddbshred.ru') ||
 shExpMatch(host, '*.cdn.bannerflow.com') ||
 shExpMatch(host, '*.cdn.branch.io') ||
 shExpMatch(host, '*.cdn.freefacti.com') ||
-shExpMatch(host, '*.cdn.freefarcy.com') ||
 shExpMatch(host, '*.cdn.freshmarketer.com') ||
 shExpMatch(host, '*.cdn.heapanalytics.com') ||
 shExpMatch(host, '*.cdn.keywee.co') ||
@@ -5674,6 +5671,7 @@ shExpMatch(host, '*.em1.yoursantander.co.uk') ||
 shExpMatch(host, '*.email-clk.adguard.com') ||
 shExpMatch(host, '*.email-hack.com') ||
 shExpMatch(host, '*.email-opn.adguard.com') ||
+shExpMatch(host, '*.email.m1.bktrksmail.com') ||
 shExpMatch(host, '*.emanog.com') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.embedor.com') ||
@@ -7895,6 +7893,7 @@ shExpMatch(host, '*.go.budurl.co') ||
 shExpMatch(host, '*.go.eu.sparkpostmail1.com') ||
 shExpMatch(host, '*.go.icann.org') ||
 shExpMatch(host, '*.go.jozmovie.xyz') ||
+shExpMatch(host, '*.go.usa.gov') ||
 shExpMatch(host, '*.go00ogle.net') ||
 shExpMatch(host, '*.go2affise.com') ||
 shExpMatch(host, '*.go4freehacks.com') ||
@@ -9740,6 +9739,7 @@ shExpMatch(host, '*.kassabravo.com') ||
 shExpMatch(host, '*.kasyapiserve.com') ||
 shExpMatch(host, '*.kat-gifts.com') ||
 shExpMatch(host, '*.kated.ru') ||
+shExpMatch(host, '*.katie.v4.byetnc.com') ||
 shExpMatch(host, '*.kazino-vulkan-play.com') ||
 shExpMatch(host, '*.kbmanager.co.uk') ||
 shExpMatch(host, '*.kdramalink.com') ||
@@ -11346,6 +11346,7 @@ shExpMatch(host, '*.nainasdesigner.com') ||
 shExpMatch(host, '*.nairn101.me') ||
 shExpMatch(host, '*.nairobiysten.xyz') ||
 shExpMatch(host, '*.naj.sk') ||
+shExpMatch(host, '*.naj22.proasdf.com') ||
 shExpMatch(host, '*.najahsalam.net') ||
 shExpMatch(host, '*.najbolja-zabava.com') ||
 shExpMatch(host, '*.nakedglamsexpertise.com') ||
@@ -19047,7 +19048,6 @@ shExpMatch(host, 'adserver.freecity.de') ||
 shExpMatch(host, 'adserver.freenet.de') ||
 shExpMatch(host, 'adserver.friendfinder.com') ||
 shExpMatch(host, 'adserver.generationiron.com') ||
-shExpMatch(host, 'adserver.gilligan.tech') ||
 shExpMatch(host, 'adserver.hardsextube.com') ||
 shExpMatch(host, 'adserver.hardwareanalysis.com') ||
 shExpMatch(host, 'adserver.html.it') ||
@@ -19284,7 +19284,6 @@ shExpMatch(host, 'adzbazar.com') ||
 shExpMatch(host, 'adzerk.net') ||
 shExpMatch(host, 'adzerk.s3.amazonaws.com') ||
 shExpMatch(host, 'adzestocp.com') ||
-shExpMatch(host, 'adzone.temp.co.za') ||
 shExpMatch(host, 'adzones.com') ||
 shExpMatch(host, 'adzrevads.com') ||
 shExpMatch(host, 'aeaaea.com') ||
@@ -21055,7 +21054,6 @@ shExpMatch(host, 'cddbshred.ru') ||
 shExpMatch(host, 'cdn.bannerflow.com') ||
 shExpMatch(host, 'cdn.branch.io') ||
 shExpMatch(host, 'cdn.freefacti.com') ||
-shExpMatch(host, 'cdn.freefarcy.com') ||
 shExpMatch(host, 'cdn.freshmarketer.com') ||
 shExpMatch(host, 'cdn.heapanalytics.com') ||
 shExpMatch(host, 'cdn.keywee.co') ||
@@ -23321,6 +23319,7 @@ shExpMatch(host, 'em1.yoursantander.co.uk') ||
 shExpMatch(host, 'email-clk.adguard.com') ||
 shExpMatch(host, 'email-hack.com') ||
 shExpMatch(host, 'email-opn.adguard.com') ||
+shExpMatch(host, 'email.m1.bktrksmail.com') ||
 shExpMatch(host, 'emanog.com') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'embedor.com') ||
@@ -25542,6 +25541,7 @@ shExpMatch(host, 'go.budurl.co') ||
 shExpMatch(host, 'go.eu.sparkpostmail1.com') ||
 shExpMatch(host, 'go.icann.org') ||
 shExpMatch(host, 'go.jozmovie.xyz') ||
+shExpMatch(host, 'go.usa.gov') ||
 shExpMatch(host, 'go00ogle.net') ||
 shExpMatch(host, 'go2affise.com') ||
 shExpMatch(host, 'go4freehacks.com') ||
@@ -27387,6 +27387,7 @@ shExpMatch(host, 'kassabravo.com') ||
 shExpMatch(host, 'kasyapiserve.com') ||
 shExpMatch(host, 'kat-gifts.com') ||
 shExpMatch(host, 'kated.ru') ||
+shExpMatch(host, 'katie.v4.byetnc.com') ||
 shExpMatch(host, 'kazino-vulkan-play.com') ||
 shExpMatch(host, 'kbmanager.co.uk') ||
 shExpMatch(host, 'kdramalink.com') ||
@@ -28993,6 +28994,7 @@ shExpMatch(host, 'nainasdesigner.com') ||
 shExpMatch(host, 'nairn101.me') ||
 shExpMatch(host, 'nairobiysten.xyz') ||
 shExpMatch(host, 'naj.sk') ||
+shExpMatch(host, 'naj22.proasdf.com') ||
 shExpMatch(host, 'najahsalam.net') ||
 shExpMatch(host, 'najbolja-zabava.com') ||
 shExpMatch(host, 'nakedglamsexpertise.com') ||
