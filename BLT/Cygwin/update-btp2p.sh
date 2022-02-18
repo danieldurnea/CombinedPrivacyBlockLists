@@ -9,8 +9,8 @@ echo "Cleaning up & Fetching P2P lists..."
 mkdir -p ~/BLT/btp2p
 cd ~/BLT/btp2p
 rm -f level1BT.7z bt_level1.p2p bpeersBT.7z bt_bpeers.p2p combined-final.p2p
-wget -nv -O level1BT.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=7z"
-wget -nv -O bpeersBT.7z "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=p2p&archiveformat=7z"
+wget -nv -O level1BT.7z -U "Lynx/2.8.9dev.9 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.4.11" "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=7z"
+wget -nv -O bpeersBT.7z -U "Lynx/2.8.9dev.9 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.4.11" "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=p2p&archiveformat=7z"
 echo "Downloaded blocklists."
 7z e level1BT.7z
 7z e bpeersBT.7z

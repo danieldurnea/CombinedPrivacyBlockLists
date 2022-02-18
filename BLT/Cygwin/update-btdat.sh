@@ -9,8 +9,8 @@ echo "Cleaning up & Fetching DAT lists..."
 mkdir -p ~/BLT/btdat
 cd ~/BLT/btdat
 rm -f level1BTdat.7z bt_level1.dat bpeersBTdat.7z bt_bpeers.dat combined-final-win.dat
-wget -nv -O level1BTdat.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=dat&archiveformat=7z"
-wget -nv -O bpeersBTdat.7z "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=dat&archiveformat=7z"
+wget -nv -O level1BTdat.7z -U "Lynx/2.8.9dev.9 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.4.11" "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=dat&archiveformat=7z"
+wget -nv -O bpeersBTdat.7z -U "Lynx/2.8.9dev.9 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.4.11" "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=dat&archiveformat=7z"
 echo "Downloaded blocklists."
 7z e level1BTdat.7z
 7z e bpeersBTdat.7z
