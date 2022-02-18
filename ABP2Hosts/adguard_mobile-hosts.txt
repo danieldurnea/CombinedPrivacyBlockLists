@@ -1,4 +1,4 @@
-# Fri Feb 11 10:04:21 PM UTC 2022
+# Fri Feb 18 06:51:28 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3002,7 +3002,6 @@
 0.0.0.0 dispatcher.adxcore.com
 0.0.0.0 dispatcher.mng-ads.com
 0.0.0.0 dispatcher.upmc.uc.cn
-0.0.0.0 dispawsusva.inmoment.com
 0.0.0.0 display.ad.daum.net
 0.0.0.0 display.apester.com
 0.0.0.0 display.bfmio.com
@@ -4117,8 +4116,6 @@
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intellitxt.com
 0.0.0.0 interaction.apester.com
-0.0.0.0 intercept-client.inmoment.com
-0.0.0.0 intercept.inmoment.com
 0.0.0.0 intermarkets.net
 0.0.0.0 interstitial.fyber.com
 0.0.0.0 intouch.arcsoft.com
