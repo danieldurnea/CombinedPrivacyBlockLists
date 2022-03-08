@@ -1,4 +1,4 @@
-# Fri Feb 18 06:51:28 PM UTC 2022
+# Tue Mar  8 09:39:02 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -239,7 +239,6 @@
 0.0.0.0 abtesting.perfectcorp.com
 0.0.0.0 ac.batmobi.net
 0.0.0.0 ac.mmstat.com
-0.0.0.0 acc.magixite.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-tag.advertising.com
@@ -1346,7 +1345,6 @@
 0.0.0.0 api.target2sell.com
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.theadex.com
-0.0.0.0 api.tllms.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.umbel.com
@@ -1692,7 +1690,6 @@
 0.0.0.0 atr.adsmovil.com
 0.0.0.0 atracking-auto.appflood.com
 0.0.0.0 ats.rlcdn.com
-0.0.0.0 att.productmadness.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 au-gmtdmp.mookie1.com
@@ -2210,7 +2207,6 @@
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.braze.eu
 0.0.0.0 cdn.britepool.com
-0.0.0.0 cdn.bskarn.com
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 cdn.civicscience.com
 0.0.0.0 cdn.clickfuse.com
@@ -2608,7 +2604,6 @@
 0.0.0.0 communicate.gimbal.com
 0.0.0.0 community.service.signalr.net
 0.0.0.0 company-target.com
-0.0.0.0 compare-static.weather-and-climate.com
 0.0.0.0 compass-allbids.deliverimp.com
 0.0.0.0 compass-errors.deliverimp.com
 0.0.0.0 compass-events.deliverimp.com
@@ -3269,6 +3264,7 @@
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-logger.tagboard.com.herokudns.com
+0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.collector.scopely.io
@@ -3277,6 +3273,7 @@
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.spotxchange.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -3849,7 +3846,6 @@
 0.0.0.0 i.matheranalytics.com
 0.0.0.0 i.mixadvert.com
 0.0.0.0 i.mobilefuse.com
-0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.onthe.io
 0.0.0.0 i.po.st
 0.0.0.0 i.singular.net
@@ -3962,7 +3958,6 @@
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.perf-serving.com
 0.0.0.0 images.revcontent.com
-0.0.0.0 images.scanalert.com
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
@@ -4386,7 +4381,6 @@
 0.0.0.0 loadr.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
-0.0.0.0 loc.bskarn.com
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local.emxdgt.com
 0.0.0.0 local.ownlocal.com
@@ -4401,6 +4395,7 @@
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
+0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log.ad.xiaomi.com
@@ -4421,6 +4416,7 @@
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
+0.0.0.0 log.estand.jp
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.go.com
 0.0.0.0 log.go2s.co
@@ -4568,7 +4564,6 @@
 0.0.0.0 marketgid.com
 0.0.0.0 marketing-ssl.upsight-api.com
 0.0.0.0 marketing.criteo.com
-0.0.0.0 marketing.tllms.com
 0.0.0.0 marketingassets.staples.com.edgekey.net
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketingweek.imgix.net
@@ -4644,7 +4639,6 @@
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 media.bidr.io
 0.0.0.0 media.carambo.la
-0.0.0.0 media.complex.com
 0.0.0.0 media.datahc.com
 0.0.0.0 media.evolv.ai
 0.0.0.0 media.go2speed.org
@@ -5196,7 +5190,6 @@
 0.0.0.0 p.webengage.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 p102-clb.allstarcluster.com
-0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p287.atemda.com
 0.0.0.0 p3.adhitzads.com
@@ -6632,7 +6625,6 @@
 0.0.0.0 static.mparticle.com
 0.0.0.0 static.narrativ.com
 0.0.0.0 static.omnilocal.ai
-0.0.0.0 static.onecms.io
 0.0.0.0 static.par.vip.prod.criteo.net
 0.0.0.0 static.polarcdn.com
 0.0.0.0 static.popads.net
@@ -7603,7 +7595,6 @@
 0.0.0.0 view.adjust.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 viewclc.com
-0.0.0.0 viewpoint.com
 0.0.0.0 vik-analytics-gke.moonactive.net
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 vindicosuite.com
