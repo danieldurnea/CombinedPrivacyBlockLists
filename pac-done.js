@@ -1,4 +1,4 @@
-// **** Fri Feb 18 07:03:50 PM UTC 2022
+// **** Tue Mar  8 09:43:47 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -366,6 +366,8 @@ shExpMatch(host, '*.abcdespanol.com') ||
 shExpMatch(host, '*.abcmlm.com') ||
 shExpMatch(host, '*.abionet.com') ||
 shExpMatch(host, '*.ablink.comms.trainline.com') ||
+shExpMatch(host, '*.ablink.news.emails-puregym.com') ||
+shExpMatch(host, '*.ablinks.mail.hinge.co') ||
 shExpMatch(host, '*.abo-arish.net') ||
 shExpMatch(host, '*.aboardlevel.com') ||
 shExpMatch(host, '*.abonnement-xboxlive.fr') ||
@@ -531,6 +533,7 @@ shExpMatch(host, '*.ad.preferances.com') ||
 shExpMatch(host, '*.ad.profiwin.de') ||
 shExpMatch(host, '*.ad.prv.pl') ||
 shExpMatch(host, '*.ad.rambler.ru') ||
+shExpMatch(host, '*.ad.reachlocal.com') ||
 shExpMatch(host, '*.ad.reunion.com') ||
 shExpMatch(host, '*.ad.scanmedios.com') ||
 shExpMatch(host, '*.ad.sensismediasmart.com.au') ||
@@ -7678,7 +7681,6 @@ shExpMatch(host, '*.german-linkindex.de') ||
 shExpMatch(host, '*.german.filminstan.pw') ||
 shExpMatch(host, '*.germanyenergy.online') ||
 shExpMatch(host, '*.gestreifthelle.site') ||
-shExpMatch(host, '*.get-best-prizes.life') ||
 shExpMatch(host, '*.get-bills.com') ||
 shExpMatch(host, '*.get-bitcoin.website') ||
 shExpMatch(host, '*.get-cracked.com') ||
@@ -10466,6 +10468,7 @@ shExpMatch(host, '*.malathris.cz.cc') ||
 shExpMatch(host, '*.malepad.ru') ||
 shExpMatch(host, '*.malermeister-papen.de') ||
 shExpMatch(host, '*.malest.com') ||
+shExpMatch(host, '*.maltiverse.lt.acemlnc.com') ||
 shExpMatch(host, '*.malware-check.disconnect.me') ||
 shExpMatch(host, '*.malware-scan.com') ||
 shExpMatch(host, '*.mamamiapizzeriaoffresno.com') ||
@@ -10548,7 +10551,6 @@ shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomo.crossiety.app') ||
 shExpMatch(host, '*.matomo.gals24.ru') ||
 shExpMatch(host, '*.matomo.hdweb.ru') ||
-shExpMatch(host, '*.matomo.kmkb.ru') ||
 shExpMatch(host, '*.matomo.zwetok.ru') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matrics.ro') ||
@@ -11367,7 +11369,6 @@ shExpMatch(host, '*.nastydollars.com') ||
 shExpMatch(host, '*.natebennettfleming.com') ||
 shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
-shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
 shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
@@ -12910,6 +12911,7 @@ shExpMatch(host, '*.px.dynamicyield.com') ||
 shExpMatch(host, '*.px.gfycat.com') ||
 shExpMatch(host, '*.px.spiceworks.com') ||
 shExpMatch(host, '*.pxf.io') ||
+shExpMatch(host, '*.pxl-mailtracker.com') ||
 shExpMatch(host, '*.pxl.iqm.com') ||
 shExpMatch(host, '*.pymx5.com') ||
 shExpMatch(host, '*.pypwalve.ru') ||
@@ -14171,6 +14173,7 @@ shExpMatch(host, '*.skippyfile.com') ||
 shExpMatch(host, '*.skmssc.icu') ||
 shExpMatch(host, '*.skottles.com') ||
 shExpMatch(host, '*.skovia.com') ||
+shExpMatch(host, '*.skroutza.skroutz.gr') ||
 shExpMatch(host, '*.skull-bets.io') ||
 shExpMatch(host, '*.skydrop.top') ||
 shExpMatch(host, '*.skygohack.org') ||
@@ -18014,6 +18017,8 @@ shExpMatch(host, 'abcdespanol.com') ||
 shExpMatch(host, 'abcmlm.com') ||
 shExpMatch(host, 'abionet.com') ||
 shExpMatch(host, 'ablink.comms.trainline.com') ||
+shExpMatch(host, 'ablink.news.emails-puregym.com') ||
+shExpMatch(host, 'ablinks.mail.hinge.co') ||
 shExpMatch(host, 'abo-arish.net') ||
 shExpMatch(host, 'aboardlevel.com') ||
 shExpMatch(host, 'abonnement-xboxlive.fr') ||
@@ -18179,6 +18184,7 @@ shExpMatch(host, 'ad.preferances.com') ||
 shExpMatch(host, 'ad.profiwin.de') ||
 shExpMatch(host, 'ad.prv.pl') ||
 shExpMatch(host, 'ad.rambler.ru') ||
+shExpMatch(host, 'ad.reachlocal.com') ||
 shExpMatch(host, 'ad.reunion.com') ||
 shExpMatch(host, 'ad.scanmedios.com') ||
 shExpMatch(host, 'ad.sensismediasmart.com.au') ||
@@ -25326,7 +25332,6 @@ shExpMatch(host, 'german-linkindex.de') ||
 shExpMatch(host, 'german.filminstan.pw') ||
 shExpMatch(host, 'germanyenergy.online') ||
 shExpMatch(host, 'gestreifthelle.site') ||
-shExpMatch(host, 'get-best-prizes.life') ||
 shExpMatch(host, 'get-bills.com') ||
 shExpMatch(host, 'get-bitcoin.website') ||
 shExpMatch(host, 'get-cracked.com') ||
@@ -28114,6 +28119,7 @@ shExpMatch(host, 'malathris.cz.cc') ||
 shExpMatch(host, 'malepad.ru') ||
 shExpMatch(host, 'malermeister-papen.de') ||
 shExpMatch(host, 'malest.com') ||
+shExpMatch(host, 'maltiverse.lt.acemlnc.com') ||
 shExpMatch(host, 'malware-check.disconnect.me') ||
 shExpMatch(host, 'malware-scan.com') ||
 shExpMatch(host, 'mamamiapizzeriaoffresno.com') ||
@@ -28196,7 +28202,6 @@ shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomo.crossiety.app') ||
 shExpMatch(host, 'matomo.gals24.ru') ||
 shExpMatch(host, 'matomo.hdweb.ru') ||
-shExpMatch(host, 'matomo.kmkb.ru') ||
 shExpMatch(host, 'matomo.zwetok.ru') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matrics.ro') ||
@@ -29015,7 +29020,6 @@ shExpMatch(host, 'nastydollars.com') ||
 shExpMatch(host, 'natebennettfleming.com') ||
 shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
-shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
 shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
@@ -30558,6 +30562,7 @@ shExpMatch(host, 'px.dynamicyield.com') ||
 shExpMatch(host, 'px.gfycat.com') ||
 shExpMatch(host, 'px.spiceworks.com') ||
 shExpMatch(host, 'pxf.io') ||
+shExpMatch(host, 'pxl-mailtracker.com') ||
 shExpMatch(host, 'pxl.iqm.com') ||
 shExpMatch(host, 'pymx5.com') ||
 shExpMatch(host, 'pypwalve.ru') ||
@@ -31819,6 +31824,7 @@ shExpMatch(host, 'skippyfile.com') ||
 shExpMatch(host, 'skmssc.icu') ||
 shExpMatch(host, 'skottles.com') ||
 shExpMatch(host, 'skovia.com') ||
+shExpMatch(host, 'skroutza.skroutz.gr') ||
 shExpMatch(host, 'skull-bets.io') ||
 shExpMatch(host, 'skydrop.top') ||
 shExpMatch(host, 'skygohack.org') ||
