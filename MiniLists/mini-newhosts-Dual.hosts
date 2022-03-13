@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/13/22~02:06:24 -~
+# ~- 03/13/22~02:38:48 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -22341,7 +22341,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 d.eu.criteo.com
 0.0.0.0 d.exit-ad.com
 0.0.0.0 d.finative.eu
-0.0.0.0 d.getpocket.com
 0.0.0.0 d.haberler.com
 0.0.0.0 d.href.asia
 0.0.0.0 d.igra-prestoloff.cx
@@ -99617,7 +99616,6 @@ ff02::2 ip6-allrouters
 :: d.eu.criteo.com
 :: d.exit-ad.com
 :: d.finative.eu
-:: d.getpocket.com
 :: d.haberler.com
 :: d.href.asia
 :: d.igra-prestoloff.cx

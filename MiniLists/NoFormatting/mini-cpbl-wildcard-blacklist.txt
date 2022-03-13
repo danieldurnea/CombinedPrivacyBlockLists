@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/13/22~02:22:26 -~
+# ~- 03/13/22~02:37:28 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -17882,7 +17882,6 @@
 *.d.cfcnet.top
 *.d.dgzj.com
 *.d.finative.eu
-*.d.getpocket.com
 *.d.haberler.com
 *.d.igra-prestoloff.cx
 *.d.image-ad.jp

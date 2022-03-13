@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/13/22~01:53:15 -~
+# ~- 03/13/22~02:42:02 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -30614,7 +30614,6 @@
 0.0.0.0 d.eu.criteo.com
 0.0.0.0 d.exit-ad.com
 0.0.0.0 d.finative.eu
-0.0.0.0 d.getpocket.com
 0.0.0.0 d.haberler.com
 0.0.0.0 d.href.asia
 0.0.0.0 d.igra-prestoloff.cx
