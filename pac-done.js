@@ -1,4 +1,4 @@
-// **** Tue Mar  8 09:43:47 PM UTC 2022
+// **** Sun Mar 13 01:54:47 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1617,7 +1617,6 @@ shExpMatch(host, '*.adwebone.com') ||
 shExpMatch(host, '*.adwhirl.com') ||
 shExpMatch(host, '*.adwitserver.com') ||
 shExpMatch(host, '*.adwokatlodz.club') ||
-shExpMatch(host, '*.adwords-track.com') ||
 shExpMatch(host, '*.adwordsecommerce.com.br') ||
 shExpMatch(host, '*.adworldnetwork.com') ||
 shExpMatch(host, '*.adworx.at') ||
@@ -3786,6 +3785,7 @@ shExpMatch(host, '*.class-act-clicks.com') ||
 shExpMatch(host, '*.classicallyabsurdphotography.com') ||
 shExpMatch(host, '*.classicpastries.com') ||
 shExpMatch(host, '*.classicspeedway.com') ||
+shExpMatch(host, '*.clck.ru') ||
 shExpMatch(host, '*.clean-files.com') ||
 shExpMatch(host, '*.clean-talks.com') ||
 shExpMatch(host, '*.cleandownload.net') ||
@@ -3997,7 +3997,6 @@ shExpMatch(host, '*.coffee-samples-deal.live') ||
 shExpMatch(host, '*.coffeol.com') ||
 shExpMatch(host, '*.cognitiv.ai') ||
 shExpMatch(host, '*.cogrem.com') ||
-shExpMatch(host, '*.coin-hive.com') ||
 shExpMatch(host, '*.coinbase.gift') ||
 shExpMatch(host, '*.coinbasepro-giveaway.com') ||
 shExpMatch(host, '*.coinsbet.us') ||
@@ -11247,7 +11246,6 @@ shExpMatch(host, '*.myaffiliateprogram.com') ||
 shExpMatch(host, '*.myamzgiftcards.com') ||
 shExpMatch(host, '*.mybar.us') ||
 shExpMatch(host, '*.mybbc-analytics.files.bbci.co.uk') ||
-shExpMatch(host, '*.mybestmv.com') ||
 shExpMatch(host, '*.mybetterdl.com') ||
 shExpMatch(host, '*.mybloglog.com') ||
 shExpMatch(host, '*.myboxgo.com') ||
@@ -11325,7 +11323,6 @@ shExpMatch(host, '*.mystat.pl') ||
 shExpMatch(host, '*.mysteriousmonth.com') ||
 shExpMatch(host, '*.mythings.com') ||
 shExpMatch(host, '*.mytop-in.net') ||
-shExpMatch(host, '*.mytrackingservers.com') ||
 shExpMatch(host, '*.mytrustfile.com') ||
 shExpMatch(host, '*.mytubefire.com') ||
 shExpMatch(host, '*.myvisualiq.net') ||
@@ -11369,6 +11366,7 @@ shExpMatch(host, '*.nastydollars.com') ||
 shExpMatch(host, '*.natebennettfleming.com') ||
 shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
+shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
 shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
@@ -19268,7 +19266,6 @@ shExpMatch(host, 'adwebone.com') ||
 shExpMatch(host, 'adwhirl.com') ||
 shExpMatch(host, 'adwitserver.com') ||
 shExpMatch(host, 'adwokatlodz.club') ||
-shExpMatch(host, 'adwords-track.com') ||
 shExpMatch(host, 'adwordsecommerce.com.br') ||
 shExpMatch(host, 'adworldnetwork.com') ||
 shExpMatch(host, 'adworx.at') ||
@@ -21437,6 +21434,7 @@ shExpMatch(host, 'class-act-clicks.com') ||
 shExpMatch(host, 'classicallyabsurdphotography.com') ||
 shExpMatch(host, 'classicpastries.com') ||
 shExpMatch(host, 'classicspeedway.com') ||
+shExpMatch(host, 'clck.ru') ||
 shExpMatch(host, 'clean-files.com') ||
 shExpMatch(host, 'clean-talks.com') ||
 shExpMatch(host, 'cleandownload.net') ||
@@ -21648,7 +21646,6 @@ shExpMatch(host, 'coffee-samples-deal.live') ||
 shExpMatch(host, 'coffeol.com') ||
 shExpMatch(host, 'cognitiv.ai') ||
 shExpMatch(host, 'cogrem.com') ||
-shExpMatch(host, 'coin-hive.com') ||
 shExpMatch(host, 'coinbase.gift') ||
 shExpMatch(host, 'coinbasepro-giveaway.com') ||
 shExpMatch(host, 'coinsbet.us') ||
@@ -28898,7 +28895,6 @@ shExpMatch(host, 'myaffiliateprogram.com') ||
 shExpMatch(host, 'myamzgiftcards.com') ||
 shExpMatch(host, 'mybar.us') ||
 shExpMatch(host, 'mybbc-analytics.files.bbci.co.uk') ||
-shExpMatch(host, 'mybestmv.com') ||
 shExpMatch(host, 'mybetterdl.com') ||
 shExpMatch(host, 'mybloglog.com') ||
 shExpMatch(host, 'myboxgo.com') ||
@@ -28976,7 +28972,6 @@ shExpMatch(host, 'mystat.pl') ||
 shExpMatch(host, 'mysteriousmonth.com') ||
 shExpMatch(host, 'mythings.com') ||
 shExpMatch(host, 'mytop-in.net') ||
-shExpMatch(host, 'mytrackingservers.com') ||
 shExpMatch(host, 'mytrustfile.com') ||
 shExpMatch(host, 'mytubefire.com') ||
 shExpMatch(host, 'myvisualiq.net') ||
@@ -29020,6 +29015,7 @@ shExpMatch(host, 'nastydollars.com') ||
 shExpMatch(host, 'natebennettfleming.com') ||
 shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
+shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
 shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
