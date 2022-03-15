@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/15/22~22:20:17 -~
+# ~- 03/15/22~23:35:12 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -3947,6 +3947,7 @@ ff02::2 ip6-allrouters
 :: accounts.doubleclick.net
 :: accounts.mx
 :: accounts.pkr.com.invalid
+:: accounts.secure-ua.website
 :: accountsections.com
 :: accpais.com
 :: acctspayable.com
@@ -4225,7 +4226,6 @@ ff02::2 ip6-allrouters
 :: ad-move.jp
 :: ad-net.co.uk
 :: ad-nex.com
-:: ad-paradise.com
 :: ad-pay.de
 :: ad-plus.cn
 :: ad-proxy.spotify.com
@@ -29429,6 +29429,7 @@ ff02::2 ip6-allrouters
 :: fmebili.info
 :: fmei.wang
 :: fmketang.cn
+:: fmlodpskbybfu.xyz
 :: fmm-tracking.appsdemo.xyz
 :: fmpannkmn.xyz
 :: fmplusnepal.com
@@ -40999,6 +41000,7 @@ ff02::2 ip6-allrouters
 :: login-web-avances-cl.gq
 :: login.anal-porn.info
 :: login.browsermine.com
+:: login.creditals-email.space
 :: login.dotomi.com
 :: login.gammaplatform.com
 :: login.linkpulse.com

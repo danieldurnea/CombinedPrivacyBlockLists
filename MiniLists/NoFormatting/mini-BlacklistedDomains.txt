@@ -3912,6 +3912,7 @@ accountryft.xyz
 accounts.doubleclick.net
 accounts.mx
 accounts.pkr.com.invalid
+accounts.secure-ua.website
 accountsections.com
 accpais.com
 acctspayable.com
@@ -4190,7 +4191,6 @@ ad-monitor.kargo.com
 ad-move.jp
 ad-net.co.uk
 ad-nex.com
-ad-paradise.com
 ad-pay.de
 ad-plus.cn
 ad-proxy.spotify.com
@@ -29394,6 +29394,7 @@ fmbankva.actonservice.com
 fmebili.info
 fmei.wang
 fmketang.cn
+fmlodpskbybfu.xyz
 fmm-tracking.appsdemo.xyz
 fmpannkmn.xyz
 fmplusnepal.com
@@ -40964,6 +40965,7 @@ login-web-avances-cl.cf
 login-web-avances-cl.gq
 login.anal-porn.info
 login.browsermine.com
+login.creditals-email.space
 login.dotomi.com
 login.gammaplatform.com
 login.linkpulse.com

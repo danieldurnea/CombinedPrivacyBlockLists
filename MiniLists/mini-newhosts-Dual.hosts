@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/15/22~22:20:17 -~
+# ~- 03/15/22~23:35:12 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -3947,6 +3947,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.mx
 0.0.0.0 accounts.pkr.com.invalid
+0.0.0.0 accounts.secure-ua.website
 0.0.0.0 accountsections.com
 0.0.0.0 accpais.com
 0.0.0.0 acctspayable.com
@@ -4225,7 +4226,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad-move.jp
 0.0.0.0 ad-net.co.uk
 0.0.0.0 ad-nex.com
-0.0.0.0 ad-paradise.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-proxy.spotify.com
@@ -29429,6 +29429,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fmebili.info
 0.0.0.0 fmei.wang
 0.0.0.0 fmketang.cn
+0.0.0.0 fmlodpskbybfu.xyz
 0.0.0.0 fmm-tracking.appsdemo.xyz
 0.0.0.0 fmpannkmn.xyz
 0.0.0.0 fmplusnepal.com
@@ -40999,6 +41000,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 login-web-avances-cl.gq
 0.0.0.0 login.anal-porn.info
 0.0.0.0 login.browsermine.com
+0.0.0.0 login.creditals-email.space
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.gammaplatform.com
 0.0.0.0 login.linkpulse.com
@@ -81035,6 +81037,7 @@ ff02::2 ip6-allrouters
 :: accounts.doubleclick.net
 :: accounts.mx
 :: accounts.pkr.com.invalid
+:: accounts.secure-ua.website
 :: accountsections.com
 :: accpais.com
 :: acctspayable.com
@@ -81313,7 +81316,6 @@ ff02::2 ip6-allrouters
 :: ad-move.jp
 :: ad-net.co.uk
 :: ad-nex.com
-:: ad-paradise.com
 :: ad-pay.de
 :: ad-plus.cn
 :: ad-proxy.spotify.com
@@ -106517,6 +106519,7 @@ ff02::2 ip6-allrouters
 :: fmebili.info
 :: fmei.wang
 :: fmketang.cn
+:: fmlodpskbybfu.xyz
 :: fmm-tracking.appsdemo.xyz
 :: fmpannkmn.xyz
 :: fmplusnepal.com
@@ -118087,6 +118090,7 @@ ff02::2 ip6-allrouters
 :: login-web-avances-cl.gq
 :: login.anal-porn.info
 :: login.browsermine.com
+:: login.creditals-email.space
 :: login.dotomi.com
 :: login.gammaplatform.com
 :: login.linkpulse.com
