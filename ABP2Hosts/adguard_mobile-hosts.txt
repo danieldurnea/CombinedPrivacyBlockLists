@@ -1,4 +1,4 @@
-# Tue Mar 15 09:56:35 PM UTC 2022
+# Tue Mar 15 11:27:10 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -6342,7 +6342,6 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 simplesharebuttons.com
-0.0.0.0 simpletexting.com
 0.0.0.0 simpli.fi
 0.0.0.0 simplifi.partners.tremorhub.com
 0.0.0.0 simplycast.com

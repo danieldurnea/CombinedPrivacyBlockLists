@@ -1,4 +1,4 @@
-# Tue Mar 15 09:56:51 PM UTC 2022
+# Tue Mar 15 11:27:29 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 00-gov.cn
@@ -18187,7 +18187,6 @@
 0.0.0.0 i.clean.gg
 0.0.0.0 i.compendium.com
 0.0.0.0 i.hqvrporn.net
-0.0.0.0 i.ibb.co
 0.0.0.0 i.image-ad.jp
 0.0.0.0 i.j2j.ru
 0.0.0.0 i.justblinds.com

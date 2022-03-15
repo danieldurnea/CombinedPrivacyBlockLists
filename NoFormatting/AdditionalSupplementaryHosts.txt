@@ -913,6 +913,7 @@
 0.0.0.0 accountprotection.xyz
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.mx
+0.0.0.0 accounts.secure-ua.website
 0.0.0.0 accountsections.com
 0.0.0.0 accpais.com
 0.0.0.0 acctspayable.com
@@ -1065,7 +1066,6 @@
 0.0.0.0 ad-move.jp
 0.0.0.0 ad-net.co.uk
 0.0.0.0 ad-nex.com
-0.0.0.0 ad-paradise.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn
 0.0.0.0 ad-proxy.spotify.com
@@ -14338,6 +14338,7 @@
 0.0.0.0 login-web-avances-cl.cf
 0.0.0.0 login-web-avances-cl.gq
 0.0.0.0 login.browsermine.com
+0.0.0.0 login.creditals-email.space
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.gammaplatform.com
 0.0.0.0 login.linkpulse.com

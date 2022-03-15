@@ -1,4 +1,4 @@
-# Tue Mar 15 09:57:08 PM UTC 2022
+# Tue Mar 15 11:27:50 PM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -13747,6 +13747,7 @@
 0.0.0.0 fmebili.info
 0.0.0.0 fmei.wang
 0.0.0.0 fmketang.cn
+0.0.0.0 fmlodpskbybfu.xyz
 0.0.0.0 fmpannkmn.xyz
 0.0.0.0 fmpub.net
 0.0.0.0 fmqidg.letras.com
