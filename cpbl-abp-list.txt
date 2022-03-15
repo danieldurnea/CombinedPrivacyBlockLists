@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Mar 15 10:23:34 PM UTC 2022
+! Updated: Tue Mar 15 11:37:27 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -3906,6 +3906,7 @@
 ||accounts.mx^
 ||accounts.pkr.com^
 ||accounts.pkr.com.invalid^
+||accounts.secure-ua.website^
 ||accountsections.com^
 ||accpais.com^
 ||acctspayable.com^
@@ -33620,6 +33621,7 @@
 ||fmebili.info^
 ||fmei.wang^
 ||fmketang.cn^
+||fmlodpskbybfu.xyz^
 ||fmm-tracking.appsdemo.xyz^
 ||fmnetwork.nl^
 ||fmnybwjmkfpoqdm.xyz^
@@ -41321,7 +41323,6 @@
 ||i.compendium.com^
 ||i.frg.im^
 ||i.hqvrporn.net^
-||i.ibb.co^
 ||i.image-ad.jp^
 ||i.imedia.cz^
 ||i.j2j.ru^
@@ -49180,6 +49181,7 @@
 ||login-web-avances-cl.cf^
 ||login-web-avances-cl.gq^
 ||login.anal-porn.info^
+||login.creditals-email.space^
 ||login2facebook.com^
 ||login3.kimbrelelectric.com^
 ||loginbox.ru^
