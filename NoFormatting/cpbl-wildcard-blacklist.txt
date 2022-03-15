@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/15/22~22:32:23 -~
+# ~- 03/15/22~23:45:54 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -3920,6 +3920,7 @@
 *.accounts.mx
 *.accounts.pkr.com.invalid
 *.accounts.pkr.com
+*.accounts.secure-ua.website
 *.accountsections.com
 *.accpais.com
 *.acctspayable.com
@@ -33634,6 +33635,7 @@
 *.fmebili.info
 *.fmei.wang
 *.fmketang.cn
+*.fmlodpskbybfu.xyz
 *.fmm-tracking.appsdemo.xyz
 *.fmnetwork.nl
 *.fmnybwjmkfpoqdm.xyz
@@ -41337,7 +41339,6 @@
 *.i.compendium.com
 *.i.frg.im
 *.i.hqvrporn.net
-*.i.ibb.co
 *.i.image-ad.jp
 *.i.imedia.cz
 *.i.j2j.ru
@@ -49196,6 +49197,7 @@
 *.login-web-avances-cl.cf
 *.login-web-avances-cl.gq
 *.login.anal-porn.info
+*.login.creditals-email.space
 *.login2facebook.com
 *.login3.kimbrelelectric.com
 *.loginbox.ru
