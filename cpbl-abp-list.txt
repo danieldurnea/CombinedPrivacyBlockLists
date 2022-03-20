@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Mar 20 12:13:46 AM UTC 2022
+! Updated: Sun Mar 20 01:01:31 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -8692,6 +8692,7 @@
 ||adverterenzeeland.nl^
 ||adverti.io^
 ||advertica-cdn.com^
+||advertica-cdn2.com^
 ||advertica.ae^
 ||advertica.eu^
 ||adverticum.com^
@@ -18996,6 +18997,7 @@
 ||cc.calltracking.ru^
 ||cc.conforama.es^
 ||cc.iwon.com^
+||cc.labu24.de^
 ||cc.lbesec.com^
 ||cc.pennstatehealth.org^
 ||cc.swiftype.com^
@@ -22527,6 +22529,7 @@
 ||cookies.livepartners.com^
 ||cookies.lmt.lv^
 ||cookies.nos.nl^
+||cookies.ptj.de^
 ||cookies.reedbusiness.nl^
 ||cookies.siemens-advanta.com^
 ||cookies.siemens-energy.com^
@@ -44588,6 +44591,7 @@
 ||johnfoxphotography.com^
 ||johnsitsi.pro^
 ||johtzj.com^
+||joiakit.com^
 ||joicky.com^
 ||join.opencare.com^
 ||join.whitegfs.com^
@@ -83590,6 +83594,7 @@
 ||ujoongeilaej.info^
 ||ujvilagtudat.blogspot.hu^
 ||ujvpma.infinitytools.com^
+||uk-tracking.nextdoor.com^
 ||uk.activeshopper.com^
 ||uk.ads.hexus.net^
 ||uk.bitcoinfreedom-appl.t500track42.com^
@@ -91101,7 +91106,6 @@
 ||ylx-2.com^
 ||ylx-3.com^
 ||ylx-4.com^
-||ylx-i.advertica-cdn2.com^
 ||ylykd.cn^
 ||ylzx.net^
 ||ym-a.cc^

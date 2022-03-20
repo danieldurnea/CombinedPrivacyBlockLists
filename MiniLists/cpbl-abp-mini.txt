@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sun Mar 20 12:13:46 AM UTC 2022
+! Updated: Sun Mar 20 01:01:32 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -14075,6 +14075,7 @@
 ||cc-dt.com^
 ||cc.conforama.es^
 ||cc.iwon.com^
+||cc.labu24.de^
 ||cc.lbesec.com^
 ||cc.pennstatehealth.org^
 ||cc.swiftype.com^
@@ -16601,6 +16602,7 @@
 ||cookies.livepartners.com^
 ||cookies.lmt.lv^
 ||cookies.nos.nl^
+||cookies.ptj.de^
 ||cookies.reedbusiness.nl^
 ||cookies.siemens-advanta.com^
 ||cookies.siemens-energy.com^
@@ -30398,6 +30400,7 @@
 ||john1715.com^
 ||johncharcol.com^
 ||johtzj.com^
+||joiakit.com^
 ||joicky.com^
 ||join.opencare.com^
 ||joinbrand.club^
@@ -56503,6 +56506,7 @@
 ||ujm.hansel.io^
 ||ujvilagtudat.blogspot.hu^
 ||ujvpma.infinitytools.com^
+||uk-tracking.nextdoor.com^
 ||uk.activeshopper.com^
 ||uk.ads.hexus.net^
 ||uk.bitcoinfreedom-appl.t500track42.com^
