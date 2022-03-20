@@ -1,4 +1,4 @@
-# Sat Mar 19 11:57:13 PM UTC 2022
+# Sun Mar 20 12:46:30 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -7279,6 +7279,7 @@
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.conforama.es
+0.0.0.0 cc.labu24.de
 0.0.0.0 cc.pennstatehealth.org
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.xiaodapei.com
@@ -8771,6 +8772,7 @@
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookies.lmt.lv
 0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.ptj.de
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 cookies.siemens-advanta.com
 0.0.0.0 cookies.siemens-energy.com
@@ -18229,6 +18231,7 @@
 0.0.0.0 johannes.voith.com
 0.0.0.0 johays.co
 0.0.0.0 johtzj.com
+0.0.0.0 joiakit.com
 0.0.0.0 joicky.com
 0.0.0.0 join.opencare.com
 0.0.0.0 joinbrand.club

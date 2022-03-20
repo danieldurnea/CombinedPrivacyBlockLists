@@ -1,4 +1,4 @@
-# Sat Mar 19 11:57:26 PM UTC 2022
+# Sun Mar 20 12:46:43 AM UTC 2022
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -27,6 +27,7 @@
 0.0.0.0 02aa19117f396e9.com
 0.0.0.0 0346420d60.com
 0.0.0.0 0351dvd.cn
+0.0.0.0 0371app.wang
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 040e9e6099.com
@@ -3620,6 +3621,7 @@
 0.0.0.0 advertclickme.com
 0.0.0.0 adverti.io
 0.0.0.0 advertica-cdn.com
+0.0.0.0 advertica-cdn2.com
 0.0.0.0 advertica.ae
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
@@ -9215,6 +9217,7 @@
 0.0.0.0 changement.pro
 0.0.0.0 changhehengqi.com
 0.0.0.0 chango.com
+0.0.0.0 changxu.cool
 0.0.0.0 chanicut.com
 0.0.0.0 chanmao.online
 0.0.0.0 channel-analysis-js.gmw.cn
@@ -10058,6 +10061,7 @@
 0.0.0.0 codemylife.info
 0.0.0.0 codeonclick.com
 0.0.0.0 coderformylife.info
+0.0.0.0 coderjim.ltd
 0.0.0.0 coderturk.com
 0.0.0.0 codes.royalad.pl
 0.0.0.0 codes.wai.it
@@ -22309,6 +22313,7 @@
 0.0.0.0 kzqjwdxxussshe.net
 0.0.0.0 kzvhgpqvmle.com
 0.0.0.0 kzxsrxf.cn
+0.0.0.0 kzzs.shop
 0.0.0.0 l-kingmall.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.fairblocker.com
@@ -23847,6 +23852,7 @@
 0.0.0.0 lxxy.xyz
 0.0.0.0 ly2si17.cn
 0.0.0.0 ly5200.cn
+0.0.0.0 lyabjy.cn
 0.0.0.0 lyadu.com
 0.0.0.0 lyaeccn.com
 0.0.0.0 lyatblkpblca.com
@@ -25791,6 +25797,7 @@
 0.0.0.0 mundanepollution.com
 0.0.0.0 munero.me
 0.0.0.0 munori.com
+0.0.0.0 muoo.xyz
 0.0.0.0 mupads.de
 0.0.0.0 muposa.com
 0.0.0.0 mupsytyzu.com
@@ -26735,6 +26742,7 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmgpd.com
 0.0.0.0 nmlhkj.com
+0.0.0.0 nmlysc.wang
 0.0.0.0 nmmgp.cn
 0.0.0.0 nmpcdn.com
 0.0.0.0 nmpmgmldzvrmra.com
@@ -29081,6 +29089,7 @@
 0.0.0.0 pingil.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingmeter.com
+0.0.0.0 pingmianshejishi.com
 0.0.0.0 pingomatic.com
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pingseli.com
@@ -43656,6 +43665,7 @@
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zagvee.com
 0.0.0.0 zagxgmzmiledvh.com
+0.0.0.0 zailaigou.top
 0.0.0.0 zaintrillet.com
 0.0.0.0 zaitouwang.com
 0.0.0.0 zaivikuk.com

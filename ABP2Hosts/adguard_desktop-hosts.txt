@@ -1,4 +1,4 @@
-# Sat Mar 19 11:56:53 PM UTC 2022
+# Sun Mar 20 12:46:10 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 00-gov.cn
@@ -29,6 +29,7 @@
 0.0.0.0 02aa19117f396e9.com
 0.0.0.0 0346420d60.com
 0.0.0.0 0351dvd.cn
+0.0.0.0 0371app.wang
 0.0.0.0 037info1-astrologie.net.daraz.com
 0.0.0.0 037nginxnfo.net.daraz.com
 0.0.0.0 039ad0897e6da.com
@@ -8910,6 +8911,7 @@
 0.0.0.0 changement.pro
 0.0.0.0 changhehengqi.com
 0.0.0.0 chango.com
+0.0.0.0 changxu.cool
 0.0.0.0 chanmao.online
 0.0.0.0 channel.sovereigncomms.co.nz
 0.0.0.0 channelblender.actonservice.com
@@ -9585,6 +9587,7 @@
 0.0.0.0 codemylife.info
 0.0.0.0 codeonclick.com
 0.0.0.0 coderformylife.info
+0.0.0.0 coderjim.ltd
 0.0.0.0 codes.royalad.pl
 0.0.0.0 codesbro.com
 0.0.0.0 codez.cloud
@@ -20564,6 +20567,7 @@
 0.0.0.0 kzsicw.tvtoday.de
 0.0.0.0 kzvhgpqvmle.com
 0.0.0.0 kzxsrxf.cn
+0.0.0.0 kzzs.shop
 0.0.0.0 l-kingmall.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.ffsagami.com
@@ -21761,6 +21765,7 @@
 0.0.0.0 ly2si17.cn
 0.0.0.0 ly5200.cn
 0.0.0.0 ly8c.caci-online.fr
+0.0.0.0 lyabjy.cn
 0.0.0.0 lyadu.com
 0.0.0.0 lyaeccn.com
 0.0.0.0 lyatblkpblca.com
@@ -24426,6 +24431,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 munnin.hicsuntdra.co
 0.0.0.0 munori.com
+0.0.0.0 muoo.xyz
 0.0.0.0 mupsytyzu.com
 0.0.0.0 mupteekr.net
 0.0.0.0 muqson0kgr.com
@@ -25113,6 +25119,7 @@
 0.0.0.0 nmgpd.com
 0.0.0.0 nmiodk.promiflash.de
 0.0.0.0 nmlhkj.com
+0.0.0.0 nmlysc.wang
 0.0.0.0 nmmgp.cn
 0.0.0.0 nmo1.orpi.com
 0.0.0.0 nmpcdn.com
@@ -27101,6 +27108,7 @@
 0.0.0.0 pingback.sogou.com
 0.0.0.0 pingeds.cn
 0.0.0.0 pingma.qq.com
+0.0.0.0 pingmianshejishi.com
 0.0.0.0 pingseli.com
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pinifafi.com
@@ -41858,6 +41866,7 @@
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zagvee.com
 0.0.0.0 zagxgmzmiledvh.com
+0.0.0.0 zailaigou.top
 0.0.0.0 zaintrillet.com
 0.0.0.0 zaitouwang.com
 0.0.0.0 zaivikuk.com
