@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/20/22~00:10:29 -~
+# ~- 03/20/22~00:59:28 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -17539,6 +17539,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cc.connextra.com
 0.0.0.0 cc.i2i.jp
 0.0.0.0 cc.iwon.com
+0.0.0.0 cc.labu24.de
 0.0.0.0 cc.lbesec.com
 0.0.0.0 cc.pennstatehealth.org
 0.0.0.0 cc.swiftype.com
@@ -20892,6 +20893,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookies.lmt.lv
 0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.ptj.de
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 cookies.siemens-advanta.com
 0.0.0.0 cookies.siemens-energy.com
@@ -37200,6 +37202,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 johnlewis.112.2o7.net
 0.0.0.0 johnston.grapeshot.co.uk
 0.0.0.0 johtzj.com
+0.0.0.0 joiakit.com
 0.0.0.0 joicky.com
 0.0.0.0 join.opencare.com
 0.0.0.0 joinbrand.club
@@ -67889,6 +67892,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk-go.adinfuse.com
 0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 uk-tracking.nextdoor.com
 0.0.0.0 uk.2.cqcounter.com
 0.0.0.0 uk.activeshopper.com
 0.0.0.0 uk.adadvisor.net
@@ -93995,6 +93999,7 @@ ff02::2 ip6-allrouters
 :: cc.connextra.com
 :: cc.i2i.jp
 :: cc.iwon.com
+:: cc.labu24.de
 :: cc.lbesec.com
 :: cc.pennstatehealth.org
 :: cc.swiftype.com
@@ -97348,6 +97353,7 @@ ff02::2 ip6-allrouters
 :: cookies.livepartners.com
 :: cookies.lmt.lv
 :: cookies.nos.nl
+:: cookies.ptj.de
 :: cookies.reedbusiness.nl
 :: cookies.siemens-advanta.com
 :: cookies.siemens-energy.com
@@ -113656,6 +113662,7 @@ ff02::2 ip6-allrouters
 :: johnlewis.112.2o7.net
 :: johnston.grapeshot.co.uk
 :: johtzj.com
+:: joiakit.com
 :: joicky.com
 :: join.opencare.com
 :: joinbrand.club
@@ -144345,6 +144352,7 @@ ff02::2 ip6-allrouters
 :: uk-ads.openx.net
 :: uk-go.adinfuse.com
 :: uk-script.dotmetrics.net
+:: uk-tracking.nextdoor.com
 :: uk.2.cqcounter.com
 :: uk.activeshopper.com
 :: uk.adadvisor.net
