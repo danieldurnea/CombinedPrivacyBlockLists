@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/20/22~01:12:23 -~
+# ~- 03/20/22~03:00:00 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -713,7 +713,6 @@
 *.24forejungl.site
 *.24h-ad.24hstatic.com
 *.24h-ipad-ad.24hstatic.com
-*.24hbinhphuoc.com.vn
 *.24holdem.com
 *.24log.com
 *.24log.de
@@ -7976,7 +7975,6 @@
 *.alemelektronik.com
 *.alemobile.ru
 *.alenty.com
-*.aleph.org.ng
 *.aleppo.su
 *.alertactivityonaccwellslockedacconholdwf.host
 *.alertafterthought.com
@@ -8295,7 +8293,6 @@
 *.amatvideo.free.fr
 *.amaumomt.com
 *.amaurt.com
-*.amautatravel.com
 *.amavirgin.pro
 *.amazestronghold.com
 *.amazing-date4u.com
@@ -9196,6 +9193,7 @@
 *.anti-adblock.herokuapp.com
 *.anti-gemorroy.com
 *.antiadblocksystems.com
+*.antiansiedadeaformula.com.br
 *.anticcolonial.cf
 *.anticipatedlying.com
 *.anticipationbelieved.com
@@ -9585,7 +9583,6 @@
 *.app.activetrail.com
 *.app.adblockhyper.us
 *.app.aflink.com
-*.app.aggiorna-dati.com
 *.app.arizonawildcats.com
 *.app.assetscem.endeavorb2b.com
 *.app.assetsmanu.endeavorb2b.com
@@ -9912,7 +9909,6 @@
 *.arkidecture.com
 *.arkipl.com
 *.arkn81.com
-*.arkpp.com
 *.arliest.com
 *.arlottencert.club
 *.armandotechnology.com.br
@@ -10234,6 +10230,7 @@
 *.atadserver.com
 *.ataijeeg.net
 *.atanx.alicdn.com
+*.atara.com.tr
 *.atarmailing.com
 *.atas.io
 *.atbiotique.com
@@ -10245,7 +10242,6 @@
 *.atedquali.one
 *.atedra.com
 *.ateletswitoto.com
-*.atelierkikala.com
 *.atemda.com
 *.ateveq.street-beat.ru
 *.atexceede.com
@@ -10602,6 +10598,7 @@
 *.awakebird.com
 *.awakeexterior.com
 *.awaken1337.xyz
+*.awam.be
 *.awaps.net
 *.awaps.yandex.net
 *.awaps.yandex.ru
@@ -11358,7 +11355,6 @@
 *.banofusa.com
 *.banonemind.com
 *.banquant.com
-*.banrai.ac.th
 *.banroads.com
 *.bans.bride.ru
 *.bans.name
@@ -11431,7 +11427,6 @@
 *.barricadefurrydrinks.com
 *.bars2show.com
 *.barscreative1.com
-*.bartboutens.nl
 *.bas.boshi.tv
 *.basaso.mobi
 *.basbeigium.com
@@ -11502,6 +11497,7 @@
 *.bb.qc.to
 *.bb.stream24.ru
 *.bb1acb0ea5ddb1fed8.com
+*.bb2play.com
 *.bb4cf48126aab4.com
 *.bbaahc.com
 *.bbads.sv.publicus.com
@@ -11771,7 +11767,6 @@
 *.beap.adx.yahoo.com
 *.bearad.com
 *.bearbigger.top
-*.bearcatpumps.com.cn
 *.beargrizzler.win
 *.beastbeef.com
 *.beastintruder.com
@@ -11826,7 +11821,6 @@
 *.beeline.beeline-tire.co.jp
 *.beemployer.in
 *.beemray.com
-*.beepro.ir
 *.bees.beesbeesbeesbees.com
 *.beetrootpsychicgrim.com
 *.beevakum.net
@@ -11905,6 +11899,7 @@
 *.believeicanm.biz
 *.believersheet.com
 *.beligana.ru
+*.belisip.net
 *.bellaveiskincare.com
 *.belleekosela.com
 *.belllflight.com
@@ -12203,7 +12198,6 @@
 *.bidvance.com
 *.bidverdrd.com
 *.bidvertiser.com
-*.biei.biz
 *.biemedia.com
 *.bifjicdigchgihajabb.ru
 *.big-bang-ads.com
@@ -12226,7 +12220,6 @@
 *.biggames.club
 *.bighop.com
 *.bighyip-monitor.com
-*.bigideas.com.au
 *.bigip.stream
 *.bigmikesupplies.co.za
 *.bigmir.email
@@ -12270,7 +12263,6 @@
 *.bin-layer.ru
 *.bin-tds.site
 *.bin5y4muil.execute-api.us-east-1.amazonaws.com
-*.binaghetta.it
 *.binalbamp.com
 *.binarniks.ru
 *.binarybusiness.de
@@ -12293,6 +12285,7 @@
 *.bioblog24.ru
 *.biohailijie.cn
 *.bionicskamsins.com
+*.bioscan.ch
 *.biosda.com
 *.biowoodheater.it
 *.biquge22.com
@@ -12616,7 +12609,6 @@
 *.blueoyster.click
 *.blueparrot.media
 *.blueprogress.org
-*.bluerondo.net
 *.blueserving.com
 *.bluesparrowmedia.com
 *.bluestacksdownloads.com
@@ -12874,7 +12866,6 @@
 *.boringcoat.com
 *.boriskink.com
 *.borjalnoor.com
-*.bornagroup.ir
 *.bororango.com
 *.borotango.com
 *.borrowedbananaspite.com
@@ -13086,12 +13077,10 @@
 *.brickandmobile.com
 *.brickell100.com
 *.brideofmessiah.com
-*.bridgeaustria.at
 *.bridgesfoundationrepair.com
 *.bridgetobalance.com
 *.bridgetrack.com
 *.bridgetrack.speedera.r3h.net
-*.bridgewien.at
 *.brief.logrocket.com
 *.briefbears.com
 *.briefcroakapprentice.com
@@ -13113,10 +13102,12 @@
 *.briskeagle.io
 *.briskpelican.io
 *.bristlyxystus.com
+*.britainsolicitors.com
 *.briticatederfd.site
 *.british-banners.com
 *.british-shorthair.es
 *.britishattemptingtrend.com
+*.brittknight.com
 *.brittleformat.com
 *.britwind.tk
 *.brizxe.dior.com
@@ -13191,7 +13182,6 @@
 *.bruceleadx2.com
 *.bruisebaseball.com
 *.bruisedcoup.com
-*.bruiserbodies.com
 *.brunettebow.com
 *.brupas.com
 *.bruperchrophone.com
@@ -13231,6 +13221,7 @@
 *.bskeye.com
 *.bslnb.cn
 *.bsnprotocol.com
+*.bsprabodhini.org
 *.bspwmmghrvoyqs.xyz
 *.bst-offers.com
 *.bsyauqwerd.party
@@ -13327,7 +13318,6 @@
 *.buigiaphat.com.vn
 *.buikolered.com
 *.buildbull.ru
-*.buildershyper.co.za
 *.buildhoodpip.club
 *.buildingdoodlesquare.com
 *.buildyourownbotnet.com
@@ -13446,7 +13436,6 @@
 *.buyfordreams.ru
 *.buyhitscheap.com
 *.buyihao.com
-*.buyindigenous.ca
 *.buyingedge.com
 *.buyis.cn
 *.buylicensekey.com
@@ -13473,7 +13462,6 @@
 *.bvalphaserver.com
 *.bvexmf.bigtv.ru
 *.bviehlvfp.xyz
-*.bvirtual.com
 *.bvjhsdvbfjsd.pw
 *.bvlgarijapan.com
 *.bvnjgjfh.com
@@ -13917,7 +13905,6 @@
 *.cariustadz.org
 *.carl.pubsvs.com
 *.carlocksmithservice.bid
-*.carloshd.com
 *.carlostevez.ga
 *.carlostevez.ml
 *.carlseb.xyz
@@ -15210,6 +15197,7 @@
 *.classicgir.cn
 *.classion.xyz
 *.classionreactice.info
+*.classoffinance.com
 *.clausephotographer.com
 *.clausing-advies.nl
 *.claxonmedia.com
@@ -17188,6 +17176,7 @@
 *.crayon.meishichina.com
 *.crayoncompetition.com
 *.craziesrimate.com
+*.crazy97.com
 *.crazybanan.com
 *.crazyegg.com
 *.crazyhell.com
@@ -19339,7 +19328,6 @@
 *.digitallbs.com
 *.digitalmarketingcampaignlanding.com
 *.digitalmerkat.com
-*.digitalmeva.com
 *.digitalturbine.com
 *.digitalworkplace.ricoh.fr
 *.digitrevenue.com
@@ -21122,6 +21110,7 @@
 *.egroacho.com
 *.egsa.pw
 *.egscnq.erlich-textil.de
+*.egtdhfhnjgj.for-our.info
 *.egwis.com
 *.egyptmiane3mao7uw.com
 *.ehealthcaresolutions.com
@@ -29606,12 +29595,12 @@
 *.iraithiz.com
 *.iranclix.ir
 *.irandigitalads.com
-*.irangardi724.ir
 *.iranjo.cf
 *.iranweb.click
 *.iranwebads.com
 *.irbazdid.com
 *.irblue.ml
+*.irc.service-exec.net
 *.irchan.com
 *.irclick.net
 *.ircqfrum.com
@@ -31008,8 +30997,8 @@
 *.kaptytypso.com
 *.kaqmshynxe.com
 *.karachark.com
-*.karantinatahfizh.com
 *.kareaumatzot.com
+*.karee.asia
 *.karer.by
 *.kargo.com
 *.karlvilles.com
@@ -35797,6 +35786,7 @@
 *.metrics.dairyreporter.com
 *.metrics.dallasnews.com
 *.metrics.damart.fr
+*.metrics.data.hicloud.com
 *.metrics.dcshoes.com
 *.metrics.defenseone.com
 *.metrics.delta.com
@@ -36092,7 +36082,12 @@
 *.metrics.yoc.com
 *.metrics.youandyourwedding.co.uk
 *.metrics.yousendit.com
+*.metrics1.data.hicloud.com
 *.metrics1.thankyou.com
+*.metrics2.data.hicloud.com
+*.metrics3.data.hicloud.com
+*.metrics4.data.hicloud.com
+*.metrics5.data.hicloud.com
 *.metricscollector.lp.xcal.tv
 *.metricsinfo.edc.ca
 *.metricsishare.rediff.com
@@ -38145,6 +38140,7 @@
 *.news.fangdaijisuanqi.com
 *.news.finance-commerce.com
 *.news.jiukang.org
+*.news.leta.com.vn
 *.news.libn.com
 *.news.masslawyersweekly.com
 *.news.milawyersweekly.com
@@ -38354,7 +38350,6 @@
 *.nintedrer.com
 *.ninthdecimal.com
 *.nippona7n2theum.com
-*.nipunpharmaskill.com
 *.nipwaghue.com
 *.nirentang.com
 *.nirifude.com
@@ -39362,6 +39357,7 @@
 *.okwan.cn
 *.olap.net.zooplus.com
 *.olaris.com.au
+*.olawyer.net
 *.olayz.cn
 *.olc.yodo1api.com
 *.old.cybers.com.ua
@@ -39937,6 +39933,7 @@
 *.orgsales.ru
 *.orgxts.com
 *.oridst.com
+*.orientfinance.lk
 *.orientgatewayltd.com
 *.orientneedlehurts.com
 *.origaniberes.com
@@ -40231,7 +40228,6 @@
 *.oxcash.com
 *.oxen.hillcountrytexas.com
 *.oxenfishtreaty.com
-*.oxfordbames.com
 *.oxharmonysample.com
 *.oxidesloot.com
 *.oxifwsabgd.nzz.ch
@@ -40648,7 +40644,6 @@
 *.parwrite.com
 *.pas-rahav.com
 *.pasaigul.com
-*.pasarbta.biz
 *.pasarbtb.com
 *.pasaz-advertising.com
 *.paservices.tech
@@ -41317,6 +41312,7 @@
 *.pi.feedsportal.com
 *.pi.pardot.com
 *.pi.technik3d.com
+*.pianistprodigy.com
 *.pianistrefutationgoose.com
 *.piano.io
 *.piano_log.kingsoft.jp
@@ -42926,7 +42922,6 @@
 *.psewhaur.net
 *.pshtrk.com
 *.psi.lbesecapi.com
-*.psicologalucianabastos.com.br
 *.psisalte.com
 *.psiwaphado.pro
 *.psix.tk
@@ -45087,6 +45082,7 @@
 *.rips.icu
 *.riptukri.net
 *.riqu2015.com
+*.risamfg.com
 *.rishenglaw.cn
 *.risingstarsacademyllc.org
 *.risk.clearbit.com
@@ -45273,6 +45269,7 @@
 *.romepoptahul.com
 *.romilit.com
 *.rompuwit.net
+*.romusreselling.xyz
 *.rongdingkeji.cn
 *.rongdingwl.cn
 *.rongnews.com
@@ -45896,7 +45893,6 @@
 *.s4f.net
 *.s4le.net
 *.s4r.tut.by
-*.s4tiva.com
 *.s5r.tut.by
 *.s7flyradar.com
 *.s83ovp6qyhco.com
@@ -46014,6 +46010,7 @@
 *.salinasbhut.com
 *.salixnebac.club
 *.sallyfundamental.com
+*.salnesbici.com
 *.salon-na-domu.ru
 *.salosvodkoi.ru
 *.saltinourhairtv.com
@@ -49330,7 +49327,6 @@
 *.sofseo.cn
 *.soft-arhiv.ru
 *.soft-com.biz
-*.soft-hard-computer.com
 *.soft-pays.ru
 *.soft-portal.kz
 *.soft.110route.com
@@ -53028,7 +53024,6 @@
 *.thaibeco.com
 *.thaickoo.net
 *.thaiksee.com
-*.thalesfu.com
 *.thallus.net
 *.thamsais.com
 *.thaninncoos.com
@@ -53121,6 +53116,7 @@
 *.theoremreach.com
 *.theoreviver.cam
 *.thepam.cn
+*.thephdefense.com
 *.thephotographersworkflow.com
 *.thepiratebay3.com
 *.theplayadvisor.com
@@ -53149,6 +53145,7 @@
 *.thetaweblink.com
 *.thetechhaus.com
 *.thetestpage.39.net
+*.thethriftstoreonline.com
 *.thetimmedia.site
 *.thetop.be
 *.thetrafficstat.net
@@ -53880,6 +53877,7 @@
 *.torimochi-ad.net
 *.torimochi.line-apps.com
 *.torishima-qa.com
+*.toritura.hu
 *.toroadvertisingmedia.com
 *.tororango.com
 *.torpidtongue.com
@@ -53968,7 +53966,6 @@
 *.townhousefilms.com
 *.townsdatabasekidding.com
 *.townsidewalkotter.com
-*.toyota-used-pickups.com
 *.toywafdduceezo.com
 *.tozimoto.com
 *.tozipoto.com
@@ -57168,6 +57165,7 @@
 *.uzojesse.top
 *.uzpmrbek.com
 *.uzxkuwalnjp.com
+*.v-bp.s3.amazonaws.com
 *.v-collector.dp.aws.charter.com
 *.v-links.net
 *.v-vlog.cn
@@ -57249,6 +57247,7 @@
 *.validcc.ch
 *.validclick.com
 *.validserver.com
+*.vallabhfood.in
 *.valonghost.xyz
 *.valuad.cloud
 *.value.kfcu.org
@@ -57731,6 +57730,7 @@
 *.virtualedufairnepal.com
 *.virtuallycoollybarber.com
 *.virtuallylend.com
+*.virusandroid.net
 *.visadd.com
 *.visagedbeard.com
 *.visam.info
@@ -59416,6 +59416,7 @@
 *.wowostar.cn
 *.wowreality.info
 *.woxts.cn
+*.woydyd343.com
 *.woymebsi.com
 *.wp-monero-miner.de
 *.wp-stat.s3.amazonasw.com
@@ -59511,7 +59512,6 @@
 *.ws2.statistic.date
 *.ws3.statistic.date
 *.ws341.com
-*.ws5588.f3322.net
 *.ws7j.com
 *.wsabci.com
 *.wsasxzertw.com
@@ -59783,7 +59783,7 @@
 *.www.asdfg23.com
 *.www.assoc-amazon.jp
 *.www.astalavista.us
-*.www.atara.com.tr
+*.www.atelierkikala.com
 *.www.atl-6-ga.com
 *.www.atomictime.net
 *.www.aulavirtualapecc.com
@@ -60236,6 +60236,7 @@
 *.www.nhyund4.com
 *.www.nice3aiea.com
 *.www.ninjadollars.com
+*.www.nipunpharmaskill.com
 *.www.node7seat.com
 *.www.noowho.com
 *.www.nora7nice.com
