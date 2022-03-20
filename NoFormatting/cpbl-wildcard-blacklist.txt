@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 03/20/22~00:26:23 -~
+# ~- 03/20/22~01:12:22 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -8706,6 +8706,7 @@
 *.adverterenzeeland.nl
 *.adverti.io
 *.advertica-cdn.com
+*.advertica-cdn2.com
 *.advertica.ae
 *.advertica.eu
 *.adverticum.com
@@ -19010,6 +19011,7 @@
 *.cc.calltracking.ru
 *.cc.conforama.es
 *.cc.iwon.com
+*.cc.labu24.de
 *.cc.lbesec.com
 *.cc.pennstatehealth.org
 *.cc.swiftype.com
@@ -22541,6 +22543,7 @@
 *.cookies.livepartners.com
 *.cookies.lmt.lv
 *.cookies.nos.nl
+*.cookies.ptj.de
 *.cookies.reedbusiness.nl
 *.cookies.siemens-advanta.com
 *.cookies.siemens-energy.com
@@ -44604,6 +44607,7 @@
 *.johnfoxphotography.com
 *.johnsitsi.pro
 *.johtzj.com
+*.joiakit.com
 *.joicky.com
 *.join.opencare.com
 *.join.whitegfs.com
@@ -83606,6 +83610,7 @@
 *.ujoongeilaej.info
 *.ujvilagtudat.blogspot.hu
 *.ujvpma.infinitytools.com
+*.uk-tracking.nextdoor.com
 *.uk.activeshopper.com
 *.uk.ads.hexus.net
 *.uk.bitcoinfreedom-appl.t500track42.com
@@ -91117,7 +91122,6 @@
 *.ylx-2.com
 *.ylx-3.com
 *.ylx-4.com
-*.ylx-i.advertica-cdn2.com
 *.ylykd.cn
 *.ylzx.net
 *.ym-a.cc
