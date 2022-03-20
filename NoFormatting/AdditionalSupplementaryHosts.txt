@@ -14639,6 +14639,7 @@
 0.0.0.0 metrics-collector.onscroll.com
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-collector.us.onscroll.com
+0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.adflake.com
@@ -14662,6 +14663,7 @@
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 metrics.dallasnews.com
+0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.dynad.net
 0.0.0.0 metrics.elle.com
 0.0.0.0 metrics.experts-exchange.com
@@ -14726,6 +14728,11 @@
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 metrics.yoc.com
 0.0.0.0 metrics.yousendit.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 metrix.ir
 0.0.0.0 mewahgroup.pw
 0.0.0.0 mf.adsymptotic.com
