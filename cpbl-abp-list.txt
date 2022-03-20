@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Mar 20 01:01:31 AM UTC 2022
+! Updated: Sun Mar 20 02:44:26 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -902,7 +902,6 @@
 ||24game7.com^
 ||24h-ad.24hstatic.com^
 ||24h-ipad-ad.24hstatic.com^
-||24hbinhphuoc.com.vn^
 ||24hkgame.com^
 ||24holdem.com^
 ||24hourdrugsource.com^
@@ -9899,7 +9898,6 @@
 ||alemelektronik.com^
 ||alemobile.ru^
 ||alenty.com^
-||aleph.org.ng^
 ||alephd.com^
 ||aleppo.su^
 ||alertactivityonaccwellslockedacconholdwf.host^
@@ -10399,7 +10397,6 @@
 ||amatvideo.free.fr^
 ||amaumomt.com^
 ||amaurt.com^
-||amautatravel.com^
 ||amavalet.com^
 ||amavirgin.pro^
 ||amazestronghold.com^
@@ -11591,6 +11588,7 @@
 ||anti.allcryptoz.net^
 ||antiadblock.info^
 ||antiadblocksystems.com^
+||antiansiedadeaformula.com.br^
 ||antiblock.info^
 ||anticcolonial.cf^
 ||anticheaters-sxe.com^
@@ -12161,7 +12159,6 @@
 ||app.activetrail.com^
 ||app.adblockhyper.us^
 ||app.aflink.com^
-||app.aggiorna-dati.com^
 ||app.airtrack.jp^
 ||app.arizonawildcats.com^
 ||app.assetscem.endeavorb2b.com^
@@ -12656,7 +12653,6 @@
 ||arkipl.com^
 ||arkn81.com^
 ||arkor.com.ua^
-||arkpp.com^
 ||arlenekunzfineart.com^
 ||arliest.com^
 ||arlime.com^
@@ -13168,6 +13164,7 @@
 ||ataijeeg.net^
 ||atamjanebyl.biz^
 ||atanx.alicdn.com^
+||atara.com.tr^
 ||atarmailing.com^
 ||atarshaboor.com^
 ||atas.io^
@@ -13186,7 +13183,6 @@
 ||atedquali.one^
 ||atedra.com^
 ||ateletswitoto.com^
-||atelierkikala.com^
 ||atemda.com^
 ||atemutermed.hu^
 ||ateveq.street-beat.ru^
@@ -13681,6 +13677,7 @@
 ||awakebird.com^
 ||awakeexterior.com^
 ||awaken1337.xyz^
+||awam.be^
 ||awap.equifax.com^
 ||awaps.net^
 ||awaps.yandex.net^
@@ -14706,7 +14703,6 @@
 ||banofusa.com^
 ||banonemind.com^
 ||banquant.com^
-||banrai.ac.th^
 ||banreklama.ru^
 ||banroads.com^
 ||bans.bride.ru^
@@ -14801,7 +14797,6 @@
 ||barricadefurrydrinks.com^
 ||bars2show.com^
 ||barscreative1.com^
-||bartboutens.nl^
 ||bas.boshi.tv^
 ||basaso.mobi^
 ||basbeigium.com^
@@ -14925,6 +14920,7 @@
 ||bb.tidopro.biz^
 ||bb1acb0ea5ddb1fed8.com^
 ||bb2022.info^
+||bb2play.com^
 ||bb4cf48126aab4.com^
 ||bbaahc.com^
 ||bbads.sv.publicus.com^
@@ -15281,7 +15277,6 @@
 ||bear.modulr.design^
 ||bearad.com^
 ||bearbigger.top^
-||bearcatpumps.com.cn^
 ||beargrizzler.win^
 ||bearsandfish.com^
 ||beastbeef.com^
@@ -15369,7 +15364,6 @@
 ||beemrdwn.com^
 ||beemtrade.com^
 ||beencounter.com^
-||beepro.ir^
 ||beerboms.ru^
 ||bees.beesbeesbeesbees.com^
 ||beespace.com.ua^
@@ -15470,6 +15464,7 @@
 ||believeicanm.biz^
 ||believersheet.com^
 ||beligana.ru^
+||belisip.net^
 ||bellaads.com^
 ||bellaveiskincare.com^
 ||belleekosela.com^
@@ -16033,7 +16028,6 @@
 ||bidverdrd.com^
 ||bidverdrs.com^
 ||bidvertiser.com^
-||biei.biz^
 ||biemedia.com^
 ||bifjicdigchgihajabb.ru^
 ||big-asses.ru^
@@ -16073,7 +16067,6 @@
 ||biggyupload.com^
 ||bighop.com^
 ||bighyip-monitor.com^
-||bigideas.com.au^
 ||bigip.stream^
 ||bigleads.ru^
 ||bigmikesupplies.co.za^
@@ -16155,7 +16148,6 @@
 ||bin.cdkyjm.com^
 ||bin40.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
-||binaghetta.it^
 ||binalbamp.com^
 ||binaminatori.ru^
 ||binarniks.ru^
@@ -16205,6 +16197,7 @@
 ||bional-dested.icu^
 ||bionicclick.com^
 ||bionicskamsins.com^
+||bioscan.ch^
 ||biosda.com^
 ||biovoz.ru^
 ||biowoodheater.it^
@@ -16717,7 +16710,6 @@
 ||blueoyster.click^
 ||blueparrot.media^
 ||blueprogress.org^
-||bluerondo.net^
 ||blueseed.tv^
 ||blueserving.com^
 ||bluesparrowmedia.com^
@@ -17160,7 +17152,6 @@
 ||boringcoat.com^
 ||boriskink.com^
 ||borjalnoor.com^
-||bornagroup.ir^
 ||bornobid.com^
 ||bororango.com^
 ||borotango.com^
@@ -17459,13 +17450,11 @@
 ||brickell100.com^
 ||bride1.com^
 ||brideofmessiah.com^
-||bridgeaustria.at^
 ||bridgesfoundationrepair.com^
 ||bridgetobalance.com^
 ||bridgetrack.com^
 ||bridgetrack.speedera.r3h.net^
 ||bridgevine.com^
-||bridgewien.at^
 ||briefbears.com^
 ||briefcroakapprentice.com^
 ||briefstem.com^
@@ -17498,11 +17487,13 @@
 ||briskeagle.io^
 ||briskpelican.io^
 ||bristlyxystus.com^
+||britainsolicitors.com^
 ||britepool.com^
 ||briticatederfd.site^
 ||british-banners.com^
 ||british-shorthair.es^
 ||britishattemptingtrend.com^
+||brittknight.com^
 ||brittleformat.com^
 ||britwind.tk^
 ||brizxe.dior.com^
@@ -17599,7 +17590,6 @@
 ||bruceleadx2.com^
 ||bruisebaseball.com^
 ||bruisedcoup.com^
-||bruiserbodies.com^
 ||brundt.ro^
 ||brunettebow.com^
 ||brunettemattersrefused.com^
@@ -17653,6 +17643,7 @@
 ||bsna.galeria-kaufhof.de^
 ||bsnprotocol.com^
 ||bspdyp.com^
+||bsprabodhini.org^
 ||bspwmmghrvoyqs.xyz^
 ||bst-offers.com^
 ||bstias.avilon.ru^
@@ -17796,7 +17787,6 @@
 ||buiglh.habitat.fr^
 ||buikolered.com^
 ||buildbull.ru^
-||buildershyper.co.za^
 ||buildhoodpip.club^
 ||buildingdoodlesquare.com^
 ||buildkiteanalytics.com^
@@ -17993,7 +17983,6 @@
 ||buyhighqualitycounterfeit.online^
 ||buyhitscheap.com^
 ||buyihao.com^
-||buyindigenous.ca^
 ||buyingedge.com^
 ||buyis.cn^
 ||buylicensekey.com^
@@ -18043,7 +18032,6 @@
 ||bvexmf.bigtv.ru^
 ||bveyge.com^
 ||bviehlvfp.xyz^
-||bvirtual.com^
 ||bvjhsdvbfjsd.pw^
 ||bvl5bziz9d.ru^
 ||bvlgarijapan.com^
@@ -18707,7 +18695,6 @@
 ||cariustadz.org^
 ||carl.pubsvs.com^
 ||carlocksmithservice.bid^
-||carloshd.com^
 ||carlostevez.ga^
 ||carlostevez.ml^
 ||carlseb.xyz^
@@ -20586,6 +20573,7 @@
 ||classicspeedway.com^
 ||classion.xyz^
 ||classionreactice.info^
+||classoffinance.com^
 ||clausephotographer.com^
 ||clausing-advies.nl^
 ||claxonmedia.com^
@@ -23342,6 +23330,7 @@
 ||craziesrimate.com^
 ||crazy-files.com^
 ||crazy-jackpots.com^
+||crazy97.com^
 ||crazyad.net^
 ||crazybanan.com^
 ||crazybits.biz^
@@ -26657,7 +26646,6 @@
 ||digitalmarketing.smu.edu.sg^
 ||digitalmarketingcampaignlanding.com^
 ||digitalmerkat.com^
-||digitalmeva.com^
 ||digitaloptout.com^
 ||digitalpimpnetwork.com^
 ||digitalpush.org^
@@ -29422,6 +29410,7 @@
 ||egroacho.com^
 ||egsa.pw^
 ||egscnq.erlich-textil.de^
+||egtdhfhnjgj.for-our.info^
 ||egtosjfijw.xyz^
 ||eguyendu.com^
 ||egvemw.aboutyou.ee^
@@ -43416,13 +43405,13 @@
 ||iranbar.org^
 ||iranclix.ir^
 ||irandigitalads.com^
-||irangardi724.ir^
 ||iranjo.cf^
 ||iranweb.click^
 ||iranwebads.com^
 ||irbazdid.com^
 ||irblue.ml^
 ||irboga.info^
+||irc.service-exec.net^
 ||irchan.com^
 ||irclick.net^
 ||ircqfrum.com^
@@ -45359,10 +45348,10 @@
 ||kaptytypso.com^
 ||kaqmshynxe.com^
 ||karachark.com^
-||karantinatahfizh.com^
 ||karaokepesni.ru^
 ||karasutanu.com^
 ||kareaumatzot.com^
+||karee.asia^
 ||karenbrowntx.com^
 ||karep.ru^
 ||karer.by^
@@ -56163,6 +56152,7 @@
 ||news.idahobusinessreview.com^
 ||news.income.com.sg^
 ||news.jiukang.org^
+||news.leta.com.vn^
 ||news.libn.com^
 ||news.masslawyersweekly.com^
 ||news.milawyersweekly.com^
@@ -56506,7 +56496,6 @@
 ||nintendobro.com^
 ||ninthdecimal.com^
 ||nippona7n2theum.com^
-||nipunpharmaskill.com^
 ||nipwaghue.com^
 ||nirdjz.revolveclothing.com.au^
 ||nirentang.com^
@@ -57976,6 +57965,7 @@
 ||okwan.cn^
 ||olaris.com.au^
 ||olavmido.ru^
+||olawyer.net^
 ||olayz.cn^
 ||olc.yodo1api.com^
 ||olc0.cn^
@@ -58877,6 +58867,7 @@
 ||oribi.io^
 ||oridst.com^
 ||oriel.io^
+||orientfinance.lk^
 ||orientgatewayltd.com^
 ||orientneedlehurts.com^
 ||origaniberes.com^
@@ -59299,7 +59290,6 @@
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
 ||oxenfishtreaty.com^
-||oxfordbames.com^
 ||oxharmonysample.com^
 ||oxidesloot.com^
 ||oxidy.com^
@@ -59927,7 +59917,6 @@
 ||pas-tro.ru^
 ||pasaigul.com^
 ||pasangiklan.com^
-||pasarbta.biz^
 ||pasarbtb.com^
 ||pasariklanbaris.com^
 ||pasaz-advertising.com^
@@ -60852,6 +60841,7 @@
 ||pi.technik3d.com^
 ||piaads.com^
 ||piads.vn^
+||pianistprodigy.com^
 ||pianistrefutationgoose.com^
 ||piano.io^
 ||piano_log.kingsoft.jp^
@@ -63271,7 +63261,6 @@
 ||psh.one^
 ||pshtrk.com^
 ||psi.lbesecapi.com^
-||psicologalucianabastos.com.br^
 ||psisalte.com^
 ||psiwaphado.pro^
 ||psix.tk^
@@ -66503,6 +66492,7 @@
 ||riqosf.com^
 ||riqu2015.com^
 ||risale.ru^
+||risamfg.com^
 ||risausso.com^
 ||risehack.com^
 ||riserange.com^
@@ -66805,6 +66795,7 @@
 ||romepoptahul.com^
 ||romilit.com^
 ||rompuwit.net^
+||romusreselling.xyz^
 ||rongdingkeji.cn^
 ||rongdingwl.cn^
 ||rongeundhis.ru^
@@ -67677,7 +67668,6 @@
 ||s4gvhd35.ru^
 ||s4le.net^
 ||s4r.tut.by^
-||s4tiva.com^
 ||s5r.tut.by^
 ||s6mf2ru8h1.ru^
 ||s6w.de^
@@ -67978,6 +67968,7 @@
 ||sallyfundamental.com^
 ||salmon.literallife.church^
 ||salmon.thespiritualpsychologist.co.uk^
+||salnesbici.com^
 ||salon-krasoty-moskva.ru^
 ||salon-na-domu.ru^
 ||salon77.co.uk^
@@ -73316,7 +73307,6 @@
 ||soft-arhiv.ru^
 ||soft-com.biz^
 ||soft-hack.net^
-||soft-hard-computer.com^
 ||soft-pays.ru^
 ||soft-portal.kz^
 ||soft.110route.com^
@@ -78815,7 +78805,6 @@
 ||thaickoo.net^
 ||thaihary.link^
 ||thaiksee.com^
-||thalesfu.com^
 ||thallus.net^
 ||thamsais.com^
 ||thaninncoos.com^
@@ -78986,6 +78975,7 @@
 ||theoremreach.com^
 ||theoreviver.cam^
 ||thepam.cn^
+||thephdefense.com^
 ||thephotographersworkflow.com^
 ||thepiratebay3.com^
 ||theplayadvisor.com^
@@ -79041,6 +79031,7 @@
 ||thethaofb88.com^
 ||thethaovip.vip^
 ||thethi.ru^
+||thethriftstoreonline.com^
 ||thetimmedia.site^
 ||thetop.be^
 ||thetrafficstat.net^
@@ -80132,6 +80123,7 @@
 ||torimochi-ad.net^
 ||torimochi.line-apps.com^
 ||torishima-qa.com^
+||toritura.hu^
 ||toro-tags.com^
 ||toroadvertising.com^
 ||toroadvertisingmedia.com^
@@ -80261,7 +80253,6 @@
 ||townsidewalkotter.com^
 ||toxicskins.com^
 ||toxy9ikenenxtf0f.com^
-||toyota-used-pickups.com^
 ||toywafdduceezo.com^
 ||tozimoto.com^
 ||tozipoto.com^
@@ -84577,6 +84568,7 @@
 ||uzttnr.com^
 ||uzxkuwalnjp.com^
 ||uzzf.com^
+||v-bp.s3.amazonaws.com^
 ||v-collector.dp.aws.charter.com^
 ||v-links.net^
 ||v-vlog.cn^
@@ -84710,6 +84702,7 @@
 ||validhacks.com^
 ||validserver.com^
 ||valkorsgoldmakingguide.com^
+||vallabhfood.in^
 ||valleyseve.de^
 ||valonghost.xyz^
 ||valpeiros.com^
@@ -85520,6 +85513,7 @@
 ||virus-detection-portal.us^
 ||virus-exe-server.us^
 ||virus-server-detection.us^
+||virusandroid.net^
 ||virusdetection.com-one.net^
 ||vis19.com^
 ||visadd.com^
@@ -88136,6 +88130,7 @@
 ||wowreality.info^
 ||wowtribes.com^
 ||woxts.cn^
+||woydyd343.com^
 ||woymebsi.com^
 ||wp-monero-miner.de^
 ||wp-stat.s3.amazonasw.com^
@@ -88255,7 +88250,6 @@
 ||ws2.statistic.date^
 ||ws3.statistic.date^
 ||ws341.com^
-||ws5588.f3322.net^
 ||ws7j.com^
 ||wsabci.com^
 ||wsaphvlnnlle.top^
@@ -88595,7 +88589,7 @@
 ||www.asdfg23.com^
 ||www.assculturaleincontri.it^
 ||www.astalavista.us^
-||www.atara.com.tr^
+||www.atelierkikala.com^
 ||www.atl-6-ga.com^
 ||www.atomictime.net^
 ||www.aulavirtualapecc.com^
@@ -89063,6 +89057,7 @@
 ||www.nhyund4.com^
 ||www.nice3aiea.com^
 ||www.ninjadollars.com^
+||www.nipunpharmaskill.com^
 ||www.node7seat.com^
 ||www.nora7nice.com^
 ||www.norm0care.com^
