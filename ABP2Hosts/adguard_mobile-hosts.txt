@@ -1,4 +1,4 @@
-# Sun Mar 20 02:33:12 AM UTC 2022
+# Thu Mar 24 06:42:25 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -4800,7 +4800,6 @@
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.useinsider.com
-0.0.0.0 mobileapi.motus.com
 0.0.0.0 mobileapi.usebutton.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilebanner.ru
@@ -7007,6 +7006,7 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -7805,7 +7805,6 @@
 0.0.0.0 wrapper-vast.adsafeprotected.com
 0.0.0.0 wrating.com
 0.0.0.0 ws-eu.amazon-adsystem.com
-0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.batch.com
 0.0.0.0 ws.inspectlet.com
 0.0.0.0 ws.ksmobile.net
