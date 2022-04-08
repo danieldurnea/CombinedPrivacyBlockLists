@@ -1,4 +1,4 @@
-# Thu Mar 24 06:42:25 PM UTC 2022
+# Fri Apr  8 11:35:52 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1294,7 +1294,6 @@
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 api.omniture.com
 0.0.0.0 api.oneaudience.com
-0.0.0.0 api.onesignal.com
 0.0.0.0 api.optimizely.com
 0.0.0.0 api.optinmonster.com
 0.0.0.0 api.optmnstr.com
@@ -1691,6 +1690,7 @@
 0.0.0.0 atdmt.com
 0.0.0.0 atedra.com
 0.0.0.0 atemda.com
+0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atkins.vo.llnwd.net
 0.0.0.0 atlantisjs.brafton.com
 0.0.0.0 atlas.etahub.com
@@ -2211,6 +2211,7 @@
 0.0.0.0 cdn.ayads.co
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 cdn.batmobi.net
+0.0.0.0 cdn.bidmatrixdsp.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 cdn.blueconic.net
@@ -2293,7 +2294,6 @@
 0.0.0.0 cdn.o333o.com
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.okanjo.com
-0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.otherlevels.com
 0.0.0.0 cdn.p-n.io
@@ -2675,6 +2675,7 @@
 0.0.0.0 content.adacado.com
 0.0.0.0 content.carambo.la
 0.0.0.0 content.cdn.targetspot.com
+0.0.0.0 content.inhousedsp.com
 0.0.0.0 content.maropost.com
 0.0.0.0 content.quantcount.com
 0.0.0.0 content.swrve.com
@@ -3086,8 +3087,10 @@
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 dsp.youdao.com
 0.0.0.0 dsp3.adtelligent.com
+0.0.0.0 dspbeacons.error.ihasdsp.inmobi.com
 0.0.0.0 dspcluster.adfarm1.adition.com
 0.0.0.0 dsptrack.mobshark.net
+0.0.0.0 dspunion.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com.edgekey.net
 0.0.0.0 dsum.casalemedia.com
@@ -3312,6 +3315,7 @@
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.launchdarkly.com
@@ -3857,6 +3861,7 @@
 0.0.0.0 i.idio.co
 0.0.0.0 i.ipromote.com
 0.0.0.0 i.isnssdk.com
+0.0.0.0 i.l-dsp.inmobicdn.net
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.liadm.com
 0.0.0.0 i.loopme.me
@@ -3915,6 +3920,7 @@
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 ibis.iad-03.braze.com
+0.0.0.0 ic.de.inmobi.com
 0.0.0.0 ichannel.isnssdk.com
 0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 iclick.cm.admaster.com.cn
@@ -4014,6 +4020,7 @@
 0.0.0.0 imobile.socdm.com
 0.0.0.0 imp-dsp.bidgear.com
 0.0.0.0 imp-east.pub.local.emxdgt.com
+0.0.0.0 imp-lb-us2.jampp.com
 0.0.0.0 imp.adzmedia.com
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.control.kochava.com
@@ -4054,6 +4061,7 @@
 0.0.0.0 in.wzrkt.com
 0.0.0.0 in1-spiky.wzrkt.com
 0.0.0.0 in1.wzrkt.com
+0.0.0.0 inapps.appflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inc2.igexin.com
 0.0.0.0 inclk.com
@@ -4080,6 +4088,7 @@
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
+0.0.0.0 inhousedsp.com
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.sms.mob.com
 0.0.0.0 init.startappexchange.com
@@ -4190,7 +4199,6 @@
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jampp.com
 0.0.0.0 javacript.gq
-0.0.0.0 jdoqocy.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jfduv7.com
 0.0.0.0 jgl.microad.net
@@ -4642,6 +4650,7 @@
 0.0.0.0 mcoreads.com
 0.0.0.0 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
+0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-nj.lfstmedia.com
 0.0.0.0 mdmserver.mobidia.com
 0.0.0.0 mdotm.com
@@ -5223,6 +5232,7 @@
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 padsdel.com
+0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagefair.net
@@ -5257,6 +5267,7 @@
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pasta.estrongspro.duapps.com
 0.0.0.0 pasta.sd.duapps.com
+0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
 0.0.0.0 payment.yodo1api.com
@@ -5496,6 +5507,7 @@
 0.0.0.0 prebid.mgid.com
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 prebids.adnsx.com
 0.0.0.0 preferences.truste.com
 0.0.0.0 preitem.wshareit.com
 0.0.0.0 premiumsrv.aniview.com
@@ -5824,6 +5836,7 @@
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 roimedia.advertserve.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com
+0.0.0.0 rossoad.com
 0.0.0.0 rotaban.ru
 0.0.0.0 rotanev.iad-03.braze.com
 0.0.0.0 roundrobin-log.agoop.net
@@ -5946,6 +5959,7 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.iaudienc.com
 0.0.0.0 s.idio.co
+0.0.0.0 s.iff.inmobi.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.innovid.com.akadns.net
 0.0.0.0 s.jpush.cn
@@ -6403,6 +6417,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
+0.0.0.0 smadex.com
 0.0.0.0 smart.link
 0.0.0.0 smart.mobvista.com
 0.0.0.0 smartadserver.com
@@ -6633,6 +6648,7 @@
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
+0.0.0.0 static.jampp.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.leaddyno.com
 0.0.0.0 static.leadpages.net
@@ -6757,6 +6773,7 @@
 0.0.0.0 superad2.com.sg
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
+0.0.0.0 supply.inmobicdn.net
 0.0.0.0 survata.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.survicate.com
@@ -7426,6 +7443,7 @@
 0.0.0.0 us-notify.bidagent.xad.com
 0.0.0.0 us-sync.taboola.com
 0.0.0.0 us-tracking.nextdoor.com
+0.0.0.0 us-trk.bidmatrixdsp.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us-vid-events.taboola.com
 0.0.0.0 us-west-2.ecs.mb.moatads.com
@@ -7487,6 +7505,7 @@
 0.0.0.0 uts.kingoapp.com
 0.0.0.0 uw.evm1.stackadapt.com
 0.0.0.0 uw.srv.stackadapt.com
+0.0.0.0 v-ak.chartboost.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.adsrvr.org
@@ -7578,6 +7597,9 @@
 0.0.0.0 verizontelecom.tt.omtrdc.net
 0.0.0.0 vervemobile.com
 0.0.0.0 vet-us-east-1.track.smaato.net
+0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
+0.0.0.0 vg-aws-us-east-1b-hb.rayjump.com
+0.0.0.0 vg-new-hb.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
 0.0.0.0 vi-serve.com
 0.0.0.0 via.batch.com
@@ -7780,6 +7802,7 @@
 0.0.0.0 wmhlch.com
 0.0.0.0 wo.gumgum.com
 0.0.0.0 wompanalytics.azurewebsites.net
+0.0.0.0 woobids.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 wordego.com
@@ -7845,7 +7868,6 @@
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.localytics.com
