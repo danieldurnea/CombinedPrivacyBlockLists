@@ -20073,7 +20073,6 @@
 0.0.0.0 track.engagesciences.com
 0.0.0.0 track.enviodemails.com
 0.0.0.0 track.eu2.remerge.io
-0.0.0.0 track.eurogirlsescort.com
 0.0.0.0 track.everlasting-domain.com
 0.0.0.0 track.express.de
 0.0.0.0 track.eyeviewads.com
@@ -20771,7 +20770,6 @@
 0.0.0.0 tracking.sctv1.monarchads.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
-0.0.0.0 tracking.sexcash.com
 0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sharplink.us
 0.0.0.0 tracking.shopback.com

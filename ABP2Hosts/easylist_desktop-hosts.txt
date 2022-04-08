@@ -1,4 +1,4 @@
-# Fri Apr  8 11:36:34 PM UTC 2022
+# Fri Apr  8 11:53:58 PM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -36569,6 +36569,7 @@
 0.0.0.0 truthfulstem.com
 0.0.0.0 trutor.org.pl
 0.0.0.0 trwk.ru
+0.0.0.0 trx-hub.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 tryanka.ru
