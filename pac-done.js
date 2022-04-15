@@ -1,4 +1,4 @@
-// **** Fri Apr  8 11:57:01 PM UTC 2022
+// **** Fri Apr 15 04:56:29 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4101,6 +4101,7 @@ shExpMatch(host, '*.conversantmedia.com') ||
 shExpMatch(host, '*.conversationalingelligence.com') ||
 shExpMatch(host, '*.conversionbet.com') ||
 shExpMatch(host, '*.conversionruler.com') ||
+shExpMatch(host, '*.convertbox.com') ||
 shExpMatch(host, '*.convertingtraffic.com') ||
 shExpMatch(host, '*.convrse.media') ||
 shExpMatch(host, '*.cookies.cmpnet.com') ||
@@ -5988,6 +5989,7 @@ shExpMatch(host, '*.experteerads.com') ||
 shExpMatch(host, '*.expertmakina.com') ||
 shExpMatch(host, '*.exploit-db.xyz') ||
 shExpMatch(host, '*.explorads.com') ||
+shExpMatch(host, '*.expmediadirect1.com') ||
 shExpMatch(host, '*.expokosher.com.ar') ||
 shExpMatch(host, '*.expolanguages.com') ||
 shExpMatch(host, '*.exponea.com') ||
@@ -8139,6 +8141,7 @@ shExpMatch(host, '*.groundtruth.com') ||
 shExpMatch(host, '*.groutlance.com') ||
 shExpMatch(host, '*.growtopia.work') ||
 shExpMatch(host, '*.grptrker.com') ||
+shExpMatch(host, '*.grychiphidu.com') ||
 shExpMatch(host, '*.grypers.eu') ||
 shExpMatch(host, '*.gscontxt.net') ||
 shExpMatch(host, '*.gsdg2g32.co.cc') ||
@@ -15585,6 +15588,7 @@ shExpMatch(host, '*.tovoxu.ru') ||
 shExpMatch(host, '*.towmidar.ru') ||
 shExpMatch(host, '*.toxicskins.com') ||
 shExpMatch(host, '*.tpnads.com') ||
+shExpMatch(host, '*.track-tracingkit394853.com') ||
 shExpMatch(host, '*.track-your-fedex-package.org') ||
 shExpMatch(host, '*.track.adform.net') ||
 shExpMatch(host, '*.track.anchorfree.com') ||
@@ -21803,6 +21807,7 @@ shExpMatch(host, 'conversantmedia.com') ||
 shExpMatch(host, 'conversationalingelligence.com') ||
 shExpMatch(host, 'conversionbet.com') ||
 shExpMatch(host, 'conversionruler.com') ||
+shExpMatch(host, 'convertbox.com') ||
 shExpMatch(host, 'convertingtraffic.com') ||
 shExpMatch(host, 'convrse.media') ||
 shExpMatch(host, 'cookies.cmpnet.com') ||
@@ -23690,6 +23695,7 @@ shExpMatch(host, 'experteerads.com') ||
 shExpMatch(host, 'expertmakina.com') ||
 shExpMatch(host, 'exploit-db.xyz') ||
 shExpMatch(host, 'explorads.com') ||
+shExpMatch(host, 'expmediadirect1.com') ||
 shExpMatch(host, 'expokosher.com.ar') ||
 shExpMatch(host, 'expolanguages.com') ||
 shExpMatch(host, 'exponea.com') ||
@@ -25841,6 +25847,7 @@ shExpMatch(host, 'groundtruth.com') ||
 shExpMatch(host, 'groutlance.com') ||
 shExpMatch(host, 'growtopia.work') ||
 shExpMatch(host, 'grptrker.com') ||
+shExpMatch(host, 'grychiphidu.com') ||
 shExpMatch(host, 'grypers.eu') ||
 shExpMatch(host, 'gscontxt.net') ||
 shExpMatch(host, 'gsdg2g32.co.cc') ||
@@ -33287,6 +33294,7 @@ shExpMatch(host, 'tovoxu.ru') ||
 shExpMatch(host, 'towmidar.ru') ||
 shExpMatch(host, 'toxicskins.com') ||
 shExpMatch(host, 'tpnads.com') ||
+shExpMatch(host, 'track-tracingkit394853.com') ||
 shExpMatch(host, 'track-your-fedex-package.org') ||
 shExpMatch(host, 'track.adform.net') ||
 shExpMatch(host, 'track.anchorfree.com') ||
