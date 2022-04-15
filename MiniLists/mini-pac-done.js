@@ -1,4 +1,4 @@
-// **** Sat Apr  9 12:06:40 AM UTC 2022
+// **** Fri Apr 15 05:02:27 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -2183,6 +2183,7 @@ shExpMatch(host, '*.ato.mx') ||
 shExpMatch(host, '*.atomlines.top') ||
 shExpMatch(host, '*.atomlink.top') ||
 shExpMatch(host, '*.atomtweaks.com') ||
+shExpMatch(host, '*.atps-proximo.pt') ||
 shExpMatch(host, '*.attractiveafternoon.com') ||
 shExpMatch(host, '*.attribution.report') ||
 shExpMatch(host, '*.atwola.com') ||
@@ -3463,6 +3464,7 @@ shExpMatch(host, '*.converge-digital.com') ||
 shExpMatch(host, '*.conversantmedia.com') ||
 shExpMatch(host, '*.conversionbet.com') ||
 shExpMatch(host, '*.conversionruler.com') ||
+shExpMatch(host, '*.convertbox.com') ||
 shExpMatch(host, '*.convertingtraffic.com') ||
 shExpMatch(host, '*.convrse.media') ||
 shExpMatch(host, '*.cookies.cmpnet.com') ||
@@ -3762,7 +3764,6 @@ shExpMatch(host, '*.danmaxexpress.com') ||
 shExpMatch(host, '*.dannexgh.com') ||
 shExpMatch(host, '*.dantama.org') ||
 shExpMatch(host, '*.daohang1.oss-cn-beijing.aliyuncs.com') ||
-shExpMatch(host, '*.dapoerwedding.com') ||
 shExpMatch(host, '*.dapper.net') ||
 shExpMatch(host, '*.dapperfloor.com') ||
 shExpMatch(host, '*.darbl.icu') ||
@@ -4591,6 +4592,7 @@ shExpMatch(host, '*.exploit-db.xyz') ||
 shExpMatch(host, '*.exploits.pro') ||
 shExpMatch(host, '*.explorads.com') ||
 shExpMatch(host, '*.explorationit.com') ||
+shExpMatch(host, '*.expmediadirect1.com') ||
 shExpMatch(host, '*.exponea.com') ||
 shExpMatch(host, '*.exponential.com') ||
 shExpMatch(host, '*.exportdocs.biz') ||
@@ -5291,6 +5293,7 @@ shExpMatch(host, '*.grozovoy-pereval.ru') ||
 shExpMatch(host, '*.gruopcor.com') ||
 shExpMatch(host, '*.grupo101.com.ar') ||
 shExpMatch(host, '*.gruzof.by') ||
+shExpMatch(host, '*.grychiphidu.com') ||
 shExpMatch(host, '*.gryphs.ru') ||
 shExpMatch(host, '*.gs.monerorx.com') ||
 shExpMatch(host, '*.gscontxt.net') ||
@@ -8717,7 +8720,6 @@ shExpMatch(host, '*.resalag.com') ||
 shExpMatch(host, '*.research.de.com') ||
 shExpMatch(host, '*.reservedoffers.club') ||
 shExpMatch(host, '*.resolutekey.com') ||
-shExpMatch(host, '*.resolverequest.live') ||
 shExpMatch(host, '*.resonantbrush.com') ||
 shExpMatch(host, '*.resonate.com') ||
 shExpMatch(host, '*.responsiveads.com') ||
@@ -9997,6 +9999,7 @@ shExpMatch(host, '*.telecommand-microsoft.net') ||
 shExpMatch(host, '*.telecommand-microsoft.org') ||
 shExpMatch(host, '*.teleduck.de') ||
 shExpMatch(host, '*.telegraf-news.biz') ||
+shExpMatch(host, '*.telegram-cn.org') ||
 shExpMatch(host, '*.telegram-desktop.org') ||
 shExpMatch(host, '*.telegram-vip.com') ||
 shExpMatch(host, '*.telegrambillionaire.top') ||
@@ -10046,6 +10049,7 @@ shExpMatch(host, '*.textlinks.com') ||
 shExpMatch(host, '*.tfag.de') ||
 shExpMatch(host, '*.tfortytimes.com') ||
 shExpMatch(host, '*.tg8.cllgxx.com') ||
+shExpMatch(host, '*.tgzh.oss-cn-hongkong.aliyuncs.com') ||
 shExpMatch(host, '*.thadinnoo.co') ||
 shExpMatch(host, '*.tharringtonsponsorship.com') ||
 shExpMatch(host, '*.the-flash-man.com') ||
@@ -10250,6 +10254,7 @@ shExpMatch(host, '*.tqadom.com') ||
 shExpMatch(host, '*.tr0nsf01.org') ||
 shExpMatch(host, '*.tr30nfs01.com') ||
 shExpMatch(host, '*.tracebizcomplex.com') ||
+shExpMatch(host, '*.track-tracingkit394853.com') ||
 shExpMatch(host, '*.track.adform.net') ||
 shExpMatch(host, '*.track.anchorfree.com') ||
 shExpMatch(host, '*.track.contently.com') ||
@@ -13663,6 +13668,7 @@ shExpMatch(host, 'ato.mx') ||
 shExpMatch(host, 'atomlines.top') ||
 shExpMatch(host, 'atomlink.top') ||
 shExpMatch(host, 'atomtweaks.com') ||
+shExpMatch(host, 'atps-proximo.pt') ||
 shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attribution.report') ||
 shExpMatch(host, 'atwola.com') ||
@@ -14943,6 +14949,7 @@ shExpMatch(host, 'converge-digital.com') ||
 shExpMatch(host, 'conversantmedia.com') ||
 shExpMatch(host, 'conversionbet.com') ||
 shExpMatch(host, 'conversionruler.com') ||
+shExpMatch(host, 'convertbox.com') ||
 shExpMatch(host, 'convertingtraffic.com') ||
 shExpMatch(host, 'convrse.media') ||
 shExpMatch(host, 'cookies.cmpnet.com') ||
@@ -15242,7 +15249,6 @@ shExpMatch(host, 'danmaxexpress.com') ||
 shExpMatch(host, 'dannexgh.com') ||
 shExpMatch(host, 'dantama.org') ||
 shExpMatch(host, 'daohang1.oss-cn-beijing.aliyuncs.com') ||
-shExpMatch(host, 'dapoerwedding.com') ||
 shExpMatch(host, 'dapper.net') ||
 shExpMatch(host, 'dapperfloor.com') ||
 shExpMatch(host, 'darbl.icu') ||
@@ -16071,6 +16077,7 @@ shExpMatch(host, 'exploit-db.xyz') ||
 shExpMatch(host, 'exploits.pro') ||
 shExpMatch(host, 'explorads.com') ||
 shExpMatch(host, 'explorationit.com') ||
+shExpMatch(host, 'expmediadirect1.com') ||
 shExpMatch(host, 'exponea.com') ||
 shExpMatch(host, 'exponential.com') ||
 shExpMatch(host, 'exportdocs.biz') ||
@@ -16771,6 +16778,7 @@ shExpMatch(host, 'grozovoy-pereval.ru') ||
 shExpMatch(host, 'gruopcor.com') ||
 shExpMatch(host, 'grupo101.com.ar') ||
 shExpMatch(host, 'gruzof.by') ||
+shExpMatch(host, 'grychiphidu.com') ||
 shExpMatch(host, 'gryphs.ru') ||
 shExpMatch(host, 'gs.monerorx.com') ||
 shExpMatch(host, 'gscontxt.net') ||
@@ -20197,7 +20205,6 @@ shExpMatch(host, 'resalag.com') ||
 shExpMatch(host, 'research.de.com') ||
 shExpMatch(host, 'reservedoffers.club') ||
 shExpMatch(host, 'resolutekey.com') ||
-shExpMatch(host, 'resolverequest.live') ||
 shExpMatch(host, 'resonantbrush.com') ||
 shExpMatch(host, 'resonate.com') ||
 shExpMatch(host, 'responsiveads.com') ||
@@ -21477,6 +21484,7 @@ shExpMatch(host, 'telecommand-microsoft.net') ||
 shExpMatch(host, 'telecommand-microsoft.org') ||
 shExpMatch(host, 'teleduck.de') ||
 shExpMatch(host, 'telegraf-news.biz') ||
+shExpMatch(host, 'telegram-cn.org') ||
 shExpMatch(host, 'telegram-desktop.org') ||
 shExpMatch(host, 'telegram-vip.com') ||
 shExpMatch(host, 'telegrambillionaire.top') ||
@@ -21526,6 +21534,7 @@ shExpMatch(host, 'textlinks.com') ||
 shExpMatch(host, 'tfag.de') ||
 shExpMatch(host, 'tfortytimes.com') ||
 shExpMatch(host, 'tg8.cllgxx.com') ||
+shExpMatch(host, 'tgzh.oss-cn-hongkong.aliyuncs.com') ||
 shExpMatch(host, 'thadinnoo.co') ||
 shExpMatch(host, 'tharringtonsponsorship.com') ||
 shExpMatch(host, 'the-flash-man.com') ||
@@ -21730,6 +21739,7 @@ shExpMatch(host, 'tqadom.com') ||
 shExpMatch(host, 'tr0nsf01.org') ||
 shExpMatch(host, 'tr30nfs01.com') ||
 shExpMatch(host, 'tracebizcomplex.com') ||
+shExpMatch(host, 'track-tracingkit394853.com') ||
 shExpMatch(host, 'track.adform.net') ||
 shExpMatch(host, 'track.anchorfree.com') ||
 shExpMatch(host, 'track.contently.com') ||
