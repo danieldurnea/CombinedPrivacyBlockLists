@@ -1,4 +1,4 @@
-// **** Fri Apr 15 04:56:29 AM UTC 2022
+// **** Fri Apr 15 06:22:46 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1626,7 +1626,6 @@ shExpMatch(host, '*.adx.allstar.cz') ||
 shExpMatch(host, '*.adx.atnext.com') ||
 shExpMatch(host, '*.adx.gainesvillesun.com') ||
 shExpMatch(host, '*.adx.gayboy.at') ||
-shExpMatch(host, '*.adx.relaksit.ru') ||
 shExpMatch(host, '*.adxpansion.com') ||
 shExpMatch(host, '*.adxpose.com') ||
 shExpMatch(host, '*.adxvalue.com') ||
@@ -8614,7 +8613,6 @@ shExpMatch(host, '*.hackzonne.net') ||
 shExpMatch(host, '*.hackzs.com') ||
 shExpMatch(host, '*.hadamilano.com') ||
 shExpMatch(host, '*.hadat.ru') ||
-shExpMatch(host, '*.hadskiz.com') ||
 shExpMatch(host, '*.haedhal.com') ||
 shExpMatch(host, '*.haeied.net') ||
 shExpMatch(host, '*.hahablaururu.info') ||
@@ -11390,6 +11388,7 @@ shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
 shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
+shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
 shExpMatch(host, '*.navegg.com') ||
 shExpMatch(host, '*.naviblue-team.com') ||
@@ -12412,7 +12411,6 @@ shExpMatch(host, '*.plardi.com') ||
 shExpMatch(host, '*.plastischechirurgie.net') ||
 shExpMatch(host, '*.platamones.nl') ||
 shExpMatch(host, '*.platformhub.wtf') ||
-shExpMatch(host, '*.plausible.mangadex.org') ||
 shExpMatch(host, '*.plausibleio.workers.dev') ||
 shExpMatch(host, '*.play-beta.com') ||
 shExpMatch(host, '*.play-services.com') ||
@@ -15588,7 +15586,6 @@ shExpMatch(host, '*.tovoxu.ru') ||
 shExpMatch(host, '*.towmidar.ru') ||
 shExpMatch(host, '*.toxicskins.com') ||
 shExpMatch(host, '*.tpnads.com') ||
-shExpMatch(host, '*.track-tracingkit394853.com') ||
 shExpMatch(host, '*.track-your-fedex-package.org') ||
 shExpMatch(host, '*.track.adform.net') ||
 shExpMatch(host, '*.track.anchorfree.com') ||
@@ -15603,6 +15600,7 @@ shExpMatch(host, '*.track.mailalert.io') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.track.miro.com') ||
 shExpMatch(host, '*.track.segmetrics.io') ||
+shExpMatch(host, '*.track.software-codes.com') ||
 shExpMatch(host, '*.track.themaccleanup.info') ||
 shExpMatch(host, '*.track.ultravpn.com') ||
 shExpMatch(host, '*.track.unear.net') ||
@@ -19332,7 +19330,6 @@ shExpMatch(host, 'adx.allstar.cz') ||
 shExpMatch(host, 'adx.atnext.com') ||
 shExpMatch(host, 'adx.gainesvillesun.com') ||
 shExpMatch(host, 'adx.gayboy.at') ||
-shExpMatch(host, 'adx.relaksit.ru') ||
 shExpMatch(host, 'adxpansion.com') ||
 shExpMatch(host, 'adxpose.com') ||
 shExpMatch(host, 'adxvalue.com') ||
@@ -26320,7 +26317,6 @@ shExpMatch(host, 'hackzonne.net') ||
 shExpMatch(host, 'hackzs.com') ||
 shExpMatch(host, 'hadamilano.com') ||
 shExpMatch(host, 'hadat.ru') ||
-shExpMatch(host, 'hadskiz.com') ||
 shExpMatch(host, 'haedhal.com') ||
 shExpMatch(host, 'haeied.net') ||
 shExpMatch(host, 'hahablaururu.info') ||
@@ -29096,6 +29092,7 @@ shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
 shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
+shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
 shExpMatch(host, 'navegg.com') ||
 shExpMatch(host, 'naviblue-team.com') ||
@@ -30118,7 +30115,6 @@ shExpMatch(host, 'plardi.com') ||
 shExpMatch(host, 'plastischechirurgie.net') ||
 shExpMatch(host, 'platamones.nl') ||
 shExpMatch(host, 'platformhub.wtf') ||
-shExpMatch(host, 'plausible.mangadex.org') ||
 shExpMatch(host, 'plausibleio.workers.dev') ||
 shExpMatch(host, 'play-beta.com') ||
 shExpMatch(host, 'play-services.com') ||
@@ -33294,7 +33290,6 @@ shExpMatch(host, 'tovoxu.ru') ||
 shExpMatch(host, 'towmidar.ru') ||
 shExpMatch(host, 'toxicskins.com') ||
 shExpMatch(host, 'tpnads.com') ||
-shExpMatch(host, 'track-tracingkit394853.com') ||
 shExpMatch(host, 'track-your-fedex-package.org') ||
 shExpMatch(host, 'track.adform.net') ||
 shExpMatch(host, 'track.anchorfree.com') ||
@@ -33309,6 +33304,7 @@ shExpMatch(host, 'track.mailalert.io') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'track.miro.com') ||
 shExpMatch(host, 'track.segmetrics.io') ||
+shExpMatch(host, 'track.software-codes.com') ||
 shExpMatch(host, 'track.themaccleanup.info') ||
 shExpMatch(host, 'track.ultravpn.com') ||
 shExpMatch(host, 'track.unear.net') ||
