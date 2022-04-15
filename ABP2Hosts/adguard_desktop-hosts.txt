@@ -1,4 +1,4 @@
-# Fri Apr 15 04:51:05 AM UTC 2022
+# Fri Apr 15 06:17:19 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 00-gov.cn
@@ -197,6 +197,7 @@
 0.0.0.0 1100i.com
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 11111fs.com
+0.0.0.0 111supjav.xyz
 0.0.0.0 113o.com
 0.0.0.0 114com.cc
 0.0.0.0 1173d.cn
@@ -882,6 +883,7 @@
 0.0.0.0 5150ab4aa5.com
 0.0.0.0 517kp.com
 0.0.0.0 517m.cn
+0.0.0.0 518yi.com
 0.0.0.0 519397.com
 0.0.0.0 51boxian.cc
 0.0.0.0 51check.com.cn
@@ -1066,11 +1068,13 @@
 0.0.0.0 68710266.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 6899.fun
+0.0.0.0 68d97476e6.com
 0.0.0.0 693836.com
 0.0.0.0 69i.club
 0.0.0.0 69oxt4q05.com
 0.0.0.0 69v.club
 0.0.0.0 6a40eae4b3.com
+0.0.0.0 6a4b31ec3b.com
 0.0.0.0 6a9c7d514c81589.com
 0.0.0.0 6af461b907c5b.com
 0.0.0.0 6b5c418918ebb008cc6.com
@@ -2472,6 +2476,7 @@
 0.0.0.0 aaxwall.com
 0.0.0.0 aaz1.xyz
 0.0.0.0 ab.advertiserurl.com
+0.0.0.0 ab.blogs.es
 0.0.0.0 ab.cnbanbao.com
 0.0.0.0 ab.rejushe.com
 0.0.0.0 ab3yssin4i6an.com
@@ -3872,6 +3877,7 @@
 0.0.0.0 africaewgrhdtb.com
 0.0.0.0 africafr.promo.skf.com
 0.0.0.0 africawin.com
+0.0.0.0 afriev.com
 0.0.0.0 afriflatry.co
 0.0.0.0 afshanthough.pro
 0.0.0.0 afssdmin.com
@@ -3905,6 +3911,7 @@
 0.0.0.0 agcs-knowledge.allianz.com
 0.0.0.0 ageacavnrnwijh.xyz
 0.0.0.0 agentcomm.mercuryinsurance.com
+0.0.0.0 aggestose.com
 0.0.0.0 aggingleag.one
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aggressivefrequentneckquirky.com
@@ -4102,6 +4109,7 @@
 0.0.0.0 ajkzd9h.com
 0.0.0.0 ajlnty.vipavenue.ru
 0.0.0.0 ajoqysuc.xyz
+0.0.0.0 ajorinryeso.com
 0.0.0.0 ajrequestion.xyz
 0.0.0.0 ajwssds.com
 0.0.0.0 ajxx98.online
@@ -6414,6 +6422,7 @@
 0.0.0.0 bdcode.35d1.com
 0.0.0.0 bdcode.qinglm.com
 0.0.0.0 bdcode.youke.com
+0.0.0.0 bdemhtvl.com
 0.0.0.0 bderbn.foxtrot.com.ua
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 bdgffuqodbhrb.xyz
@@ -6756,6 +6765,7 @@
 0.0.0.0 betuuvhozpylo.com
 0.0.0.0 betylife.com
 0.0.0.0 beuniquelyinsured.selective.com
+0.0.0.0 beveledcorkir.com
 0.0.0.0 bewailbeforelibrarian.com
 0.0.0.0 bewailindigestionunhappy.com
 0.0.0.0 bewvgekx.com
@@ -10841,6 +10851,7 @@
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net
+0.0.0.0 d3oy68whu51rnt.cloudfront.net
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3p8w7to4066sy.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
@@ -11379,6 +11390,7 @@
 0.0.0.0 deeppquiz.ru
 0.0.0.0 deer.m1x.co
 0.0.0.0 deer.ray.io
+0.0.0.0 deewansturacin.com
 0.0.0.0 def-platform.com
 0.0.0.0 def1.optimhome-recrutement.com
 0.0.0.0 defaceproudlybarnacle.com
@@ -12452,6 +12464,7 @@
 0.0.0.0 drtbn.com
 0.0.0.0 drtuproft.com
 0.0.0.0 druadirjfviwn.xyz
+0.0.0.0 drufhfueg.xyz
 0.0.0.0 drumimaring.xyz
 0.0.0.0 drunkenknowing.com
 0.0.0.0 drvive.lamoda.ru
@@ -12512,6 +12525,7 @@
 0.0.0.0 dtmpub.com
 0.0.0.0 dtmssl.bobcat.com
 0.0.0.0 dtnpyvmqqvvgq.com
+0.0.0.0 dtoo1.space
 0.0.0.0 dtpqhwk.cn
 0.0.0.0 dtprofit.com
 0.0.0.0 dtqkuzuhzwklm.com
@@ -14468,6 +14482,7 @@
 0.0.0.0 fanyi100.com.cn
 0.0.0.0 fanzhuang.net.cn
 0.0.0.0 fanzinetautens.com
+0.0.0.0 fapcat.com
 0.0.0.0 fapmeth.com
 0.0.0.0 fapping.club
 0.0.0.0 faq.brandnewapp.pro
@@ -19707,6 +19722,7 @@
 0.0.0.0 jqwhjuxv.xyz
 0.0.0.0 jqyde7msbro2.com
 0.0.0.0 jrdoimrsw.com
+0.0.0.0 jrhfvajivtek.com
 0.0.0.0 jrhrlr.litterbox.com
 0.0.0.0 jrnciibouc.com
 0.0.0.0 jroqvbvw.info
@@ -21041,6 +21057,7 @@
 0.0.0.0 liacod.sephora.ru
 0.0.0.0 liadm.com
 0.0.0.0 lianfuhuang.cn
+0.0.0.0 liangdun.xyz
 0.0.0.0 liangxiaoru.cn
 0.0.0.0 liangzhuangxiu.top
 0.0.0.0 liangzimo.ltd
@@ -24400,6 +24417,7 @@
 0.0.0.0 motivationcorny.com
 0.0.0.0 motivesbreastchopped.com
 0.0.0.0 motohelpr.com
+0.0.0.0 motoriesm.com
 0.0.0.0 motorwaypuffybribery.com
 0.0.0.0 motosal.net
 0.0.0.0 mouaa.com
@@ -25647,6 +25665,7 @@
 0.0.0.0 nyadmcncserve-05y06a.com
 0.0.0.0 nyadra.com
 0.0.0.0 nyalacornily.cam
+0.0.0.0 nycjyvsyk.com
 0.0.0.0 nydjsm.cn
 0.0.0.0 nydql.com
 0.0.0.0 nyetm2mkch.com
@@ -28481,6 +28500,7 @@
 0.0.0.0 pumolt.com
 0.0.0.0 pumpbead.com
 0.0.0.0 pumpkinneighbourpoet.com
+0.0.0.0 pumpkinrestartburnt.com
 0.0.0.0 pumpmanamenage.casa
 0.0.0.0 pumtaimp.com
 0.0.0.0 punctuationbelow.com
@@ -28794,6 +28814,7 @@
 0.0.0.0 qiaoenyl.xyz
 0.0.0.0 qiaohong.ltd
 0.0.0.0 qiaopiguniang.com
+0.0.0.0 qiaoxiaomiao.com
 0.0.0.0 qibalmm.com
 0.0.0.0 qibxdwe1.com
 0.0.0.0 qichenx.com
@@ -30086,6 +30107,7 @@
 0.0.0.0 rrgapzw.cn
 0.0.0.0 rrlafphbrpazu.com
 0.0.0.0 rrogfhs.cn
+0.0.0.0 rrrsnxzkhbwwrs.com
 0.0.0.0 rrss.abc.es
 0.0.0.0 rrsubway.com
 0.0.0.0 rs-stripe.com
@@ -35605,6 +35627,7 @@
 0.0.0.0 syduzothu.pro
 0.0.0.0 syjjd.club
 0.0.0.0 sykc.madeindesign.ch
+0.0.0.0 syks.xyz
 0.0.0.0 sykty.com
 0.0.0.0 sylewhywhe.com
 0.0.0.0 sylmyar.pw
@@ -38488,6 +38511,7 @@
 0.0.0.0 uchmuk.com
 0.0.0.0 ucjrmjilkdaudwj.xyz
 0.0.0.0 ucounter.ucoz.net
+0.0.0.0 ucqfmwanc.com
 0.0.0.0 ucs.betwaygroup.com
 0.0.0.0 uctzcsooizikt.com
 0.0.0.0 ucxgg.com
@@ -39224,6 +39248,7 @@
 0.0.0.0 verycastle.com
 0.0.0.0 verycleaner.cn
 0.0.0.0 verymerybery.com
+0.0.0.0 veryn1ce.com
 0.0.0.0 vespymedia.com
 0.0.0.0 vessoupy.com
 0.0.0.0 vestlitt.online
@@ -39520,6 +39545,7 @@
 0.0.0.0 vocoat.com
 0.0.0.0 vodobyve.pro
 0.0.0.0 voevtwfpd.xyz
+0.0.0.0 vogeto.com
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 vogopita.com
 0.0.0.0 vogorita.com
@@ -39821,6 +39847,7 @@
 0.0.0.0 waistcoataskeddone.com
 0.0.0.0 waistcoathearing.com
 0.0.0.0 waistswimmer.com
+0.0.0.0 waiteddeplore.com
 0.0.0.0 waitersmimical.com
 0.0.0.0 waitinghypotheticallysoot.com
 0.0.0.0 waitor.info
@@ -41254,6 +41281,7 @@
 0.0.0.0 xinyuanstudio.com
 0.0.0.0 xinyuanzszy.com
 0.0.0.0 xiongdong.com
+0.0.0.0 xiongfengwang.com.cn
 0.0.0.0 xiongzhangad.com
 0.0.0.0 xiqqq.com
 0.0.0.0 xiqvza.dickblick.com
@@ -41960,6 +41988,7 @@
 0.0.0.0 yoshatia.com
 0.0.0.0 yosjob.cn
 0.0.0.0 yotta.scrolller.com
+0.0.0.0 yotwok.xyz
 0.0.0.0 you6ka.cn
 0.0.0.0 youearrid.com
 0.0.0.0 youfumei.com
@@ -42192,6 +42221,7 @@
 0.0.0.0 ywxigvzbkqg.com
 0.0.0.0 ywzkiug.cn
 0.0.0.0 yx1.managershare.com
+0.0.0.0 yxbyd.store
 0.0.0.0 yxdd.com
 0.0.0.0 yxgfcj.com
 0.0.0.0 yxhjt.com

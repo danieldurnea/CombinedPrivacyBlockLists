@@ -26,16 +26,13 @@
 0.0.0.0 00sexus.com
 0.0.0.0 00webcams.com
 0.0.0.0 01-sex-amateur.info
-0.0.0.0 01.static.xsf.ximxim.com
 0.0.0.0 0100.name
 0.0.0.0 012.2o7.net
 0.0.0.0 017gj.com
 0.0.0.0 01apple.com
-0.0.0.0 02.static.xsf.ximxim.com
 0.0.0.0 022802bcfcb3dbcd1a224f29537f6ac0.host
 0.0.0.0 03e.info
 0.0.0.0 03p.info
-0.0.0.0 04.static.xsf.ximxim.com
 0.0.0.0 07634.com
 0.0.0.0 078d9f6a6dc1.cdn4.forter.com
 0.0.0.0 07tqqwem.ru
@@ -5351,6 +5348,8 @@
 0.0.0.0 alumaicelodges.com
 0.0.0.0 alwasl-syria.com
 0.0.0.0 alxc.addlv.smt.docomo.ne.jp
+0.0.0.0 alxd.addlv.smt.docomo.ne.jp
+0.0.0.0 alxm.addlv.smt.docomo.ne.jp
 0.0.0.0 alxsite.com
 0.0.0.0 am-match.taboola.com
 0.0.0.0 am-pops.xml.adx1.com
@@ -5422,7 +5421,6 @@
 0.0.0.0 amigosdetuciudad.com
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 amlivaias.us
-0.0.0.0 ammouriarts.com
 0.0.0.0 amniyatgostariranian.ir
 0.0.0.0 amoad.com
 0.0.0.0 amospalla.es
@@ -6192,6 +6190,7 @@
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-dns1-e.xyz
 0.0.0.0 api-eu.adsymptotic.com
+0.0.0.0 api-hotjar.com
 0.0.0.0 api-hw.adxplay.com
 0.0.0.0 api-iqzone.advangelists.com
 0.0.0.0 api-log-analytics.cloud.toast.com
@@ -6255,6 +6254,7 @@
 0.0.0.0 api.bhzejltg.info
 0.0.0.0 api.boosting.online
 0.0.0.0 api.browsermine.com
+0.0.0.0 api.bugsnag.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.crispadvertising.com
@@ -6367,6 +6367,7 @@
 0.0.0.0 app.adsota.com
 0.0.0.0 app.adtrace.io
 0.0.0.0 app.adywind.com
+0.0.0.0 app.bugsnag.com
 0.0.0.0 app.clickyab.com
 0.0.0.0 app.content.ad
 0.0.0.0 app.logrocket.com
@@ -6603,7 +6604,6 @@
 0.0.0.0 atfitreasonyou.live
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 atlanticmedia.122.2o7.net
-0.0.0.0 atlas-logistics.net
 0.0.0.0 atlasglb.tk
 0.0.0.0 atlassian.122.2o7.net
 0.0.0.0 atnpx.com
@@ -7046,6 +7046,7 @@
 0.0.0.0 beatingbytes.com
 0.0.0.0 beatyourmeatwhileweeat.com
 0.0.0.0 beauty.native-ad.net
+0.0.0.0 beautyarenawithrojina.com
 0.0.0.0 becanium.com
 0.0.0.0 becilobun.com
 0.0.0.0 becommodal.com
@@ -7516,6 +7517,7 @@
 0.0.0.0 bzios.info
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 c-eu.adsymptotic.com
+0.0.0.0 c-logistica.com
 0.0.0.0 c.ad6media.fr
 0.0.0.0 c.adclickthru.net
 0.0.0.0 c.adexchangemachine.com
@@ -7930,7 +7932,6 @@
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.download.sweetpacks.com
-0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.easy-ads.com
 0.0.0.0 cdn.engine.adsupply.com
 0.0.0.0 cdn.exoticads.com
@@ -9074,6 +9075,7 @@
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.adxpansion.com
 0.0.0.0 cs.luckyorange.com
+0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.r-ad.ne.jp
 0.0.0.0 cs.sexcounter.com
 0.0.0.0 cs1g.com
@@ -9363,7 +9365,6 @@
 0.0.0.0 dating-herenow3.com
 0.0.0.0 dating-space.top
 0.0.0.0 dating.hdxvideos.ru
-0.0.0.0 dating.khokhas.co.za
 0.0.0.0 datingadvertising.com
 0.0.0.0 datingapp.live
 0.0.0.0 datingdeserving.com
@@ -9717,7 +9718,6 @@
 0.0.0.0 do-not-tracker.org
 0.0.0.0 docj27ko03fnu.cloudfront.net
 0.0.0.0 docksalmon.com
-0.0.0.0 docmasterpassb.top
 0.0.0.0 docomo-analytics.com
 0.0.0.0 docs.healthmade.org
 0.0.0.0 docs.pipenv.org
@@ -10488,6 +10488,7 @@
 0.0.0.0 escas-lk.com
 0.0.0.0 escolagarbi.com
 0.0.0.0 esd-secure.taboola.com.edgekey.net
+0.0.0.0 ese.co.sz
 0.0.0.0 eset.122.2o7.net
 0.0.0.0 esetsupport.info
 0.0.0.0 esg.hitbox.com
@@ -11048,7 +11049,6 @@
 0.0.0.0 forgetfulflowers.com
 0.0.0.0 forgiveme.workisboring.com
 0.0.0.0 formasnetoyvnastrchine.com
-0.0.0.0 formulationdrugstore.com
 0.0.0.0 formulawire.com
 0.0.0.0 forshrd.com
 0.0.0.0 forstraus.co
@@ -11224,6 +11224,7 @@
 0.0.0.0 g.admedia.com
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.adspeed.net
+0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 g.icab.pk
@@ -11576,6 +11577,7 @@
 0.0.0.0 goharpc.com
 0.0.0.0 goji-actives.net
 0.0.0.0 gokceozagar.com
+0.0.0.0 gokcevizyon.com
 0.0.0.0 goldads.info
 0.0.0.0 goldapp-bcf4.kxcdn.com
 0.0.0.0 goldchainsblue.com
@@ -12079,6 +12081,7 @@
 0.0.0.0 hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 0.0.0.0 hotelscom.122.2o7.net
 0.0.0.0 hotfixssearch.com
+0.0.0.0 hotjar-analytics.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotkine.com
 0.0.0.0 hotlady4you.com
@@ -15490,7 +15493,6 @@
 0.0.0.0 nk125srv.000webhostapp.com
 0.0.0.0 nkdyo.xyz
 0.0.0.0 nkis.nikkei.com
-0.0.0.0 nkkl.adj.st
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 nl4.hit.stat24.com
@@ -15709,7 +15711,6 @@
 0.0.0.0 oceanicproducts.eu
 0.0.0.0 oclaserver.com
 0.0.0.0 ococococ.xyz
-0.0.0.0 ocpi.com.my
 0.0.0.0 oct-pass.net
 0.0.0.0 octopart-analytics.com
 0.0.0.0 octopuspop.com
@@ -15774,7 +15775,6 @@
 0.0.0.0 oliver-khan.tk
 0.0.0.0 oltaeazas.mobi
 0.0.0.0 omalll.com
-0.0.0.0 omarrobinson.xyz
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omaze.com
 0.0.0.0 omecanism2.sslblindado.com
@@ -18237,6 +18237,7 @@
 0.0.0.0 setseta.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.com
+0.0.0.0 settings.luckyorange.net
 0.0.0.0 setup.advancedcleaner.com
 0.0.0.0 setupdnsbase.cc
 0.0.0.0 sevbizleadservices.com
@@ -19488,7 +19489,6 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 terryhill.top
 0.0.0.0 tescostores.122.2o7.net
-0.0.0.0 test-ads.tapdaq.com
 0.0.0.0 test-adserver.adtech.de
 0.0.0.0 test-offer.best
 0.0.0.0 test.minr.pw
@@ -19819,7 +19819,6 @@
 0.0.0.0 track.atom-data.io
 0.0.0.0 track.b-trk10.com
 0.0.0.0 track.bannerbridge.net
-0.0.0.0 track.barcoo.com
 0.0.0.0 track.bazonline.ch
 0.0.0.0 track.bcvc.mobi
 0.0.0.0 track.beeketing.com
@@ -20354,7 +20353,6 @@
 0.0.0.0 tracking.adsafety.net
 0.0.0.0 tracking.adsbot.kr
 0.0.0.0 tracking.adsdot.co.kr
-0.0.0.0 tracking.adspreemedia.com
 0.0.0.0 tracking.adsrv.io
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.adultsense.com
@@ -21071,6 +21069,7 @@
 0.0.0.0 upload.adtech.fr
 0.0.0.0 upload.adtech.us
 0.0.0.0 upload.luckyorange.com
+0.0.0.0 upload.luckyorange.net
 0.0.0.0 upload4earn.org
 0.0.0.0 uploaded.yieldlove-ad-serving.net
 0.0.0.0 uplynk.adaptv.advertising.com
@@ -21748,6 +21747,7 @@
 0.0.0.0 wedgeenclosed.com
 0.0.0.0 weefy.me
 0.0.0.0 weightloss-secrets-revealed.net
+0.0.0.0 welber.adv.br
 0.0.0.0 welcomejohncena.pro
 0.0.0.0 weledying-jessed.com
 0.0.0.0 wellcalls.com
@@ -22792,7 +22792,6 @@
 0.0.0.0 www.jshosting.trade
 0.0.0.0 www.jshosting.win
 0.0.0.0 www.juicyads.com
-0.0.0.0 www.ksnews.info
 0.0.0.0 www.lacasadialicedesenzano.it
 0.0.0.0 www.ladsblue.com
 0.0.0.0 www.laptopreportcard.com
@@ -22894,7 +22893,6 @@
 0.0.0.0 www.track2cash.com
 0.0.0.0 www.tracklead.net
 0.0.0.0 www.trackword.biz
-0.0.0.0 www.tractorandinas.com
 0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 www.traveladvertising.com
 0.0.0.0 www.trc.taboola.com
@@ -23282,7 +23280,6 @@
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.mediaz.vn
 0.0.0.0 zalo-ads.zadn.vn
-0.0.0.0 zalo-file-doc10.zdn.vn
 0.0.0.0 zandogia.com
 0.0.0.0 zango.112.2o7.net
 0.0.0.0 zani.streghettaincucina.com
