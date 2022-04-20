@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Apr 15 06:27:40 PM UTC 2022
+! Updated: Wed Apr 20 11:44:05 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -64710,6 +64710,8 @@ slant.co##._soft-close-link.Modal-Cover
 slashdot.org###slashdot_deals
 slashdot.org##.close-ad
 slashdot.org##.deals-wrapper
+slippedisc.com##aside.after_content_banner_advert
+slippedisc.com##li.ad.single_post
 smoktech.com###warning-message
 sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
@@ -64778,6 +64780,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||click.e.tdbank.com^$third-party
 ||click.email-stubhub.com^$third-party
 ||click.email.bbc.com^$third-party
+||click.email.chope.co^$third-party
 ||click.email.sonos.com^$third-party
 ||click.email.soundhound.com^$third-party
 ||click.emails.creditonebank.com^$third-party
@@ -64809,6 +64812,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||fls-na.amazon.ca^$third-party
 ||fls-na.amazon.com.br^$third-party
 ||fls-na.amazon.com.mx^$third-party
+||fls-na.amazon.com^$third-party
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
@@ -64844,8 +64848,10 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##.ad_box
 ##.ad_unit
 ##.adwrap
+##.after_content_banner_advert
 ##.banner-300x600
 ##.banner-728x90
+##.fixed_advert_banner
 ##.persistent-ad
 ##.railad
 ##div[id^="div-gpt-ad"]

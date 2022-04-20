@@ -239,6 +239,8 @@ slant.co##._soft-close-link.Modal-Cover
 slashdot.org###slashdot_deals
 slashdot.org##.close-ad
 slashdot.org##.deals-wrapper
+slippedisc.com##aside.after_content_banner_advert
+slippedisc.com##li.ad.single_post
 smoktech.com###warning-message
 sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
@@ -375,8 +377,10 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##.ad_box
 ##.ad_unit
 ##.adwrap
+##.after_content_banner_advert
 ##.banner-300x600
 ##.banner-728x90
+##.fixed_advert_banner
 ##.persistent-ad
 ##.railad
 ##div[id^="div-gpt-ad"]
