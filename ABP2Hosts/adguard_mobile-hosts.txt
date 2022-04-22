@@ -1,4 +1,4 @@
-# Fri Apr 15 06:17:00 PM UTC 2022
+# Fri Apr 22 12:46:17 AM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -884,7 +884,6 @@
 0.0.0.0 aibuy-api.aibuy.io
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 aimatch.com
 0.0.0.0 aiqua-config.c.appier.net
 0.0.0.0 aiqua-sdk.c.appier.net
@@ -1367,7 +1366,6 @@
 0.0.0.0 api.userleap.com
 0.0.0.0 api.verify.mob.com
 0.0.0.0 api.verticalscope.com
-0.0.0.0 api.viafoura.co
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.vidora.com
 0.0.0.0 api.viglink.com
@@ -1886,7 +1884,6 @@
 0.0.0.0 bgrndi.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bhpz.adj.st
-0.0.0.0 bi-analytics.cloudapp.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
 0.0.0.0 bid.adview.cn
@@ -1980,7 +1977,6 @@
 0.0.0.0 brort.stsdk.vivo.com.cn
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser.events.data.microsoft.com
-0.0.0.0 browser.events.data.msn.com
 0.0.0.0 brpnrt.stsdk.vivo.com.cn
 0.0.0.0 brprt.stsdk.vivo.com.cn
 0.0.0.0 bs-geo.dvgtm.akadns.net
@@ -2052,7 +2048,6 @@
 0.0.0.0 c.webtrends.com
 0.0.0.0 c00162-dl.urbanairship.com
 0.0.0.0 c1.adform.net
-0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c1exchange.com
 0.0.0.0 c2.popads.net
@@ -2350,7 +2345,6 @@
 0.0.0.0 cdn.uprivaladserver.net
 0.0.0.0 cdn.usebutton.com
 0.0.0.0 cdn.usefathom.com
-0.0.0.0 cdn.viafoura.net
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viewdeos.com
 0.0.0.0 cdn.viglink.com
@@ -5150,7 +5144,6 @@
 0.0.0.0 opt8.co
 0.0.0.0 optad360.io
 0.0.0.0 optaim.com
-0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
 0.0.0.0 optimatic.com
 0.0.0.0 optimix.asia
@@ -5749,7 +5742,6 @@
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 realclever.com
 0.0.0.0 realtime.clinch.co
-0.0.0.0 realtimeeventfeeds.viafoura.co
 0.0.0.0 reate.info
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
@@ -6692,7 +6684,6 @@
 0.0.0.0 static.ziffdavis.com
 0.0.0.0 static.ziftsolutions.com
 0.0.0.0 static2.chartbeat.com
-0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
 0.0.0.0 stats-a.maxthon.com
@@ -6766,7 +6757,6 @@
 0.0.0.0 study.snapads.com
 0.0.0.0 stx-assets.sharethrough.com
 0.0.0.0 su.addthis.com
-0.0.0.0 sub.viafoura.co
 0.0.0.0 submit.zapr.in
 0.0.0.0 subway2016.tt.omtrdc.net
 0.0.0.0 subwayfranchiseeadvertising.sc.omtrdc.net
@@ -7104,7 +7094,6 @@
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 topapps-func.pinsightmedia.com
-0.0.0.0 torimochi.line-apps.com
 0.0.0.0 tp-emea.exactag.com
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 0.0.0.0 tp.videohub.tv
@@ -7298,8 +7287,6 @@
 0.0.0.0 trk.hot-mob.com
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.kissmetrics.com
-0.0.0.0 trk.klclick2.com
-0.0.0.0 trk.klclick3.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.tidaltv.com
@@ -7430,7 +7417,6 @@
 0.0.0.0 us-1.gladly.com
 0.0.0.0 us-central.load.exelator.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
-0.0.0.0 us-central1-production-242307.cloudfunctions.net
 0.0.0.0 us-east-1.event.prod.bidr.io
 0.0.0.0 us-east-1.local.emxdgt.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
