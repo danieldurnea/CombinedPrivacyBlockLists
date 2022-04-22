@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Apr 20 11:44:05 PM UTC 2022
+! Updated: Fri Apr 22 01:24:29 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -239,7 +239,6 @@ slant.co##._soft-close-link.Modal-Cover
 slashdot.org###slashdot_deals
 slashdot.org##.close-ad
 slashdot.org##.deals-wrapper
-slippedisc.com##aside.after_content_banner_advert
 slippedisc.com##li.ad.single_post
 smoktech.com###warning-message
 sparkylinux.org##DIV#ad0569e
