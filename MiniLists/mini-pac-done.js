@@ -1,4 +1,4 @@
-// **** Fri Apr 22 12:58:04 AM UTC 2022
+// **** Wed Apr 27 08:24:08 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -28,7 +28,6 @@ shExpMatch(host, '*.0up.ir') ||
 shExpMatch(host, '*.0uw.ru') ||
 shExpMatch(host, '*.0x0.best') ||
 shExpMatch(host, '*.0x21.in') ||
-shExpMatch(host, '*.1-1ads.com') ||
 shExpMatch(host, '*.1-box.ru') ||
 shExpMatch(host, '*.1.cramssdeleviesor.co.cc') ||
 shExpMatch(host, '*.1008691.com') ||
@@ -5041,6 +5040,7 @@ shExpMatch(host, '*.free-counter.co.uk') ||
 shExpMatch(host, '*.free-counters.co.uk') ||
 shExpMatch(host, '*.free-documents-hosting.com') ||
 shExpMatch(host, '*.free-fililink.cf') ||
+shExpMatch(host, '*.free1121.host.od.ua') ||
 shExpMatch(host, '*.freeanonymous.host') ||
 shExpMatch(host, '*.freebanner.com') ||
 shExpMatch(host, '*.freebooter.pro') ||
@@ -9148,7 +9148,6 @@ shExpMatch(host, '*.rtbidhost.com') ||
 shExpMatch(host, '*.rtbplatform.net') ||
 shExpMatch(host, '*.rtbpop.com') ||
 shExpMatch(host, '*.rtbpopd.com') ||
-shExpMatch(host, '*.rtbtradein.com') ||
 shExpMatch(host, '*.rtd.b2bpipe.cn') ||
 shExpMatch(host, '*.rtmark.net') ||
 shExpMatch(host, '*.rtpdn11.com') ||
@@ -10633,6 +10632,7 @@ shExpMatch(host, '*.track.flexlinkspro.com') ||
 shExpMatch(host, '*.track.freemmo2017.com') ||
 shExpMatch(host, '*.track.game18click.com') ||
 shExpMatch(host, '*.track.gawker.com') ||
+shExpMatch(host, '*.track.lettingaproperty.com') ||
 shExpMatch(host, '*.track.mailalert.io') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.track.miro.com') ||
@@ -11109,7 +11109,6 @@ shExpMatch(host, '*.venuschicago.com') ||
 shExpMatch(host, '*.venuspo.icu') ||
 shExpMatch(host, '*.venzatechi.online') ||
 shExpMatch(host, '*.verblife-3.co') ||
-shExpMatch(host, '*.verblife-4.co') ||
 shExpMatch(host, '*.verblife-5.co') ||
 shExpMatch(host, '*.vergames.ru') ||
 shExpMatch(host, '*.vericlick.com') ||
@@ -11730,6 +11729,7 @@ shExpMatch(host, '*.yfo.yag.mybluehost.me') ||
 shExpMatch(host, '*.yfyke.xyz') ||
 shExpMatch(host, '*.ygjuju.com') ||
 shExpMatch(host, '*.yh558877.com') ||
+shExpMatch(host, '*.yibozf108.com') ||
 shExpMatch(host, '*.yieldads.com') ||
 shExpMatch(host, '*.yieldlab.net') ||
 shExpMatch(host, '*.yieldmanager.com') ||
@@ -11930,7 +11930,6 @@ shExpMatch(host, '0up.ir') ||
 shExpMatch(host, '0uw.ru') ||
 shExpMatch(host, '0x0.best') ||
 shExpMatch(host, '0x21.in') ||
-shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-box.ru') ||
 shExpMatch(host, '1.cramssdeleviesor.co.cc') ||
 shExpMatch(host, '1008691.com') ||
@@ -16943,6 +16942,7 @@ shExpMatch(host, 'free-counter.co.uk') ||
 shExpMatch(host, 'free-counters.co.uk') ||
 shExpMatch(host, 'free-documents-hosting.com') ||
 shExpMatch(host, 'free-fililink.cf') ||
+shExpMatch(host, 'free1121.host.od.ua') ||
 shExpMatch(host, 'freeanonymous.host') ||
 shExpMatch(host, 'freebanner.com') ||
 shExpMatch(host, 'freebooter.pro') ||
@@ -21050,7 +21050,6 @@ shExpMatch(host, 'rtbidhost.com') ||
 shExpMatch(host, 'rtbplatform.net') ||
 shExpMatch(host, 'rtbpop.com') ||
 shExpMatch(host, 'rtbpopd.com') ||
-shExpMatch(host, 'rtbtradein.com') ||
 shExpMatch(host, 'rtd.b2bpipe.cn') ||
 shExpMatch(host, 'rtmark.net') ||
 shExpMatch(host, 'rtpdn11.com') ||
@@ -22535,6 +22534,7 @@ shExpMatch(host, 'track.flexlinkspro.com') ||
 shExpMatch(host, 'track.freemmo2017.com') ||
 shExpMatch(host, 'track.game18click.com') ||
 shExpMatch(host, 'track.gawker.com') ||
+shExpMatch(host, 'track.lettingaproperty.com') ||
 shExpMatch(host, 'track.mailalert.io') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'track.miro.com') ||
@@ -23011,7 +23011,6 @@ shExpMatch(host, 'venuschicago.com') ||
 shExpMatch(host, 'venuspo.icu') ||
 shExpMatch(host, 'venzatechi.online') ||
 shExpMatch(host, 'verblife-3.co') ||
-shExpMatch(host, 'verblife-4.co') ||
 shExpMatch(host, 'verblife-5.co') ||
 shExpMatch(host, 'vergames.ru') ||
 shExpMatch(host, 'vericlick.com') ||
@@ -23632,6 +23631,7 @@ shExpMatch(host, 'yfo.yag.mybluehost.me') ||
 shExpMatch(host, 'yfyke.xyz') ||
 shExpMatch(host, 'ygjuju.com') ||
 shExpMatch(host, 'yh558877.com') ||
+shExpMatch(host, 'yibozf108.com') ||
 shExpMatch(host, 'yieldads.com') ||
 shExpMatch(host, 'yieldlab.net') ||
 shExpMatch(host, 'yieldmanager.com') ||
