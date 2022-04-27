@@ -1,4 +1,4 @@
-// **** Fri Apr 22 12:50:01 AM UTC 2022
+// **** Wed Apr 27 08:16:54 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -15,7 +15,6 @@ shExpMatch(host, '*.0fees.net') ||
 shExpMatch(host, '*.0hacks.com') ||
 shExpMatch(host, '*.0koryu0.easter.ne.jp') ||
 shExpMatch(host, '*.0pencase.com') ||
-shExpMatch(host, '*.1-1ads.com') ||
 shExpMatch(host, '*.1-verygoods.ru') ||
 shExpMatch(host, '*.1.pandawamovie.com') ||
 shExpMatch(host, '*.100-escorts.com') ||
@@ -13512,7 +13511,6 @@ shExpMatch(host, '*.rtbidhost.com') ||
 shExpMatch(host, '*.rtbplatform.net') ||
 shExpMatch(host, '*.rtbpop.com') ||
 shExpMatch(host, '*.rtbpopd.com') ||
-shExpMatch(host, '*.rtbtradein.com') ||
 shExpMatch(host, '*.rthlsinks.cz.cc') ||
 shExpMatch(host, '*.rtmark.net') ||
 shExpMatch(host, '*.rto.ijssalonlekker.nl') ||
@@ -15596,6 +15594,7 @@ shExpMatch(host, '*.track.flexlinkspro.com') ||
 shExpMatch(host, '*.track.freemmo2017.com') ||
 shExpMatch(host, '*.track.game18click.com') ||
 shExpMatch(host, '*.track.gawker.com') ||
+shExpMatch(host, '*.track.lettingaproperty.com') ||
 shExpMatch(host, '*.track.mailalert.io') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.track.miro.com') ||
@@ -16310,7 +16309,6 @@ shExpMatch(host, '*.venturellas.com') ||
 shExpMatch(host, '*.venuschicago.com') ||
 shExpMatch(host, '*.venuspo.icu') ||
 shExpMatch(host, '*.verblife-3.co') ||
-shExpMatch(host, '*.verblife-4.co') ||
 shExpMatch(host, '*.verblife-5.co') ||
 shExpMatch(host, '*.verdaedevelopment.com') ||
 shExpMatch(host, '*.verfer.com') ||
@@ -17719,7 +17717,6 @@ shExpMatch(host, '0fees.net') ||
 shExpMatch(host, '0hacks.com') ||
 shExpMatch(host, '0koryu0.easter.ne.jp') ||
 shExpMatch(host, '0pencase.com') ||
-shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-verygoods.ru') ||
 shExpMatch(host, '1.pandawamovie.com') ||
 shExpMatch(host, '100-escorts.com') ||
@@ -31216,7 +31213,6 @@ shExpMatch(host, 'rtbidhost.com') ||
 shExpMatch(host, 'rtbplatform.net') ||
 shExpMatch(host, 'rtbpop.com') ||
 shExpMatch(host, 'rtbpopd.com') ||
-shExpMatch(host, 'rtbtradein.com') ||
 shExpMatch(host, 'rthlsinks.cz.cc') ||
 shExpMatch(host, 'rtmark.net') ||
 shExpMatch(host, 'rto.ijssalonlekker.nl') ||
@@ -33300,6 +33296,7 @@ shExpMatch(host, 'track.flexlinkspro.com') ||
 shExpMatch(host, 'track.freemmo2017.com') ||
 shExpMatch(host, 'track.game18click.com') ||
 shExpMatch(host, 'track.gawker.com') ||
+shExpMatch(host, 'track.lettingaproperty.com') ||
 shExpMatch(host, 'track.mailalert.io') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'track.miro.com') ||
@@ -34014,7 +34011,6 @@ shExpMatch(host, 'venturellas.com') ||
 shExpMatch(host, 'venuschicago.com') ||
 shExpMatch(host, 'venuspo.icu') ||
 shExpMatch(host, 'verblife-3.co') ||
-shExpMatch(host, 'verblife-4.co') ||
 shExpMatch(host, 'verblife-5.co') ||
 shExpMatch(host, 'verdaedevelopment.com') ||
 shExpMatch(host, 'verfer.com') ||
