@@ -1,4 +1,4 @@
-// **** Wed Apr 27 08:16:54 AM UTC 2022
+// **** Tue May  3 09:33:10 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4099,7 +4099,6 @@ shExpMatch(host, '*.conversantmedia.com') ||
 shExpMatch(host, '*.conversationalingelligence.com') ||
 shExpMatch(host, '*.conversionbet.com') ||
 shExpMatch(host, '*.conversionruler.com') ||
-shExpMatch(host, '*.convertbox.com') ||
 shExpMatch(host, '*.convertingtraffic.com') ||
 shExpMatch(host, '*.convrse.media') ||
 shExpMatch(host, '*.cookies.cmpnet.com') ||
@@ -6768,7 +6767,6 @@ shExpMatch(host, '*.free-clubpenguin.com') ||
 shExpMatch(host, '*.free-clubpenguin.org') ||
 shExpMatch(host, '*.free-codes.info') ||
 shExpMatch(host, '*.free-counter.co.uk') ||
-shExpMatch(host, '*.free-counters.co.uk') ||
 shExpMatch(host, '*.free-crochet-pattern.com') ||
 shExpMatch(host, '*.free-csgo-skin.com') ||
 shExpMatch(host, '*.free-ddddsex-ddddpasswords.isthebe.st') ||
@@ -9329,6 +9327,7 @@ shExpMatch(host, '*.intentsify.io') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
 shExpMatch(host, '*.interactivearea.ru') ||
+shExpMatch(host, '*.intercom-clicks.com') ||
 shExpMatch(host, '*.intergi.com') ||
 shExpMatch(host, '*.intermaterials.net') ||
 shExpMatch(host, '*.internetfuel.com') ||
@@ -10763,6 +10762,7 @@ shExpMatch(host, '*.methodelafayfemme.fr') ||
 shExpMatch(host, '*.methuenedge.com') ||
 shExpMatch(host, '*.metrics-logger.spot.im') ||
 shExpMatch(host, '*.metrics.api.drift.com') ||
+shExpMatch(host, '*.metrics.articulate.com') ||
 shExpMatch(host, '*.metrics.cnn.com') ||
 shExpMatch(host, '*.metrics.consumerreports.org') ||
 shExpMatch(host, '*.metrics.ctv.ca') ||
@@ -13927,6 +13927,7 @@ shExpMatch(host, '*.shema.firstcom.co.kr') ||
 shExpMatch(host, '*.shenke.com.cn') ||
 shExpMatch(host, '*.shenyangxg.com') ||
 shExpMatch(host, '*.sher.index.hu') ||
+shExpMatch(host, '*.shermore.info') ||
 shExpMatch(host, '*.sherrypetersphoto.com') ||
 shExpMatch(host, '*.shhort.com') ||
 shExpMatch(host, '*.shiawaseshiawase.com') ||
@@ -16806,7 +16807,6 @@ shExpMatch(host, '*.wintricksbanner.googlepages.com') ||
 shExpMatch(host, '*.winupdate.phpnet.us') ||
 shExpMatch(host, '*.winxdrops.fun') ||
 shExpMatch(host, '*.wirecomic.com') ||
-shExpMatch(host, '*.wirelesseuropebalmy.com') ||
 shExpMatch(host, '*.wisepops.com') ||
 shExpMatch(host, '*.witch-counter.de') ||
 shExpMatch(host, '*.witcher3download.com') ||
@@ -21801,7 +21801,6 @@ shExpMatch(host, 'conversantmedia.com') ||
 shExpMatch(host, 'conversationalingelligence.com') ||
 shExpMatch(host, 'conversionbet.com') ||
 shExpMatch(host, 'conversionruler.com') ||
-shExpMatch(host, 'convertbox.com') ||
 shExpMatch(host, 'convertingtraffic.com') ||
 shExpMatch(host, 'convrse.media') ||
 shExpMatch(host, 'cookies.cmpnet.com') ||
@@ -24470,7 +24469,6 @@ shExpMatch(host, 'free-clubpenguin.com') ||
 shExpMatch(host, 'free-clubpenguin.org') ||
 shExpMatch(host, 'free-codes.info') ||
 shExpMatch(host, 'free-counter.co.uk') ||
-shExpMatch(host, 'free-counters.co.uk') ||
 shExpMatch(host, 'free-crochet-pattern.com') ||
 shExpMatch(host, 'free-csgo-skin.com') ||
 shExpMatch(host, 'free-ddddsex-ddddpasswords.isthebe.st') ||
@@ -27031,6 +27029,7 @@ shExpMatch(host, 'intentsify.io') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
 shExpMatch(host, 'interactivearea.ru') ||
+shExpMatch(host, 'intercom-clicks.com') ||
 shExpMatch(host, 'intergi.com') ||
 shExpMatch(host, 'intermaterials.net') ||
 shExpMatch(host, 'internetfuel.com') ||
@@ -28465,6 +28464,7 @@ shExpMatch(host, 'methodelafayfemme.fr') ||
 shExpMatch(host, 'methuenedge.com') ||
 shExpMatch(host, 'metrics-logger.spot.im') ||
 shExpMatch(host, 'metrics.api.drift.com') ||
+shExpMatch(host, 'metrics.articulate.com') ||
 shExpMatch(host, 'metrics.cnn.com') ||
 shExpMatch(host, 'metrics.consumerreports.org') ||
 shExpMatch(host, 'metrics.ctv.ca') ||
@@ -31629,6 +31629,7 @@ shExpMatch(host, 'shema.firstcom.co.kr') ||
 shExpMatch(host, 'shenke.com.cn') ||
 shExpMatch(host, 'shenyangxg.com') ||
 shExpMatch(host, 'sher.index.hu') ||
+shExpMatch(host, 'shermore.info') ||
 shExpMatch(host, 'sherrypetersphoto.com') ||
 shExpMatch(host, 'shhort.com') ||
 shExpMatch(host, 'shiawaseshiawase.com') ||
@@ -34508,7 +34509,6 @@ shExpMatch(host, 'wintricksbanner.googlepages.com') ||
 shExpMatch(host, 'winupdate.phpnet.us') ||
 shExpMatch(host, 'winxdrops.fun') ||
 shExpMatch(host, 'wirecomic.com') ||
-shExpMatch(host, 'wirelesseuropebalmy.com') ||
 shExpMatch(host, 'wisepops.com') ||
 shExpMatch(host, 'witch-counter.de') ||
 shExpMatch(host, 'witcher3download.com') ||
