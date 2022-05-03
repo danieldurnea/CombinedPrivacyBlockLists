@@ -1,4 +1,4 @@
-// **** Wed Apr 27 08:24:08 AM UTC 2022
+// **** Tue May  3 09:45:08 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3557,7 +3557,6 @@ shExpMatch(host, '*.converge-digital.com') ||
 shExpMatch(host, '*.conversantmedia.com') ||
 shExpMatch(host, '*.conversionbet.com') ||
 shExpMatch(host, '*.conversionruler.com') ||
-shExpMatch(host, '*.convertbox.com') ||
 shExpMatch(host, '*.convertingtraffic.com') ||
 shExpMatch(host, '*.convrse.media') ||
 shExpMatch(host, '*.cookies.cmpnet.com') ||
@@ -5037,7 +5036,6 @@ shExpMatch(host, '*.fraud.bpcbankingtech.com') ||
 shExpMatch(host, '*.fredkcdekj.me') ||
 shExpMatch(host, '*.free-banners.com') ||
 shExpMatch(host, '*.free-counter.co.uk') ||
-shExpMatch(host, '*.free-counters.co.uk') ||
 shExpMatch(host, '*.free-documents-hosting.com') ||
 shExpMatch(host, '*.free-fililink.cf') ||
 shExpMatch(host, '*.free1121.host.od.ua') ||
@@ -6016,6 +6014,7 @@ shExpMatch(host, '*.intentsify.io') ||
 shExpMatch(host, '*.interacti3ve.xyz') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
+shExpMatch(host, '*.intercom-clicks.com') ||
 shExpMatch(host, '*.interfax-globalnews.com') ||
 shExpMatch(host, '*.intergi.com') ||
 shExpMatch(host, '*.interkomarabipay.cf') ||
@@ -6206,6 +6205,7 @@ shExpMatch(host, '*.jhayesconsulting.com') ||
 shExpMatch(host, '*.jhuzw.pw') ||
 shExpMatch(host, '*.jih465flash.com') ||
 shExpMatch(host, '*.jinkads.de') ||
+shExpMatch(host, '*.jipiao114ai.com') ||
 shExpMatch(host, '*.jisec.xyz') ||
 shExpMatch(host, '*.jiwire.com') ||
 shExpMatch(host, '*.jkazaa.cjt1.net') ||
@@ -7172,6 +7172,7 @@ shExpMatch(host, '*.methodcash.com') ||
 shExpMatch(host, '*.metoristrontgui.info') ||
 shExpMatch(host, '*.metrics-logger.spot.im') ||
 shExpMatch(host, '*.metrics.api.drift.com') ||
+shExpMatch(host, '*.metrics.articulate.com') ||
 shExpMatch(host, '*.metrics.cnn.com') ||
 shExpMatch(host, '*.metrics.consumerreports.org') ||
 shExpMatch(host, '*.metrics.ctv.ca') ||
@@ -9582,6 +9583,7 @@ shExpMatch(host, '*.shawneklassen.com') ||
 shExpMatch(host, '*.shembefoundation.com') ||
 shExpMatch(host, '*.sher.index.hu') ||
 shExpMatch(host, '*.sheried.com') ||
+shExpMatch(host, '*.shermore.info') ||
 shExpMatch(host, '*.sherrypetersphoto.com') ||
 shExpMatch(host, '*.shilo.ml') ||
 shExpMatch(host, '*.shinoavto.com') ||
@@ -11432,7 +11434,6 @@ shExpMatch(host, '*.wintricksbanner.googlepages.com') ||
 shExpMatch(host, '*.winx-clubs.ru') ||
 shExpMatch(host, '*.wireandwoods.ru') ||
 shExpMatch(host, '*.wirecomic.com') ||
-shExpMatch(host, '*.wirelesseuropebalmy.com') ||
 shExpMatch(host, '*.wirelord.us') ||
 shExpMatch(host, '*.wisdomblogger.com') ||
 shExpMatch(host, '*.wisecleaner.cleaning') ||
@@ -15459,7 +15460,6 @@ shExpMatch(host, 'converge-digital.com') ||
 shExpMatch(host, 'conversantmedia.com') ||
 shExpMatch(host, 'conversionbet.com') ||
 shExpMatch(host, 'conversionruler.com') ||
-shExpMatch(host, 'convertbox.com') ||
 shExpMatch(host, 'convertingtraffic.com') ||
 shExpMatch(host, 'convrse.media') ||
 shExpMatch(host, 'cookies.cmpnet.com') ||
@@ -16939,7 +16939,6 @@ shExpMatch(host, 'fraud.bpcbankingtech.com') ||
 shExpMatch(host, 'fredkcdekj.me') ||
 shExpMatch(host, 'free-banners.com') ||
 shExpMatch(host, 'free-counter.co.uk') ||
-shExpMatch(host, 'free-counters.co.uk') ||
 shExpMatch(host, 'free-documents-hosting.com') ||
 shExpMatch(host, 'free-fililink.cf') ||
 shExpMatch(host, 'free1121.host.od.ua') ||
@@ -17918,6 +17917,7 @@ shExpMatch(host, 'intentsify.io') ||
 shExpMatch(host, 'interacti3ve.xyz') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
+shExpMatch(host, 'intercom-clicks.com') ||
 shExpMatch(host, 'interfax-globalnews.com') ||
 shExpMatch(host, 'intergi.com') ||
 shExpMatch(host, 'interkomarabipay.cf') ||
@@ -18108,6 +18108,7 @@ shExpMatch(host, 'jhayesconsulting.com') ||
 shExpMatch(host, 'jhuzw.pw') ||
 shExpMatch(host, 'jih465flash.com') ||
 shExpMatch(host, 'jinkads.de') ||
+shExpMatch(host, 'jipiao114ai.com') ||
 shExpMatch(host, 'jisec.xyz') ||
 shExpMatch(host, 'jiwire.com') ||
 shExpMatch(host, 'jkazaa.cjt1.net') ||
@@ -19074,6 +19075,7 @@ shExpMatch(host, 'methodcash.com') ||
 shExpMatch(host, 'metoristrontgui.info') ||
 shExpMatch(host, 'metrics-logger.spot.im') ||
 shExpMatch(host, 'metrics.api.drift.com') ||
+shExpMatch(host, 'metrics.articulate.com') ||
 shExpMatch(host, 'metrics.cnn.com') ||
 shExpMatch(host, 'metrics.consumerreports.org') ||
 shExpMatch(host, 'metrics.ctv.ca') ||
@@ -21484,6 +21486,7 @@ shExpMatch(host, 'shawneklassen.com') ||
 shExpMatch(host, 'shembefoundation.com') ||
 shExpMatch(host, 'sher.index.hu') ||
 shExpMatch(host, 'sheried.com') ||
+shExpMatch(host, 'shermore.info') ||
 shExpMatch(host, 'sherrypetersphoto.com') ||
 shExpMatch(host, 'shilo.ml') ||
 shExpMatch(host, 'shinoavto.com') ||
@@ -23334,7 +23337,6 @@ shExpMatch(host, 'wintricksbanner.googlepages.com') ||
 shExpMatch(host, 'winx-clubs.ru') ||
 shExpMatch(host, 'wireandwoods.ru') ||
 shExpMatch(host, 'wirecomic.com') ||
-shExpMatch(host, 'wirelesseuropebalmy.com') ||
 shExpMatch(host, 'wirelord.us') ||
 shExpMatch(host, 'wisdomblogger.com') ||
 shExpMatch(host, 'wisecleaner.cleaning') ||
