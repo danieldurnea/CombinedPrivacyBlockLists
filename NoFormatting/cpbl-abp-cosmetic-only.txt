@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Fri Apr 22 01:24:29 AM UTC 2022
+! Updated: Sun May  8 11:14:58 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -80,6 +80,7 @@ decrypt.co##.egrgSy
 decrypt.co##[class*="adbutler"]
 democracynow.org###daily_digest_modal
 dextools.io##app-banner
+divestos.org###bearprompt
 docs.google.com##.docs-dialog.modal-dialog
 docs.google.com##.modal-dialog-bg
 eightvape.com##.header-warning
@@ -253,6 +254,7 @@ tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
+techbone.net##.show.fade.modal
 theblaze.com###sFooter_0_0_2_0_0_4
 theblaze.com##.ad-tag
 theblaze.com##.ad-top-padding
