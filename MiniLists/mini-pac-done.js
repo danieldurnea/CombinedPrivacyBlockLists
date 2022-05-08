@@ -1,4 +1,4 @@
-// **** Tue May  3 09:45:08 PM UTC 2022
+// **** Sun May  8 11:11:46 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -28,6 +28,7 @@ shExpMatch(host, '*.0up.ir') ||
 shExpMatch(host, '*.0uw.ru') ||
 shExpMatch(host, '*.0x0.best') ||
 shExpMatch(host, '*.0x21.in') ||
+shExpMatch(host, '*.1-1ads.com') ||
 shExpMatch(host, '*.1-box.ru') ||
 shExpMatch(host, '*.1.cramssdeleviesor.co.cc') ||
 shExpMatch(host, '*.1008691.com') ||
@@ -1954,6 +1955,7 @@ shExpMatch(host, '*.analytics.swiggy.com') ||
 shExpMatch(host, '*.analytics.xelondigital.com') ||
 shExpMatch(host, '*.analytics.yahoo.com') ||
 shExpMatch(host, '*.analyticsapi.happypancake.net') ||
+shExpMatch(host, '*.analytik.xyz') ||
 shExpMatch(host, '*.ancientact.com') ||
 shExpMatch(host, '*.ancrout.info') ||
 shExpMatch(host, '*.andlache.com') ||
@@ -4502,6 +4504,7 @@ shExpMatch(host, '*.email-opn.adguard.com') ||
 shExpMatch(host, '*.email.m1.bktrksmail.com') ||
 shExpMatch(host, '*.emailerservo.science') ||
 shExpMatch(host, '*.emaillabs.icu') ||
+shExpMatch(host, '*.emaillinks.soundiiz.com') ||
 shExpMatch(host, '*.emailly.icu') ||
 shExpMatch(host, '*.emanog.com') ||
 shExpMatch(host, '*.emarketer.com') ||
@@ -6789,9 +6792,6 @@ shExpMatch(host, '*.longinglettuce.com') ||
 shExpMatch(host, '*.longvoyages.com') ||
 shExpMatch(host, '*.loodd01.xyz') ||
 shExpMatch(host, '*.loodd02.xyz') ||
-shExpMatch(host, '*.look.djfiln.com') ||
-shExpMatch(host, '*.look.ichlnk.com') ||
-shExpMatch(host, '*.look.opskln.com') ||
 shExpMatch(host, '*.look.ufinkln.com') ||
 shExpMatch(host, '*.lookatmenaaaa.tk') ||
 shExpMatch(host, '*.lookdesign.best') ||
@@ -9559,7 +9559,6 @@ shExpMatch(host, '*.shahkara.com.tr') ||
 shExpMatch(host, '*.shahtaxservices.in') ||
 shExpMatch(host, '*.shahu66.com') ||
 shExpMatch(host, '*.shakegoldfish.com') ||
-shExpMatch(host, '*.shakesea.com') ||
 shExpMatch(host, '*.shakesuggestion.com') ||
 shExpMatch(host, '*.shakytaste.com') ||
 shExpMatch(host, '*.shalala.niex.cc') ||
@@ -10901,7 +10900,6 @@ shExpMatch(host, '*.ubr-news.org') ||
 shExpMatch(host, '*.ucfunnel.com') ||
 shExpMatch(host, '*.uchservers.ga') ||
 shExpMatch(host, '*.udkcrj.com') ||
-shExpMatch(host, '*.udncoeln.com') ||
 shExpMatch(host, '*.ueyctgve.xyz') ||
 shExpMatch(host, '*.ufayubja.me') ||
 shExpMatch(host, '*.ugmfvqsu.ru') ||
@@ -11931,6 +11929,7 @@ shExpMatch(host, '0up.ir') ||
 shExpMatch(host, '0uw.ru') ||
 shExpMatch(host, '0x0.best') ||
 shExpMatch(host, '0x21.in') ||
+shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-box.ru') ||
 shExpMatch(host, '1.cramssdeleviesor.co.cc') ||
 shExpMatch(host, '1008691.com') ||
@@ -13857,6 +13856,7 @@ shExpMatch(host, 'analytics.swiggy.com') ||
 shExpMatch(host, 'analytics.xelondigital.com') ||
 shExpMatch(host, 'analytics.yahoo.com') ||
 shExpMatch(host, 'analyticsapi.happypancake.net') ||
+shExpMatch(host, 'analytik.xyz') ||
 shExpMatch(host, 'ancientact.com') ||
 shExpMatch(host, 'ancrout.info') ||
 shExpMatch(host, 'andlache.com') ||
@@ -16405,6 +16405,7 @@ shExpMatch(host, 'email-opn.adguard.com') ||
 shExpMatch(host, 'email.m1.bktrksmail.com') ||
 shExpMatch(host, 'emailerservo.science') ||
 shExpMatch(host, 'emaillabs.icu') ||
+shExpMatch(host, 'emaillinks.soundiiz.com') ||
 shExpMatch(host, 'emailly.icu') ||
 shExpMatch(host, 'emanog.com') ||
 shExpMatch(host, 'emarketer.com') ||
@@ -18692,9 +18693,6 @@ shExpMatch(host, 'longinglettuce.com') ||
 shExpMatch(host, 'longvoyages.com') ||
 shExpMatch(host, 'loodd01.xyz') ||
 shExpMatch(host, 'loodd02.xyz') ||
-shExpMatch(host, 'look.djfiln.com') ||
-shExpMatch(host, 'look.ichlnk.com') ||
-shExpMatch(host, 'look.opskln.com') ||
 shExpMatch(host, 'look.ufinkln.com') ||
 shExpMatch(host, 'lookatmenaaaa.tk') ||
 shExpMatch(host, 'lookdesign.best') ||
@@ -21462,7 +21460,6 @@ shExpMatch(host, 'shahkara.com.tr') ||
 shExpMatch(host, 'shahtaxservices.in') ||
 shExpMatch(host, 'shahu66.com') ||
 shExpMatch(host, 'shakegoldfish.com') ||
-shExpMatch(host, 'shakesea.com') ||
 shExpMatch(host, 'shakesuggestion.com') ||
 shExpMatch(host, 'shakytaste.com') ||
 shExpMatch(host, 'shalala.niex.cc') ||
@@ -22804,7 +22801,6 @@ shExpMatch(host, 'ubr-news.org') ||
 shExpMatch(host, 'ucfunnel.com') ||
 shExpMatch(host, 'uchservers.ga') ||
 shExpMatch(host, 'udkcrj.com') ||
-shExpMatch(host, 'udncoeln.com') ||
 shExpMatch(host, 'ueyctgve.xyz') ||
 shExpMatch(host, 'ufayubja.me') ||
 shExpMatch(host, 'ugmfvqsu.ru') ||
