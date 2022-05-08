@@ -1,4 +1,4 @@
-# Tue May  3 09:28:59 PM UTC 2022
+# Sun May  8 10:58:17 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1324,6 +1324,7 @@
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.safedk.com
+0.0.0.0 api.safegraph.com
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.sailthru.com
 0.0.0.0 api.salmonads.com
@@ -1863,7 +1864,6 @@
 0.0.0.0 beacontest.cardlytics.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
-0.0.0.0 beatchucknorris.com
 0.0.0.0 beeswaxdisplay108801632049.s.moatpixel.com
 0.0.0.0 begun.ru
 0.0.0.0 beha.ksmobile.com
@@ -1873,7 +1873,6 @@
 0.0.0.0 bepolite.eu
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 bet365affiliates.com
-0.0.0.0 betaffs.com
 0.0.0.0 betrad.com
 0.0.0.0 betrad.com.edgekey.net
 0.0.0.0 betsonsport.ru
@@ -3410,11 +3409,9 @@
 0.0.0.0 filter.ezmob.com
 0.0.0.0 filteradkernel.adsimilate.com
 0.0.0.0 financialtimesdfp415669142494.s.moatpixel.com
-0.0.0.0 findbestsolution.net
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 first.iovation.com
 0.0.0.0 firstimpression.io
-0.0.0.0 fizcell.mobi
 0.0.0.0 fizzylabs.afftrack.com
 0.0.0.0 fjrkn.com
 0.0.0.0 fl.a.ki
@@ -3701,7 +3698,6 @@
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 grt02.com
-0.0.0.0 grt03.com
 0.0.0.0 grtb-de.lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
@@ -3906,7 +3902,6 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iam.datasavannah.com
-0.0.0.0 iamediaserve.com
 0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 iaudienc.com
 0.0.0.0 ib.3lift.com
@@ -4823,20 +4818,17 @@
 0.0.0.0 mobivity.com
 0.0.0.0 mobnatives.com
 0.0.0.0 mobnerve.offerstrack.net
-0.0.0.0 moboland.net
 0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobpowertech.com
 0.0.0.0 mobrand.net
-0.0.0.0 mobred.net
 0.0.0.0 mobvista.com
 0.0.0.0 mobytrks.com
 0.0.0.0 mocean.mobi
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mofox.com
 0.0.0.0 mojiva.com
-0.0.0.0 mologiq.net
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monetengine-d.openx.net
 0.0.0.0 monetize-api.coronalabs.com
@@ -4924,7 +4916,6 @@
 0.0.0.0 mybuys.com
 0.0.0.0 mycdn.media.net
 0.0.0.0 mydas.mobi
-0.0.0.0 myinfotopia.com
 0.0.0.0 mystore.bttn.io
 0.0.0.0 mytheresa.commander1.com
 0.0.0.0 mythings.com
@@ -5030,7 +5021,6 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nodeny.targetspot.com
 0.0.0.0 nomalleadzuaff.com
-0.0.0.0 nonmoves.date
 0.0.0.0 nonmutt.eastus.trafficmanager.inmobi.com
 0.0.0.0 nonmutt.sgp.trafficmanager.inmobi.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -5105,7 +5095,6 @@
 0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onetag.io.edgekey.net
-0.0.0.0 ongkidcasarv.com
 0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 online-metrix.net
 0.0.0.0 online-prod.zenmxapps.com
@@ -5462,7 +5451,6 @@
 0.0.0.0 popcash.net
 0.0.0.0 popmarker.com
 0.0.0.0 poptm.com
-0.0.0.0 popularitish.com
 0.0.0.0 popunderz.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 post-log.pushwoosh.com
@@ -5827,7 +5815,6 @@
 0.0.0.0 rm.aarki.net
 0.0.0.0 rm.recs.richrelevance.com
 0.0.0.0 ro-gmtdmp.mookie1.com
-0.0.0.0 robocat.me
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 roimedia.advertserve.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com
@@ -6887,7 +6874,6 @@
 0.0.0.0 t2.beanstalkdata.com
 0.0.0.0 t2.chartboost.com
 0.0.0.0 t2.hulu.com
-0.0.0.0 t3q7af0z.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 ta-collector.centurygame.com
 0.0.0.0 taboola-supply-partners.tremorhub.com
@@ -6949,6 +6935,7 @@
 0.0.0.0 tags.bluekai.com.edgekey.net
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.clickintext.net
+0.0.0.0 tags.creditkarma.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.digital-metric.com
 0.0.0.0 tags.h12-media.com
@@ -7045,7 +7032,6 @@
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 thoughtleadr.com
-0.0.0.0 thoughtsondance.info
 0.0.0.0 thrtle.com
 0.0.0.0 thumbnail.smartnews-ads.com
 0.0.0.0 thunder.adnxs.com
@@ -7143,6 +7129,7 @@
 0.0.0.0 track.customer.io
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.effiliation.com
+0.0.0.0 track.extra.app
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.hk01.com
 0.0.0.0 track.knlob.com
@@ -7331,7 +7318,6 @@
 0.0.0.0 u.ds.duapps.com
 0.0.0.0 u.dxsvr.com
 0.0.0.0 u.superadbox.com
-0.0.0.0 u1hw38x0.com
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 ua-myfitnesspal.adsbynimbus.com
 0.0.0.0 ua.supersonicads.com
@@ -7590,6 +7576,7 @@
 0.0.0.0 vg-aws-us-east-1b-hb.rayjump.com
 0.0.0.0 vg-new-hb.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
+0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vi-serve.com
 0.0.0.0 via.batch.com
 0.0.0.0 viacom.sc.omtrdc.net
@@ -7727,7 +7714,6 @@
 0.0.0.0 weboohost.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websdk.moengage.com
-0.0.0.0 websexy.mobi
 0.0.0.0 webtracker.jp
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 weighted.com.akadns.net
@@ -7963,7 +7949,6 @@
 0.0.0.0 ziffdavis.com
 0.0.0.0 zj.dcys.ijinshan.com
 0.0.0.0 zn42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
-0.0.0.0 zoglafi.info
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 ztevents.zaloapp.com
