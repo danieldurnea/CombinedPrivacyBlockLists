@@ -6157,7 +6157,6 @@
 0.0.0.0 ar.adserver.yahoo.com
 0.0.0.0 ar.voicefive.com
 0.0.0.0 ar1nvz5.com
-0.0.0.0 ara-choob.com
 0.0.0.0 arabianpayclub.cf
 0.0.0.0 arabianpayclub.ga
 0.0.0.0 arabianpayclub.gq
@@ -6929,6 +6928,7 @@
 0.0.0.0 biggames.club
 0.0.0.0 bighyip-monitor.com
 0.0.0.0 bigip.stream
+0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigmir.email
 0.0.0.0 bigmobileads.com
 0.0.0.0 bigosext69.com
@@ -7032,7 +7032,6 @@
 0.0.0.0 blog.laferre.co
 0.0.0.0 blog.livedooor.info
 0.0.0.0 blog.livelog.biz
-0.0.0.0 blog.searstownonline.com
 0.0.0.0 blog.stetgzs.cn
 0.0.0.0 blog.with2.net
 0.0.0.0 blogads.com
@@ -9709,6 +9708,7 @@
 0.0.0.0 dropbox-apps.com
 0.0.0.0 dropboxfiles.net
 0.0.0.0 drsha.innovativesolutions.mobi
+0.0.0.0 drspringett.com
 0.0.0.0 drujbanu.pw
 0.0.0.0 drunk-ac.ru
 0.0.0.0 drvikaskakkar.in
@@ -10315,6 +10315,7 @@
 0.0.0.0 equipmnts.com
 0.0.0.0 er.spo.spotify.com
 0.0.0.0 erabahrain.net
+0.0.0.0 erebate.in
 0.0.0.0 eremedia.112.2o7.net
 0.0.0.0 eremogaudio.it
 0.0.0.0 ergotherapeia-kalamata.gr
@@ -13117,7 +13118,6 @@
 0.0.0.0 jupiter.appads.com
 0.0.0.0 jurty.ml
 0.0.0.0 jurtym.cf
-0.0.0.0 just5team.com
 0.0.0.0 justdoits.pw
 0.0.0.0 justicejudo.com
 0.0.0.0 justpony.xyz
@@ -13573,7 +13573,6 @@
 0.0.0.0 letsnewsblog.xyz
 0.0.0.0 letssee.click
 0.0.0.0 lettucelimit.com
-0.0.0.0 levelformation.fr
 0.0.0.0 leveragemarketing.112.2o7.net
 0.0.0.0 lg.logging.admicro.vn
 0.0.0.0 lg1.logging.admicro.vn
@@ -22934,7 +22933,6 @@
 0.0.0.0 www.destinocuenca.com
 0.0.0.0 www.device9.com
 0.0.0.0 www.device9.net
-0.0.0.0 www.digitaltrustco.com
 0.0.0.0 www.directnetadvertising.net
 0.0.0.0 www.doctorcasenave.com
 0.0.0.0 www.doubleclick.ne.jp
@@ -23208,6 +23206,7 @@
 0.0.0.0 www.my-stats.com
 0.0.0.0 www.myadsl.co.za
 0.0.0.0 www.mycashback.co.uk
+0.0.0.0 www.nagarsanchar.com
 0.0.0.0 www.nctracking.com
 0.0.0.0 www.needadvertising.com
 0.0.0.0 www.neptuneads.com
@@ -23452,6 +23451,7 @@
 0.0.0.0 xa.shinobi.jp
 0.0.0.0 xads.zedo.com
 0.0.0.0 xandr.com
+0.0.0.0 xariatowing.co.za
 0.0.0.0 xcfhjxfyxnhnjzh10.com
 0.0.0.0 xcn1.yiluzhuanqian.com
 0.0.0.0 xcnnuxfd.lmyiwaakn.com
