@@ -1,4 +1,4 @@
-// **** Mon May  9 11:04:06 PM UTC 2022
+// **** Fri May 13 11:47:45 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3444,6 +3444,7 @@ shExpMatch(host, '*.co-operative-bank.com') ||
 shExpMatch(host, '*.cocomet-china.com') ||
 shExpMatch(host, '*.code-server.biz') ||
 shExpMatch(host, '*.codeadnetwork.com') ||
+shExpMatch(host, '*.codeconline.biz') ||
 shExpMatch(host, '*.codigoamigo.com.br') ||
 shExpMatch(host, '*.codingguydev.000webhostapp.com') ||
 shExpMatch(host, '*.cofenator.ru') ||
@@ -5034,7 +5035,6 @@ shExpMatch(host, '*.frame.hosting') ||
 shExpMatch(host, '*.framemakers.us') ||
 shExpMatch(host, '*.frameupds.info') ||
 shExpMatch(host, '*.francehayon.fr') ||
-shExpMatch(host, '*.franklybundlecarver.com') ||
 shExpMatch(host, '*.fraud.bpcbankingtech.com') ||
 shExpMatch(host, '*.fredkcdekj.me') ||
 shExpMatch(host, '*.free-banners.com') ||
@@ -5736,7 +5736,6 @@ shExpMatch(host, '*.hudsonenorincludes.com') ||
 shExpMatch(host, '*.hueads.com') ||
 shExpMatch(host, '*.hueadsortb.com') ||
 shExpMatch(host, '*.hueadsxml.com') ||
-shExpMatch(host, '*.huezzcjskf.site') ||
 shExpMatch(host, '*.hugebonus.drfelipecosta.com') ||
 shExpMatch(host, '*.huimeng.live') ||
 shExpMatch(host, '*.humandemand.com') ||
@@ -7852,10 +7851,12 @@ shExpMatch(host, '*.ns0-volia.net') ||
 shExpMatch(host, '*.ns1-datagroup.com') ||
 shExpMatch(host, '*.ns1-datagroup.org') ||
 shExpMatch(host, '*.ns1-volia.net') ||
+shExpMatch(host, '*.ns1.codeconline.biz') ||
 shExpMatch(host, '*.ns1.dnshost.ga') ||
 shExpMatch(host, '*.ns1.frobbit.se') ||
 shExpMatch(host, '*.ns1.intstallusd.online') ||
 shExpMatch(host, '*.ns1.mmfasi.com') ||
+shExpMatch(host, '*.ns1.player1523.com') ||
 shExpMatch(host, '*.ns1p.net') ||
 shExpMatch(host, '*.ns2-datagroup.com') ||
 shExpMatch(host, '*.ns2-datagroup.org') ||
@@ -8410,6 +8411,7 @@ shExpMatch(host, '*.play.tercabilis.info') ||
 shExpMatch(host, '*.play.video2.stream.vidzi.tv') ||
 shExpMatch(host, '*.play.vidzi.tv') ||
 shExpMatch(host, '*.play4traffic.com') ||
+shExpMatch(host, '*.player1523.com') ||
 shExpMatch(host, '*.playerassets.info') ||
 shExpMatch(host, '*.playground.oaklife.ca') ||
 shExpMatch(host, '*.playhaven.com') ||
@@ -10226,6 +10228,7 @@ shExpMatch(host, '*.szn.services') ||
 shExpMatch(host, '*.t-safe.nl') ||
 shExpMatch(host, '*.t.appsflyer.com') ||
 shExpMatch(host, '*.t.bawafx.com') ||
+shExpMatch(host, '*.t.co') ||
 shExpMatch(host, '*.t.device9.com') ||
 shExpMatch(host, '*.t.device9.net') ||
 shExpMatch(host, '*.t.eloqua.com') ||
@@ -11203,7 +11206,6 @@ shExpMatch(host, '*.voluumtrk2.com') ||
 shExpMatch(host, '*.volvelle.tech') ||
 shExpMatch(host, '*.vonodecidid.eu') ||
 shExpMatch(host, '*.vonty.best') ||
-shExpMatch(host, '*.voodoo-ads.io') ||
 shExpMatch(host, '*.vopycyfutoc.eu') ||
 shExpMatch(host, '*.vorkutasport.ru') ||
 shExpMatch(host, '*.voronezh-pet.ru') ||
@@ -15344,6 +15346,7 @@ shExpMatch(host, 'co-operative-bank.com') ||
 shExpMatch(host, 'cocomet-china.com') ||
 shExpMatch(host, 'code-server.biz') ||
 shExpMatch(host, 'codeadnetwork.com') ||
+shExpMatch(host, 'codeconline.biz') ||
 shExpMatch(host, 'codigoamigo.com.br') ||
 shExpMatch(host, 'codingguydev.000webhostapp.com') ||
 shExpMatch(host, 'cofenator.ru') ||
@@ -16934,7 +16937,6 @@ shExpMatch(host, 'frame.hosting') ||
 shExpMatch(host, 'framemakers.us') ||
 shExpMatch(host, 'frameupds.info') ||
 shExpMatch(host, 'francehayon.fr') ||
-shExpMatch(host, 'franklybundlecarver.com') ||
 shExpMatch(host, 'fraud.bpcbankingtech.com') ||
 shExpMatch(host, 'fredkcdekj.me') ||
 shExpMatch(host, 'free-banners.com') ||
@@ -17636,7 +17638,6 @@ shExpMatch(host, 'hudsonenorincludes.com') ||
 shExpMatch(host, 'hueads.com') ||
 shExpMatch(host, 'hueadsortb.com') ||
 shExpMatch(host, 'hueadsxml.com') ||
-shExpMatch(host, 'huezzcjskf.site') ||
 shExpMatch(host, 'hugebonus.drfelipecosta.com') ||
 shExpMatch(host, 'huimeng.live') ||
 shExpMatch(host, 'humandemand.com') ||
@@ -19752,10 +19753,12 @@ shExpMatch(host, 'ns0-volia.net') ||
 shExpMatch(host, 'ns1-datagroup.com') ||
 shExpMatch(host, 'ns1-datagroup.org') ||
 shExpMatch(host, 'ns1-volia.net') ||
+shExpMatch(host, 'ns1.codeconline.biz') ||
 shExpMatch(host, 'ns1.dnshost.ga') ||
 shExpMatch(host, 'ns1.frobbit.se') ||
 shExpMatch(host, 'ns1.intstallusd.online') ||
 shExpMatch(host, 'ns1.mmfasi.com') ||
+shExpMatch(host, 'ns1.player1523.com') ||
 shExpMatch(host, 'ns1p.net') ||
 shExpMatch(host, 'ns2-datagroup.com') ||
 shExpMatch(host, 'ns2-datagroup.org') ||
@@ -20310,6 +20313,7 @@ shExpMatch(host, 'play.tercabilis.info') ||
 shExpMatch(host, 'play.video2.stream.vidzi.tv') ||
 shExpMatch(host, 'play.vidzi.tv') ||
 shExpMatch(host, 'play4traffic.com') ||
+shExpMatch(host, 'player1523.com') ||
 shExpMatch(host, 'playerassets.info') ||
 shExpMatch(host, 'playground.oaklife.ca') ||
 shExpMatch(host, 'playhaven.com') ||
@@ -22126,6 +22130,7 @@ shExpMatch(host, 'szn.services') ||
 shExpMatch(host, 't-safe.nl') ||
 shExpMatch(host, 't.appsflyer.com') ||
 shExpMatch(host, 't.bawafx.com') ||
+shExpMatch(host, 't.co') ||
 shExpMatch(host, 't.device9.com') ||
 shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 't.eloqua.com') ||
@@ -23103,7 +23108,6 @@ shExpMatch(host, 'voluumtrk2.com') ||
 shExpMatch(host, 'volvelle.tech') ||
 shExpMatch(host, 'vonodecidid.eu') ||
 shExpMatch(host, 'vonty.best') ||
-shExpMatch(host, 'voodoo-ads.io') ||
 shExpMatch(host, 'vopycyfutoc.eu') ||
 shExpMatch(host, 'vorkutasport.ru') ||
 shExpMatch(host, 'voronezh-pet.ru') ||
