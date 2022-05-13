@@ -1,4 +1,4 @@
-// **** Mon May  9 11:00:21 PM UTC 2022
+// **** Fri May 13 11:41:46 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6751,7 +6751,6 @@ shExpMatch(host, '*.france.id131337608-5036396713.w595505.com') ||
 shExpMatch(host, '*.frankdoc.site') ||
 shExpMatch(host, '*.frankjackpot.io') ||
 shExpMatch(host, '*.frankjackpot.pro') ||
-shExpMatch(host, '*.franklybundlecarver.com') ||
 shExpMatch(host, '*.frankychamp.com') ||
 shExpMatch(host, '*.frantsuz.com') ||
 shExpMatch(host, '*.freasoft.com') ||
@@ -8981,7 +8980,6 @@ shExpMatch(host, '*.hudbee.com') ||
 shExpMatch(host, '*.hueads.com') ||
 shExpMatch(host, '*.hueadsortb.com') ||
 shExpMatch(host, '*.hueadsxml.com') ||
-shExpMatch(host, '*.huezzcjskf.site') ||
 shExpMatch(host, '*.hugebestbuy.cn') ||
 shExpMatch(host, '*.hugefileshare.com') ||
 shExpMatch(host, '*.hugeskins.com') ||
@@ -15049,6 +15047,7 @@ shExpMatch(host, '*.sznm.com.cn') ||
 shExpMatch(host, '*.t-safe.nl') ||
 shExpMatch(host, '*.t.appsflyer.com') ||
 shExpMatch(host, '*.t.bawafx.com') ||
+shExpMatch(host, '*.t.co') ||
 shExpMatch(host, '*.t.device9.com') ||
 shExpMatch(host, '*.t.device9.net') ||
 shExpMatch(host, '*.t.eloqua.com') ||
@@ -16455,7 +16454,6 @@ shExpMatch(host, '*.voluum.com') ||
 shExpMatch(host, '*.voluumtrk2.com') ||
 shExpMatch(host, '*.volvelle.tech') ||
 shExpMatch(host, '*.vomoko.ru') ||
-shExpMatch(host, '*.voodoo-ads.io') ||
 shExpMatch(host, '*.vooney.com') ||
 shExpMatch(host, '*.voqboard.ru') ||
 shExpMatch(host, '*.vor.cc') ||
@@ -24451,7 +24449,6 @@ shExpMatch(host, 'france.id131337608-5036396713.w595505.com') ||
 shExpMatch(host, 'frankdoc.site') ||
 shExpMatch(host, 'frankjackpot.io') ||
 shExpMatch(host, 'frankjackpot.pro') ||
-shExpMatch(host, 'franklybundlecarver.com') ||
 shExpMatch(host, 'frankychamp.com') ||
 shExpMatch(host, 'frantsuz.com') ||
 shExpMatch(host, 'freasoft.com') ||
@@ -26681,7 +26678,6 @@ shExpMatch(host, 'hudbee.com') ||
 shExpMatch(host, 'hueads.com') ||
 shExpMatch(host, 'hueadsortb.com') ||
 shExpMatch(host, 'hueadsxml.com') ||
-shExpMatch(host, 'huezzcjskf.site') ||
 shExpMatch(host, 'hugebestbuy.cn') ||
 shExpMatch(host, 'hugefileshare.com') ||
 shExpMatch(host, 'hugeskins.com') ||
@@ -32749,6 +32745,7 @@ shExpMatch(host, 'sznm.com.cn') ||
 shExpMatch(host, 't-safe.nl') ||
 shExpMatch(host, 't.appsflyer.com') ||
 shExpMatch(host, 't.bawafx.com') ||
+shExpMatch(host, 't.co') ||
 shExpMatch(host, 't.device9.com') ||
 shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 't.eloqua.com') ||
@@ -34155,7 +34152,6 @@ shExpMatch(host, 'voluum.com') ||
 shExpMatch(host, 'voluumtrk2.com') ||
 shExpMatch(host, 'volvelle.tech') ||
 shExpMatch(host, 'vomoko.ru') ||
-shExpMatch(host, 'voodoo-ads.io') ||
 shExpMatch(host, 'vooney.com') ||
 shExpMatch(host, 'voqboard.ru') ||
 shExpMatch(host, 'vor.cc') ||
