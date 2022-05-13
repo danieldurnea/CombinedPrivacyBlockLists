@@ -1,4 +1,4 @@
-# Mon May  9 10:55:09 PM UTC 2022
+# Fri May 13 11:28:28 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -224,6 +224,8 @@
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
+0.0.0.0 aax-us-east-retail-direct.amazon-adsystem.com
+0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
@@ -2638,7 +2640,6 @@
 0.0.0.0 config.emb-api.com
 0.0.0.0 config.hiido.com
 0.0.0.0 config.inmobi.com
-0.0.0.0 config.ioam.de
 0.0.0.0 config.mobilegamestats.com
 0.0.0.0 config.otherlevels.com
 0.0.0.0 config.quantumgraph.com
@@ -3747,7 +3748,6 @@
 0.0.0.0 hasmobi.net
 0.0.0.0 hassaleh.iad-03.braze.com
 0.0.0.0 havasedge.com
-0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.aralego.com
@@ -4168,7 +4168,6 @@
 0.0.0.0 ir.surveywall-api.survata.com
 0.0.0.0 iris.tv
 0.0.0.0 iroko.gocarrot.com
-0.0.0.0 irqs.ioam.de
 0.0.0.0 irr.ru
 0.0.0.0 irs01.com
 0.0.0.0 is-gateway.supersonicads.com
@@ -6049,7 +6048,6 @@
 0.0.0.0 script.4dex.io
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
-0.0.0.0 script.ioam.de
 0.0.0.0 script.leadboxer.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 scripts.affiliatefuture.com
