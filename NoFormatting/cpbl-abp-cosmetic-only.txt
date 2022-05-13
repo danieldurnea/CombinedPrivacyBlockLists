@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun May  8 11:14:58 PM UTC 2022
+! Updated: Fri May 13 12:05:55 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -367,16 +367,24 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
+###ad-container
 ###banner-300x600-area
 ###banner-728x90-area
+###player-ads
 ###story-ad-1-wrapper
 ###story-ad-2-wrapper
 ###story-ad-3-wrapper
 ###story-ad-wrapper
 ##.ad-unit
+##.ad-zone
+##.ad-zone-container
+##.adsninja-ad-zone
 ##.ad300
+##.adsbygoogle
+##.adslot
 ##.ad_box
 ##.ad_unit
+##.ads_place
 ##.adwrap
 ##.after_content_banner_advert
 ##.banner-300x600
