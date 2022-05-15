@@ -64153,7 +64153,6 @@ t.channeladvisor.com
 t.chartboost.com
 t.clic2buy.com
 t.cnscore.com
-t.co
 t.comms.thetimes.co.uk
 t.contentsquare.net
 t.cubuffs.com

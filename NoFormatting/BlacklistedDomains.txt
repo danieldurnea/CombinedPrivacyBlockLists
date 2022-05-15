@@ -91423,7 +91423,6 @@ t.chartboost.com
 t.cinemablend.com
 t.clic2buy.com
 t.cnscore.com
-t.co
 t.comms.thetimes.co.uk
 t.contentsquare.net
 t.cubuffs.com

@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 05/13/22~23:47:24 -~
+# ~- 05/15/22~07:37:39 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -64188,7 +64188,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 t.chartboost.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.cnscore.com
-0.0.0.0 t.co
 0.0.0.0 t.comms.thetimes.co.uk
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.cubuffs.com
@@ -142512,7 +142511,6 @@ ff02::2 ip6-allrouters
 :: t.chartboost.com
 :: t.clic2buy.com
 :: t.cnscore.com
-:: t.co
 :: t.comms.thetimes.co.uk
 :: t.contentsquare.net
 :: t.cubuffs.com

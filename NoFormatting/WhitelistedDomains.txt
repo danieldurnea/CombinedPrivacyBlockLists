@@ -504,6 +504,7 @@ support.signal.org
 swscan.apple.com
 syndication.twitter.com
 sysctl.org
+t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.tiqcdn.com
