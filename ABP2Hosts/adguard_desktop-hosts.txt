@@ -1,4 +1,4 @@
-# Fri May 13 11:36:20 PM UTC 2022
+# Sun May 15 08:47:18 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 00-gov.cn
@@ -927,6 +927,7 @@
 0.0.0.0 4gustis.xyz
 0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4htixb.cn
+0.0.0.0 4kddyfd.cn
 0.0.0.0 4ke5b4ila.codedge.de
 0.0.0.0 4kfv18.cn
 0.0.0.0 4kmovies.online
@@ -4579,6 +4580,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 ana.mediable.info
 0.0.0.0 ana.tv5unis.ca
+0.0.0.0 anabcd.xyz
 0.0.0.0 analsexstars.com
 0.0.0.0 analy.qq.com
 0.0.0.0 analyse.hinemos.info
@@ -4984,6 +4986,7 @@
 0.0.0.0 anciet.com
 0.0.0.0 ancjmfycf.com
 0.0.0.0 andersondolly.actonservice.com
+0.0.0.0 andhub.jp
 0.0.0.0 andinterpers.com
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 andohs.net
@@ -7890,6 +7893,7 @@
 0.0.0.0 c02o3mpych.com
 0.0.0.0 c0594.com
 0.0.0.0 c09.xyz
+0.0.0.0 c0c.biz
 0.0.0.0 c0c.xyz
 0.0.0.0 c0i.ckoi.com
 0.0.0.0 c0p.cepsum.umontreal.ca
@@ -10481,6 +10485,7 @@
 0.0.0.0 cyih0e43aty7.com
 0.0.0.0 cyjaruvndimgaa.com
 0.0.0.0 cykynethe.com
+0.0.0.0 cyl3h68.cn
 0.0.0.0 cylize.com
 0.0.0.0 cylwwyy.xyz
 0.0.0.0 cymaisefacsim.com
@@ -11725,6 +11730,7 @@
 0.0.0.0 dexterchaney.actonservice.com
 0.0.0.0 dextersolutions.actonservice.com
 0.0.0.0 dexuanyu.top
+0.0.0.0 deya.ink
 0.0.0.0 deyidesign.com
 0.0.0.0 df.tanx.com
 0.0.0.0 df0pmigc8xs70.cloudfront.net
@@ -12255,6 +12261,7 @@
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dmeq7blex6x1u.cloudfront.net
 0.0.0.0 dmfhqzo.cn
+0.0.0.0 dmfjeu.xyz
 0.0.0.0 dmg0877nfcvqj.cloudfront.net
 0.0.0.0 dmkdtkad2jyb9.cloudfront.net
 0.0.0.0 dmkt.solutions.cas.org
@@ -14495,6 +14502,7 @@
 0.0.0.0 fanli.in
 0.0.0.0 fannonglairin.com
 0.0.0.0 fansign.streamray.com
+0.0.0.0 fanst.club
 0.0.0.0 fanumi.com
 0.0.0.0 fanwoyang.com
 0.0.0.0 fanyi100.com.cn
@@ -15190,6 +15198,7 @@
 0.0.0.0 fppmnvrubgl.xyz
 0.0.0.0 fppzikurc.com
 0.0.0.0 fpreld.cn
+0.0.0.0 fpvdxd5.com
 0.0.0.0 fpwtsp.xxxlutz.de
 0.0.0.0 fpxewa.ilmeteo.it
 0.0.0.0 fpyacdna.com
@@ -16739,6 +16748,7 @@
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxtytj.com
 0.0.0.0 gxymlqcnu.com
+0.0.0.0 gxzxiww.com
 0.0.0.0 gybles.shopee.ph
 0.0.0.0 gybyxsy1588.com
 0.0.0.0 gyccdnydir.com
@@ -16819,6 +16829,7 @@
 0.0.0.0 habtcng.cn
 0.0.0.0 habyc.com
 0.0.0.0 hackelevensol.com
+0.0.0.0 hackeraa.xyz
 0.0.0.0 hackesie.net
 0.0.0.0 haddock.affilimate.com
 0.0.0.0 haddock.simgenie.app
@@ -17593,6 +17604,7 @@
 0.0.0.0 hookeroblong.com
 0.0.0.0 hookhub.webcam
 0.0.0.0 hookworm.commanddot.com
+0.0.0.0 hooliganmedia.com
 0.0.0.0 hooligapps.com
 0.0.0.0 hoolyfy.com
 0.0.0.0 hoophaub.com
@@ -17851,6 +17863,7 @@
 0.0.0.0 huixingcheng.cn
 0.0.0.0 huiyef.cn
 0.0.0.0 huiyutz.cn
+0.0.0.0 huizai.top
 0.0.0.0 huizeyoupin.com
 0.0.0.0 hulai0323166.space
 0.0.0.0 hulauf.cn
@@ -19059,6 +19072,7 @@
 0.0.0.0 ixmlusc.cn
 0.0.0.0 ixnow.xyz
 0.0.0.0 ixnp.com
+0.0.0.0 ixnrmco.com
 0.0.0.0 ixqfughrynmfh.com
 0.0.0.0 ixsgoy.getpenta.com
 0.0.0.0 iycifx.coldwatercreek.com
@@ -19112,6 +19126,7 @@
 0.0.0.0 jacketzerobelieved.com
 0.0.0.0 jacklm1.com
 0.0.0.0 jacklm2.com
+0.0.0.0 jacksonyee.club
 0.0.0.0 jacquelinelaura.com
 0.0.0.0 jadcenter.com
 0.0.0.0 jadout.com
@@ -20506,6 +20521,7 @@
 0.0.0.0 kuheju.com
 0.0.0.0 kujrsivgg.com
 0.0.0.0 kukanlm-lubu1.com
+0.0.0.0 kukanlm-my1.com
 0.0.0.0 kukanlm-youeryuan.com
 0.0.0.0 kukulm.com
 0.0.0.0 kukury2hf8nd09.com
@@ -20561,6 +20577,7 @@
 0.0.0.0 kxapctq.cn
 0.0.0.0 kxbvazfrioxs.com
 0.0.0.0 kxclorpruisyo.com
+0.0.0.0 kxla.xyz
 0.0.0.0 kxldvcytb.xyz
 0.0.0.0 kxmrwu.ibarakinews.jp
 0.0.0.0 kxmvoppmbtzdi.com
@@ -20727,6 +20744,7 @@
 0.0.0.0 lantern.kronos.mx
 0.0.0.0 lanternpossibly.com
 0.0.0.0 lantuyj.com
+0.0.0.0 lanyue.ink
 0.0.0.0 lanzuankeji.cn
 0.0.0.0 laobaigushi.com
 0.0.0.0 laobei.top
@@ -22087,6 +22105,7 @@
 0.0.0.0 main.exosrv.com
 0.0.0.0 main.jiukang.org
 0.0.0.0 main.realsrv.com
+0.0.0.0 mainad-codpp.com
 0.0.0.0 mainadv.com
 0.0.0.0 mainapiary.com
 0.0.0.0 mainauko.net
@@ -24143,6 +24162,7 @@
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobpushup.com
 0.0.0.0 mobreach.com
+0.0.0.0 mobrkbb.com
 0.0.0.0 mobshark.net
 0.0.0.0 mobstrks.com
 0.0.0.0 mobsuitem.com
@@ -24575,7 +24595,6 @@
 0.0.0.0 mworkhovd.com
 0.0.0.0 mwprotected.com
 0.0.0.0 mwquick.com
-0.0.0.0 mx.loubiqu.com
 0.0.0.0 mx.promo.skf.com
 0.0.0.0 mx03.phorm.com
 0.0.0.0 mx98.xyz
@@ -27064,6 +27083,7 @@
 0.0.0.0 pfcdnc.com
 0.0.0.0 pfconm.koleso.ru
 0.0.0.0 pffw8mgd.com
+0.0.0.0 pfiparts.com
 0.0.0.0 pfizer.com.tw
 0.0.0.0 pfklopud.xyz
 0.0.0.0 pflhnpu.cn
@@ -27891,6 +27911,7 @@
 0.0.0.0 ppwxgpr.cn
 0.0.0.0 ppxbsbluutiwc.xyz
 0.0.0.0 ppxldikxksuo.com
+0.0.0.0 ppyibei.com
 0.0.0.0 pqciix.busuu.com
 0.0.0.0 pqn7.cheque-dejeuner.fr
 0.0.0.0 pqorwmmlkf.com
@@ -35539,6 +35560,7 @@
 0.0.0.0 sumlessbelat.com
 0.0.0.0 summary.bookoffonline.co.jp
 0.0.0.0 summaryflamen.com
+0.0.0.0 summerxzp.xyz
 0.0.0.0 summit.edm.globalsources.com
 0.0.0.0 sumshaggy.com
 0.0.0.0 sun66387567606.online
@@ -35559,6 +35581,7 @@
 0.0.0.0 suntiz.com
 0.0.0.0 sunwardamoraic.com
 0.0.0.0 sunyftlaoiiy.com
+0.0.0.0 sunyujia.top
 0.0.0.0 suocloud.com
 0.0.0.0 suoksm.cn
 0.0.0.0 suoooi.cn
@@ -35780,6 +35803,7 @@
 0.0.0.0 swjrzk.cn
 0.0.0.0 swkism.moon-trade.ru
 0.0.0.0 swmdqn.sizeofficial.fr
+0.0.0.0 swml.xyz
 0.0.0.0 swnptn.cn
 0.0.0.0 swoodlander.site
 0.0.0.0 swoopclusterbeasts.com
@@ -39375,6 +39399,7 @@
 0.0.0.0 uurykr.pizzahut.com.mx
 0.0.0.0 uuu9.tieba.com
 0.0.0.0 uuwhg.com
+0.0.0.0 uuwn7ho.cn
 0.0.0.0 uuybnrimdyg.com
 0.0.0.0 uuydabxaindfsb.xyz
 0.0.0.0 uuywe.top
@@ -40163,6 +40188,7 @@
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wa.bol.com
 0.0.0.0 wa.devolksbank.nl
+0.0.0.0 wa.mail.com
 0.0.0.0 wa.ncr.com
 0.0.0.0 wa.personalcreations.com
 0.0.0.0 wa.planet-wissen.de
@@ -40928,6 +40954,7 @@
 0.0.0.0 wmruzfvtg.com
 0.0.0.0 wmspw.com
 0.0.0.0 wn052ucd.online
+0.0.0.0 wn68din.cn
 0.0.0.0 wnbeiskivkkmpy.xyz
 0.0.0.0 wnbssfaitzgt.com
 0.0.0.0 wnccxcgvkuoitmy.com
@@ -42160,11 +42187,13 @@
 0.0.0.0 ygtt.mobi
 0.0.0.0 ygtx.mobi
 0.0.0.0 ygudtbdnhkhlmkd.xyz
+0.0.0.0 yguo.xyz
 0.0.0.0 yguuoibdsscki.com
 0.0.0.0 ygyl.xyz
 0.0.0.0 ygzkedoxwhqlzp.com
 0.0.0.0 yh6u.dealeusedevoyages.com
 0.0.0.0 yhaizy.cn
+0.0.0.0 yhbsk.cn
 0.0.0.0 yhdcdo.crazy-factory.com
 0.0.0.0 yhdtns.com
 0.0.0.0 yhhls.com
@@ -43256,6 +43285,7 @@
 0.0.0.0 zychologla.com
 0.0.0.0 zydyjzw.cn
 0.0.0.0 zyezhz.cn
+0.0.0.0 zyf03k.xyz
 0.0.0.0 zygrophochi.com
 0.0.0.0 zyhx.ltd
 0.0.0.0 zyiis.net
