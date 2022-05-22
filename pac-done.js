@@ -1,4 +1,4 @@
-// **** Sun May 15 08:51:37 PM UTC 2022
+// **** Sun May 22 03:45:50 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -5686,7 +5686,6 @@ shExpMatch(host, '*.emanog.com') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.embedor.com') ||
 shExpMatch(host, '*.embrari-1.cn') ||
-shExpMatch(host, '*.emebo.com') ||
 shExpMatch(host, '*.emebo.io') ||
 shExpMatch(host, '*.emediate.dk') ||
 shExpMatch(host, '*.emediate.eu') ||
@@ -8612,6 +8611,7 @@ shExpMatch(host, '*.hackzonne.net') ||
 shExpMatch(host, '*.hackzs.com') ||
 shExpMatch(host, '*.hadamilano.com') ||
 shExpMatch(host, '*.hadat.ru') ||
+shExpMatch(host, '*.hadskiz.com') ||
 shExpMatch(host, '*.haedhal.com') ||
 shExpMatch(host, '*.haeied.net') ||
 shExpMatch(host, '*.hahablaururu.info') ||
@@ -13174,7 +13174,6 @@ shExpMatch(host, '*.recharge-mobile-gratuit.fr') ||
 shExpMatch(host, '*.reclamus.com') ||
 shExpMatch(host, '*.recoco.it') ||
 shExpMatch(host, '*.reconditerake.com') ||
-shExpMatch(host, '*.record.affiliates.karjalakasino.com') ||
 shExpMatch(host, '*.record.bonniergaming.com') ||
 shExpMatch(host, '*.record.mrwin.com') ||
 shExpMatch(host, '*.recording-music.net') ||
@@ -14870,7 +14869,6 @@ shExpMatch(host, '*.stream.gonx.xyz') ||
 shExpMatch(host, '*.stream.hdmoviefull.com') ||
 shExpMatch(host, '*.stream.jozmovie.xyz') ||
 shExpMatch(host, '*.stream.movichart.com') ||
-shExpMatch(host, '*.stream.useriq.com') ||
 shExpMatch(host, '*.stream7.info') ||
 shExpMatch(host, '*.stream80.com') ||
 shExpMatch(host, '*.streamfullmoviehd.com') ||
@@ -23383,7 +23381,6 @@ shExpMatch(host, 'emanog.com') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'embedor.com') ||
 shExpMatch(host, 'embrari-1.cn') ||
-shExpMatch(host, 'emebo.com') ||
 shExpMatch(host, 'emebo.io') ||
 shExpMatch(host, 'emediate.dk') ||
 shExpMatch(host, 'emediate.eu') ||
@@ -26309,6 +26306,7 @@ shExpMatch(host, 'hackzonne.net') ||
 shExpMatch(host, 'hackzs.com') ||
 shExpMatch(host, 'hadamilano.com') ||
 shExpMatch(host, 'hadat.ru') ||
+shExpMatch(host, 'hadskiz.com') ||
 shExpMatch(host, 'haedhal.com') ||
 shExpMatch(host, 'haeied.net') ||
 shExpMatch(host, 'hahablaururu.info') ||
@@ -30871,7 +30869,6 @@ shExpMatch(host, 'recharge-mobile-gratuit.fr') ||
 shExpMatch(host, 'reclamus.com') ||
 shExpMatch(host, 'recoco.it') ||
 shExpMatch(host, 'reconditerake.com') ||
-shExpMatch(host, 'record.affiliates.karjalakasino.com') ||
 shExpMatch(host, 'record.bonniergaming.com') ||
 shExpMatch(host, 'record.mrwin.com') ||
 shExpMatch(host, 'recording-music.net') ||
@@ -32567,7 +32564,6 @@ shExpMatch(host, 'stream.gonx.xyz') ||
 shExpMatch(host, 'stream.hdmoviefull.com') ||
 shExpMatch(host, 'stream.jozmovie.xyz') ||
 shExpMatch(host, 'stream.movichart.com') ||
-shExpMatch(host, 'stream.useriq.com') ||
 shExpMatch(host, 'stream7.info') ||
 shExpMatch(host, 'stream80.com') ||
 shExpMatch(host, 'streamfullmoviehd.com') ||
