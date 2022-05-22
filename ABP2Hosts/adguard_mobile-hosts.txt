@@ -1,4 +1,4 @@
-# Sun May 15 08:46:59 PM UTC 2022
+# Sun May 22 03:41:04 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2429,6 +2429,7 @@
 0.0.0.0 chartboosts.com
 0.0.0.0 chartiq-client-prod.s3.amazonaws.com
 0.0.0.0 chaseusbs823221627973.s.moatpixel.com
+0.0.0.0 chavoads.com
 0.0.0.0 check.rayjump.com
 0.0.0.0 chi.outbrain.com
 0.0.0.0 chidc2.outbrain.org
@@ -3311,6 +3312,7 @@
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kumulos.com
@@ -4809,6 +4811,7 @@
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobilelog.upqzfile.com
+0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobileposse.com
 0.0.0.0 mobilesdk-us.kampyle.com
 0.0.0.0 mobiletelemetry.ebay.com
@@ -6683,6 +6686,7 @@
 0.0.0.0 stats.clicktracks.com
 0.0.0.0 stats.coronalabs.com
 0.0.0.0 stats.datawrapper.de
+0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.gioneemobile.net
 0.0.0.0 stats.grafana.org
