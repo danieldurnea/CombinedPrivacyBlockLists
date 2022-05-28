@@ -1,4 +1,4 @@
-# Fri May 27 01:54:01 AM UTC 2022
+# Sat May 28 11:57:29 PM UTC 2022
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
