@@ -1,4 +1,4 @@
-// **** Fri May 27 01:56:28 AM UTC 2022
+// **** Sun May 29 12:00:20 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -374,7 +374,6 @@ shExpMatch(host, '*.aboardlevel.com') ||
 shExpMatch(host, '*.abonnement-xboxlive.fr') ||
 shExpMatch(host, '*.abonnementxbox-live.fr') ||
 shExpMatch(host, '*.abonnementxboxlive.net') ||
-shExpMatch(host, '*.aboutads.gr') ||
 shExpMatch(host, '*.aboutconvert.ru') ||
 shExpMatch(host, '*.aboveandbeyondcaregivers.com') ||
 shExpMatch(host, '*.abruptroad.com') ||
@@ -12760,6 +12759,7 @@ shExpMatch(host, '*.provenpixel.com') ||
 shExpMatch(host, '*.provexia.com') ||
 shExpMatch(host, '*.proxyfill.co') ||
 shExpMatch(host, '*.proxysite.org') ||
+shExpMatch(host, '*.prpops.com') ||
 shExpMatch(host, '*.prsaln.com') ||
 shExpMatch(host, '*.prsitecheck.com') ||
 shExpMatch(host, '*.prudencewiserelapse.com') ||
@@ -15608,7 +15608,6 @@ shExpMatch(host, '*.trackedlink.net') ||
 shExpMatch(host, '*.trackedweb.net') ||
 shExpMatch(host, '*.tracker-pm2.spilleren.com') ||
 shExpMatch(host, '*.tracker.bannerflow.com') ||
-shExpMatch(host, '*.tracker.bongngo.bar') ||
 shExpMatch(host, '*.tracker.cdnbye.com') ||
 shExpMatch(host, '*.tracker.comunidadmarriott.com') ||
 shExpMatch(host, '*.tracker.icerocket.com') ||
@@ -18069,7 +18068,6 @@ shExpMatch(host, 'aboardlevel.com') ||
 shExpMatch(host, 'abonnement-xboxlive.fr') ||
 shExpMatch(host, 'abonnementxbox-live.fr') ||
 shExpMatch(host, 'abonnementxboxlive.net') ||
-shExpMatch(host, 'aboutads.gr') ||
 shExpMatch(host, 'aboutconvert.ru') ||
 shExpMatch(host, 'aboveandbeyondcaregivers.com') ||
 shExpMatch(host, 'abruptroad.com') ||
@@ -30455,6 +30453,7 @@ shExpMatch(host, 'provenpixel.com') ||
 shExpMatch(host, 'provexia.com') ||
 shExpMatch(host, 'proxyfill.co') ||
 shExpMatch(host, 'proxysite.org') ||
+shExpMatch(host, 'prpops.com') ||
 shExpMatch(host, 'prsaln.com') ||
 shExpMatch(host, 'prsitecheck.com') ||
 shExpMatch(host, 'prudencewiserelapse.com') ||
@@ -33303,7 +33302,6 @@ shExpMatch(host, 'trackedlink.net') ||
 shExpMatch(host, 'trackedweb.net') ||
 shExpMatch(host, 'tracker-pm2.spilleren.com') ||
 shExpMatch(host, 'tracker.bannerflow.com') ||
-shExpMatch(host, 'tracker.bongngo.bar') ||
 shExpMatch(host, 'tracker.cdnbye.com') ||
 shExpMatch(host, 'tracker.comunidadmarriott.com') ||
 shExpMatch(host, 'tracker.icerocket.com') ||
