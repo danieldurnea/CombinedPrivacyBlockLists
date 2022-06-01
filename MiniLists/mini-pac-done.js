@@ -1,19 +1,11 @@
-// **** Sun May 29 12:05:33 AM UTC 2022
+// **** Wed Jun  1 07:15:49 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
 shExpMatch(host, '*.0.le4net00.net') ||
 shExpMatch(host, '*.0.weathdata.nu') ||
-shExpMatch(host, '*.001.0x1f4b0.com') ||
-shExpMatch(host, '*.002.0x1f4b0.com') ||
-shExpMatch(host, '*.003.0x1f4b0.com') ||
 shExpMatch(host, '*.00399a4.netsolhost.com') ||
-shExpMatch(host, '*.004.0x1f4b0.com') ||
-shExpMatch(host, '*.005.0x1f4b0.com') ||
-shExpMatch(host, '*.006.0x1f4b0.com') ||
 shExpMatch(host, '*.00689.net') ||
-shExpMatch(host, '*.007.0x1f4b0.com') ||
-shExpMatch(host, '*.008.0x1f4b0.com') ||
 shExpMatch(host, '*.008ex.com') ||
 shExpMatch(host, '*.0100.name') ||
 shExpMatch(host, '*.022802bcfcb3dbcd1a224f29537f6ac0.host') ||
@@ -10819,6 +10811,7 @@ shExpMatch(host, '*.trumpia.com') ||
 shExpMatch(host, '*.trust.titanhq.com') ||
 shExpMatch(host, '*.trustedhealthgroup.com') ||
 shExpMatch(host, '*.trustevergreen.com') ||
+shExpMatch(host, '*.trustpid.com') ||
 shExpMatch(host, '*.trustpilot-scam.com') ||
 shExpMatch(host, '*.trustx.org') ||
 shExpMatch(host, '*.try2swipe.ws') ||
@@ -11909,16 +11902,8 @@ shExpMatch(host, '*.zzssfc.tk') ||
 shExpMatch(host, '0-24bpautomentes.hu') ||
 shExpMatch(host, '0.le4net00.net') ||
 shExpMatch(host, '0.weathdata.nu') ||
-shExpMatch(host, '001.0x1f4b0.com') ||
-shExpMatch(host, '002.0x1f4b0.com') ||
-shExpMatch(host, '003.0x1f4b0.com') ||
 shExpMatch(host, '00399a4.netsolhost.com') ||
-shExpMatch(host, '004.0x1f4b0.com') ||
-shExpMatch(host, '005.0x1f4b0.com') ||
-shExpMatch(host, '006.0x1f4b0.com') ||
 shExpMatch(host, '00689.net') ||
-shExpMatch(host, '007.0x1f4b0.com') ||
-shExpMatch(host, '008.0x1f4b0.com') ||
 shExpMatch(host, '008ex.com') ||
 shExpMatch(host, '0100.name') ||
 shExpMatch(host, '022802bcfcb3dbcd1a224f29537f6ac0.host') ||
@@ -22724,6 +22709,7 @@ shExpMatch(host, 'trumpia.com') ||
 shExpMatch(host, 'trust.titanhq.com') ||
 shExpMatch(host, 'trustedhealthgroup.com') ||
 shExpMatch(host, 'trustevergreen.com') ||
+shExpMatch(host, 'trustpid.com') ||
 shExpMatch(host, 'trustpilot-scam.com') ||
 shExpMatch(host, 'trustx.org') ||
 shExpMatch(host, 'try2swipe.ws') ||
