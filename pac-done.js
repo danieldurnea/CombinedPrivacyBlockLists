@@ -1,4 +1,4 @@
-// **** Sun May 29 12:00:20 AM UTC 2022
+// **** Wed Jun  1 07:10:22 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6474,7 +6474,6 @@ shExpMatch(host, '*.filestate.com') ||
 shExpMatch(host, '*.filestemp.com') ||
 shExpMatch(host, '*.fileston.com') ||
 shExpMatch(host, '*.filesummit.com') ||
-shExpMatch(host, '*.fileswag.com') ||
 shExpMatch(host, '*.filesway.net') ||
 shExpMatch(host, '*.filesyncing.net') ||
 shExpMatch(host, '*.filethunder.net') ||
@@ -15826,6 +15825,7 @@ shExpMatch(host, '*.trust.titanhq.com') ||
 shExpMatch(host, '*.trustedhacks.com') ||
 shExpMatch(host, '*.trusteerealestate.com') ||
 shExpMatch(host, '*.trustfolders.com') ||
+shExpMatch(host, '*.trustpid.com') ||
 shExpMatch(host, '*.trustx.org') ||
 shExpMatch(host, '*.ts-plugins.com') ||
 shExpMatch(host, '*.ts-update.com') ||
@@ -24168,7 +24168,6 @@ shExpMatch(host, 'filestate.com') ||
 shExpMatch(host, 'filestemp.com') ||
 shExpMatch(host, 'fileston.com') ||
 shExpMatch(host, 'filesummit.com') ||
-shExpMatch(host, 'fileswag.com') ||
 shExpMatch(host, 'filesway.net') ||
 shExpMatch(host, 'filesyncing.net') ||
 shExpMatch(host, 'filethunder.net') ||
@@ -33520,6 +33519,7 @@ shExpMatch(host, 'trust.titanhq.com') ||
 shExpMatch(host, 'trustedhacks.com') ||
 shExpMatch(host, 'trusteerealestate.com') ||
 shExpMatch(host, 'trustfolders.com') ||
+shExpMatch(host, 'trustpid.com') ||
 shExpMatch(host, 'trustx.org') ||
 shExpMatch(host, 'ts-plugins.com') ||
 shExpMatch(host, 'ts-update.com') ||
