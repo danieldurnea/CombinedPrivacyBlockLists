@@ -1,4 +1,4 @@
-# Sat May 28 11:56:32 PM UTC 2022
+# Wed Jun  1 07:06:37 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -927,6 +927,7 @@
 0.0.0.0 alpha-events.aerserv.com
 0.0.0.0 alphonso.tv
 0.0.0.0 als-svc.nytimes.com
+0.0.0.0 alt-ad.mail.ru
 0.0.0.0 altitude-arena.com
 0.0.0.0 altrooz.com
 0.0.0.0 am-match.taboola.com

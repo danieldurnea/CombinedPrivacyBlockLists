@@ -1,4 +1,4 @@
-# Sat May 28 11:57:29 PM UTC 2022
+# Wed Jun  1 07:07:36 PM UTC 2022
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -2623,7 +2623,6 @@
 0.0.0.0 filestemp.com
 0.0.0.0 fileston.com
 0.0.0.0 filesummit.com
-0.0.0.0 fileswag.com
 0.0.0.0 filesway.net
 0.0.0.0 filesyncing.net
 0.0.0.0 filethunder.net
