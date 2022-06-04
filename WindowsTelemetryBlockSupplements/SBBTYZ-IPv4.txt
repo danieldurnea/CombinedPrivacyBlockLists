@@ -1,8 +1,10 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv4 Version
 #Included in default hosts file
-#Last update 5/13/2022
+#Last update 6/03/2022
 
+0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
+0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
@@ -19,6 +21,7 @@
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
+0.0.0.0 api.edgeoffer.microsoft.com
 0.0.0.0 apps.skype.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 az361816.vo.msecnd.net
@@ -28,6 +31,7 @@
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
 0.0.0.0 bn2-ris-prod-atm.trafficmanager.net
 0.0.0.0 bn2wns1.wns.windows.com
@@ -75,6 +79,7 @@
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds1.stn.llnw.net
 0.0.0.0 cds10.stn.llnw.net
 0.0.0.0 cds1203.lon.llnw.net
 0.0.0.0 cds1204.lon.llnw.net
@@ -137,6 +142,7 @@
 0.0.0.0 cds21313.lon.llnw.net
 0.0.0.0 cds21321.lon.llnw.net
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 cds27.ory.llnw.net
 0.0.0.0 cds299.lcy.llnw.net
 0.0.0.0 cds30027.stn.llnw.net
 0.0.0.0 cds308.lcy.llnw.net
@@ -153,6 +159,7 @@
 0.0.0.0 cds447.lcy.llnw.net
 0.0.0.0 cds458.lcy.llnw.net
 0.0.0.0 cds459.lcy.llnw.net
+0.0.0.0 cds46.ory.llnw.net
 0.0.0.0 cds461.lcy.llnw.net
 0.0.0.0 cds468.lcy.llnw.net
 0.0.0.0 cds469.lcy.llnw.net
@@ -293,6 +300,8 @@
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieonlinews.trafficmanager.net
 0.0.0.0 insideruser.trafficmanager.net
+0.0.0.0 kmwatson.events.data.microsoft.com
+0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
@@ -308,14 +317,18 @@
 0.0.0.0 nw-umwatson.events.data.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.us
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 par02p.wns.windows.com
 0.0.0.0 pre.footprintpredict.com
+0.0.0.0 presence.teams.live.com
 0.0.0.0 preview.msn.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 romeccs.microsoft.com
 0.0.0.0 s-ring.msedge.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.adnxs.com
@@ -351,6 +364,7 @@
 0.0.0.0 uks.b.prd.ags.trafficmanager.net
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 umwatsonc.telemetry.microsoft.us
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
@@ -381,3 +395,4 @@
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 www.msedge.net
+0.0.0.0 xblgdvrassets3010.blob.core.windows.net
