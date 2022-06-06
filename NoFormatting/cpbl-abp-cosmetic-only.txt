@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Fri May 13 12:05:55 AM UTC 2022
+! Updated: Mon Jun  6 11:51:20 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -22,6 +22,9 @@ affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
 alltrainerspc.com##a[href*="hskwq.com"]
 amazon.com##[class*="amazonlive-widget"]
 amazon.com##[class*="dv-web-live-events"]
+amazon.com###desktop-banner
+amazon.com##.sparkle-close
+amazon.com##.sparkle-content
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
 apptracker.indeed.com##.atw-IsHelpfulSurvey-initialState
@@ -269,6 +272,7 @@ theblockcrypto.com##.modal-container
 theblockcrypto.com##.modal-retainer
 thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
 thrillist.com##[class*="RecommendedVideostyles"]
+indiatimes.com##.react-draggable-dragged
 tokeneo.com##.cookies-popup-cover
 tokeneo.com##.informationModalBody
 tokeneo.com##.kryptowalutyBar.informationFwHeaderBar
@@ -444,12 +448,9 @@ reddit.com##body.scroll-disabled:style(overflow: visible!important; position: st
 stpetecatalyst.com##body,html:style(overflow: auto !important)
 uol.com.br##body:style(overflow: visible !important;)
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
-@@||ads.brave.com^
 @@||amazon-adsystem.com^$domain=weather.com
 @@||api.segment.io^$xhr,domain=reuters.com
 @@||cdn.segment.com^$script,domain=reuters.com
-@@||edge-enterprise.activity.windows.com^
-@@||edge.activity.windows.com^
 @@||exodus.com/support/js/subscribe-popup.js$script,domain=support.exodus.com
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||helpscout.net^$domain=exodus.com
