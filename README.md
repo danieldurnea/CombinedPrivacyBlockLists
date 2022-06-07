@@ -48,7 +48,7 @@ In addition, please see [**My CWP Utilities Repository**](https://github.com/bon
 <sup>01. [MVPS Hosts](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>02. [PGL Yoyo Hosts](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>03. [Updated Malware Domains Immortal List](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt). </sup> <br>
-<sup>04. [URL Haus Active Domains](https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt). </sup> <br>
+<sup>04. [URL Haus Active Domains](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt). </sup> <br>
 <sup>05. [EasyList Hosts](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
 <sup>06. [Additional](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts) | [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting) | [Sources](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements). </sup> <br>
 <sup>07. [AdGuard Filters](https://kb.adguard.com/en/general/adguard-ad-filters#filters). </sup> <br>
