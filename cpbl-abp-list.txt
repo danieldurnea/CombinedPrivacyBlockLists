@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Jun  7 09:32:59 PM UTC 2022
+! Updated: Tue Jun  7 10:22:28 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
 ! Issues: https://git.io/JTTL0
 ! CPBL Hosts-to-ABP
+||0-24bpautomentes.hu^
 ||0.code.cotsta.ru^
 ||0.le4net00.net^
 ||0.weathdata.nu^
@@ -487,6 +488,7 @@
 ||138shenbosbo.com^
 ||13932685557.cn^
 ||139site.com^
+||13cuero.com^
 ||13e0df9b41.com^
 ||13hangpifa.com^
 ||13js1lbtbj3.sparkloop.app^
@@ -518,6 +520,7 @@
 ||154-66-21-30.com^
 ||154-66-21-33.com^
 ||154-66-22-29.com^
+||1566xueshe.com^
 ||1571627030.rsc.cdn77.org^
 ||157776.com^
 ||1579850.xyz^
@@ -1526,6 +1529,7 @@
 ||44jjyy.com^
 ||44pv.com^
 ||44qxqx.com^
+||44wo7w51e0.blsonepal.com^
 ||44xhxh.com^
 ||44xjxj.com^
 ||44xmxm.com^
@@ -2470,6 +2474,7 @@
 ||8b4b041006.com^
 ||8b96142da5.com^
 ||8baf7ae42000024.com^
+||8box.8boxerp.com^
 ||8c89e876bf0.com^
 ||8c9cc6d2b0e13.com^
 ||8c9cz5kp0o.com^
@@ -9875,6 +9880,7 @@
 ||airdrop-coinbase.com^
 ||airdrop-discord.ru^
 ||airfiles.net^
+||airjordanscattery.com^
 ||airlead.ru^
 ||airliftlimo.com^
 ||airliness.info^
@@ -15393,6 +15399,7 @@
 ||beap-bc.yahoo.com^
 ||beap.adx.yahoo.com^
 ||beap1.cb.g01.yahoodns.net^
+||beapassionjunkie.com^
 ||bear.ama.so^
 ||bear.builtbyborda.com^
 ||bear.bukury.com^
@@ -16951,6 +16958,7 @@
 ||bmuju.com^
 ||bmw-330d.com^
 ||bmw100.cn^
+||bmwchinhhang.vn^
 ||bmwforum.co^
 ||bmxg.xyz^
 ||bmzdysi.cn^
@@ -17855,6 +17863,8 @@
 ||btc-electrum.com^
 ||btc-electrum.net^
 ||btc-giving.com^
+||btc247.xyz^
+||btc360.xyz^
 ||btcadtop.com^
 ||btcbto.com^
 ||btcelectrum.com^
@@ -23059,6 +23069,7 @@
 ||corpadsinc.com^
 ||corpcougar.com^
 ||corpcougar.in^
+||corpernaija.com^
 ||corpext-datamart.net^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||corpolevesuplementos.com.br^
@@ -23802,7 +23813,6 @@
 ||crearechile.cl^
 ||creasureeffe.club^
 ||create2fear.com^
-||createfutureworld.com^
 ||creation-times.com^
 ||creative-analytics.crossinstall.io^
 ||creative-cdn.appgrowth.com^
@@ -26252,6 +26262,7 @@
 ||dblcs.cn^
 ||dblks.net^
 ||dblmove.com^
+||dbmbrasil.com^
 ||dbmyvl.apartmentfinder.com^
 ||dbncp.com^
 ||dbnghpxnbqpquh.com^
@@ -27705,6 +27716,7 @@
 ||djin.site^
 ||djiybut.cn^
 ||djjdf.ru^
+||djking.f3322.net^
 ||djm080u34wfc5.cloudfront.net^
 ||djmaza.in^
 ||djmzap.gamivo.com^
@@ -34425,6 +34437,7 @@
 ||folkspants.com^
 ||follow-insta.com^
 ||follow.vnay.vn^
+||follow247.xyz^
 ||followan.xyz^
 ||followercounter.com^
 ||followhack.com^
@@ -37925,7 +37938,6 @@
 ||go.xl.ua^
 ||go.zdos.ru^
 ||go.zendesk.com^
-||go.zgroupdigital.com^
 ||go.zic.co.nz^
 ||go00ogle.net^
 ||go06.cc^
@@ -38072,6 +38084,7 @@
 ||gold.ibiza-court.com^
 ||gold.legalidioms.com^
 ||gold.szonline.net^
+||gold247.xyz^
 ||gold2762.com^
 ||goldads.info^
 ||goldapp-bcf4.kxcdn.com^
@@ -38228,6 +38241,7 @@
 ||google-yandex.info^
 ||google.nov.su^
 ||google247.xyz^
+||google360.xyz^
 ||googleadapis.l.google.com^
 ||googleads.github.io^
 ||googleadservices.at^
@@ -38264,7 +38278,9 @@
 ||googletagmanager.com^
 ||googletagnamager.com^
 ||googletagservices.com^
+||googletopstories.in^
 ||googletrackmanager.com^
+||googlevn.xyz^
 ||googlexbaidu.top^
 ||googlle.in^
 ||googlmap.asia^
@@ -41162,6 +41178,7 @@
 ||hollandbusinessadvertising.nl^
 ||hollekeamboina.com^
 ||hollercatastrophe.com^
+||hollomart.com^
 ||hollowafterthought.com^
 ||hollydeal.club^
 ||hollylsmith.com^
@@ -46487,6 +46504,7 @@
 ||kakaxa.xyz^
 ||kakayy.com^
 ||kake.images.worldnow.com^
+||kakiosk.adsparkdev.com^
 ||kakkoii.razil.jp^
 ||kakstitotako.com^
 ||kaktakkk.ru^
@@ -51365,6 +51383,7 @@
 ||maildrive.icu^
 ||mailer.gameloft.com^
 ||mailfoogae.appspot.com^
+||mailgoogle.xyz^
 ||mailing.elconfidencialdigital.com^
 ||mailing.enews.extremetech.com^
 ||maills-activitymove01.com^
@@ -56062,6 +56081,7 @@
 ||mr-rank.de^
 ||mr.media-bucket.com^
 ||mr2cnjuh34jb.com^
+||mr2h.net^
 ||mr5aqoqlegsp.com^
 ||mr621.cn^
 ||mr6plw.loan^
@@ -59116,6 +59136,7 @@
 ||obihmnb.cn^
 ||obislame.ru^
 ||obitel.org^
+||obituryads.com^
 ||obj9.cn^
 ||objectdressed.com^
 ||obkatra.ru^
@@ -71776,6 +71797,7 @@
 ||sexmoney.com^
 ||sexnimfa.ru^
 ||sexohme.ru^
+||sexologistpakistan.net^
 ||sexpalace.gs^
 ||sexpennyauctions.com^
 ||sexpieasure.com^
@@ -78159,6 +78181,7 @@
 ||sthouw.vip^
 ||sthyhj.cn^
 ||sticixoju.com^
+||sticker.jewsjuice.com^
 ||stickervillain.com^
 ||sticketsmetrics.masters.com^
 ||stickfile.net^
@@ -80944,6 +80967,7 @@
 ||thecrackbox.com^
 ||thecred.info^
 ||thecrimebay.store^
+||thecryptocurrencyconsultants.com^
 ||thecsgoknife.com^
 ||thedailyreward.com^
 ||thedataworld.com^
@@ -87841,7 +87865,6 @@
 ||virus-detection-portal.us^
 ||virus-exe-server.us^
 ||virus-server-detection.us^
-||virusandroid.net^
 ||virusdetection.com-one.net^
 ||visadd.com^
 ||visagedbeard.com^
@@ -91304,7 +91327,6 @@
 ||www.infotelsrl.com^
 ||www.infra-gtc.com^
 ||www.infra.by^
-||www.ingroupconsult.com^
 ||www.intellisuggest.com^
 ||www.interactivebrands.com^
 ||www.internet-ps.com^
@@ -94396,6 +94418,7 @@
 ||zbrfde.ozmall.co.jp^
 ||zbsybh.cn^
 ||zbtlgd.com^
+||zbuilder-bim.com^
 ||zbwkapoit.com^
 ||zbwnzb.cn^
 ||zbwp6ghm.com^

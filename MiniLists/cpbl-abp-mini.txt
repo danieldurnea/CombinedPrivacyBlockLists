@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Jun  7 09:33:00 PM UTC 2022
+! Updated: Tue Jun  7 10:22:29 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -12180,6 +12180,7 @@
 ||beansviolins.com^
 ||beap-bc.yahoo.com^
 ||beap.adx.yahoo.com^
+||beapassionjunkie.com^
 ||bearad.com^
 ||bearbigger.top^
 ||bearcatpumps.com.cn^
@@ -17351,6 +17352,7 @@
 ||corp.sts.microsoft.com^
 ||corpcougar.com^
 ||corpcougar.in^
+||corpernaija.com^
 ||corpext-datamart.net^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||corpolevesuplementos.com.br^
@@ -17863,7 +17865,6 @@
 ||creasureeffe.club^
 ||create.leadid.com^
 ||create2fear.com^
-||createfutureworld.com^
 ||creation-times.com^
 ||creative-analytics.crossinstall.io^
 ||creative-cdn.appgrowth.com^
@@ -19415,6 +19416,7 @@
 ||dbkdwe1.com^
 ||dblcs.cn^
 ||dblmove.com^
+||dbmbrasil.com^
 ||dbncp.com^
 ||dbnghpxnbqpquh.com^
 ||dbojetp.cn^
@@ -26794,7 +26796,6 @@
 ||go.vrvm.com^
 ||go.wtcmachinery.com^
 ||go.zendesk.com^
-||go.zgroupdigital.com^
 ||go.zic.co.nz^
 ||go06.cc^
 ||go07.cc^
@@ -28718,6 +28719,7 @@
 ||hollandbusinessadvertising.nl^
 ||hollekeamboina.com^
 ||hollercatastrophe.com^
+||hollomart.com^
 ||hollowafterthought.com^
 ||hollydeal.club^
 ||hollylsmith.com^
@@ -60774,7 +60776,6 @@
 ||virtualbox.pl^
 ||virtuallycoollybarber.com^
 ||virtuallylend.com^
-||virusandroid.net^
 ||visadd.com^
 ||visagedbeard.com^
 ||visariomedia.com^
@@ -63253,7 +63254,6 @@
 ||www.ineedhits.com^
 ||www.infotelsrl.com^
 ||www.infra-gtc.com^
-||www.ingroupconsult.com^
 ||www.intelli-direct.com^
 ||www.intellisuggest.com^
 ||www.interactivebrands.com^
