@@ -1,4 +1,4 @@
-// **** Sat Jun  4 06:32:05 AM UTC 2022
+// **** Tue Jun  7 12:20:51 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3314,6 +3314,7 @@ shExpMatch(host, '*.click.cision.com') ||
 shExpMatch(host, '*.click.em.blizzard.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.hookupinyourcity.com') ||
+shExpMatch(host, '*.click.hooligapps.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
 shExpMatch(host, '*.click2freemoney.com') ||
@@ -15183,6 +15184,7 @@ shExpMatch(host, 'click.cision.com') ||
 shExpMatch(host, 'click.em.blizzard.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.hookupinyourcity.com') ||
+shExpMatch(host, 'click.hooligapps.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.twcwigs.com') ||
 shExpMatch(host, 'click2freemoney.com') ||
