@@ -1,5 +1,6 @@
 #This is a fork of the "immortal" malware domains list, originally archived on 12/17/2020
 #Seemingly active domains only version, sorted - Under continual improvement
+0-24bpautomentes.hu
 000007.ru
 024xuyisheng.com
 0452jhw.com
@@ -23,9 +24,11 @@
 1300invention.com.au
 13801993263.com
 13932685557.cn
+13cuero.com
 1407031110.bzhualin.com
 1409084329.xiaoyiwan.com
 1492tapasbar.com
+1566xueshe.com
 15jiaju.com
 18cum.com
 18xn.com
@@ -98,6 +101,7 @@
 3years.lethanon.net
 4-health.us
 43242.com
+44wo7w51e0.blsonepal.com
 4analytics.ws
 4c92j5.cz.cc
 4chan-tube.on.nimp.org
@@ -148,6 +152,7 @@
 88kv.cn
 89757.net
 8b1b.com
+8box.8boxerp.com
 8lungu.com
 90000000.ru
 95mortgagesonline.co.uk
@@ -252,6 +257,7 @@ aimauto.org
 ainapensii.ru
 aintdoinshit.com
 aipp-italia.it
+airjordanscattery.com
 ajantastationers.com
 ajewishgift.com
 ajytse5.com
@@ -592,6 +598,7 @@ blogtoolonsteroidscreations.net
 blondemuschi.com
 bluejackin.ru
 bluenery.com
+bmwchinhhang.vn
 bnsoutlaws.co.uk
 bocpoo.com
 bodog.hu
@@ -634,6 +641,8 @@ browserupdaters.com
 brozsearch.com
 brundt.ro
 brute.ru
+btc247.xyz
+btc360.xyz
 btw.co.il
 btwosfunny.onthenetas.com
 buffalogoesout.com
@@ -944,6 +953,7 @@ divine.lunarbreeze.com
 diwangjt.com
 dj-cruse.de
 djangogui.tuxfamily.org
+djking.f3322.net
 djsevents.be
 dl.52zy.com
 dl.cr173.com
@@ -1279,6 +1289,7 @@ flyghtairline.ru
 fnyoga.biz
 fohfynly.ru
 folkspants.com
+follow247.xyz
 fondazioneciampi.org
 fopsl.cn
 forgottencelebs.com
@@ -1417,6 +1428,7 @@ gogo2me.net
 gogofly.cjb.net
 gohvjgbrplkm.myfw.us
 gokhancoban.com
+gold247.xyz
 golddeery.info
 goldensmagnetic.com
 goldisoverfotoday.com
@@ -1445,9 +1457,13 @@ google-stats45.info
 google-stats49.info
 google-stats55.info
 google.maniyakat.cn
+google247.xyz
+google360.xyz
 googleanalytlcs.net
 googleclick.info
 googlesgo.com
+googletopstories.in
+googlevn.xyz
 googlle.in
 googlmap.asia
 googosearch.biz
@@ -1819,6 +1835,7 @@ kadman.net
 kafebuhara.ru
 kahntuning.ru
 kajglobal.com
+kakiosk.adsparkdev.com
 kakvsegda.com
 kalantzis.net
 kamnh.freewww.info
@@ -2017,6 +2034,7 @@ mah0ney.com
 mahindrainsurance.com
 maifrchsd.com
 mailboto.com
+mailgoogle.xyz
 mainnetsoll.com
 mainstatserver.com
 maison-a-restaurer.fr
@@ -2166,6 +2184,7 @@ moviecoupons.com
 mozg-testing.ru
 mozgilla.ru
 mp3-pesni.ru
+mr2h.net
 mrappolt.de
 ms11.net
 msw67.cafe24.com
@@ -2332,6 +2351,7 @@ oampa.csheaven.com
 oapsa.tourstogo.us
 oawoo.frenchgerlemanelectric.com
 obada-konstruktiwa.org
+obituryads.com
 obkom.net.ua
 obscurewax.ru
 oc00co.cn
@@ -2843,6 +2863,7 @@ setheo.com
 setjetters.com
 seventa.ru
 sexfunxcash.com
+sexologistpakistan.net
 sexyfemalewrestlingmovies-c.com
 sexyfemalewrestlingmovies.com
 sexyoilwrestling.com
@@ -3063,6 +3084,7 @@ stdms.com
 steakhousehollister.com
 stecdon.ru
 step2me.net
+sticker.jewsjuice.com
 stolben.com.br
 stoneb.cn
 stoorvogelsoftware.nl
@@ -3184,6 +3206,7 @@ the-wildbunch.net
 theatrekoodak.webphoto.ir
 thecardoctorsales.co.uk
 thecarnells.com
+thecryptocurrencyconsultants.com
 thedeadpit.com
 theeasyriver.ru
 thefxarchive.com
@@ -3946,6 +3969,7 @@ zamhuxnh.cz.cc
 zamponyt.ru
 zanfo.it
 zango.com
+zbuilder-bim.com
 zcztois.sellclassics.com
 zdesestvareznezahodi.com
 zdq004.cn

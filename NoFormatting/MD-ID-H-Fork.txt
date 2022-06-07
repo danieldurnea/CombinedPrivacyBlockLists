@@ -1,5 +1,6 @@
 #This is a fork of the "immortal" malware domains list, originally archived on 12/17/2020
 #Seemingly active domains hosts version, sorted - Under continual improvement
+0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 000007.ru
 0.0.0.0 024xuyisheng.com
 0.0.0.0 0452jhw.com
@@ -23,9 +24,11 @@
 0.0.0.0 1300invention.com.au
 0.0.0.0 13801993263.com
 0.0.0.0 13932685557.cn
+0.0.0.0 13cuero.com
 0.0.0.0 1407031110.bzhualin.com
 0.0.0.0 1409084329.xiaoyiwan.com
 0.0.0.0 1492tapasbar.com
+0.0.0.0 1566xueshe.com
 0.0.0.0 15jiaju.com
 0.0.0.0 18cum.com
 0.0.0.0 18xn.com
@@ -98,6 +101,7 @@
 0.0.0.0 3years.lethanon.net
 0.0.0.0 4-health.us
 0.0.0.0 43242.com
+0.0.0.0 44wo7w51e0.blsonepal.com
 0.0.0.0 4analytics.ws
 0.0.0.0 4c92j5.cz.cc
 0.0.0.0 4chan-tube.on.nimp.org
@@ -148,6 +152,7 @@
 0.0.0.0 88kv.cn
 0.0.0.0 89757.net
 0.0.0.0 8b1b.com
+0.0.0.0 8box.8boxerp.com
 0.0.0.0 8lungu.com
 0.0.0.0 90000000.ru
 0.0.0.0 95mortgagesonline.co.uk
@@ -252,6 +257,7 @@
 0.0.0.0 ainapensii.ru
 0.0.0.0 aintdoinshit.com
 0.0.0.0 aipp-italia.it
+0.0.0.0 airjordanscattery.com
 0.0.0.0 ajantastationers.com
 0.0.0.0 ajewishgift.com
 0.0.0.0 ajytse5.com
@@ -592,6 +598,7 @@
 0.0.0.0 blondemuschi.com
 0.0.0.0 bluejackin.ru
 0.0.0.0 bluenery.com
+0.0.0.0 bmwchinhhang.vn
 0.0.0.0 bnsoutlaws.co.uk
 0.0.0.0 bocpoo.com
 0.0.0.0 bodog.hu
@@ -634,6 +641,8 @@
 0.0.0.0 brozsearch.com
 0.0.0.0 brundt.ro
 0.0.0.0 brute.ru
+0.0.0.0 btc247.xyz
+0.0.0.0 btc360.xyz
 0.0.0.0 btw.co.il
 0.0.0.0 btwosfunny.onthenetas.com
 0.0.0.0 buffalogoesout.com
@@ -944,6 +953,7 @@
 0.0.0.0 diwangjt.com
 0.0.0.0 dj-cruse.de
 0.0.0.0 djangogui.tuxfamily.org
+0.0.0.0 djking.f3322.net
 0.0.0.0 djsevents.be
 0.0.0.0 dl.52zy.com
 0.0.0.0 dl.cr173.com
@@ -1279,6 +1289,7 @@
 0.0.0.0 fnyoga.biz
 0.0.0.0 fohfynly.ru
 0.0.0.0 folkspants.com
+0.0.0.0 follow247.xyz
 0.0.0.0 fondazioneciampi.org
 0.0.0.0 fopsl.cn
 0.0.0.0 forgottencelebs.com
@@ -1417,6 +1428,7 @@
 0.0.0.0 gogofly.cjb.net
 0.0.0.0 gohvjgbrplkm.myfw.us
 0.0.0.0 gokhancoban.com
+0.0.0.0 gold247.xyz
 0.0.0.0 golddeery.info
 0.0.0.0 goldensmagnetic.com
 0.0.0.0 goldisoverfotoday.com
@@ -1445,9 +1457,13 @@
 0.0.0.0 google-stats49.info
 0.0.0.0 google-stats55.info
 0.0.0.0 google.maniyakat.cn
+0.0.0.0 google247.xyz
+0.0.0.0 google360.xyz
 0.0.0.0 googleanalytlcs.net
 0.0.0.0 googleclick.info
 0.0.0.0 googlesgo.com
+0.0.0.0 googletopstories.in
+0.0.0.0 googlevn.xyz
 0.0.0.0 googlle.in
 0.0.0.0 googlmap.asia
 0.0.0.0 googosearch.biz
@@ -1819,6 +1835,7 @@
 0.0.0.0 kafebuhara.ru
 0.0.0.0 kahntuning.ru
 0.0.0.0 kajglobal.com
+0.0.0.0 kakiosk.adsparkdev.com
 0.0.0.0 kakvsegda.com
 0.0.0.0 kalantzis.net
 0.0.0.0 kamnh.freewww.info
@@ -2017,6 +2034,7 @@
 0.0.0.0 mahindrainsurance.com
 0.0.0.0 maifrchsd.com
 0.0.0.0 mailboto.com
+0.0.0.0 mailgoogle.xyz
 0.0.0.0 mainnetsoll.com
 0.0.0.0 mainstatserver.com
 0.0.0.0 maison-a-restaurer.fr
@@ -2166,6 +2184,7 @@
 0.0.0.0 mozg-testing.ru
 0.0.0.0 mozgilla.ru
 0.0.0.0 mp3-pesni.ru
+0.0.0.0 mr2h.net
 0.0.0.0 mrappolt.de
 0.0.0.0 ms11.net
 0.0.0.0 msw67.cafe24.com
@@ -2332,6 +2351,7 @@
 0.0.0.0 oapsa.tourstogo.us
 0.0.0.0 oawoo.frenchgerlemanelectric.com
 0.0.0.0 obada-konstruktiwa.org
+0.0.0.0 obituryads.com
 0.0.0.0 obkom.net.ua
 0.0.0.0 obscurewax.ru
 0.0.0.0 oc00co.cn
@@ -2843,6 +2863,7 @@
 0.0.0.0 setjetters.com
 0.0.0.0 seventa.ru
 0.0.0.0 sexfunxcash.com
+0.0.0.0 sexologistpakistan.net
 0.0.0.0 sexyfemalewrestlingmovies-c.com
 0.0.0.0 sexyfemalewrestlingmovies.com
 0.0.0.0 sexyoilwrestling.com
@@ -3063,6 +3084,7 @@
 0.0.0.0 steakhousehollister.com
 0.0.0.0 stecdon.ru
 0.0.0.0 step2me.net
+0.0.0.0 sticker.jewsjuice.com
 0.0.0.0 stolben.com.br
 0.0.0.0 stoneb.cn
 0.0.0.0 stoorvogelsoftware.nl
@@ -3184,6 +3206,7 @@
 0.0.0.0 theatrekoodak.webphoto.ir
 0.0.0.0 thecardoctorsales.co.uk
 0.0.0.0 thecarnells.com
+0.0.0.0 thecryptocurrencyconsultants.com
 0.0.0.0 thedeadpit.com
 0.0.0.0 theeasyriver.ru
 0.0.0.0 thefxarchive.com
@@ -3946,6 +3969,7 @@
 0.0.0.0 zamponyt.ru
 0.0.0.0 zanfo.it
 0.0.0.0 zango.com
+0.0.0.0 zbuilder-bim.com
 0.0.0.0 zcztois.sellclassics.com
 0.0.0.0 zdesestvareznezahodi.com
 0.0.0.0 zdq004.cn
