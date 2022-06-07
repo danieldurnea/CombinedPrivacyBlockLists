@@ -1,4 +1,4 @@
-# Sat Jun  4 06:21:12 AM UTC 2022
+# Tue Jun  7 12:00:17 AM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3295,6 +3295,7 @@
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
+0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events-us-east-1.ipredictive.com
 0.0.0.0 events-us-west-2.ipredictive.com
@@ -6919,6 +6920,8 @@
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tagan.adlightning.com
+0.0.0.0 tagdelivery.mayoclinic.org
+0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tagged-by.rubiconproject.net.akadns.net
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagmanager.smartadserver.com
@@ -7717,6 +7720,7 @@
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 webmd.demdex.net
 0.0.0.0 webmddfp936579382290.s.moatpixel.com
+0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 weboohost.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websdk.moengage.com
