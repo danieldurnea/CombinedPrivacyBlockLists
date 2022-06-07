@@ -19,9 +19,9 @@ Within this directory are the following items:
 
 - The [version of my main CIDR-format block list with `deny from` prepended to each line](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-denied.cidr) is also available in this subdirectory.  
 
-- An ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
-
 - A [CIDR-format list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/personal-entries.cidr) of IP addresses which I have observed to be engaged in clearly malicious activity while running IceCast and Shoutcast servers. This gets merged into every update of my aggregated CIDR block lists.
+
+- An ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
 
 - Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Misc/NSABlockLists), which are **not included in any of my other lists** and are simply housed here for posterity.
 
