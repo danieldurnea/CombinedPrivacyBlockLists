@@ -7218,6 +7218,7 @@
 0.0.0.0 beamtech-tw.com
 0.0.0.0 beansviolins.com
 0.0.0.0 beap.adx.yahoo.com
+0.0.0.0 beapassionjunkie.com
 0.0.0.0 bearbigger.top
 0.0.0.0 beargrizzler.win
 0.0.0.0 beastbeef.com
@@ -7359,6 +7360,7 @@
 0.0.0.0 biggames.club
 0.0.0.0 bighyip-monitor.com
 0.0.0.0 bigip.stream
+0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigmir.email
 0.0.0.0 bigmobileads.com
 0.0.0.0 bigosext69.com
@@ -8960,6 +8962,7 @@
 0.0.0.0 consulta-activacion-de-avance-cl.cf
 0.0.0.0 consulta-activacion-de-avance-cl.gq
 0.0.0.0 consultant-online.ru
+0.0.0.0 consultoriabrastec.com.br
 0.0.0.0 consumerinfo.tt.omtrdc.net
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 consumerreports.tt.omtrdc.net
@@ -9058,6 +9061,7 @@
 0.0.0.0 corp-downloads.com
 0.0.0.0 corpcougar.com
 0.0.0.0 corpcougar.in
+0.0.0.0 corpernaija.com
 0.0.0.0 corpext-datamart.net
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpotechgroup.com
@@ -9326,7 +9330,6 @@
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 crearechile.cl
-0.0.0.0 createfutureworld.com
 0.0.0.0 createthegroup.122.2o7.net
 0.0.0.0 creative-analytics.crossinstall.io
 0.0.0.0 creative.ad131m.com
@@ -9343,7 +9346,6 @@
 0.0.0.0 creatives.gunosy.com
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creativeteam.it
-0.0.0.0 crecerco.com
 0.0.0.0 crecercreando.com
 0.0.0.0 credit-card-application.now-cash.com
 0.0.0.0 creditagricole.tt.omtrdc.net
@@ -9746,6 +9748,7 @@
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbex-tracker-v2.driveback.ru
 0.0.0.0 dbjustping.com
+0.0.0.0 dbmbrasil.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.webtrends.com
@@ -9884,6 +9887,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 desk.mspaceads.com
 0.0.0.0 desktop.spotify.com
+0.0.0.0 destinymc.co.za
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detect.rayjump.com
@@ -10175,6 +10179,7 @@
 0.0.0.0 down.heheelibom.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.rxgif.cn
+0.0.0.0 down.yjhyjl.cn
 0.0.0.0 downcleardown.xyz
 0.0.0.0 downkzvideo1.xyz
 0.0.0.0 downkzvideo2.xyz
@@ -10183,7 +10188,9 @@
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download-updates-comp.com
 0.0.0.0 download.008ex.com
+0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.hitbox.com
+0.0.0.0 download.pdf00.cn
 0.0.0.0 download.wildcard.applovin.com.edgekey.net
 0.0.0.0 download4mac.com
 0.0.0.0 downloadcracker.com
@@ -11196,7 +11203,6 @@
 0.0.0.0 f72f7994.green.mattingsolutions.co
 0.0.0.0 f9e7020b.ngrok.io
 0.0.0.0 f9uri.mymobilelead.com
-0.0.0.0 faai-international.com
 0.0.0.0 facbeookloggin.com
 0.0.0.0 facebokloggin.com
 0.0.0.0 facebook.com.and.ovh.adx1.com
@@ -12091,7 +12097,6 @@
 0.0.0.0 go.pushnative.com
 0.0.0.0 go.spaceshipads.com
 0.0.0.0 go.tracksz.co
-0.0.0.0 go.zgroupdigital.com
 0.0.0.0 go2.adversal.com
 0.0.0.0 go2.logrocket.com
 0.0.0.0 go3.adversal.com
@@ -12268,7 +12273,6 @@
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 gruopcor.com
 0.0.0.0 grupobatistella.com.br
-0.0.0.0 grupomoxin.com.do
 0.0.0.0 gruzof.by
 0.0.0.0 grvspn.com
 0.0.0.0 gryphs.ru
@@ -12486,6 +12490,7 @@
 0.0.0.0 hedgehoghugsyou.com
 0.0.0.0 hediehapp.com
 0.0.0.0 hediyehlanding.ir
+0.0.0.0 hegodev.com
 0.0.0.0 hegrinhar.com
 0.0.0.0 hegutceper.ru
 0.0.0.0 heheda.tk
@@ -12630,6 +12635,7 @@
 0.0.0.0 holisticgroup.com.pk
 0.0.0.0 holisticxox.com
 0.0.0.0 hollandbusinessadvertising.nl
+0.0.0.0 hollomart.com
 0.0.0.0 hollywood.122.2o7.net
 0.0.0.0 holofiber.xyz
 0.0.0.0 holy-shit.ubuntu.workers.dev
@@ -12971,7 +12977,6 @@
 0.0.0.0 illuminatelocks.com
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 iloop.sourcetaggers.com
-0.0.0.0 ilpem-ar.com
 0.0.0.0 ilvjp.com
 0.0.0.0 im-apps.net
 0.0.0.0 im.adtech.de
@@ -13161,7 +13166,6 @@
 0.0.0.0 indisancal.com
 0.0.0.0 individualkipitera.site
 0.0.0.0 individualkipitera24.site
-0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indta.co.id
 0.0.0.0 ineediscounts.com
@@ -13186,7 +13190,6 @@
 0.0.0.0 informengine.com
 0.0.0.0 infotechsoln.com
 0.0.0.0 infotop.jp
-0.0.0.0 infovitimas.pt
 0.0.0.0 infoworldmediagroup.112.2o7.net
 0.0.0.0 infrastrategy.122.2o7.net
 0.0.0.0 infratotalduicom.122.2o7.net
@@ -13746,6 +13749,7 @@
 0.0.0.0 justwebads.com
 0.0.0.0 jw-js1.ppxxmr.com
 0.0.0.0 jx.qingdaosheng.com
+0.0.0.0 jx2caothu.com
 0.0.0.0 jxwd.cc
 0.0.0.0 jzwjq.ads.tremorhub.com
 0.0.0.0 k-analytix.com
@@ -14218,6 +14222,7 @@
 0.0.0.0 lightminer.co
 0.0.0.0 lightmyfire.in
 0.0.0.0 lightning.dns-cloud.net
+0.0.0.0 lightomech.in
 0.0.0.0 lightsmokesky.net
 0.0.0.0 likekopi.com
 0.0.0.0 limafoxtrot.online
@@ -14314,7 +14319,6 @@
 0.0.0.0 locatedforporternok.net
 0.0.0.0 location-voitures.ma
 0.0.0.0 lodeo-adnw.adtdp.com
-0.0.0.0 lodhatheparkworli.in
 0.0.0.0 log-api.aillis.net
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
@@ -14865,7 +14869,6 @@
 0.0.0.0 lp4.onlinecasinoreports.com
 0.0.0.0 lpdk.net
 0.0.0.0 lritck.tk
-0.0.0.0 ls-droid.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 ls2web-redmond-corp.com
 0.0.0.0 lse-my.asia
@@ -15151,6 +15154,7 @@
 0.0.0.0 maxhacks.pro
 0.0.0.0 maxi-ad.de
 0.0.0.0 maxim.122.2o7.net
+0.0.0.0 maximum-tech.com
 0.0.0.0 maxonclick.com
 0.0.0.0 maxpinezzz.ru
 0.0.0.0 maxpopup.ir
@@ -15160,7 +15164,6 @@
 0.0.0.0 maxxisproduct.com
 0.0.0.0 maxy-tax.com
 0.0.0.0 mayorel.website
-0.0.0.0 mayuripadhi.com
 0.0.0.0 mb-click.jp
 0.0.0.0 mb.logging.admicro.vn
 0.0.0.0 mb.taboola.com
@@ -15964,6 +15967,7 @@
 0.0.0.0 multipool.us
 0.0.0.0 multiquicks.net
 0.0.0.0 multiview.122.2o7.net
+0.0.0.0 mumgee.co.za
 0.0.0.0 mun.122.2o7.net
 0.0.0.0 munesdon.top
 0.0.0.0 murciaeconomia.folioserver.com
@@ -16236,6 +16240,7 @@
 0.0.0.0 netgear.122.2o7.net
 0.0.0.0 netlux.in
 0.0.0.0 netrefer-a.akamaihd.net
+0.0.0.0 netronixeng.com
 0.0.0.0 netshelter.adtrix.com
 0.0.0.0 nettubex.top
 0.0.0.0 netund.com
@@ -16300,7 +16305,6 @@
 0.0.0.0 newsurprizeforyou.com
 0.0.0.0 newt1.adultadworld.com
 0.0.0.0 newt1.adultworld.com
-0.0.0.0 newtvboxes.com
 0.0.0.0 newyearddnsaddressupdatelink.duckdns.org
 0.0.0.0 newyorkandcompany.112.2o7.net
 0.0.0.0 newyorkmagazine.112.2o7.net
@@ -16994,6 +16998,7 @@
 0.0.0.0 oymmadencilik.com.tr
 0.0.0.0 oz-dn.org
 0.0.0.0 ozdmbn.no-ip.biz
+0.0.0.0 ozemag.com
 0.0.0.0 ozkaltd.com
 0.0.0.0 ozon.122.2o7.net
 0.0.0.0 ozonemedia.adbureau.net
@@ -17025,6 +17030,7 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net.domain.name
 0.0.0.0 p16-va-default.akamaized.net.domain.name
 0.0.0.0 p2.ad.gt
+0.0.0.0 p2.d9media.cn
 0.0.0.0 p3.adhitzads.com
 0.0.0.0 p30bux.ir
 0.0.0.0 p30rank.ir
@@ -18840,7 +18846,6 @@
 0.0.0.0 sailcoalition.org
 0.0.0.0 sailsuit.com
 0.0.0.0 saintjosemariaschool.edu.pe
-0.0.0.0 sainzim.co.za
 0.0.0.0 saksfifthavenue.122.2o7.net
 0.0.0.0 sakshiinfoway.info
 0.0.0.0 sakuraset.top
@@ -18952,6 +18957,7 @@
 0.0.0.0 scottrade.112.2o7.net
 0.0.0.0 scracked.com
 0.0.0.0 scrapper.yektanet.com
+0.0.0.0 scrapvanil.kz
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screw-malwrhunterteam.com
@@ -19423,6 +19429,7 @@
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shaktilar.xyz
+0.0.0.0 shaktimanthresher.com
 0.0.0.0 shakytaste.com
 0.0.0.0 shalala.niex.cc
 0.0.0.0 shallowsmile.com
@@ -19878,6 +19885,7 @@
 0.0.0.0 sr.i2i.jp
 0.0.0.0 sr57mj1bcvng4yqf2y41cep8d5.com
 0.0.0.0 sra-delivery.yieldlove-ad-serving.net
+0.0.0.0 src1.minibai.com
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
 0.0.0.0 sreex.info
@@ -22814,7 +22822,6 @@
 0.0.0.0 virpropcnow.xyz
 0.0.0.0 virtualbox.es
 0.0.0.0 virtualbox.pl
-0.0.0.0 virusandroid.net
 0.0.0.0 visibility-stats.com
 0.0.0.0 visiohelp.ru
 0.0.0.0 vision.d1.sc.omtrdc.net
@@ -23160,7 +23167,6 @@
 0.0.0.0 wedgesdayment.com
 0.0.0.0 weefy.me
 0.0.0.0 weightloss-secrets-revealed.net
-0.0.0.0 weinsteincounseling.com
 0.0.0.0 welcomejohncena.pro
 0.0.0.0 weledying-jessed.com
 0.0.0.0 wellgroomedbat.com
@@ -23973,6 +23979,7 @@
 0.0.0.0 www.cellas.sk
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chemsky.tn
+0.0.0.0 www.chipmania.it
 0.0.0.0 www.cialisforsalecialiscostcye.com
 0.0.0.0 www.cialismed.com
 0.0.0.0 www.cialiswithoutadoctor.net
@@ -24254,7 +24261,6 @@
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 www.infotop.jp
 0.0.0.0 www.ingonherbal.com
-0.0.0.0 www.ingroupconsult.com
 0.0.0.0 www.inleadership.co.nz
 0.0.0.0 www.internet-ps.com
 0.0.0.0 www.itrackerpro.com
