@@ -1,4 +1,4 @@
-// **** Tue Jun  7 10:11:40 PM UTC 2022
+// **** Wed Jun  8 10:53:56 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
