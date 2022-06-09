@@ -1,6 +1,7 @@
 #This is a fork of the "immortal" malware domains list, originally archived on 12/17/2020
 #Seemingly active domains hosts version, sorted - Under continual improvement
 0.0.0.0 0-24bpautomentes.hu
+0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000007.ru
 0.0.0.0 024xuyisheng.com
 0.0.0.0 0452jhw.com
@@ -13,6 +14,7 @@
 0.0.0.0 1001openingstijden.nl
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
 0.0.0.0 11.gddx1.crsky.com
+0.0.0.0 1105governmentinformationgroup.122.2o7.net
 0.0.0.0 114oldest.com
 0.0.0.0 121-sex-toys.co.uk
 0.0.0.0 123-jewelry-store.com
@@ -957,6 +959,7 @@
 0.0.0.0 djsevents.be
 0.0.0.0 dl.52zy.com
 0.0.0.0 dl.cr173.com
+0.0.0.0 dl.downf468.com
 0.0.0.0 dl.faedmr.com
 0.0.0.0 dl.heima8.com
 0.0.0.0 dl.microsword.net
@@ -1545,6 +1548,7 @@
 0.0.0.0 hdyj168.com.cn
 0.0.0.0 headless.ebkfwd.com
 0.0.0.0 healthisp.net
+0.0.0.0 healthybloodpressure.info
 0.0.0.0 heartingenhancements.info
 0.0.0.0 hecs.com
 0.0.0.0 heelicotper.ru
@@ -2017,6 +2021,7 @@
 0.0.0.0 luckytidy.info
 0.0.0.0 luggagecast.com
 0.0.0.0 lukastroy.in
+0.0.0.0 lunaticjazz.com
 0.0.0.0 lupytehoq.com
 0.0.0.0 lv-home.net
 0.0.0.0 lwjttqlniekv.lookin.at
@@ -2173,6 +2178,7 @@
 0.0.0.0 moneysavingreport.com
 0.0.0.0 monidopo.bee.pl
 0.0.0.0 monikakarasewicz.bialan.pl
+0.0.0.0 montezuma.spb.ru
 0.0.0.0 moontag.com
 0.0.0.0 morarerque-1bruzual.paladin-global.net
 0.0.0.0 morenews3.net
@@ -2188,6 +2194,7 @@
 0.0.0.0 mrappolt.de
 0.0.0.0 ms11.net
 0.0.0.0 msw67.cafe24.com
+0.0.0.0 mtldesigns.ca
 0.0.0.0 mueller-holz-bau.com
 0.0.0.0 muglaulkuocaklari.org
 0.0.0.0 mulbora.com
@@ -2212,6 +2219,7 @@
 0.0.0.0 mylabsrl.com
 0.0.0.0 mylada.ru
 0.0.0.0 mylftv.com
+0.0.0.0 mylondon.hc0.me
 0.0.0.0 mypersonalhttp.com
 0.0.0.0 myredirect.us
 0.0.0.0 myroitracking.com
@@ -2457,6 +2465,7 @@
 0.0.0.0 pastanotherlife.ru
 0.0.0.0 patientenepd.nl
 0.0.0.0 patogh-persian.persiangig.com
+0.0.0.0 patrickhickey.eu
 0.0.0.0 pattayabazaar.com
 0.0.0.0 paul.cescon.ca
 0.0.0.0 pave.elisecries.com
@@ -2731,6 +2740,7 @@
 0.0.0.0 rk-makler.de
 0.0.0.0 rkfhafg.ddns.info
 0.0.0.0 rkkdlaw.com
+0.0.0.0 rl8vd.kikul.com
 0.0.0.0 rlxl.com
 0.0.0.0 rmtelemarketing.com.br
 0.0.0.0 rnrbdynkblyb.myfw.us
@@ -3031,6 +3041,7 @@
 0.0.0.0 solutionnice.info
 0.0.0.0 solutionzip.us
 0.0.0.0 soluxury.co.uk
+0.0.0.0 somethingnice.hc0.me
 0.0.0.0 somnoy.com
 0.0.0.0 soulinyou.ru
 0.0.0.0 soushop.net
@@ -3060,6 +3071,7 @@
 0.0.0.0 spywaresite.info
 0.0.0.0 squirrelbird.net
 0.0.0.0 sraphicshouldn.su
+0.0.0.0 srslogisticts.com
 0.0.0.0 srutebmduoh.myfw.us
 0.0.0.0 ssbo98omin.rr.nu
 0.0.0.0 ssdch.org
@@ -3169,6 +3181,7 @@
 0.0.0.0 teameda.comcastbiz.net
 0.0.0.0 teameda.net
 0.0.0.0 teamreboot.net
+0.0.0.0 tecnocuer.com
 0.0.0.0 tecros.ru
 0.0.0.0 tecslide.com
 0.0.0.0 tecviqir.ru
@@ -3420,6 +3433,7 @@
 0.0.0.0 uin1.cn
 0.0.0.0 uin2.cn
 0.0.0.0 uklucab.in
+0.0.0.0 ukonline.hc0.me
 0.0.0.0 ukugl.tourstogo.us
 0.0.0.0 ulfreqb.ddns.me.uk
 0.0.0.0 ulka-gallery.yoyo.pl
@@ -3657,6 +3671,7 @@
 0.0.0.0 www.3dfishgame.com
 0.0.0.0 www.3peaks.co.jp
 0.0.0.0 www.5178424.com
+0.0.0.0 www.acquisizionevideo.com
 0.0.0.0 www.actiagroup.com
 0.0.0.0 www.advancesrl.eu
 0.0.0.0 www.aerreravasi.com
@@ -3666,6 +3681,7 @@
 0.0.0.0 www.archigate.it
 0.0.0.0 www.arkinsoftware.in
 0.0.0.0 www.assculturaleincontri.it
+0.0.0.0 www.atousoft.com
 0.0.0.0 www.barbiemobi.cn
 0.0.0.0 www.bcservice.it
 0.0.0.0 www.bilbaopisos.es
