@@ -769,6 +769,7 @@
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax-us-west.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystems.com
 0.0.0.0 aaxads.com.edgekey.net
 0.0.0.0 aayushakti.com
 0.0.0.0 ab.adpro.com.ua
@@ -812,7 +813,6 @@
 0.0.0.0 abibletit.ru
 0.0.0.0 abidefr.com
 0.0.0.0 abissnet.net
-0.0.0.0 abj.noveltypolytechnic.edu.ng
 0.0.0.0 ablefull.com
 0.0.0.0 abmaxdigital.com
 0.0.0.0 aboardamusement.com
@@ -4968,7 +4968,6 @@
 0.0.0.0 agbmcom.112.2o7.net
 0.0.0.0 agdm.ml
 0.0.0.0 agegreetings.112.2o7.net
-0.0.0.0 agemn.co.za
 0.0.0.0 agenciaml.com.br
 0.0.0.0 agency.adsota.com
 0.0.0.0 aggregateknowledge.com
@@ -5283,6 +5282,7 @@
 0.0.0.0 amp.akamaized.net
 0.0.0.0 ampcserver.fun
 0.0.0.0 ampower.me
+0.0.0.0 amranhvac.com
 0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams.exad.jp
 0.0.0.0 ams1-ib.adnxs.com
@@ -6402,6 +6402,9 @@
 0.0.0.0 assets.taboola.com
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assignmenthelpcreator.com
+0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
+0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
+0.0.0.0 assoc-msdk-us.amazon-adsystem.com
 0.0.0.0 associatedbnking.com
 0.0.0.0 associatedcontent.112.2o7.net
 0.0.0.0 asstok.com
@@ -7414,6 +7417,7 @@
 0.0.0.0 c.adsymptotic.com
 0.0.0.0 c.af.moshimo.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystems.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.bea4.cnn.com
 0.0.0.0 c.betrad.com
@@ -7557,6 +7561,7 @@
 0.0.0.0 cancertreatmente.tt.omtrdc.net
 0.0.0.0 canconsulting.in
 0.0.0.0 candid.zone
+0.0.0.0 candidcrush.in
 0.0.0.0 cando--china.net
 0.0.0.0 candy-network.com
 0.0.0.0 canfaceoff.112.2o7.net
@@ -7698,6 +7703,7 @@
 0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-code.host
+0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn-dsa.clicktale.net.edgekey.net
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-fluct.sh.adingo.jp
@@ -7711,6 +7717,7 @@
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 0.0.0.0 cdn-stv.adgrx.com
+0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 cdn-yjp.taboola.com
 0.0.0.0 cdn.ad.citynews.it
 0.0.0.0 cdn.ad.plus
@@ -8606,7 +8613,6 @@
 0.0.0.0 corp-downloads.com
 0.0.0.0 corpcougar.com
 0.0.0.0 corpcougar.in
-0.0.0.0 corpernaija.com
 0.0.0.0 corpext-datamart.net
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpotechgroup.com
@@ -8621,6 +8627,7 @@
 0.0.0.0 couhome.112.2o7.net
 0.0.0.0 count.advanseads.com
 0.0.0.0 count.channeladvisor.com
+0.0.0.0 count.mail.163.com.impactmedfoundation.com
 0.0.0.0 count.orca-pass.net
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.123counts.com
@@ -9134,6 +9141,7 @@
 0.0.0.0 d7.adsplay.xyz
 0.0.0.0 d8acddffe978b5dfcae6.date
 0.0.0.0 da-ads.com
+0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da.alibuf.com
 0.0.0.0 dabaicai.com
 0.0.0.0 dable.io.edgekey.net
@@ -9161,7 +9169,6 @@
 0.0.0.0 dalyshops.com
 0.0.0.0 damafinimmobiliare.it
 0.0.0.0 damdoor.com
-0.0.0.0 danaevara.com
 0.0.0.0 dancemistake.com
 0.0.0.0 danhbaviet.com
 0.0.0.0 danhuaile.net
@@ -9394,6 +9401,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 desk.mspaceads.com
 0.0.0.0 desktop.spotify.com
+0.0.0.0 destinymc.co.za
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detect.rayjump.com
@@ -9722,6 +9730,7 @@
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 driverequest.com
 0.0.0.0 drivingdirt.com
+0.0.0.0 drjaralampos.com
 0.0.0.0 drjasonneuro.in
 0.0.0.0 drkalan.com
 0.0.0.0 drkness.net
@@ -10256,6 +10265,7 @@
 0.0.0.0 emiretas.com
 0.0.0.0 emisja.adsearch.pl
 0.0.0.0 employeebabyman.xyz
+0.0.0.0 emprendedorimbatible.com
 0.0.0.0 en.baoend.com
 0.0.0.0 ena-native-ads9.com
 0.0.0.0 enable.pw
@@ -12023,7 +12033,6 @@
 0.0.0.0 holisticgroup.com.pk
 0.0.0.0 holisticxox.com
 0.0.0.0 hollandbusinessadvertising.nl
-0.0.0.0 hollomart.com
 0.0.0.0 hollywood.122.2o7.net
 0.0.0.0 holofiber.xyz
 0.0.0.0 holy-shit.ubuntu.workers.dev
@@ -12403,6 +12412,7 @@
 0.0.0.0 imaginepic.xyz
 0.0.0.0 imap.dpsl.net
 0.0.0.0 imc2.122.2o7.net
+0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 imeem.112.2o7.net
 0.0.0.0 imenikala.com
 0.0.0.0 img-s-msn-com-akamaized.net
@@ -12526,6 +12536,7 @@
 0.0.0.0 indisancal.com
 0.0.0.0 individualkipitera.site
 0.0.0.0 individualkipitera24.site
+0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indta.co.id
 0.0.0.0 ineediscounts.com
@@ -12732,9 +12743,18 @@
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 iqraacfindia.org
 0.0.0.0 iqzn-useast.adnxs.com
+0.0.0.0 ir-br.amazon-adsystem.com
+0.0.0.0 ir-ca.amazon-adsystem.com
+0.0.0.0 ir-cn.amazon-adsystem.com
 0.0.0.0 ir-de.amazon-adsystem.com
+0.0.0.0 ir-es.amazon-adsystem.com
+0.0.0.0 ir-fr.amazon-adsystem.com
+0.0.0.0 ir-in.amazon-adsystem.com
+0.0.0.0 ir-it.amazon-adsystem.com
 0.0.0.0 ir-jp.amazon-adsystem.com
+0.0.0.0 ir-mx.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-na.amazon-adsystems.com
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iranclix.ir
@@ -12939,6 +12959,7 @@
 0.0.0.0 jonpoor.com
 0.0.0.0 josannastudio.co
 0.0.0.0 joshdghd.cf
+0.0.0.0 josymixmyhome.com.br
 0.0.0.0 jotdesks.ru
 0.0.0.0 jotubhsbn.website
 0.0.0.0 jotunireq.com
@@ -13148,6 +13169,7 @@
 0.0.0.0 kenatipurecehkali-xt5.com
 0.0.0.0 kenatipurecehkali-xt6.com
 0.0.0.0 kenbrown-photo.com
+0.0.0.0 kensell.co.uk
 0.0.0.0 kentona.su
 0.0.0.0 keraborigin.eu
 0.0.0.0 kerbitsallor.us
@@ -14152,6 +14174,7 @@
 0.0.0.0 lp4.onlinecasinoreports.com
 0.0.0.0 lpdk.net
 0.0.0.0 lritck.tk
+0.0.0.0 ls-droid.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 ls2web-redmond-corp.com
 0.0.0.0 lse-my.asia
@@ -14186,6 +14209,7 @@
 0.0.0.0 lux.lv
 0.0.0.0 luxdecor.co.il
 0.0.0.0 luxdiscount.zone
+0.0.0.0 luxurydestinations.in
 0.0.0.0 luzytextura.com
 0.0.0.0 lveif.com
 0.0.0.0 lvk7.com
@@ -14260,6 +14284,7 @@
 0.0.0.0 madh0use8.no-ip.org
 0.0.0.0 madh0use8.no-ip.org.ovh.net
 0.0.0.0 madibarohilala.ddnsgeek.com
+0.0.0.0 madicon.co.za
 0.0.0.0 madnik.beget.tech
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.amazon.com
@@ -14377,6 +14402,7 @@
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 marryjane.club
 0.0.0.0 martingrant.com
+0.0.0.0 mas-sdk.amazon-adsystem.com
 0.0.0.0 masabikpanel.top
 0.0.0.0 masafytunux.eu
 0.0.0.0 masari.miner.rocks
@@ -15217,6 +15243,7 @@
 0.0.0.0 multipool.us
 0.0.0.0 multiquicks.net
 0.0.0.0 multiview.122.2o7.net
+0.0.0.0 mumgee.co.za
 0.0.0.0 mun.122.2o7.net
 0.0.0.0 munesdon.top
 0.0.0.0 murciaeconomia.folioserver.com
@@ -17367,6 +17394,7 @@
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcm-jp.amazon.co.jp
 0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 rcm-na.amazon-adsystems.com
 0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rcntelecom.112.2o7.net
 0.0.0.0 rd.rakuten.co.jp
@@ -17463,7 +17491,6 @@
 0.0.0.0 reklama.silnet.pl
 0.0.0.0 rekurigo.com
 0.0.0.0 related-ads.com
-0.0.0.0 relaxindulge.co.nz
 0.0.0.0 relay-ba.ads.httpool.com
 0.0.0.0 relay-bg.ads.httpool.com
 0.0.0.0 relay-cz.ads.httpool.com
@@ -19023,7 +19050,6 @@
 0.0.0.0 stainedglassexpress.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
-0.0.0.0 stallion.house
 0.0.0.0 stampen.adtlgc.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 standardpopulation.icu
@@ -19200,7 +19226,6 @@
 0.0.0.0 stellarium.es
 0.0.0.0 stellarium.fr
 0.0.0.0 stepstone.112.2o7.net
-0.0.0.0 sterongroup.com.ng
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com.edgekey.net
 0.0.0.0 stiffstem.com
@@ -21243,7 +21268,6 @@
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unifomushop.com
 0.0.0.0 unimed-corporated.com
-0.0.0.0 unisoftcc.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unitedwebpay.co
 0.0.0.0 uniteti.net
@@ -21413,6 +21437,9 @@
 0.0.0.0 uzoclouds.eu
 0.0.0.0 uzocoms.eu
 0.0.0.0 uzojesse.top
+0.0.0.0 v-eu-preprod.amazon-adsystem.com
+0.0.0.0 v-eu.amazon-adsystem.com
+0.0.0.0 v-preprod.amazon-adsystem.com
 0.0.0.0 v-wrd.com
 0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.admedia.com
@@ -21438,6 +21465,13 @@
 0.0.0.0 va6-bid.adsrvr.org
 0.0.0.0 vaddesobhanadri.com
 0.0.0.0 vae-bid.adsrvr.org
+0.0.0.0 vaes-eu-preprod.amazon-adsystem.com
+0.0.0.0 vaes-eu.amazon-adsystem.com
+0.0.0.0 vaes-fe-preprod.amazon-adsystem.com
+0.0.0.0 vaes-fe.amazon-adsystem.com
+0.0.0.0 vaes-na-preprod.amazon-adsystem.com
+0.0.0.0 vaes-na.amazon-adsystem.com
+0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vafw.adsafeprotected.com
 0.0.0.0 vaidikdentalcollege.edu.in
 0.0.0.0 vajityu.club
@@ -21958,7 +21992,6 @@
 0.0.0.0 wehx.com.br
 0.0.0.0 weightloss-secrets-revealed.net
 0.0.0.0 weinsteincounseling.com
-0.0.0.0 welber.adv.br
 0.0.0.0 welcomejohncena.pro
 0.0.0.0 weledying-jessed.com
 0.0.0.0 wellgroomedbat.com
@@ -22125,6 +22158,8 @@
 0.0.0.0 wmbi4jr7hvonline.xyz
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-fe.amazon-adsystem.com
+0.0.0.0 wms-in.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wms.assoc-amazon.jp
 0.0.0.0 wmspb.ru
@@ -22196,6 +22231,7 @@
 0.0.0.0 wryfinger.com
 0.0.0.0 ws-fe.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
+0.0.0.0 ws.amazon-adsystems.com
 0.0.0.0 ws.amazon.co.jp
 0.0.0.0 ws.assoc-amazon.jp
 0.0.0.0 ws.tapjoyads.com
@@ -22902,7 +22938,6 @@
 0.0.0.0 www.famir.com
 0.0.0.0 www.fantasyclub.com.br
 0.0.0.0 www.farmafit.it
-0.0.0.0 www.farsabeans.com
 0.0.0.0 www.fast-adv.it
 0.0.0.0 www.federation-sardaniste.fr
 0.0.0.0 www.filpac.com
@@ -23441,7 +23476,6 @@
 0.0.0.0 xseed-digital.jp
 0.0.0.0 xsharenode.com
 0.0.0.0 xsvpn.cf
-0.0.0.0 xt.lykj988.com
 0.0.0.0 xubifaremin.eu
 0.0.0.0 xuboninogyt.eu
 0.0.0.0 xudevunymex.eu
@@ -23599,7 +23633,10 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 yzxjgr.com
 0.0.0.0 z-eu.amazon-adsystem.com
+0.0.0.0 z-fe.amazon-adsystem.com
+0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.cdn.adpool.bet
 0.0.0.0 z.moatads.com

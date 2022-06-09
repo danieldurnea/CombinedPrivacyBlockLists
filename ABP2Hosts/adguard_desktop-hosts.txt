@@ -1,4 +1,4 @@
-# Thu Jun  9 09:29:18 PM UTC 2022
+# Thu Jun  9 09:48:58 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
