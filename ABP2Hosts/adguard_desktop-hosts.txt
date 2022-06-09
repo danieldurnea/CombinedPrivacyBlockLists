@@ -1,4 +1,4 @@
-# Wed Jun  8 10:49:42 PM UTC 2022
+# Thu Jun  9 09:29:18 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
@@ -1206,6 +1206,7 @@
 0.0.0.0 65xps.com
 0.0.0.0 65zjp.cn
 0.0.0.0 6657f1d5a25b6.com
+0.0.0.0 666574.xyz
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
@@ -1615,7 +1616,6 @@
 0.0.0.0 9v58v.com
 0.0.0.0 9wlm.com
 0.0.0.0 9wotuan.com
-0.0.0.0 9xiazaiqi.com
 0.0.0.0 9xwk68.cn
 0.0.0.0 9y88.com
 0.0.0.0 a-api.skz.dev
@@ -5407,6 +5407,7 @@
 0.0.0.0 app.hawkeyesports.com
 0.0.0.0 app.hokiesports.com
 0.0.0.0 app.info.coopenae.fi.cr
+0.0.0.0 app.leadsrx.com
 0.0.0.0 app.miamihurricanes.com
 0.0.0.0 app.mktg.genesys.com
 0.0.0.0 app.okstate.com
@@ -8936,6 +8937,7 @@
 0.0.0.0 chengjunjie.top
 0.0.0.0 chengzhonghuxin.com
 0.0.0.0 chengzilte.top
+0.0.0.0 chenhao.name
 0.0.0.0 chenjie.site
 0.0.0.0 chenliang.link
 0.0.0.0 chenmujiang.com.cn
@@ -10346,6 +10348,7 @@
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro.bdrmb.cn
 0.0.0.0 cpro.xixiliya.cn
+0.0.0.0 cpro.zol.com.cn
 0.0.0.0 cpuim.com
 0.0.0.0 cpv6.com
 0.0.0.0 cpvads.com
@@ -11297,6 +11300,7 @@
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rhktq8uy839j.cloudfront.net
+0.0.0.0 d3rjndf2qggsna.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3rxqouo2bn71j.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
@@ -12398,6 +12402,7 @@
 0.0.0.0 discoverynordics.hb.omtrdc.net
 0.0.0.0 discussmercurydifferently.com
 0.0.0.0 disembarkappendix.com
+0.0.0.0 diseno.librogratis.info
 0.0.0.0 disgraceextended.com
 0.0.0.0 disguisemayhem.com
 0.0.0.0 disguisesirrational.com
@@ -12494,6 +12499,7 @@
 0.0.0.0 djhnrcithoq.com
 0.0.0.0 djhrfus.xyz
 0.0.0.0 djibeacon.dowjoneson.com
+0.0.0.0 djidbagbacgfgbgdaace.ru
 0.0.0.0 djiybut.cn
 0.0.0.0 djm080u34wfc5.cloudfront.net
 0.0.0.0 djmaza.in
@@ -13226,6 +13232,7 @@
 0.0.0.0 dywolfer.de
 0.0.0.0 dyx0878.cn
 0.0.0.0 dyxsmj.net
+0.0.0.0 dyzx6688.top
 0.0.0.0 dz4ad.com
 0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 dzctkjj.cn
@@ -13644,6 +13651,7 @@
 0.0.0.0 ede09a2eab.5150ab4aa5.com
 0.0.0.0 edenhermosa.com
 0.0.0.0 ederiorbrit.xyz
+0.0.0.0 edetlmb.cn
 0.0.0.0 edetzmh.cn
 0.0.0.0 edfuyyweyz.com
 0.0.0.0 edgar2al2larngpoer.com
@@ -17199,6 +17207,7 @@
 0.0.0.0 guoshihuaiyao.com
 0.0.0.0 guotaotaoci.net
 0.0.0.0 guoxintdh.com
+0.0.0.0 guoyu.link
 0.0.0.0 guppy.ausowned.com.au
 0.0.0.0 guppy.directlyapply.com
 0.0.0.0 guppy.estimate.taxi
@@ -17305,6 +17314,7 @@
 0.0.0.0 gzqudou.com
 0.0.0.0 gzts188.com
 0.0.0.0 gzwl.xyz
+0.0.0.0 gzww.site
 0.0.0.0 gzwxdq.cn
 0.0.0.0 gzx8670vhome.xyz
 0.0.0.0 gzxxty168.com
@@ -17382,6 +17392,7 @@
 0.0.0.0 hairsthoughtfulgovernor.com
 0.0.0.0 hairwqxnpkxfphd.xyz
 0.0.0.0 haishengwh123.cn
+0.0.0.0 haitaochen.xyz
 0.0.0.0 haite.xyz
 0.0.0.0 haithoaz.net
 0.0.0.0 haitv.top
@@ -20081,6 +20092,7 @@
 0.0.0.0 jioer.pro
 0.0.0.0 jipezy.cn
 0.0.0.0 jipfvqusm.com
+0.0.0.0 jiphihizi.com
 0.0.0.0 jipo.io
 0.0.0.0 jirivsoxvdk.com
 0.0.0.0 jirtb.top
@@ -21707,6 +21719,7 @@
 0.0.0.0 lfdydk.com
 0.0.0.0 lfercl.tcb-beauty.net
 0.0.0.0 lfg5jnbi.com
+0.0.0.0 lfjack.com
 0.0.0.0 lfjaqwwsgyu.com
 0.0.0.0 lfjvvccsucsmxg.com
 0.0.0.0 lflable.com
@@ -29075,6 +29088,7 @@
 0.0.0.0 primevalsymphonymuttering.com
 0.0.0.0 primroseconstellationrapidly.com
 0.0.0.0 princedrainclearance.com
+0.0.0.0 princesses.asia
 0.0.0.0 princided.club
 0.0.0.0 principles.wang
 0.0.0.0 pringed.space
@@ -32209,6 +32223,7 @@
 0.0.0.0 search2000s.com
 0.0.0.0 search4y.com
 0.0.0.0 searchad-phinf.pstatic.net
+0.0.0.0 searchboll.com
 0.0.0.0 searchdatestoday.com
 0.0.0.0 searchdims.network
 0.0.0.0 searchenhancements.com
@@ -32678,6 +32693,7 @@
 0.0.0.0 shiptoud.com
 0.0.0.0 shirleyyean.com
 0.0.0.0 shiruru.cn
+0.0.0.0 shiryharu.pro
 0.0.0.0 shishishiguixinfangfuzhuangshanghan.cn
 0.0.0.0 shitao.xyz
 0.0.0.0 shitcustody.com
@@ -37111,6 +37127,7 @@
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 tag.cribnotes.jp
 0.0.0.0 tag.datariver.ru
+0.0.0.0 tag.escalated.io
 0.0.0.0 tag.karte.io
 0.0.0.0 tag.nifty.com
 0.0.0.0 tag.pprl.io
@@ -40183,6 +40200,7 @@
 0.0.0.0 unitshandbookconsulate.com
 0.0.0.0 universalsearches.com
 0.0.0.0 universityofinternetscience.com
+0.0.0.0 uniworldgroup.asia
 0.0.0.0 unkingdiabeth.club
 0.0.0.0 unknitting.com
 0.0.0.0 unknowncarp.com
@@ -41148,6 +41166,7 @@
 0.0.0.0 vubihowhe.com
 0.0.0.0 vuclmvrq.xyz
 0.0.0.0 vudoutch.com
+0.0.0.0 vue-js.cyou
 0.0.0.0 vueqfdry.com
 0.0.0.0 vufizopi.pro
 0.0.0.0 vugecymi.xyz
