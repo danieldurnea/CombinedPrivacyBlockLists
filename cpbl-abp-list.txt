@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jun 10 02:15:11 AM UTC 2022
+! Updated: Fri Jun 10 03:22:44 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -3695,6 +3695,7 @@
 ||abieaoa.cn^
 ||abionet.com^
 ||abissnet.net^
+||abj.noveltypolytechnic.edu.ng^
 ||abjjsc.cn^
 ||abjtuq.exoticca.com^
 ||abjwkkabu.com^
@@ -5407,7 +5408,6 @@
 ||addthief.com^
 ||addthis.com^
 ||addthis.com.edgekey.net^
-||addthiscdn.com^
 ||addthisedge.com^
 ||addthiss.net^
 ||addtoany.com^
@@ -11064,7 +11064,6 @@
 ||an-donut.com^
 ||an.avast.com^
 ||an.blogis.org^
-||an.clhcdn.net^
 ||an.constantcontact.com^
 ||an.dongphim.net^
 ||an.facebook.com^
@@ -15624,7 +15623,6 @@
 ||beacon.ehow.com^
 ||beacon.examiner.com^
 ||beacon.flow.io^
-||beacon.fusioncdn.com^
 ||beacon.gu-web.net^
 ||beacon.guim.co.uk^
 ||beacon.gutefrage.net^
@@ -15708,6 +15706,7 @@
 ||beap-bc.yahoo.com^
 ||beap.adx.yahoo.com^
 ||beap1.cb.g01.yahoodns.net^
+||beapassionjunkie.com^
 ||bear.ama.so^
 ||bear.builtbyborda.com^
 ||bear.bukury.com^
@@ -16215,6 +16214,7 @@
 ||bestnewsmall.ru^
 ||bestnewsworld.net^
 ||bestnfd.com^
+||bestnfq.com^
 ||bestoffer2021.info^
 ||bestoffer21.info^
 ||bestofferdirect.com^
@@ -16555,6 +16555,7 @@
 ||bighyip-monitor.com^
 ||bigip.stream^
 ||bigleads.ru^
+||bigmikesupplies.co.za^
 ||bigmining.com^
 ||bigmir.email^
 ||bigmobileads.com^
@@ -18799,7 +18800,6 @@
 ||c22x1.xcdn.ovh^
 ||c265f8e1e3.com^
 ||c2bit.mu^
-||c2i-cdn.startappnetwork.com^
 ||c2i.startappnetwork.com^
 ||c2orcv7zjn5y.top^
 ||c2s.startappnetwork.com^
@@ -18887,6 +18887,7 @@
 ||cacafly.net^
 ||cachand.com^
 ||cache-3942.net^
+||cache.addthiscdn.com^
 ||cache.am^
 ||cache.blozoo.info^
 ||cache.daredorm.com^
@@ -19718,7 +19719,6 @@
 ||cdn-net.com^
 ||cdn-onenote.net^
 ||cdn-otf-cas.prfct.cc^
-||cdn-pci.optimizely.com^
 ||cdn-qc.coccoc.com^
 ||cdn-ra.rockcontent.com^
 ||cdn-resources.prfct.cc^
@@ -19728,7 +19728,6 @@
 ||cdn-settings.appsflyersdk.com^
 ||cdn-settings.segment.com^
 ||cdn-sitegainer.com^
-||cdn-testsettings.appsflyersdk.com^
 ||cdn.234doo.com^
 ||cdn.88-f.net^
 ||cdn.ad1-click.com^
@@ -19742,7 +19741,6 @@
 ||cdn.adt567.net^
 ||cdn.adtradr.com^
 ||cdn.adual.net^
-||cdn.aicactus.io^
 ||cdn.alistcloud.com^
 ||cdn.amzuu.com^
 ||cdn.api-connect.io^
@@ -19756,7 +19754,6 @@
 ||cdn.banner.thumbplay.com^
 ||cdn.banners.scubl.com^
 ||cdn.beaconpush.com^
-||cdn.beeketing.com^
 ||cdn.bidmatrixdsp.com^
 ||cdn.bigcommerce.com^
 ||cdn.blisspointmedia.com^
@@ -19781,11 +19778,9 @@
 ||cdn.freefacti.com^
 ||cdn.freefarcy.com^
 ||cdn.g5e.com^
-||cdn.gameanalytics.com^
 ||cdn.gimbal.tech^
 ||cdn.gladly.com^
 ||cdn.haocaa.com^
-||cdn.heycdn91.xyz^
 ||cdn.hiido.cn^
 ||cdn.hiperadverts.com^
 ||cdn.house^
@@ -19794,7 +19789,6 @@
 ||cdn.insta.playbryte.com^
 ||cdn.installationsafe.net.s3.amazonaws.com^
 ||cdn.interactivemedia.net^
-||cdn.islandmob.com^
 ||cdn.kidoz.net^
 ||cdn.klasseo.com^
 ||cdn.locallogic.co^
@@ -19806,7 +19800,6 @@
 ||cdn.metalocator.com^
 ||cdn.mobify.com^
 ||cdn.mobsocmedia.com^
-||cdn.mondiad.net^
 ||cdn.monsido.com^
 ||cdn.movieads.ru^
 ||cdn.msdwnld.com^
@@ -19815,31 +19808,25 @@
 ||cdn.neppa-ad.com^
 ||cdn.nsimg.net^
 ||cdn.onesignal.com^
-||cdn.openinstall.io^
 ||cdn.panelbear.com^
 ||cdn.pardot.com^
 ||cdn.partycross.com^
-||cdn.pendo.io^
 ||cdn.perzonalization.com^
 ||cdn.pic.crooz.jp^
 ||cdn.pljs.ru^
 ||cdn.preciso.net^
 ||cdn.program3.com^
 ||cdn.pushcrew.com^
-||cdn.qgr.ph^
 ||cdn.raekdata.com^
 ||cdn.redlightcenter.com^
 ||cdn.relaido.jp^
 ||cdn.retailads.net^
 ||cdn.revjet.com^
-||cdn.rklmstr.com^
 ||cdn.rongzhouxing.com^
-||cdn.rtbid.me^
 ||cdn.sagame66.com^
 ||cdn.sexygame66.com^
 ||cdn.smartclick.io^
 ||cdn.socialannex.com^
-||cdn.somplo.com^
 ||cdn.split.io^
 ||cdn.sportlabs.online^
 ||cdn.static-cnt.bid^
@@ -19861,7 +19848,6 @@
 ||cdn.viewdeos.com^
 ||cdn.vlyby.com^
 ||cdn.wadawada-stop-report-us.com^
-||cdn.webpushr.com^
 ||cdn.welcome.pussysaga.com^
 ||cdn.wenzhangba.cn^
 ||cdn.wuyou.ca^
@@ -21691,7 +21677,9 @@
 ||client-analytics.braintreegateway.com^
 ||client-googledns.com^
 ||client-log.box.com^
+||client-uat.addthiscdn.com^
 ||client.88tours.com^
+||client.addthiscdn.com^
 ||client.botchk.net^
 ||client.meetsusolutions.com^
 ||client.midosoo.com^
@@ -22431,6 +22419,7 @@
 ||colegiounamuno.es^
 ||coleryujgdq345678hfdh.xyz^
 ||coletor.terra.com^
+||colgefine.at^
 ||coliassfeurytheme.com^
 ||colimavdar.ru^
 ||colintoxicate.com^
@@ -23477,6 +23466,7 @@
 ||corpadsinc.com^
 ||corpcougar.com^
 ||corpcougar.in^
+||corpernaija.com^
 ||corpext-datamart.net^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||corpolevesuplementos.com.br^
@@ -43896,7 +43886,6 @@
 ||indofreeads.com^
 ||indoleads.com^
 ||indonesia-holiday.com^
-||indonesias.me^
 ||indrasbikaner.com^
 ||indta.co.id^
 ||induedabusive.casa^
@@ -45131,7 +45120,6 @@
 ||irksomeshamefarrier.com^
 ||irleti.com^
 ||irmcjtqdzrp.com^
-||irncdn.com^
 ||iroby.com^
 ||iroclick.ir^
 ||ironbeast.io^
@@ -45805,6 +45793,7 @@
 ||jdgtgb.unsere-helden.com^
 ||jdgtgb.watson.de^
 ||jdiaveu.cn^
+||jdkems.com^
 ||jdlhg.com^
 ||jdm-uk.com^
 ||jdmodr.com^
@@ -46607,6 +46596,7 @@
 ||jsiqql.xyz^
 ||jsiwjgnq.com^
 ||jsjxhd.com^
+||jsk.wang^
 ||jskang.cn^
 ||jslmtdgf.xyz^
 ||jslog.post.cz^
@@ -49610,7 +49600,6 @@
 ||ligatus.de^
 ||light-screen.net^
 ||light-screnshots.net^
-||lightboxcdn.com^
 ||lightcast.leadscoringcenter.com^
 ||lightclick.ir^
 ||lightcoffee.ru^
@@ -51560,6 +51549,7 @@
 ||lwmoaf.com^
 ||lwobol.cloud^
 ||lwozzk.legacy.com^
+||lwxqaq.club^
 ||lwztritpzuvl.myfw.us^
 ||lx167.com^
 ||lx2rv.com^
@@ -59338,7 +59328,6 @@
 ||nrvkwqaatl.com^
 ||nrxduw5.com^
 ||nryceuula.com^
-||ns-cdn.neustar.biz^
 ||ns-plugin.site^
 ||ns-zhy.com^
 ||ns.machinevision-getter.net.zooplus.it^
@@ -64025,7 +64014,6 @@
 ||player.anyclip.com^
 ||player.stats.live-video.net^
 ||player.tabooporns.com^
-||player.unocdn.com^
 ||player1523.com^
 ||playerassets.info^
 ||playerbattleground.com^
@@ -64978,7 +64966,6 @@
 ||preaf.jp^
 ||preanalytication.com^
 ||prebid.org^
-||prebidcdn.e-volution.ai^
 ||prebids.adnsx.com^
 ||precautionbuoy.com^
 ||preciouseffect.com^
@@ -65115,7 +65102,6 @@
 ||preview-tail.net.zooplus.it^
 ||preview.msn.com^
 ||preview.owa.net.zooplus.nl^
-||previewcdn.somplo.com^
 ||previouslyawokestale.com^
 ||previousplayground.com^
 ||previouspotato.com^
@@ -66863,7 +66849,6 @@
 ||ql.tc^
 ||ql.uzuzuz.com^
 ||qlcabgpjyh.com^
-||qlcdnvkgi.com^
 ||qldkru.whitestuff.com^
 ||qling.com^
 ||qlitics.com^
@@ -70135,7 +70120,6 @@
 ||s-adx.op-mobile.opera.com^
 ||s-adzone.com^
 ||s-bid.rmp.rakuten.com^
-||s-cdn.rmp.rakuten.com^
 ||s-imp.rmp.rakuten.com^
 ||s-lab.it^
 ||s-manager.com^
@@ -70326,6 +70310,7 @@
 ||s3-iad-2.cf.dash.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3.adbers.com^
+||s3.lightboxcdn.com^
 ||s3.ll.videorolls.row.aiv-cdn.net^
 ||s3.mobile.val.jp^
 ||s3.smartphonehoesjes.nl^
@@ -72826,6 +72811,7 @@
 ||shareadspace.com^
 ||shareaholic.com^
 ||shareasale.com^
+||sharebar.addthiscdn.com^
 ||sharebay.net^
 ||sharecash.org^
 ||sharechronic.com^
@@ -77611,7 +77597,6 @@
 ||stage.traffiliate.com^
 ||stagepopkek.com^
 ||stagezomation.carte-gr.total.fr^
-||staging-tag-cdn.aicactus.io^
 ||stagingjobshq.com^
 ||staglion.pro^
 ||stagroam.net^
@@ -77635,7 +77620,6 @@
 ||stalesummer.com^
 ||stalihuwi.com^
 ||stalkermod.ru^
-||stallion.house^
 ||stampseizeidly.com^
 ||stampsmindlessscrap.com^
 ||stan.xing.com^
@@ -80663,8 +80647,6 @@
 ||tafimedia.com^
 ||tafmaster.com^
 ||tafrebadus.com^
-||tag-cdn.aicactus.io^
-||tag-cdn.juicer.cc^
 ||tag-manager.playbuzz.com^
 ||tag.adtrendmedia.net^
 ||tag.aticdn.net^
@@ -88244,6 +88226,7 @@
 ||vempozah.net^
 ||vemtoala.com^
 ||venber.cn^
+||vendasbestchoice.com^
 ||vendedrt.xyz^
 ||vendexo.com^
 ||vendigamus.com^
@@ -88981,7 +88964,6 @@
 ||vkaofq64zz.com^
 ||vkbvny.ddanzi.com^
 ||vkbvny.mediaus.co.kr^
-||vkcdn.online^
 ||vkcdnservice.appspot.com^
 ||vkcdnservice.com^
 ||vkdgzr.ennergiia.com^
@@ -91976,6 +91958,7 @@
 ||www.adcanadian.com^
 ||www.adcode.ws^
 ||www.addfreecounter.com^
+||www.addthiscdn.com^
 ||www.adgger.jp^
 ||www.adgjl13.com^
 ||www.adhexa.com^
@@ -92013,6 +91996,7 @@
 ||www.adwmg.com^
 ||www.adxxx.info^
 ||www.adz2you.net^
+||www.aearth.com^
 ||www.aerreravasi.com^
 ||www.af-mark.jp^
 ||www.aiea6gaza.com^
@@ -92081,7 +92065,6 @@
 ||www.bt.emsecure.net^
 ||www.buildtraffic.com^
 ||www.bulletads.com^
-||www.bultra.com.br^
 ||www.burn5tilt.com^
 ||www.buycheapadvertising.com^
 ||www.buzzclick.com^
@@ -96759,6 +96742,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||khou.com/assets/shared-images/icons/close.svg$image
+||lightboxcdn.com/static/identity.html
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nyt.com^*/metered_assets$script
 ||nytimes.com^$removeparam=impression_id
