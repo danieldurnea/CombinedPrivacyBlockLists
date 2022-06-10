@@ -1,4 +1,4 @@
-# Thu Jun  9 10:05:40 PM UTC 2022
+# Fri Jun 10 01:21:06 AM UTC 2022
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
@@ -13322,6 +13322,7 @@
 0.0.0.0 discreetfield.com
 0.0.0.0 discussmercurydifferently.com
 0.0.0.0 disembarkappendix.com
+0.0.0.0 diseno.librogratis.info
 0.0.0.0 disgraceextended.com
 0.0.0.0 disguisemayhem.com
 0.0.0.0 disguisesirrational.com
@@ -19087,6 +19088,7 @@
 0.0.0.0 hdsrc-a.akamaihd.net
 0.0.0.0 hdtracker.ru
 0.0.0.0 hdvcode.com
+0.0.0.0 hdw0.top
 0.0.0.0 hdwbdlre.top
 0.0.0.0 hdxxaq.cn
 0.0.0.0 hdypw.com
@@ -38873,6 +38875,7 @@
 0.0.0.0 tiantianwl.cn
 0.0.0.0 tiantianyinyue.cn
 0.0.0.0 tianvip.top
+0.0.0.0 tianyao.site
 0.0.0.0 tibacta.com
 0.0.0.0 tiberowheddidn.info
 0.0.0.0 tibisigi.com
@@ -45245,6 +45248,7 @@
 0.0.0.0 yuccasswears.com
 0.0.0.0 yucwqrqlf.com
 0.0.0.0 yudexjr.com
+0.0.0.0 yue78.online
 0.0.0.0 yuebofa.cc
 0.0.0.0 yueduyy.com
 0.0.0.0 yuegepiano.cn
@@ -45741,6 +45745,7 @@
 0.0.0.0 zhuhaiqilu.cn
 0.0.0.0 zhulik2ne1voruy1d.com
 0.0.0.0 zhuogego8.top
+0.0.0.0 zhuomengwangluo.com
 0.0.0.0 zhuoyuanxcl.cn
 0.0.0.0 zhuozhongfangshui.cn
 0.0.0.0 zhushihuahan.com

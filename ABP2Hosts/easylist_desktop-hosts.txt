@@ -1,4 +1,4 @@
-# Thu Jun  9 10:05:26 PM UTC 2022
+# Fri Jun 10 01:20:53 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -16848,6 +16848,7 @@
 0.0.0.0 hdsjk.cc
 0.0.0.0 hdsrc-a.akamaihd.net
 0.0.0.0 hdvcode.com
+0.0.0.0 hdw0.top
 0.0.0.0 hdxxaq.cn
 0.0.0.0 hdypw.com
 0.0.0.0 he3kz8.com
@@ -17730,7 +17731,6 @@
 0.0.0.0 hxssj.cn
 0.0.0.0 hxtiiuvfptsnppn.com
 0.0.0.0 hxtwl.cn
-0.0.0.0 hxwygsk2.xyz
 0.0.0.0 hxyifu.com
 0.0.0.0 hxyssd.cn
 0.0.0.0 hxyx360.com
@@ -19153,8 +19153,6 @@
 0.0.0.0 jazzharder.com
 0.0.0.0 jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
-0.0.0.0 jb2v9sv.shop
-0.0.0.0 jb2v9sv.world
 0.0.0.0 jb7hvcksstar.com
 0.0.0.0 jb7hvckszone.com
 0.0.0.0 jb9vtov.xyz
@@ -19744,7 +19742,6 @@
 0.0.0.0 jtdxz.top
 0.0.0.0 jtigctkh.com
 0.0.0.0 jtinssutynyf.com
-0.0.0.0 jtj7tq6c.xyz
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtkshop.net
 0.0.0.0 jttcbj.cn
@@ -20495,7 +20492,6 @@
 0.0.0.0 kq7it3c6.club
 0.0.0.0 kq7it3c6.xyz
 0.0.0.0 kqeehoptcroxf.com
-0.0.0.0 kqiekmsq.world
 0.0.0.0 kqimuhkxnh.xyz
 0.0.0.0 kqirf.xyz
 0.0.0.0 kqkydl.postel-deluxe.ru
@@ -36421,6 +36417,7 @@
 0.0.0.0 tiantianwl.cn
 0.0.0.0 tiantianyinyue.cn
 0.0.0.0 tianvip.top
+0.0.0.0 tianyao.site
 0.0.0.0 tibacta.com
 0.0.0.0 tiberowheddidn.info
 0.0.0.0 tibisigi.com
@@ -42602,7 +42599,6 @@
 0.0.0.0 yourbestheal.com
 0.0.0.0 yourcommonfeed.com
 0.0.0.0 yourcoolfeed.com
-0.0.0.0 youre123.com
 0.0.0.0 yourfreshposts.com
 0.0.0.0 yourhealmyheal.com
 0.0.0.0 yourkadspunew.com
@@ -42627,7 +42623,6 @@
 0.0.0.0 youyouluming.xyz
 0.0.0.0 youyoumw.com
 0.0.0.0 youzhizi.com
-0.0.0.0 youzonggw.com
 0.0.0.0 yovenbugsha.com
 0.0.0.0 yovkr.xyz
 0.0.0.0 yoyi.com.cn
@@ -42725,6 +42720,7 @@
 0.0.0.0 yuccasswears.com
 0.0.0.0 yucwqrqlf.com
 0.0.0.0 yudexjr.com
+0.0.0.0 yue78.online
 0.0.0.0 yueduyy.com
 0.0.0.0 yuegepiano.cn
 0.0.0.0 yueleshenghuo.cn
@@ -43169,7 +43165,6 @@
 0.0.0.0 zhongzizye.cn
 0.0.0.0 zhongzk.com
 0.0.0.0 zhoumo.site
-0.0.0.0 zhouqin520.top
 0.0.0.0 zhouwutrip.cn
 0.0.0.0 zhouyi.cool
 0.0.0.0 zhouziwang.cn
@@ -43189,6 +43184,7 @@
 0.0.0.0 zhulik2ne1voruy1d.com
 0.0.0.0 zhululm.com
 0.0.0.0 zhuogego8.top
+0.0.0.0 zhuomengwangluo.com
 0.0.0.0 zhuoyuanxcl.cn
 0.0.0.0 zhuozhongfangshui.cn
 0.0.0.0 zhushihuahan.com
