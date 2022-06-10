@@ -1,4 +1,4 @@
-# Fri Jun 10 01:20:33 AM UTC 2022
+# Fri Jun 10 01:53:29 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
@@ -18525,7 +18525,6 @@
 0.0.0.0 hxssj.cn
 0.0.0.0 hxtiiuvfptsnppn.com
 0.0.0.0 hxtwl.cn
-0.0.0.0 hxwygsk2.xyz
 0.0.0.0 hxyifu.com
 0.0.0.0 hxyssd.cn
 0.0.0.0 hxyx360.com
@@ -19816,8 +19815,6 @@
 0.0.0.0 jazzharder.com
 0.0.0.0 jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
-0.0.0.0 jb2v9sv.shop
-0.0.0.0 jb2v9sv.world
 0.0.0.0 jb7hvcksstar.com
 0.0.0.0 jb7hvckszone.com
 0.0.0.0 jb9vtov.xyz
@@ -20417,7 +20414,6 @@
 0.0.0.0 jtdxz.top
 0.0.0.0 jtigctkh.com
 0.0.0.0 jtinssutynyf.com
-0.0.0.0 jtj7tq6c.xyz
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtkshop.net
 0.0.0.0 jtosgk.123pneus.fr
@@ -21146,7 +21142,6 @@
 0.0.0.0 kq7it3c6.xyz
 0.0.0.0 kqdqrj.traktorpool.de
 0.0.0.0 kqeehoptcroxf.com
-0.0.0.0 kqiekmsq.world
 0.0.0.0 kqimuhkxnh.xyz
 0.0.0.0 kqirf.xyz
 0.0.0.0 kqnuojvya.com
@@ -43585,7 +43580,6 @@
 0.0.0.0 yourcommonfeed.com
 0.0.0.0 yourcoolfeed.com
 0.0.0.0 yourdestinationlink.com
-0.0.0.0 youre123.com
 0.0.0.0 yourfreshposts.com
 0.0.0.0 yourhealmyheal.com
 0.0.0.0 yourhealth.cooperhealth.org
@@ -43613,7 +43607,6 @@
 0.0.0.0 youyouluming.xyz
 0.0.0.0 youyoumw.com
 0.0.0.0 youzhizi.com
-0.0.0.0 youzonggw.com
 0.0.0.0 yovenbugsha.com
 0.0.0.0 yovkr.xyz
 0.0.0.0 yp333.top
@@ -44131,7 +44124,6 @@
 0.0.0.0 zhongzizye.cn
 0.0.0.0 zhongzk.com
 0.0.0.0 zhoumo.site
-0.0.0.0 zhouqin520.top
 0.0.0.0 zhouwutrip.cn
 0.0.0.0 zhouyi.cool
 0.0.0.0 zhouziwang.cn

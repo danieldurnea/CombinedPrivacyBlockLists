@@ -1,4 +1,4 @@
-# Fri Jun 10 01:20:53 AM UTC 2022
+# Fri Jun 10 01:53:50 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -1021,6 +1021,7 @@
 0.0.0.0 6604.org
 0.0.0.0 6657f1d5a25b6.com
 0.0.0.0 666574.xyz
+0.0.0.0 666576.xyz
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
@@ -5243,6 +5244,7 @@
 0.0.0.0 awsharproofed.com
 0.0.0.0 awstaticdn.net
 0.0.0.0 awsurveys.com
+0.0.0.0 awsxc.live
 0.0.0.0 awtks.com
 0.0.0.0 awtvnrgwxletd.com
 0.0.0.0 awwhdxzen.com
@@ -19744,6 +19746,7 @@
 0.0.0.0 jtinssutynyf.com
 0.0.0.0 jtjsevmr.com
 0.0.0.0 jtkshop.net
+0.0.0.0 jtrgzj9.com
 0.0.0.0 jttcbj.cn
 0.0.0.0 jtubvaewvijfk.xyz
 0.0.0.0 jtwlj.cn
@@ -38487,6 +38490,7 @@
 0.0.0.0 u0054.com
 0.0.0.0 u0056.com
 0.0.0.0 u0064.com
+0.0.0.0 u0065.com
 0.0.0.0 u0067.com
 0.0.0.0 u07k3pqfw5jh.com
 0.0.0.0 u0r9.cn
