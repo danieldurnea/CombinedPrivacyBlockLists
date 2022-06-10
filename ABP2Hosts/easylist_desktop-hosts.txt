@@ -1,4 +1,4 @@
-# Fri Jun 10 01:53:50 AM UTC 2022
+# Fri Jun 10 03:01:52 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -6231,6 +6231,7 @@
 0.0.0.0 bestgong.top
 0.0.0.0 besti.ga
 0.0.0.0 bestnfd.com
+0.0.0.0 bestnfq.com
 0.0.0.0 bestrevenuenetwork.com
 0.0.0.0 bestssn.com
 0.0.0.0 beststbuy.ru
@@ -19708,6 +19709,7 @@
 0.0.0.0 jsiqql.xyz
 0.0.0.0 jsiwjgnq.com
 0.0.0.0 jsjxhd.com
+0.0.0.0 jsk.wang
 0.0.0.0 jskang.cn
 0.0.0.0 jslmtdgf.xyz
 0.0.0.0 jslog.post.cz
@@ -22231,6 +22233,7 @@
 0.0.0.0 lwjvyd.com
 0.0.0.0 lwlscy.com
 0.0.0.0 lwobol.cloud
+0.0.0.0 lwxqaq.club
 0.0.0.0 lx167.com
 0.0.0.0 lx2rv.com
 0.0.0.0 lx52168.online
