@@ -346,6 +346,7 @@
 ^lastfm-img2\.akamaized\.net$
 ^letsencrypt\.org$
 ^licensing\.xboxlive\.com$
+^lightboxcdn\.com$
 ^linkedin-learning\.pxf\.io$
 ^live-nhl\.stream$
 ^live\.com$
@@ -601,6 +602,7 @@
 ^www\.jdownloader\.org$
 ^www\.jwplayer\.com$
 ^www\.letsencrypt\.org$
+^www\.lightboxcdn\.com$
 ^www\.live-nhl\.stream$
 ^www\.liveinternet\.ru$
 ^www\.lotustalk\.com$
