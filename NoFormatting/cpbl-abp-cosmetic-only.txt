@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Jun 12 11:19:52 PM UTC 2022
+! Updated: Sun Jun 12 11:56:00 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -120,6 +120,9 @@ gab.com##[aria-label*="Sponsored"]
 gab.com##[href*="grow.gab.com"]
 gab.com##[poster*="grow.gab.com"]
 gab.com##[src*="grow.gab.com"]
+gamatotv.info##[href*="/links/ads"]
+gamatotv.info##.spu-content
+gamatotv.info##.spu-total-.spu-bottom-right.spu-box
 ghacks.net###stackcommerce_widget-4 > .pb--6.mb--10.border--bottom--gray.heading--tiny
 ghacks.net##.stackCommerceItemWrap
 glassdoor.com##.actionBarMt0.modal_main
