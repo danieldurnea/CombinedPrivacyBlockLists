@@ -1,4 +1,4 @@
-// **** Fri Jun 10 03:12:27 AM UTC 2022
+// **** Sun Jun 12 08:12:51 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1887,6 +1887,7 @@ shExpMatch(host, '*.amazon-adsystem.com') ||
 shExpMatch(host, '*.amazon-sicherheit.kunden-ueberpruefung.xyz') ||
 shExpMatch(host, '*.amazon.freecodes.us') ||
 shExpMatch(host, '*.amazon.hackingfree.com') ||
+shExpMatch(host, '*.amazonaax.com') ||
 shExpMatch(host, '*.amazoncards.dlcodes.com') ||
 shExpMatch(host, '*.amazoncodefree.com') ||
 shExpMatch(host, '*.amazoncodes.freehacks.pw') ||
@@ -6637,6 +6638,7 @@ shExpMatch(host, '*.flixillimite.com') ||
 shExpMatch(host, '*.flmtelechargers.com') ||
 shExpMatch(host, '*.floodprincipal.com') ||
 shExpMatch(host, '*.flowercare.biz') ||
+shExpMatch(host, '*.floweryflavor.com') ||
 shExpMatch(host, '*.flowgo.com') ||
 shExpMatch(host, '*.flstudioflp.com') ||
 shExpMatch(host, '*.flurry.com') ||
@@ -9925,7 +9927,6 @@ shExpMatch(host, '*.kzupload.com') ||
 shExpMatch(host, '*.l-imgur.pl') ||
 shExpMatch(host, '*.l00t.farm') ||
 shExpMatch(host, '*.l1.britannica.com') ||
-shExpMatch(host, '*.l6b587txj1.com') ||
 shExpMatch(host, '*.la-spazzolino.com') ||
 shExpMatch(host, '*.la.land') ||
 shExpMatch(host, '*.la21jeju.or.kr') ||
@@ -10306,6 +10307,9 @@ shExpMatch(host, '*.longer-battery-life.com') ||
 shExpMatch(host, '*.longerdependent.com') ||
 shExpMatch(host, '*.longinglettuce.com') ||
 shExpMatch(host, '*.longixsoft.com') ||
+shExpMatch(host, '*.look.djfiln.com') ||
+shExpMatch(host, '*.look.ichlnk.com') ||
+shExpMatch(host, '*.look.opskln.com') ||
 shExpMatch(host, '*.look.ufinkln.com') ||
 shExpMatch(host, '*.looks-picture.com') ||
 shExpMatch(host, '*.loomarnia.com') ||
@@ -16033,6 +16037,7 @@ shExpMatch(host, '*.uci.securesoft.info') ||
 shExpMatch(host, '*.ucomsoft.cn') ||
 shExpMatch(host, '*.ucrack.pw') ||
 shExpMatch(host, '*.udkcrj.com') ||
+shExpMatch(host, '*.udncoeln.com') ||
 shExpMatch(host, '*.uduoduo.com') ||
 shExpMatch(host, '*.uebelacker.makemoneywithmegan.net') ||
 shExpMatch(host, '*.uegnytqslcm.myfw.us') ||
@@ -16221,8 +16226,8 @@ shExpMatch(host, '*.username-search.com') ||
 shExpMatch(host, '*.userreplay.com') ||
 shExpMatch(host, '*.userreplay.net') ||
 shExpMatch(host, '*.users.atw.hu') ||
+shExpMatch(host, '*.users.maxcluster.net') ||
 shExpMatch(host, '*.users173.lolipop.jp') ||
-shExpMatch(host, '*.usherprayer.com') ||
 shExpMatch(host, '*.usingirritatecordial.com') ||
 shExpMatch(host, '*.usmsad.tom.com') ||
 shExpMatch(host, '*.usscase.com') ||
@@ -19593,6 +19598,7 @@ shExpMatch(host, 'amazon-adsystem.com') ||
 shExpMatch(host, 'amazon-sicherheit.kunden-ueberpruefung.xyz') ||
 shExpMatch(host, 'amazon.freecodes.us') ||
 shExpMatch(host, 'amazon.hackingfree.com') ||
+shExpMatch(host, 'amazonaax.com') ||
 shExpMatch(host, 'amazoncards.dlcodes.com') ||
 shExpMatch(host, 'amazoncodefree.com') ||
 shExpMatch(host, 'amazoncodes.freehacks.pw') ||
@@ -24343,6 +24349,7 @@ shExpMatch(host, 'flixillimite.com') ||
 shExpMatch(host, 'flmtelechargers.com') ||
 shExpMatch(host, 'floodprincipal.com') ||
 shExpMatch(host, 'flowercare.biz') ||
+shExpMatch(host, 'floweryflavor.com') ||
 shExpMatch(host, 'flowgo.com') ||
 shExpMatch(host, 'flstudioflp.com') ||
 shExpMatch(host, 'flurry.com') ||
@@ -27631,7 +27638,6 @@ shExpMatch(host, 'kzupload.com') ||
 shExpMatch(host, 'l-imgur.pl') ||
 shExpMatch(host, 'l00t.farm') ||
 shExpMatch(host, 'l1.britannica.com') ||
-shExpMatch(host, 'l6b587txj1.com') ||
 shExpMatch(host, 'la-spazzolino.com') ||
 shExpMatch(host, 'la.land') ||
 shExpMatch(host, 'la21jeju.or.kr') ||
@@ -28012,6 +28018,9 @@ shExpMatch(host, 'longer-battery-life.com') ||
 shExpMatch(host, 'longerdependent.com') ||
 shExpMatch(host, 'longinglettuce.com') ||
 shExpMatch(host, 'longixsoft.com') ||
+shExpMatch(host, 'look.djfiln.com') ||
+shExpMatch(host, 'look.ichlnk.com') ||
+shExpMatch(host, 'look.opskln.com') ||
 shExpMatch(host, 'look.ufinkln.com') ||
 shExpMatch(host, 'looks-picture.com') ||
 shExpMatch(host, 'loomarnia.com') ||
@@ -33739,6 +33748,7 @@ shExpMatch(host, 'uci.securesoft.info') ||
 shExpMatch(host, 'ucomsoft.cn') ||
 shExpMatch(host, 'ucrack.pw') ||
 shExpMatch(host, 'udkcrj.com') ||
+shExpMatch(host, 'udncoeln.com') ||
 shExpMatch(host, 'uduoduo.com') ||
 shExpMatch(host, 'uebelacker.makemoneywithmegan.net') ||
 shExpMatch(host, 'uegnytqslcm.myfw.us') ||
@@ -33927,8 +33937,8 @@ shExpMatch(host, 'username-search.com') ||
 shExpMatch(host, 'userreplay.com') ||
 shExpMatch(host, 'userreplay.net') ||
 shExpMatch(host, 'users.atw.hu') ||
+shExpMatch(host, 'users.maxcluster.net') ||
 shExpMatch(host, 'users173.lolipop.jp') ||
-shExpMatch(host, 'usherprayer.com') ||
 shExpMatch(host, 'usingirritatecordial.com') ||
 shExpMatch(host, 'usmsad.tom.com') ||
 shExpMatch(host, 'usscase.com') ||
