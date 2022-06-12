@@ -101165,7 +101165,7 @@ D*
 theblockcrypto.com08@R cdn.jsdelivr.net/npm/workbox-cdn
  ÿï08@Rclick.bible.com^
 !ÿï08@Rclick.drizly.com^
-#ÿï08@Rclick.e.affirm.com^Ó
+#ÿï08@Rclick.e.affirm.com^á
 (ÿï08@Rclick.e.progressive.com^
 #ÿï08@Rclick.e.tdbank.com^
 (ÿï08@Rclick.email-stubhub.com^
@@ -101233,6 +101233,7 @@ sentry.io^
 
 sentry.dev*
 	sentry.io08@Rsentry-cdn.com^
+J08@R<static.timesofisrael.com/dev/images/join_comunity_banner.svg
 .*
 theblockcrypto.com08@R
 tbstat.com
@@ -101264,11 +101265,11 @@ Bÿï*
 secure.soundcloud.com08@Rgeolocation.onetrust.com^
 ,ÿï*
 
-exodus.com08@Rhelpscout.net^
+exodus.com08@Rhelpscout.net^Ï
 < *
 	tesco.com*
 
-tesco.hu08@Ringest.sentry.io/api/‘
+tesco.hu08@Ringest.sentry.io/api/
 <ÿï*
 secure.soundcloud.com08@Rpwt.soundcloud.com^
 `*
