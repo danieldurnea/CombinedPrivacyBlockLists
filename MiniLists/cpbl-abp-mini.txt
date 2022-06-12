@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sun Jun 12 08:34:34 PM UTC 2022
+! Updated: Sun Jun 12 11:22:06 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -67579,6 +67579,10 @@
 8kun.top##.disclaimer-8kun
 8kun.top##.thread_ads
 accuradio.com###playerSkipLoading
+adlock.com##.adl__spec__disc__bgwrap
+adlock.com##.adl__spec__disc__content--active.adl__spec__disc__content--type1.adl__spec__disc__content
+adlock.com##.adl__spec__disc__wrap
+adlock.com##.sidebar.uk-width-medium-3-10.uk-width-small-1-1
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##.fade-slide-up.has-fade-slide-up.privacy-policy
 affinia.com##.privacy-policy__container
@@ -67676,6 +67680,10 @@ fxstreet.com##.fxs_copy_disclaimer
 fxstreet.com##.fxs_header_sponsor
 fxstreet.com##.fxs_modal_footer.fxs_footer
 fxstreet.com##.fxs_txt_center.fxs_stickyAd-mobile
+gab.com##[aria-label*="Sponsored"]
+gab.com##[href*="grow.gab.com"]
+gab.com##[poster*="grow.gab.com"]
+gab.com##[src*="grow.gab.com"]
 ghacks.net###stackcommerce_widget-4 > .pb--6.mb--10.border--bottom--gray.heading--tiny
 ghacks.net##.stackCommerceItemWrap
 glassdoor.com##.actionBarMt0.modal_main
@@ -67761,6 +67769,7 @@ rebelnews.com##.remodal-is-opened.remodal-overlay
 rebelnews.com##.remodal-is-opened.remodal-wrapper
 rebelnews.com##.share-page
 reddit.com###ad_2
+reddit.com##[id*="popup-"]
 reddit.com##+js(abort-current-inline-script, adSlots)
 reddit.com##+js(abort-current-inline-script, addScript)
 reddit.com##+js(abort-current-inline-script, googletag.pubads)
@@ -67836,6 +67845,7 @@ theblockcrypto.com##.modal-body-content
 theblockcrypto.com##.modal-container
 theblockcrypto.com##.modal-retainer
 thrillist.com##[class*="RecommendedVideostyles"]
+timesofisrael.com##.join-community-banner.join-community
 indiatimes.com##.react-draggable-dragged
 tokeneo.com##.cookies-popup-cover
 tokeneo.com##.informationModalBody
@@ -67925,6 +67935,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||segment.com^$third-party
 ||sentry.io^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
+||static.timesofisrael.com/dev/images/join_comunity_banner.svg$image
 ||tbstat.com*$script,domain=theblockcrypto.com
 ||tbstat.com*$xhr,domain=theblockcrypto.com
 ||tbstat.com/wp/uploads/*popupbanner*.png$image,domain=theblockcrypto.com
