@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 06/12/22~23:32:29 -~
+# ~- 06/13/22~03:28:29 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -575,6 +575,7 @@
 *.1igare0jn.de
 *.1jsskipuf8sd.com
 *.1k-shop.ru
+*.1kcx.hk
 *.1kinobig.ru
 *.1kmb.cn
 *.1kpv4njzilv.community.intersystems.com
@@ -1587,6 +1588,7 @@
 *.666577.xyz
 *.666579.xyz
 *.666582.xyz
+*.666584.xyz
 *.666666666666.site
 *.6667778882021.site
 *.6669667.com
@@ -2221,7 +2223,6 @@
 *.a-blog.eu
 *.a-c-engine.com
 *.a-cast.jp
-*.a-cf.org
 *.a-cl.xyz
 *.a-counter.kiev.ua
 *.a-d.me
@@ -2679,6 +2680,7 @@
 *.aa.xiangxiangmf.com
 *.aa53df329975c325.com
 *.aa81bf391151884adfa3dd677e41f94be1.com
+*.aa9v.cn
 *.aa9z.cn
 *.aaa.tumanyi.com
 *.aaaa.gakkikaitori.co.jp
@@ -3145,7 +3147,6 @@
 *.accpais.com
 *.acctspayable.com
 *.accusationloop.com
-*.accustomercareservices.com
 *.accustomreview.com
 *.acdcdn.com
 *.ace.adoftheyear.com
@@ -8813,7 +8814,6 @@
 *.altmedia101.com
 *.altogethergreedy.com
 *.altopd.com
-*.altosieg.com
 *.altowriestwispy.com
 *.altoxi.com
 *.altpubli.com
@@ -10448,6 +10448,7 @@
 *.apture.com
 *.apu.samsungelectronics.com
 *.apus.tech
+*.apuservis.pe
 *.apusx.com
 *.apv-launcher.minute.ly
 *.apvdr.com
@@ -12849,7 +12850,6 @@
 *.bestoffer21.info
 *.bestoffers.activeshopper.com
 *.bestpage1.com
-*.bestprice-sa.com
 *.bestprizeday.life
 *.bestrevenuenetwork.com
 *.bestrewardcardforrestaurantsin.icu
@@ -13044,7 +13044,6 @@
 *.bighop.com
 *.bighyip-monitor.com
 *.bigip.stream
-*.bigmikesupplies.co.za
 *.bigmir.email
 *.bigmobileads.com
 *.bignovosti.ru
@@ -13575,6 +13574,7 @@
 *.boayipids.com
 *.bob.gitclear.com
 *.bob4915.com
+*.bob4942.com
 *.bob4994.com
 *.bobbitopedia.com
 *.bobbobb1z.com
@@ -14732,6 +14732,7 @@
 *.cancellingteddyinch.com
 *.canconsulting.in
 *.candid.zone
+*.candidcrush.in
 *.candiruarf.com
 *.cando--china.net
 *.candy-network.com
@@ -15312,6 +15313,7 @@
 *.cdneurope.com
 *.cdnfjz.com
 *.cdngain.com
+*.cdnhst.xyz
 *.cdnimg.izooto.com
 *.cdnjke.com
 *.cdnjs.cloudflane.com
@@ -15499,7 +15501,6 @@
 *.celltick.com
 *.celsiansnite.com
 *.celtra.com
-*.celulams.com.br
 *.cemalsenay.com
 *.cemavimx.com
 *.cementencourage.com
@@ -15974,7 +15975,6 @@
 *.christingel.com
 *.christingera.site
 *.christmasaxehandyman.com
-*.christmasporn.top
 *.chrjkn.cn
 *.chromatography.mac-mod.com
 *.chromc.com
@@ -21384,38 +21384,6 @@
 *.downcleardown.xyz
 *.downkzvideo1.xyz
 *.downkzvideo2.xyz
-*.downl2customer.club.enjoy9ja.com.ng
-*.downl2customer.repository.monkeypod.ca
-*.downl2member.repo.departureguide.ca
-*.downl2member.repo.imtmn.edu.bd
-*.downl2user.repo.cc-design.studio
-*.downl2visitor.cloud.ctb.ge
-*.downl2visitor.club.amariei.org
-*.downl2visitor.repository.colombia.bz
-*.downl2visitor.store.sweetsop.ca
-*.downl4customer.repo.mench.in
-*.downl4customer.store.whitecollaronline.in
-*.downl4member.repo.kimber.party
-*.downl4member.repo.kravmagakids.ca
-*.downl4user.repository.hurdl.website
-*.downl4user.repository.tacpro.ca
-*.downl4user.repository.toptenhindi.in
-*.downl4visitor.club.cameradvisor.in
-*.downl4visitor.club.enjoy9ja.com.ng
-*.downl4visitor.repository.text4price.ca
-*.downl4visitor.store.smithandsmithhomes.ca
-*.downl4visitor.store.theorganicfarms.in
-*.downlforcustomer.club.applerepaircalgary.ca
-*.downlforcustomer.storage.healthysolutions.in
-*.downlformember.repo.dock6yachts.ca
-*.downlformember.repository.truthaboutcholesterol.download
-*.downlformember.repository.weltworld.website
-*.downlformember.store.caizen.ca
-*.downlforuser.repository.greenit.nl
-*.downlforuser.repository.studentstuff.ca
-*.downlforuser.store.listingpartners.eu
-*.downlforvisitor.cloud.securitycheckup.online
-*.downlforvisitor.store.premierinvestments.ltd
 *.download-app.net
 *.download-ready.net
 *.download-readynow.com
@@ -21437,32 +21405,7 @@
 *.download.studymathlive.com
 *.download.ytdownloader.com
 *.download2.marketengines.com
-*.download2customer.repo.alpicharity.org
-*.download2customer.repo.landmarkexteriors.ca
-*.download2customer.repo.videoxpress.download
-*.download2customer.repository.premierinvestments.ltd
-*.download2customer.storage.awujo.org
-*.download2customer.storage.provincialautoloans.ca
-*.download2member.cloud.studentstuff.ca
-*.download2member.storage.themanwhosoldthe.world
-*.download2member.store.saihospital.in
-*.download2user.cloud.surifulislam.website
-*.download2user.repo.canadatesol.ca
-*.download2visitor.club.knowyourfarmer.in
-*.download2visitor.storage.afctonga.org
-*.download4customer.cloud.self-defence.ca
-*.download4customer.club.self-defence.ca
-*.download4customer.club.videoxpress.download
-*.download4customer.store.aydinperdenisantasi.net
 *.download4mac.com
-*.download4member.club.playfreeonline.download
-*.download4member.store.myworkfamily.ca
-*.download4user.repository.aerobig.lv
-*.download4user.repository.apexroofing.org
-*.download4visitor.cloud.applerepaircalgary.ca
-*.download4visitor.club.cantastic.ca
-*.download4visitor.club.myworkfamily.ca
-*.download4visitor.store.benaroundtheworld.org
 *.downloadamigo.com
 *.downloadboutique.com
 *.downloadbrowserlite.net
@@ -21471,10 +21414,6 @@
 *.downloadelectrum.com
 *.downloadelectrum.org
 *.downloadfiletorrent.ru
-*.downloadforcustomer.repo.weltworld.website
-*.downloadforcustomer.store.mikeads.se
-*.downloadforuser.cloud.ambfin.in
-*.downloadforuser.repository.createthenew.world
 *.downloadgot.com
 *.downloadjimm.ru
 *.downloadlitebrowser.com
@@ -21494,24 +21433,9 @@
 *.downloads2021.com
 *.downloadset2you.com
 *.downloadtg4.website
-*.downloadtomember.cloud.mayoorschool.in
-*.downloadtouser.cloud.colombia.bz
-*.downloadtouser.repo.livingcompassion.in
-*.downloadtouser.storage.supersoftware.in
-*.downloadtouser.store.shikshaguru.co.in
-*.downloadtovisitor.repo.themanwhosoldthe.world
 *.downloadz.us
 *.downlosaly.info
-*.downltocustomer.storage.builtclimate.ca
-*.downltocustomer.storage.cantastic.ca
 *.downltocustomer.storage.telemehealth.website
-*.downltocustomer.store.createthenew.world
-*.downltocustomer.store.supersoftware.in
-*.downltomember.cloud.hindian.in
-*.downltouser.repo.healthysolutions.in
-*.downltovisitor.cloud.saihospital.in
-*.downltovisitor.club.searchforsadie.party
-*.downltovisitor.repository.injectorama.website
 *.downpayment.fernsby.com
 *.downthe.design
 *.downtonpudic.com
@@ -25813,7 +25737,6 @@
 *.freedatinghookup.com
 *.freedomart.cz
 *.freedomate.ga
-*.freedomokla.net
 *.freedownloadfiles.org
 *.freedownloadsoft.net
 *.freeevpn.info
@@ -26739,7 +26662,6 @@
 *.geoidd.vip
 *.geoinfo.i2w.io
 *.geoinventory.com
-*.geoip-db.com
 *.geoip-lookup.vice.com
 *.geoip.ativo.com
 *.geoip.boredpanda.com
@@ -27016,6 +26938,7 @@
 *.gia.jd.com
 *.gianninidesign.com
 *.giantaffiliates.com
+*.giaoductretuky.com
 *.gibbousbalaic.com
 *.gibeleftyeuro.com
 *.gibepyfgxal.com
@@ -27077,6 +27000,7 @@
 *.givestment.club
 *.givingsol.com
 *.givirsou.net
+*.gixiluros.com
 *.gjapplog.uc.cn
 *.gjapplog.ucweb.com
 *.gjilani-smartcity.com
@@ -28820,7 +28744,6 @@
 *.heelwork.com
 *.heeteefu.com
 *.heevaush.com
-*.hegodev.com
 *.hegrem.com
 *.hegrinhar.com
 *.heguoya.work
@@ -28951,7 +28874,6 @@
 *.hexp.xyz
 *.hexusads.fluent.ltd.uk
 *.heyad.xyz
-*.heyatek.com
 *.heybuddycn.me
 *.heygugu.com
 *.heyi.shop
@@ -29383,7 +29305,6 @@
 *.hollandbusinessadvertising.nl
 *.hollekeamboina.com
 *.hollercatastrophe.com
-*.hollomart.com
 *.hollowafterthought.com
 *.hollowshake.com
 *.hollydeal.club
@@ -30662,6 +30583,7 @@
 *.imarketservices.com
 *.imasdk.googleapis.com
 *.imatmobile.com
+*.imbueautoworx.co.za
 *.imcpqxmtlapagng.com
 *.imdvisual.ltd
 *.imediarevenue.com
@@ -30846,7 +30768,6 @@
 *.impulsefittness.info
 *.impulsehands.com
 *.impure.xyz
-*.imrennilaytufekci.com
 *.imrworldwide.com
 *.imsa.com.au
 *.imserv001.adtech.fr
@@ -31273,7 +31194,6 @@
 *.infospot.roanokegroup.com
 *.infotechsoln.com
 *.infotop.jp
-*.infovitimas.pt
 *.infra.systems
 *.infrashift.com
 *.infringem2ent.xyz
@@ -32443,7 +32363,6 @@
 *.jiliw.com
 *.jilliancamwell.com
 *.jimeilm.com
-*.jimmymerida.imd.com.bo
 *.jimopuwa.com
 *.jinair.sc.jinair.com
 *.jinchanjs.top
@@ -33445,6 +33364,7 @@
 *.kenduktur.com
 *.kenmwqdfiq.com
 *.kennetting.club
+*.kensell.co.uk
 *.kenskitscurt.com
 *.kentona.su
 *.kenxn.com
@@ -34488,7 +34408,6 @@
 *.launchbit.com
 *.launcher.us.yeshen.com
 *.launchingsulk.com
-*.laundrycompliance.com
 *.laurel.macrovision.com
 *.laurel.rovicorp.com
 *.laurentprotector.com
@@ -35341,7 +35260,6 @@
 *.lisaiservice.top
 *.lisamobile.ru
 *.lisarennieonline.com
-*.lisasimonellirennie.com
 *.lishuanghao.com
 *.lislepostsax.com
 *.lisponightingale.com
@@ -36180,7 +36098,6 @@
 *.lotteryaffiliates.com
 *.lotteryhibernateauthorized.com
 *.lotto770.com
-*.lottory888.info
 *.lotupteni.pro
 *.lotusabloom.com
 *.louchees.net
@@ -36479,7 +36396,6 @@
 *.luxupcdnc.com
 *.luxuriouspickpocketsmuggle.com
 *.luxurycash.net
-*.luxurydestinations.in
 *.luyouxi.cn
 *.luyten-98c.com
 *.luyuheng.love
@@ -36730,7 +36646,6 @@
 *.madh0use8.no-ip.org.ovh.net
 *.madh0use8.no-ip.org
 *.madibarohilala.ddnsgeek.com
-*.madicon.co.za
 *.madinad.com
 *.madisonavenue.com
 *.madlineg.com
@@ -39546,6 +39461,7 @@
 *.mohaijishu.cn
 *.mohammadyarico.com
 *.mohini-ger.com
+*.mohreshwar-19-east.com
 *.moi-goroskop.com
 *.moi-oftalmolog.com
 *.moijs.com
@@ -39628,7 +39544,6 @@
 *.money.qz828.com
 *.money4exit.de
 *.money4leads.biz
-*.moneybank.ddns.net
 *.moneycosmos.com
 *.moneyexpert.co.uk
 *.moneyexpert.com
@@ -39693,7 +39608,6 @@
 *.moonlightingapi-ads.com
 *.moonmedias.biz
 *.moonsade.com
-*.moonstar.services
 *.moontuftboy.com
 *.moooginnumit.com
 *.moorworld.com
@@ -39867,6 +39781,7 @@
 *.mps.wenkuzu.com
 *.mpshtraining.com
 *.mpstat.us
+*.mpsuadv.ru
 *.mptentry.com
 *.mpuq.net.zooplus.es
 *.mpuqvoa.com
@@ -39914,7 +39829,6 @@
 *.ms-audit-server.club
 *.ms-dll-com.info
 *.ms-dll-service.site
-*.ms-logistics.us
 *.ms-mvp.org
 *.ms-trackingapi.phenompeople.com
 *.ms.adup-tech.com
@@ -40113,6 +40027,7 @@
 *.muybjar.cn
 *.muyijia.shop
 *.muyoozrkkyr.com
+*.muzhiying.xyz
 *.muzokit.ru
 *.muzomuz.ru
 *.mv.treehousei.com
@@ -41465,7 +41380,6 @@
 *.northbase.club
 *.northeregikgf.club
 *.northernintimate.com
-*.northernstarboys.co.za
 *.northmay.com
 *.northwestlegendary.com
 *.norumikemem.eu
@@ -44814,6 +44728,7 @@
 *.plasmid904.site
 *.plaster-orto.com
 *.plastic-wood.cn
+*.plastikiniailangaivilniuje.lt
 *.plastileen.pw
 *.plastir-hyperost.biz
 *.platado.com
@@ -47234,6 +47149,7 @@
 *.raaliforniaat.biz
 *.raatphailihai.com
 *.rabbitbreath.com
+*.rabbitcloud.ltd
 *.rabbitrifle.com
 *.rabbitscafenyc.com
 *.rabc1.iteye.com
@@ -50538,7 +50454,6 @@
 *.sem.triboomedia.it
 *.semantrus.pw
 *.semasio.net
-*.semenpadanghospital.co.id
 *.semifiboolongs.com
 *.semillasandree.com
 *.semimonster.net
@@ -50606,7 +50521,6 @@
 *.sepprod.com
 *.septembership.com
 *.septfd2em64eber.com
-*.serafiliado.com
 *.seraph15.ru
 *.sercer.tk
 *.serch03.biz
@@ -51023,6 +50937,7 @@
 *.shenyunkeji.com
 *.shepeekr.net
 *.shepherdbetrayaldecoction.com
+*.shepherdsshadowindia.com
 *.shequdaohang.com
 *.shequn.online
 *.sher.index.hu
@@ -51150,6 +51065,7 @@
 *.shotyfy.com
 *.shoubsee.net
 *.shoudan6.press
+*.shoujizhuanqian.store
 *.shoushushi.info
 *.shoustiz.net
 *.shouwangba.cn
@@ -55534,6 +55450,7 @@
 *.surveygizmobeacon.s3.amazonaws.com
 *.surveys.spotify.com
 *.survivepronate.com
+*.suryamohinicharitabletrust.org
 *.suscepts.xyz
 *.susetl.com
 *.susi.adtech.fr
@@ -56191,6 +56108,7 @@
 *.talkmego.com
 *.tallcy.com
 *.tally.upsideout.com
+*.talmacbelgelendirme.com.tr
 *.talsauve.com
 *.talterfortmarob.info
 *.tamarauphand.com
@@ -58374,6 +58292,7 @@
 *.track.byzon.swelen.net
 *.track.cafu.com
 *.track.cam4tracking.com
+*.track.cargo-freights.com
 *.track.catalogs.com
 *.track.cbdatatracker.com
 *.track.cedsdigital.it
@@ -60656,7 +60575,6 @@
 *.ultingcoempa.xyz
 *.ultra.multimania.com
 *.ultra1.socomm.net
-*.ultra98.com
 *.ultraadserver.com
 *.ultrabit.ws
 *.ultracams12.club
@@ -62915,6 +62833,7 @@
 *.weborama.fr
 *.webordernow.site
 *.webpartizan.ru
+*.webpartner.fr
 *.webpeep.com
 *.webpinp.com
 *.webpixel.smartmeapp.com
@@ -63635,7 +63554,6 @@
 *.wokfirsax.com
 *.wolaufie.com
 *.wolf.fan-guf.ru
-*.wolffram.dk
 *.wolframalpha.pw
 *.wolle.pl
 *.wolvescuckooship.com
@@ -64838,6 +64756,7 @@
 *.www.uhygtf1.com
 *.www.ult-blk-cbl.com
 *.www.ultimatetopsites.com
+*.www.ultra98.com
 *.www.universal-traffic.com
 *.www.uplooder.net
 *.www.upsellit.com
