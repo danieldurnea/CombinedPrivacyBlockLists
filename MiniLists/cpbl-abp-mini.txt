@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sun Jun 12 11:56:00 PM UTC 2022
+! Updated: Mon Jun 13 12:21:37 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -67636,7 +67636,9 @@ cryptopotato.com##[href*="cryptopotato.com/ad/"]
 cryptorank.io##[class*="BannerContainer"]
 cryptorank.io##[class*="BannerWrap"]
 cryptorank.io##[class*="color-filled__Container"]
+cryptoslate.com###cs-newsletter
 cryptoslate.com###join
+cryptoslate.com###modal-revue-embed
 cryptoslate.com###sticky-footer-global
 cryptoslate.com##.clearfix.ad-top.placement.cryptocom.cpa-signup
 cryptoslate.com##.edge-cta
