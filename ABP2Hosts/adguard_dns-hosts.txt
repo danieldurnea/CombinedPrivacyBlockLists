@@ -1,4 +1,4 @@
-# Sun Jun 12 08:09:11 PM UTC 2022
+# Mon Jun 13 03:08:06 AM UTC 2022
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 00-gov.cn
@@ -365,6 +365,7 @@
 0.0.0.0 1i580.com
 0.0.0.0 1igare0jn.de
 0.0.0.0 1jsskipuf8sd.com
+0.0.0.0 1kcx.hk
 0.0.0.0 1klink.ru
 0.0.0.0 1kmb.cn
 0.0.0.0 1l-hit.mail.ru
@@ -493,6 +494,7 @@
 0.0.0.0 24log.de
 0.0.0.0 24log.es
 0.0.0.0 24log.fr
+0.0.0.0 24log.it
 0.0.0.0 24log.ru
 0.0.0.0 24network.it
 0.0.0.0 24new.ru
@@ -1854,6 +1856,7 @@
 0.0.0.0 aa.xiangxiangmf.com
 0.0.0.0 aa53df329975c325.com
 0.0.0.0 aa88.in
+0.0.0.0 aa9v.cn
 0.0.0.0 aa9z.cn
 0.0.0.0 aaa.tumanyi.com
 0.0.0.0 aaaa8.top
@@ -9390,6 +9393,7 @@
 0.0.0.0 cdndqw.com
 0.0.0.0 cdnfjz.com
 0.0.0.0 cdngain.com
+0.0.0.0 cdnhst.xyz
 0.0.0.0 cdnjke.com
 0.0.0.0 cdnjs.mopair-erm.net
 0.0.0.0 cdnjs.z-face.cn
@@ -9817,7 +9821,6 @@
 0.0.0.0 christingera.site
 0.0.0.0 christmalicious.com
 0.0.0.0 christmasaxehandyman.com
-0.0.0.0 christmasporn.top
 0.0.0.0 chrjkn.cn
 0.0.0.0 chromc.com
 0.0.0.0 chronicads.com
@@ -17589,7 +17592,6 @@
 0.0.0.0 geoidd.vip
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoinventory.com
-0.0.0.0 geoip-db.com
 0.0.0.0 geoip-js.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -17620,7 +17622,6 @@
 0.0.0.0 geolid.com
 0.0.0.0 geoloc.hurriyet.com.tr
 0.0.0.0 geoloc.yospace.com
-0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.stroeerdp.de
@@ -27088,6 +27089,7 @@
 0.0.0.0 muyijia.shop
 0.0.0.0 muyoozrkkyr.com
 0.0.0.0 muyviajero.com
+0.0.0.0 muzhiying.xyz
 0.0.0.0 muzhskoy.xyz
 0.0.0.0 muzotur.info
 0.0.0.0 mv3kosrrlxa7.com
@@ -35418,6 +35420,7 @@
 0.0.0.0 shotyfy.com
 0.0.0.0 shoubsee.net
 0.0.0.0 shoudan6.press
+0.0.0.0 shoujizhuanqian.store
 0.0.0.0 shoungak.net
 0.0.0.0 shoushushi.info
 0.0.0.0 shoustiz.net

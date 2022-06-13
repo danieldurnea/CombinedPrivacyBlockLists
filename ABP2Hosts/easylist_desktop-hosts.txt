@@ -1,4 +1,4 @@
-# Sun Jun 12 08:08:57 PM UTC 2022
+# Mon Jun 13 03:07:53 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -348,6 +348,7 @@
 0.0.0.0 1igare0jn.de
 0.0.0.0 1jsskipuf8sd.com
 0.0.0.0 1k-shop.ru
+0.0.0.0 1kcx.hk
 0.0.0.0 1kmb.cn
 0.0.0.0 1kpv4njzilv.community.intersystems.com
 0.0.0.0 1l-hit.mail.ru
@@ -1031,6 +1032,7 @@
 0.0.0.0 666577.xyz
 0.0.0.0 666579.xyz
 0.0.0.0 666582.xyz
+0.0.0.0 666584.xyz
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
@@ -2258,6 +2260,7 @@
 0.0.0.0 aa.wenxue6.com
 0.0.0.0 aa.xiangxiangmf.com
 0.0.0.0 aa53df329975c325.com
+0.0.0.0 aa9v.cn
 0.0.0.0 aa9z.cn
 0.0.0.0 aaa.tumanyi.com
 0.0.0.0 aaaa.gakkikaitori.co.jp
@@ -6727,6 +6730,7 @@
 0.0.0.0 boayipids.com
 0.0.0.0 bob.gitclear.com
 0.0.0.0 bob4915.com
+0.0.0.0 bob4942.com
 0.0.0.0 bob4994.com
 0.0.0.0 bobbytubate.com
 0.0.0.0 bobcatminer-store.e-mantra.in
@@ -7801,6 +7805,7 @@
 0.0.0.0 cdneurope.com
 0.0.0.0 cdnfjz.com
 0.0.0.0 cdngain.com
+0.0.0.0 cdnhst.xyz
 0.0.0.0 cdnjke.com
 0.0.0.0 cdnjs.mopair-erm.net
 0.0.0.0 cdnjs.z-face.cn
@@ -8200,7 +8205,6 @@
 0.0.0.0 christineinteriordesign.com
 0.0.0.0 christingera.site
 0.0.0.0 christmasaxehandyman.com
-0.0.0.0 christmasporn.top
 0.0.0.0 chrjkn.cn
 0.0.0.0 chromatography.mac-mod.com
 0.0.0.0 chromc.com
@@ -15690,6 +15694,7 @@
 0.0.0.0 givestment.club
 0.0.0.0 givingsol.com
 0.0.0.0 givirsou.net
+0.0.0.0 gixiluros.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gjohvhf.cn
 0.0.0.0 gjqhufkamcoc.com
@@ -24532,6 +24537,7 @@
 0.0.0.0 mprgbyn.cn
 0.0.0.0 mps.wenkuzu.com
 0.0.0.0 mpshtraining.com
+0.0.0.0 mpsuadv.ru
 0.0.0.0 mptentry.com
 0.0.0.0 mpuq.net.zooplus.es
 0.0.0.0 mpuqvoa.com
@@ -24701,6 +24707,7 @@
 0.0.0.0 muybjar.cn
 0.0.0.0 muyijia.shop
 0.0.0.0 muyoozrkkyr.com
+0.0.0.0 muzhiying.xyz
 0.0.0.0 muzokit.ru
 0.0.0.0 muzomuz.ru
 0.0.0.0 mv.treehousei.com
@@ -29489,6 +29496,7 @@
 0.0.0.0 raac33.net
 0.0.0.0 raaliforniaat.biz
 0.0.0.0 rabbitbreath.com
+0.0.0.0 rabbitcloud.ltd
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rabc1.iteye.com
 0.0.0.0 rablecerta.club
@@ -32013,6 +32021,7 @@
 0.0.0.0 shotyfy.com
 0.0.0.0 shoubsee.net
 0.0.0.0 shoudan6.press
+0.0.0.0 shoujizhuanqian.store
 0.0.0.0 shoushushi.info
 0.0.0.0 shoustiz.net
 0.0.0.0 shouwangba.cn

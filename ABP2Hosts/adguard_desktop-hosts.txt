@@ -1,4 +1,4 @@
-# Sun Jun 12 08:08:35 PM UTC 2022
+# Mon Jun 13 03:07:33 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
@@ -325,6 +325,7 @@
 0.0.0.0 1igare0jn.de
 0.0.0.0 1iy4gu0lpkp.my.gloryleague.basketball
 0.0.0.0 1jsskipuf8sd.com
+0.0.0.0 1kcx.hk
 0.0.0.0 1kmb.cn
 0.0.0.0 1kpv4njzilv.community.intersystems.com
 0.0.0.0 1l-hit.mail.ru
@@ -1218,6 +1219,7 @@
 0.0.0.0 666577.xyz
 0.0.0.0 666579.xyz
 0.0.0.0 666582.xyz
+0.0.0.0 666584.xyz
 0.0.0.0 666666666666.site
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
@@ -2651,6 +2653,7 @@
 0.0.0.0 aa.zerg.pro
 0.0.0.0 aa446af0ed.75bb9a4031.com
 0.0.0.0 aa53df329975c325.com
+0.0.0.0 aa9v.cn
 0.0.0.0 aa9z.cn
 0.0.0.0 aaa.tumanyi.com
 0.0.0.0 aaaa8.top
@@ -7562,6 +7565,7 @@
 0.0.0.0 bob.bezucai.com
 0.0.0.0 bob.gitclear.com
 0.0.0.0 bob4915.com
+0.0.0.0 bob4942.com
 0.0.0.0 bob4994.com
 0.0.0.0 bobbytubate.com
 0.0.0.0 bobcad.actonservice.com
@@ -9095,7 +9099,6 @@
 0.0.0.0 christians.lifeway.com
 0.0.0.0 christingera.site
 0.0.0.0 christmasaxehandyman.com
-0.0.0.0 christmasporn.top
 0.0.0.0 chrjkn.cn
 0.0.0.0 chromatography.mac-mod.com
 0.0.0.0 chromc.com
@@ -25538,6 +25541,7 @@
 0.0.0.0 muybjar.cn
 0.0.0.0 muyijia.shop
 0.0.0.0 muyoozrkkyr.com
+0.0.0.0 muzhiying.xyz
 0.0.0.0 mv3kosrrlxa7.com
 0.0.0.0 mva1.maeva.com
 0.0.0.0 mvbwpkhsc.com
@@ -30275,6 +30279,7 @@
 0.0.0.0 rabbit.llresearch.org
 0.0.0.0 rabbit.radicalxchange.org
 0.0.0.0 rabbit.upwardhomes.net
+0.0.0.0 rabbitcloud.ltd
 0.0.0.0 rabc1.iteye.com
 0.0.0.0 rablecerta.club
 0.0.0.0 raccourir.xyz
@@ -32821,6 +32826,7 @@
 0.0.0.0 shostobs.net
 0.0.0.0 shoubsee.net
 0.0.0.0 shoudan6.press
+0.0.0.0 shoujizhuanqian.store
 0.0.0.0 shoushushi.info
 0.0.0.0 shoustiz.net
 0.0.0.0 shouwangba.cn
