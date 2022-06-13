@@ -279,6 +279,9 @@ gcs.sc-cdn.net
 ge.tt
 gearbest.com
 geo.ngtv.io
+geoip-db.com
+geolocation-db.com
+geolocation.garmin.com
 gesangsunterricht-hh.de
 get.adobe.com
 get3.adobe.com
