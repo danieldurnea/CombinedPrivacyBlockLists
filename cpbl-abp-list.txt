@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Jun 13 01:49:00 AM UTC 2022
+! Updated: Mon Jun 13 03:19:06 AM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -686,6 +686,7 @@
 ||1iy4gu0lpkp.my.gloryleague.basketball^
 ||1jsskipuf8sd.com^
 ||1k-shop.ru^
+||1kcx.hk^
 ||1kinobig.ru^
 ||1klink.ru^
 ||1kmb.cn^
@@ -960,6 +961,7 @@
 ||24log.de^
 ||24log.es^
 ||24log.fr^
+||24log.it^
 ||24log.ru^
 ||24network.it^
 ||24new.ru^
@@ -2009,6 +2011,7 @@
 ||666577.xyz^
 ||666579.xyz^
 ||666582.xyz^
+||666584.xyz^
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
@@ -2818,7 +2821,6 @@
 ||a-calc.com^
 ||a-calc.de^
 ||a-cast.jp^
-||a-cf.org^
 ||a-cl.xyz^
 ||a-counter.com.ua^
 ||a-counter.kiev.ua^
@@ -3504,6 +3506,7 @@
 ||aa53df329975c325.com^
 ||aa81bf391151884adfa3dd677e41f94be1.com^
 ||aa88.in^
+||aa9v.cn^
 ||aa9z.cn^
 ||aaa.tumanyi.com^
 ||aaaa.gakkikaitori.co.jp^
@@ -4077,7 +4080,6 @@
 ||accpais.com^
 ||acctspayable.com^
 ||accusationloop.com^
-||accustomercareservices.com^
 ||accustomreview.com^
 ||acd.com.vn^
 ||acdastas.ru^
@@ -10820,7 +10822,6 @@
 ||altmedia101.com^
 ||altogethergreedy.com^
 ||altopd.com^
-||altosieg.com^
 ||altowriestwispy.com^
 ||altoxi.com^
 ||altpool.pro^
@@ -12890,6 +12891,7 @@
 ||apuarym.cn^
 ||apucdt.com^
 ||apus.tech^
+||apuservis.pe^
 ||apusx.com^
 ||apv-launcher.minute.ly^
 ||apvdr.com^
@@ -16238,7 +16240,6 @@
 ||bestorican.com^
 ||bestpage1.com^
 ||bestphonehacks.com^
-||bestprice-sa.com^
 ||bestprizeday.life^
 ||bestproducttesters.com^
 ||bestqualitynotes.com^
@@ -16567,7 +16568,6 @@
 ||bighyip-monitor.com^
 ||bigip.stream^
 ||bigleads.ru^
-||bigmikesupplies.co.za^
 ||bigmining.com^
 ||bigmir.email^
 ||bigmobileads.com^
@@ -17436,6 +17436,7 @@
 ||bob.bezucai.com^
 ||bob.gitclear.com^
 ||bob4915.com^
+||bob4942.com^
 ||bob4994.com^
 ||bobbitopedia.com^
 ||bobbobb1z.com^
@@ -19135,6 +19136,7 @@
 ||canddi.com^
 ||candid.zone^
 ||candidateconnector.com^
+||candidcrush.in^
 ||candiruarf.com^
 ||candleprograms.ru^
 ||cando--china.net^
@@ -19913,6 +19915,7 @@
 ||cdneurope.com^
 ||cdnfjz.com^
 ||cdngain.com^
+||cdnhst.xyz^
 ||cdnjke.com^
 ||cdnjs.cloudflane.com^
 ||cdnjs.mopair-erm.net^
@@ -20133,7 +20136,6 @@
 ||celltick.com^
 ||celsiansnite.com^
 ||celtra.com^
-||celulams.com.br^
 ||cemalsenay.com^
 ||cematuran.com^
 ||cemavimx.com^
@@ -20876,7 +20878,6 @@
 ||christmasaxehandyman.com^
 ||christmasgiftnow.com^
 ||christmasgiftsau.com^
-||christmasporn.top^
 ||christmasvoucher.net^
 ||chrjkn.cn^
 ||chromatography.mac-mod.com^
@@ -28894,38 +28895,6 @@
 ||downhack.net^
 ||downkzvideo1.xyz^
 ||downkzvideo2.xyz^
-||downl2customer.club.enjoy9ja.com.ng^
-||downl2customer.repository.monkeypod.ca^
-||downl2member.repo.departureguide.ca^
-||downl2member.repo.imtmn.edu.bd^
-||downl2user.repo.cc-design.studio^
-||downl2visitor.cloud.ctb.ge^
-||downl2visitor.club.amariei.org^
-||downl2visitor.repository.colombia.bz^
-||downl2visitor.store.sweetsop.ca^
-||downl4customer.repo.mench.in^
-||downl4customer.store.whitecollaronline.in^
-||downl4member.repo.kimber.party^
-||downl4member.repo.kravmagakids.ca^
-||downl4user.repository.hurdl.website^
-||downl4user.repository.tacpro.ca^
-||downl4user.repository.toptenhindi.in^
-||downl4visitor.club.cameradvisor.in^
-||downl4visitor.club.enjoy9ja.com.ng^
-||downl4visitor.repository.text4price.ca^
-||downl4visitor.store.smithandsmithhomes.ca^
-||downl4visitor.store.theorganicfarms.in^
-||downlforcustomer.club.applerepaircalgary.ca^
-||downlforcustomer.storage.healthysolutions.in^
-||downlformember.repo.dock6yachts.ca^
-||downlformember.repository.truthaboutcholesterol.download^
-||downlformember.repository.weltworld.website^
-||downlformember.store.caizen.ca^
-||downlforuser.repository.greenit.nl^
-||downlforuser.repository.studentstuff.ca^
-||downlforuser.store.listingpartners.eu^
-||downlforvisitor.cloud.securitycheckup.online^
-||downlforvisitor.store.premierinvestments.ltd^
 ||download-123.cn^
 ||download-alert.com^
 ||download-app.net^
@@ -28981,32 +28950,7 @@
 ||download1471bucket.com^
 ||download2.marketengines.com^
 ||download207.mediafire.com^
-||download2customer.repo.alpicharity.org^
-||download2customer.repo.landmarkexteriors.ca^
-||download2customer.repo.videoxpress.download^
-||download2customer.repository.premierinvestments.ltd^
-||download2customer.storage.awujo.org^
-||download2customer.storage.provincialautoloans.ca^
-||download2member.cloud.studentstuff.ca^
-||download2member.storage.themanwhosoldthe.world^
-||download2member.store.saihospital.in^
-||download2user.cloud.surifulislam.website^
-||download2user.repo.canadatesol.ca^
-||download2visitor.club.knowyourfarmer.in^
-||download2visitor.storage.afctonga.org^
-||download4customer.cloud.self-defence.ca^
-||download4customer.club.self-defence.ca^
-||download4customer.club.videoxpress.download^
-||download4customer.store.aydinperdenisantasi.net^
 ||download4mac.com^
-||download4member.club.playfreeonline.download^
-||download4member.store.myworkfamily.ca^
-||download4user.repository.aerobig.lv^
-||download4user.repository.apexroofing.org^
-||download4visitor.cloud.applerepaircalgary.ca^
-||download4visitor.club.cantastic.ca^
-||download4visitor.club.myworkfamily.ca^
-||download4visitor.store.benaroundtheworld.org^
 ||downloadadvisory.com^
 ||downloadally.com^
 ||downloadamigo.com^
@@ -29029,10 +28973,6 @@
 ||downloadelectrum.org^
 ||downloadespe.com^
 ||downloadfiletorrent.ru^
-||downloadforcustomer.repo.weltworld.website^
-||downloadforcustomer.store.mikeads.se^
-||downloadforuser.cloud.ambfin.in^
-||downloadforuser.repository.createthenew.world^
 ||downloadfreehackgames.com^
 ||downloadfreelab.com^
 ||downloadfreepsvitagames.com^
@@ -29102,12 +29042,6 @@
 ||downloadthesefile.com^
 ||downloadthesefiles.com^
 ||downloadtime.org^
-||downloadtomember.cloud.mayoorschool.in^
-||downloadtouser.cloud.colombia.bz^
-||downloadtouser.repo.livingcompassion.in^
-||downloadtouser.storage.supersoftware.in^
-||downloadtouser.store.shikshaguru.co.in^
-||downloadtovisitor.repo.themanwhosoldthe.world^
 ||downloadultimatehacker.com^
 ||downloadvendors.com^
 ||downloadweb.org^
@@ -29115,16 +29049,7 @@
 ||downloadxcheat.com^
 ||downloadz.us^
 ||downlosaly.info^
-||downltocustomer.storage.builtclimate.ca^
-||downltocustomer.storage.cantastic.ca^
 ||downltocustomer.storage.telemehealth.website^
-||downltocustomer.store.createthenew.world^
-||downltocustomer.store.supersoftware.in^
-||downltomember.cloud.hindian.in^
-||downltouser.repo.healthysolutions.in^
-||downltovisitor.cloud.saihospital.in^
-||downltovisitor.club.searchforsadie.party^
-||downltovisitor.repository.injectorama.website^
 ||downmn.com^
 ||downmz.com^
 ||downpayment.fernsby.com^
@@ -35610,7 +35535,6 @@
 ||freedomart.cz^
 ||freedomate.ga^
 ||freedomofsoftware.com^
-||freedomokla.net^
 ||freedomsaved.com^
 ||freedota2game.com^
 ||freedota2treasurekeys.com^
@@ -37469,7 +37393,6 @@
 ||geoidd.vip^
 ||geoinfo.i2w.io^
 ||geoinventory.com^
-||geoip-db.com^
 ||geoip-js.com^
 ||geoip-lookup.vice.com^
 ||geoip.al.com^
@@ -37508,7 +37431,6 @@
 ||geolid.com^
 ||geoloc.hurriyet.com.tr^
 ||geoloc.yospace.com^
-||geolocation-db.com^
 ||geolocation-sys.com^
 ||geolocation.forbes.com^
 ||geolocation.onetrust.com^
@@ -37948,6 +37870,7 @@
 ||giantaffiliates.com^
 ||giantengineteam.com^
 ||giantpremium.cn^
+||giaoductretuky.com^
 ||gibbon.ehubhealth.com^
 ||gibbousbalaic.com^
 ||gibeleftyeuro.com^
@@ -38078,6 +38001,7 @@
 ||giveway-st4ck.site^
 ||givingsol.com^
 ||givirsou.net^
+||gixiluros.com^
 ||gixmo.dk^
 ||gj7.ru^
 ||gjapplog.uc.cn^
@@ -40950,7 +40874,6 @@
 ||heevaush.com^
 ||hefral.pierimport.fr^
 ||hegarberetrof.pro^
-||hegodev.com^
 ||hegrem.com^
 ||hegrinhar.com^
 ||heguoya.work^
@@ -41137,7 +41060,6 @@
 ||hexp.xyz^
 ||hexusads.fluent.ltd.uk^
 ||heyad.xyz^
-||heyatek.com^
 ||heyblink.me^
 ||heybuddycn.me^
 ||heygugu.com^
@@ -41813,7 +41735,6 @@
 ||hollandbusinessadvertising.nl^
 ||hollekeamboina.com^
 ||hollercatastrophe.com^
-||hollomart.com^
 ||hollowafterthought.com^
 ||hollowshake.com^
 ||hollydeal.club^
@@ -43588,6 +43509,7 @@
 ||imasdk.googleapis.com^
 ||imatmobile.com^
 ||imbetan.info^
+||imbueautoworx.co.za^
 ||imcht.net^
 ||imcpqxmtlapagng.com^
 ||imdbwatch.com^
@@ -43829,7 +43751,6 @@
 ||impulsehands.com^
 ||impulsejewel.com^
 ||impure.xyz^
-||imrennilaytufekci.com^
 ||imrk.net^
 ||imrtrack.com^
 ||imrworldwide.com^
@@ -44428,7 +44349,6 @@
 ||infostroy.nnov.ru^
 ||infotechsoln.com^
 ||infotop.jp^
-||infovitimas.pt^
 ||infox.sg^
 ||infra.systems^
 ||infragantes.com^
@@ -46168,7 +46088,6 @@
 ||jilliancamwell.com^
 ||jillsclickcorner.com^
 ||jimeilm.com^
-||jimmymerida.imd.com.bo^
 ||jimopuwa.com^
 ||jin0cbonpi.ru^
 ||jinair.sc.jinair.com^
@@ -47445,6 +47364,7 @@
 ||kenmwqdfiq.com^
 ||kennetting.club^
 ||kenomal.com^
+||kensell.co.uk^
 ||kenskitscurt.com^
 ||kentona.su^
 ||kenxn.com^
@@ -48986,7 +48906,6 @@
 ||launcher.us.yeshen.com^
 ||launchingonsetwhirlwind.com^
 ||launchingsulk.com^
-||laundrycompliance.com^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||laurentprotector.com^
@@ -50150,7 +50069,6 @@
 ||lisaiservice.top^
 ||lisamobile.ru^
 ||lisarennieonline.com^
-||lisasimonellirennie.com^
 ||lishuanghao.com^
 ||lislepostsax.com^
 ||lisponightingale.com^
@@ -51200,7 +51118,6 @@
 ||lotteryhibernateauthorized.com^
 ||lotto770.com^
 ||lottomeca.com^
-||lottory888.info^
 ||lotupteni.pro^
 ||lotusabloom.com^
 ||louchees.net^
@@ -51623,7 +51540,6 @@
 ||luxuriouspickpocketsmuggle.com^
 ||luxury-roll.com^
 ||luxurycash.net^
-||luxurydestinations.in^
 ||luxyad.com^
 ||luyfrk.com^
 ||luyongkang.top^
@@ -51981,7 +51897,6 @@
 ||madh0use8.no-ip.org^
 ||madh0use8.no-ip.org.ovh.net^
 ||madibarohilala.ddnsgeek.com^
-||madicon.co.za^
 ||madinad.com^
 ||madisonavenue.com^
 ||madisonlogic.com^
@@ -56309,6 +56224,7 @@
 ||mohaijishu.cn^
 ||mohammadyarico.com^
 ||mohini-ger.com^
+||mohreshwar-19-east.com^
 ||moi-goroskop.com^
 ||moi-oftalmolog.com^
 ||moijs.com^
@@ -56422,7 +56338,6 @@
 ||money2008.org^
 ||money4exit.de^
 ||money4leads.biz^
-||moneybank.ddns.net^
 ||moneycosmos.com^
 ||moneyexpert.co.uk^
 ||moneyexpert.com^
@@ -56530,7 +56445,6 @@
 ||moons-cases.com^
 ||moonsade.com^
 ||moonskins.fun^
-||moonstar.services^
 ||moontag.com^
 ||moontuftboy.com^
 ||moooginnumit.com^
@@ -56911,7 +56825,6 @@
 ||ms-audit-server.club^
 ||ms-dll-com.info^
 ||ms-dll-service.site^
-||ms-logistics.us^
 ||ms-mvp.org^
 ||ms-trackingapi.phenompeople.com^
 ||ms.awqsaged.cn^
@@ -57220,6 +57133,7 @@
 ||muyijia.shop^
 ||muyoozrkkyr.com^
 ||muyviajero.com^
+||muzhiying.xyz^
 ||muzhskoy.xyz^
 ||muziczion.com^
 ||muzokit.ru^
@@ -59208,7 +59122,6 @@
 ||northbase.club^
 ||northeregikgf.club^
 ||northernintimate.com^
-||northernstarboys.co.za^
 ||northmay.com^
 ||northstartravelmedia.com^
 ||northwestlegendary.com^
@@ -63992,6 +63905,7 @@
 ||plasmid904.site^
 ||plaster-orto.com^
 ||plastic-wood.cn^
+||plastikiniailangaivilniuje.lt^
 ||plastileen.pw^
 ||plastir-hyperost.biz^
 ||plastischechirurgie.net^
@@ -67511,6 +67425,7 @@
 ||rabbit.radicalxchange.org^
 ||rabbit.upwardhomes.net^
 ||rabbitbreath.com^
+||rabbitcloud.ltd^
 ||rabbitfiles.com^
 ||rabbithole.top^
 ||rabbitrifle.com^
@@ -72353,7 +72268,6 @@
 ||semasio.net^
 ||semec.ru^
 ||semengineers.com^
-||semenpadanghospital.co.id^
 ||semi-cod.com^
 ||semifiboolongs.com^
 ||semillasandree.com^
@@ -72502,7 +72416,6 @@
 ||septembership.com^
 ||septfd2em64eber.com^
 ||sepyra.com^
-||serafiliado.com^
 ||seraph15.ru^
 ||serbapromo.com^
 ||sercer.tk^
@@ -73061,6 +72974,7 @@
 ||shenyunkeji.com^
 ||shepeekr.net^
 ||shepherdbetrayaldecoction.com^
+||shepherdsshadowindia.com^
 ||shequdaohang.com^
 ||shequn.online^
 ||sher.index.hu^
@@ -73248,6 +73162,7 @@
 ||shotyfy.com^
 ||shoubsee.net^
 ||shoudan6.press^
+||shoujizhuanqian.store^
 ||shoungak.net^
 ||shoushushi.info^
 ||shoustiz.net^
@@ -79958,6 +79873,7 @@
 ||survicetwoweeks.net^
 ||survivepronate.com^
 ||suryaiklan.com^
+||suryamohinicharitabletrust.org^
 ||susazu.ru^
 ||suscepts.xyz^
 ||susetl.com^
@@ -80988,6 +80904,7 @@
 ||talksense.net^
 ||tallcy.com^
 ||tally.upsideout.com^
+||talmacbelgelendirme.com.tr^
 ||talsauve.com^
 ||talterfortmarob.info^
 ||talysu.info^
@@ -84114,6 +84031,7 @@
 ||track.buybox.click^
 ||track.byzon.swelen.net^
 ||track.cafu.com^
+||track.cargo-freights.com^
 ||track.catalogs.com^
 ||track.cbs.com^
 ||track.cedsdigital.it^
@@ -87079,7 +86997,6 @@
 ||ultra-hack.com^
 ||ultra.multimania.com^
 ||ultra1.socomm.net^
-||ultra98.com^
 ||ultraadserver.com^
 ||ultrabit.ws^
 ||ultracams12.club^
@@ -90462,6 +90379,7 @@
 ||webordermanager.com^
 ||webordernow.site^
 ||webpartizan.ru^
+||webpartner.fr^
 ||webpeep.com^
 ||webpigs.ru^
 ||webpinp.com^
@@ -91502,7 +91420,6 @@
 ||wokm8isd4zit.com^
 ||wolaufie.com^
 ||wolf.fan-guf.ru^
-||wolffram.dk^
 ||wolframalpha.pw^
 ||wolfskindlc.goblogz.net^
 ||wolfvw.narod.ru^
@@ -92915,6 +92832,7 @@
 ||www.uk.partner.equifax.co.uk^
 ||www.ult-blk-cbl.com^
 ||www.ultimatetopsites.com^
+||www.ultra98.com^
 ||www.unicaitaly.it^
 ||www.universal-traffic.com^
 ||www.upcdn.site^
