@@ -195,6 +195,7 @@ cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.getpocket.com
+d.la1-c1-ord.salesforceliveagent.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dailymotion.com
@@ -338,6 +339,7 @@ jwpcdn.com
 jwplatform.com
 jwplayer.com
 jwpltx.com
+la1-c1-ord.ord.r.salesforceliveagent.com
 lads.myspace.com
 lastfm-img2.akamaized.net
 letsencrypt.org
