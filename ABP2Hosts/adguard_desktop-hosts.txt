@@ -1,4 +1,4 @@
-# Tue Jun 14 05:55:08 PM UTC 2022
+# Wed Jun 15 01:06:12 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
@@ -1252,6 +1252,7 @@
 0.0.0.0 6899.fun
 0.0.0.0 68d97476e6.com
 0.0.0.0 693836.com
+0.0.0.0 69ed4fcc9d.com
 0.0.0.0 69i.club
 0.0.0.0 69oxt4q05.com
 0.0.0.0 69v.club
@@ -2924,6 +2925,7 @@
 0.0.0.0 acquisition.klm.com
 0.0.0.0 acresupervision.com
 0.0.0.0 acrhuqzewrius.com
+0.0.0.0 acronycgrimes.com
 0.0.0.0 acrossgained.com
 0.0.0.0 acscdn.com
 0.0.0.0 act-on-marketing.advancedsolutionsplm.com
@@ -4559,6 +4561,7 @@
 0.0.0.0 allengao.top
 0.0.0.0 allengeoun.club
 0.0.0.0 allenprepareattic.com
+0.0.0.0 allerdelphin.com
 0.0.0.0 alli-ti-cod.com
 0.0.0.0 alli-ti-hunter.com
 0.0.0.0 alliancenorris.com
@@ -5238,6 +5241,7 @@
 0.0.0.0 annesuspense.com
 0.0.0.0 anni141224.club
 0.0.0.0 annual-gamers-choice.com
+0.0.0.0 anodonphasma.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 anonima.to
 0.0.0.0 anonolpucka.com
@@ -5981,6 +5985,7 @@
 0.0.0.0 audiblysunny.com
 0.0.0.0 audiblytriggersreview.com
 0.0.0.0 audience.standardchartered.com.tw
+0.0.0.0 audience.visiblemeasures.com
 0.0.0.0 audiencefuel.com
 0.0.0.0 audienceprofiler.com
 0.0.0.0 audienceutmost.com
@@ -8192,6 +8197,7 @@
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c0.adalyser.com
+0.0.0.0 c00.adobe.com
 0.0.0.0 c0012.brsimg.com
 0.0.0.0 c02o3mpych.com
 0.0.0.0 c0594.com
@@ -11674,6 +11680,7 @@
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mob.com
 0.0.0.0 data.ouigo.com
 0.0.0.0 data.pepephone.com
 0.0.0.0 data.privacy.ensighten.com
@@ -12134,6 +12141,7 @@
 0.0.0.0 developingmansensitiveness.com
 0.0.0.0 developmentencyclopaedia.com
 0.0.0.0 develsdrawal.xyz
+0.0.0.0 device-analytics.rollout.io
 0.0.0.0 devilaboundultimate.com
 0.0.0.0 devilspanmute.com
 0.0.0.0 devinctserfs.com
@@ -12485,6 +12493,7 @@
 0.0.0.0 discoverydp.hb.omtrdc.net
 0.0.0.0 discoverynordics.hb.omtrdc.net
 0.0.0.0 discussmercurydifferently.com
+0.0.0.0 discuteeves.com
 0.0.0.0 disembarkappendix.com
 0.0.0.0 disgraceextended.com
 0.0.0.0 disguisemayhem.com
@@ -19061,6 +19070,7 @@
 0.0.0.0 img.interhome.es
 0.0.0.0 img.interhome.ie
 0.0.0.0 img.meipic.net
+0.0.0.0 img.opentracker.net
 0.0.0.0 img.simply.bwin.com
 0.0.0.0 img.yangshengtang123.com
 0.0.0.0 img.zuowen8.com
@@ -22298,6 +22308,7 @@
 0.0.0.0 locygruwo.com
 0.0.0.0 lodder5.biz
 0.0.0.0 lodder6.biz
+0.0.0.0 loedtamanac.com
 0.0.0.0 loeingroost.com
 0.0.0.0 lofe.shop
 0.0.0.0 loftiernucule.com
@@ -22348,6 +22359,7 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.interest.mix.sina.com.cn
 0.0.0.0 log.invodo.com
+0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
 0.0.0.0 log.liverail.com
 0.0.0.0 log.lon22.com
@@ -23892,7 +23904,6 @@
 0.0.0.0 media-servers.net
 0.0.0.0 media-serving.com
 0.0.0.0 media.adtrack1.pl
-0.0.0.0 media.fc2.com
 0.0.0.0 media.gotham.com
 0.0.0.0 media.netrefer.com
 0.0.0.0 media.pirtek.de
@@ -24573,6 +24584,7 @@
 0.0.0.0 metrics.mysynchrony.com
 0.0.0.0 metrics.mytributes.com.au
 0.0.0.0 metrics.myvi.in
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.nab.com.au
 0.0.0.0 metrics.nabbroker.com.au
@@ -28869,6 +28881,7 @@
 0.0.0.0 poagroul.com
 0.0.0.0 poasotha.com
 0.0.0.0 pobliba.info
+0.0.0.0 pocli.click
 0.0.0.0 pocofh.com
 0.0.0.0 pocrd.cc
 0.0.0.0 pocrowpush.com
@@ -36109,6 +36122,7 @@
 0.0.0.0 stats.jdheyburn.co.uk
 0.0.0.0 stats.jerickson.net
 0.0.0.0 stats.johnmac.pro
+0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.justanotherpm.com
 0.0.0.0 stats.justinwilliams.ca
 0.0.0.0 stats.kafarowski.com
@@ -37151,6 +37165,7 @@
 0.0.0.0 t.calbears.com
 0.0.0.0 t.castle.io
 0.0.0.0 t.centreinthesquare.com
+0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.cincinnatiarts.org
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.clic2buy.com
@@ -40336,6 +40351,7 @@
 0.0.0.0 unattractivefrigilityfrigility.com
 0.0.0.0 unavailablebackedwaved.com
 0.0.0.0 unawakegaleus.com
+0.0.0.0 unblentnitric.com
 0.0.0.0 unblestrustic.com
 0.0.0.0 unblockedapi.com
 0.0.0.0 unbodypestis.com
@@ -40435,7 +40451,6 @@
 0.0.0.0 unpanchamon.com
 0.0.0.0 unphionetor.com
 0.0.0.0 unpk41.online
-0.0.0.0 unpkg.com
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 unpredictableshell.com
 0.0.0.0 unpredictablewatchpenalty.com

@@ -1,4 +1,4 @@
-# Tue Jun 14 05:55:29 PM UTC 2022
+# Wed Jun 15 01:06:34 AM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
@@ -1063,6 +1063,7 @@
 0.0.0.0 688de7b3822de.com
 0.0.0.0 6899.fun
 0.0.0.0 68d97476e6.com
+0.0.0.0 69ed4fcc9d.com
 0.0.0.0 69i.club
 0.0.0.0 69oxt4q05.com
 0.0.0.0 69v.club
@@ -2651,6 +2652,7 @@
 0.0.0.0 acresupervision.com
 0.0.0.0 acrhuqzewrius.com
 0.0.0.0 acronixshop.ru
+0.0.0.0 acronycgrimes.com
 0.0.0.0 acrossgained.com
 0.0.0.0 acs86.com
 0.0.0.0 acsbapp.com
@@ -3459,6 +3461,7 @@
 0.0.0.0 adzmoney.linkyqueen.ga
 0.0.0.0 adzonk.com
 0.0.0.0 adzouk1tag.com
+0.0.0.0 adzp.cn
 0.0.0.0 adzpier.com
 0.0.0.0 adzpower.com
 0.0.0.0 adzs.com
@@ -3966,6 +3969,7 @@
 0.0.0.0 allengao.top
 0.0.0.0 allengeoun.club
 0.0.0.0 allenprepareattic.com
+0.0.0.0 allerdelphin.com
 0.0.0.0 allergy.thermofisher.com
 0.0.0.0 alleyskin.com
 0.0.0.0 alli-ti-cod.com
@@ -4514,6 +4518,7 @@
 0.0.0.0 annoyedfifth.com
 0.0.0.0 annoyingacoustics.com
 0.0.0.0 annwwu.guitarcenter.com
+0.0.0.0 anodonphasma.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 anonima.to
 0.0.0.0 anonolpucka.com
@@ -5397,6 +5402,7 @@
 0.0.0.0 b.nwave.de
 0.0.0.0 b.prod1.youroffers.dominos.ca
 0.0.0.0 b.rwjf.org
+0.0.0.0 b.sli-spark.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b.your.offers.dominos.com
 0.0.0.0 b00.xyz
@@ -6093,6 +6099,7 @@
 0.0.0.0 beevakum.net
 0.0.0.0 beevalt.com
 0.0.0.0 beewakiy.com
+0.0.0.0 befly.me
 0.0.0.0 befortugal.club
 0.0.0.0 befouled-fire.com
 0.0.0.0 befuglago.live
@@ -6731,6 +6738,7 @@
 0.0.0.0 bntxt.com
 0.0.0.0 bnuieugbkirom.xyz
 0.0.0.0 bnuni.com
+0.0.0.0 bnux.store
 0.0.0.0 bnvlebfv.com
 0.0.0.0 bnvsjg.hometogo.de
 0.0.0.0 bo2ffe45ss4gie.com
@@ -8247,6 +8255,7 @@
 0.0.0.0 chumanduo.com
 0.0.0.0 chunaisese12.com
 0.0.0.0 chunkycactus.com
+0.0.0.0 chunyuqiufeng.com
 0.0.0.0 chuqiguan.co
 0.0.0.0 churchatsouthcreek.com
 0.0.0.0 churro.noteapps.info
@@ -10564,6 +10573,7 @@
 0.0.0.0 dalseeds.net
 0.0.0.0 daltauth.net
 0.0.0.0 daltondescendent.com
+0.0.0.0 dalucm.xyz
 0.0.0.0 damageddistance.com
 0.0.0.0 damageshaybird.com
 0.0.0.0 damaoli.com
@@ -11400,6 +11410,7 @@
 0.0.0.0 discoverapp.xyz
 0.0.0.0 discoveryast.com
 0.0.0.0 discussmercurydifferently.com
+0.0.0.0 discuteeves.com
 0.0.0.0 disembarkappendix.com
 0.0.0.0 disgraceextended.com
 0.0.0.0 disguisemayhem.com
@@ -17035,6 +17046,7 @@
 0.0.0.0 hello211.top
 0.0.0.0 helloc.xyz
 0.0.0.0 hellocdn.top
+0.0.0.0 hellohang.love
 0.0.0.0 hellojohnwebb.com
 0.0.0.0 helltraffic.com
 0.0.0.0 helodesdhoni.com
@@ -21896,6 +21908,7 @@
 0.0.0.0 lodder6.biz
 0.0.0.0 lodicoandco.actonservice.com
 0.0.0.0 lodlww.carcon.co.jp
+0.0.0.0 loedtamanac.com
 0.0.0.0 loeingroost.com
 0.0.0.0 lofe.shop
 0.0.0.0 loftiernucule.com
@@ -22270,6 +22283,7 @@
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 lunaticcrushedtogether.com
 0.0.0.0 lunio.net
+0.0.0.0 lunt.cx
 0.0.0.0 luochengwen.vip
 0.0.0.0 luofei38.top
 0.0.0.0 luolikong.net
@@ -23578,6 +23592,7 @@
 0.0.0.0 meng.360zuowen.com
 0.0.0.0 mengbli.com
 0.0.0.0 mengpr.com
+0.0.0.0 mengxing.ltd
 0.0.0.0 menlithium.com
 0.0.0.0 mentalks.ru
 0.0.0.0 mentalsweatextent.com
@@ -24995,6 +25010,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nancyface.com
 0.0.0.0 nanfallenconvicted.com
+0.0.0.0 nanjian.ink
 0.0.0.0 nanofine.cn
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 nantongle.com
@@ -28036,6 +28052,7 @@
 0.0.0.0 pobliba.info
 0.0.0.0 pochistit.ru
 0.0.0.0 pocketsonic.com
+0.0.0.0 pocli.click
 0.0.0.0 pocrd.cc
 0.0.0.0 pocrowpush.com
 0.0.0.0 pod.xpress.com
@@ -29784,6 +29801,7 @@
 0.0.0.0 ready-to-download.com
 0.0.0.0 ready4win.com
 0.0.0.0 readysnails.com
+0.0.0.0 readysugerfree.top
 0.0.0.0 reajyu.net
 0.0.0.0 real-blog.name
 0.0.0.0 real-fitness2019.real-fitness.jp
@@ -37674,6 +37692,7 @@
 0.0.0.0 trackcapitalvane.com
 0.0.0.0 trackclicks.info
 0.0.0.0 trackcommon.hujiang.com
+0.0.0.0 tracker-rec.smart-bdash.com
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.adbinead.com
@@ -38952,6 +38971,7 @@
 0.0.0.0 unavailablebackedwaved.com
 0.0.0.0 unawakegaleus.com
 0.0.0.0 unbi.ba
+0.0.0.0 unblentnitric.com
 0.0.0.0 unblestrustic.com
 0.0.0.0 unbodypestis.com
 0.0.0.0 unbuttondeferinstalment.com
@@ -42278,6 +42298,7 @@
 0.0.0.0 xxecldsp.xyz
 0.0.0.0 xxgiwqv.cn
 0.0.0.0 xxgslt.com
+0.0.0.0 xxgxqscl.com
 0.0.0.0 xxhrd.com
 0.0.0.0 xxia.xyz
 0.0.0.0 xxjuefi.cn
