@@ -1,4 +1,4 @@
-# Sat Jun 18 04:35:23 AM UTC 2022
+# Sat Jun 18 06:04:01 AM UTC 2022
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -8033,6 +8033,7 @@
 0.0.0.0 boasstylijoked.com
 0.0.0.0 boatlyseljuk.com
 0.0.0.0 boayipids.com
+0.0.0.0 bob-recs.com
 0.0.0.0 bob4915.com
 0.0.0.0 bob4942.com
 0.0.0.0 bob4994.com
@@ -8248,6 +8249,7 @@
 0.0.0.0 bpqqccopjuat.com
 0.0.0.0 bps.sysact.cn
 0.0.0.0 bptracking.com
+0.0.0.0 bptxcg.xyz
 0.0.0.0 bqcgrwahvuapq.com
 0.0.0.0 bqgyy.com
 0.0.0.0 bqnqrr33.com
@@ -8475,6 +8477,7 @@
 0.0.0.0 btdnav.com
 0.0.0.0 bte.ink
 0.0.0.0 btez8.xyz
+0.0.0.0 btg360.com.br
 0.0.0.0 btgndarx.xyz
 0.0.0.0 btjapxtpernyg.com
 0.0.0.0 btloader.com
@@ -18854,6 +18857,7 @@
 0.0.0.0 handleteeth.com
 0.0.0.0 handred.ru
 0.0.0.0 handsomeindustry.com
+0.0.0.0 handsomelyhealth.com
 0.0.0.0 handtub.com
 0.0.0.0 handy-ads.de
 0.0.0.0 handy-tab.com
@@ -20381,6 +20385,7 @@
 0.0.0.0 ieeod0.com
 0.0.0.0 iehtzdq.cn
 0.0.0.0 iendoo.com
+0.0.0.0 ienglish.ren
 0.0.0.0 ieroohhcytpar.xyz
 0.0.0.0 iesboughts.xyz
 0.0.0.0 ietyofedinj89yewtburgh.com
@@ -23151,7 +23156,6 @@
 0.0.0.0 kuloffer.com
 0.0.0.0 kuludelo.com
 0.0.0.0 kumanaun.net
-0.0.0.0 kumascans.com
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kumteerg.com
 0.0.0.0 kungfupan.club
@@ -30267,6 +30271,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.ampry.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.blivenyc.com
@@ -35597,6 +35602,7 @@
 0.0.0.0 slingpic.com
 0.0.0.0 slingshot.io
 0.0.0.0 slingstapeats.com
+0.0.0.0 slinindy.top
 0.0.0.0 slinse.com
 0.0.0.0 slipclearing.com
 0.0.0.0 slipdashedundermine.com
