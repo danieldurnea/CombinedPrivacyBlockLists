@@ -1,4 +1,4 @@
-// **** Wed Jun 15 01:15:40 AM UTC 2022
+// **** Sat Jun 18 04:38:44 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3635,6 +3635,7 @@ shExpMatch(host, '*.chic-avenue.fr') ||
 shExpMatch(host, '*.chicagocutsteakhouse.com') ||
 shExpMatch(host, '*.chickenkiller.com') ||
 shExpMatch(host, '*.chickensstation.com') ||
+shExpMatch(host, '*.childlikecrowd.com') ||
 shExpMatch(host, '*.chilki.bonypin.com') ||
 shExpMatch(host, '*.chilli-recipes.com') ||
 shExpMatch(host, '*.china-container.cn') ||
@@ -5346,6 +5347,7 @@ shExpMatch(host, '*.doxliwesed.de.ms') ||
 shExpMatch(host, '*.dp-811.com') ||
 shExpMatch(host, '*.dp-medien.eu') ||
 shExpMatch(host, '*.dpbolvw.net') ||
+shExpMatch(host, '*.dpgawov.com') ||
 shExpMatch(host, '*.dprevs.com') ||
 shExpMatch(host, '*.dpu.samsungelectronics.com') ||
 shExpMatch(host, '*.dq95d35.com') ||
@@ -5598,6 +5600,7 @@ shExpMatch(host, '*.edchiu.com') ||
 shExpMatch(host, '*.edcomparison.com') ||
 shExpMatch(host, '*.edf.fr.kfskz.com') ||
 shExpMatch(host, '*.edgeio.com') ||
+shExpMatch(host, '*.edgexads.com') ||
 shExpMatch(host, '*.edgydownload.com') ||
 shExpMatch(host, '*.edragoncityhack.com') ||
 shExpMatch(host, '*.edsse.com') ||
@@ -5687,6 +5690,7 @@ shExpMatch(host, '*.elskins.com') ||
 shExpMatch(host, '*.em1.yoursantander.co.uk') ||
 shExpMatch(host, '*.email-clk.adguard.com') ||
 shExpMatch(host, '*.email-hack.com') ||
+shExpMatch(host, '*.email-links.crowdfireapp.com') ||
 shExpMatch(host, '*.email-opn.adguard.com') ||
 shExpMatch(host, '*.email.m1.bktrksmail.com') ||
 shExpMatch(host, '*.emaillinks.soundiiz.com') ||
@@ -7358,7 +7362,6 @@ shExpMatch(host, '*.g-oogl-e.com') ||
 shExpMatch(host, '*.g4mehacks.com') ||
 shExpMatch(host, '*.g64cfg9yi6kx.com') ||
 shExpMatch(host, '*.ga.clearbit.com') ||
-shExpMatch(host, '*.ga87z2o.com') ||
 shExpMatch(host, '*.gaasp.net') ||
 shExpMatch(host, '*.gabecsgo.com') ||
 shExpMatch(host, '*.gabriellerosephotography.com') ||
@@ -9136,6 +9139,7 @@ shExpMatch(host, '*.ihacksncodes.com') ||
 shExpMatch(host, '*.ihackz.biz') ||
 shExpMatch(host, '*.ihavetohave.net') ||
 shExpMatch(host, '*.iheaven.us') ||
+shExpMatch(host, '*.ihogaetw.com') ||
 shExpMatch(host, '*.ijssalonlekker.nl') ||
 shExpMatch(host, '*.ikbyznod.ru') ||
 shExpMatch(host, '*.ikebanaclitor.ru') ||
@@ -11940,7 +11944,6 @@ shExpMatch(host, '*.openfree.fun') ||
 shExpMatch(host, '*.openfreefile.com') ||
 shExpMatch(host, '*.opengamehack.com') ||
 shExpMatch(host, '*.openmarket.com') ||
-shExpMatch(host, '*.opentag-stats.qubit.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
 shExpMatch(host, '*.openx.cairo360.com') ||
@@ -21347,6 +21350,7 @@ shExpMatch(host, 'chic-avenue.fr') ||
 shExpMatch(host, 'chicagocutsteakhouse.com') ||
 shExpMatch(host, 'chickenkiller.com') ||
 shExpMatch(host, 'chickensstation.com') ||
+shExpMatch(host, 'childlikecrowd.com') ||
 shExpMatch(host, 'chilki.bonypin.com') ||
 shExpMatch(host, 'chilli-recipes.com') ||
 shExpMatch(host, 'china-container.cn') ||
@@ -23058,6 +23062,7 @@ shExpMatch(host, 'doxliwesed.de.ms') ||
 shExpMatch(host, 'dp-811.com') ||
 shExpMatch(host, 'dp-medien.eu') ||
 shExpMatch(host, 'dpbolvw.net') ||
+shExpMatch(host, 'dpgawov.com') ||
 shExpMatch(host, 'dprevs.com') ||
 shExpMatch(host, 'dpu.samsungelectronics.com') ||
 shExpMatch(host, 'dq95d35.com') ||
@@ -23310,6 +23315,7 @@ shExpMatch(host, 'edchiu.com') ||
 shExpMatch(host, 'edcomparison.com') ||
 shExpMatch(host, 'edf.fr.kfskz.com') ||
 shExpMatch(host, 'edgeio.com') ||
+shExpMatch(host, 'edgexads.com') ||
 shExpMatch(host, 'edgydownload.com') ||
 shExpMatch(host, 'edragoncityhack.com') ||
 shExpMatch(host, 'edsse.com') ||
@@ -23399,6 +23405,7 @@ shExpMatch(host, 'elskins.com') ||
 shExpMatch(host, 'em1.yoursantander.co.uk') ||
 shExpMatch(host, 'email-clk.adguard.com') ||
 shExpMatch(host, 'email-hack.com') ||
+shExpMatch(host, 'email-links.crowdfireapp.com') ||
 shExpMatch(host, 'email-opn.adguard.com') ||
 shExpMatch(host, 'email.m1.bktrksmail.com') ||
 shExpMatch(host, 'emaillinks.soundiiz.com') ||
@@ -25070,7 +25077,6 @@ shExpMatch(host, 'g-oogl-e.com') ||
 shExpMatch(host, 'g4mehacks.com') ||
 shExpMatch(host, 'g64cfg9yi6kx.com') ||
 shExpMatch(host, 'ga.clearbit.com') ||
-shExpMatch(host, 'ga87z2o.com') ||
 shExpMatch(host, 'gaasp.net') ||
 shExpMatch(host, 'gabecsgo.com') ||
 shExpMatch(host, 'gabriellerosephotography.com') ||
@@ -26848,6 +26854,7 @@ shExpMatch(host, 'ihacksncodes.com') ||
 shExpMatch(host, 'ihackz.biz') ||
 shExpMatch(host, 'ihavetohave.net') ||
 shExpMatch(host, 'iheaven.us') ||
+shExpMatch(host, 'ihogaetw.com') ||
 shExpMatch(host, 'ijssalonlekker.nl') ||
 shExpMatch(host, 'ikbyznod.ru') ||
 shExpMatch(host, 'ikebanaclitor.ru') ||
@@ -29652,7 +29659,6 @@ shExpMatch(host, 'openfree.fun') ||
 shExpMatch(host, 'openfreefile.com') ||
 shExpMatch(host, 'opengamehack.com') ||
 shExpMatch(host, 'openmarket.com') ||
-shExpMatch(host, 'opentag-stats.qubit.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.blindferret.com') ||
 shExpMatch(host, 'openx.cairo360.com') ||
