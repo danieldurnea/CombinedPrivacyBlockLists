@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 06/18/22~04:57:24 -~
+# ~- 06/18/22~06:23:25 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -3701,6 +3701,7 @@
 *.abieaoa.cn
 *.abionet.com
 *.abissnet.net
+*.abj.noveltypolytechnic.edu.ng
 *.abjjsc.cn
 *.abjtuq.exoticca.com
 *.abjwkkabu.com
@@ -16569,6 +16570,7 @@
 *.bighyip-monitor.com
 *.bigip.stream
 *.bigleads.ru
+*.bigmikesupplies.co.za
 *.bigmining.com
 *.bigmir.email
 *.bigmobileads.com
@@ -17429,6 +17431,7 @@
 *.boasteel.us
 *.boatlyseljuk.com
 *.boayipids.com
+*.bob-recs.com
 *.bob.bezucai.com
 *.bob.gitclear.com
 *.bob4915.com
@@ -18034,7 +18037,6 @@
 *.briskedmiskept.com
 *.briskpelican.io
 *.bristlyxystus.com
-*.britainsolicitors.com
 *.britehostngco.xyz
 *.britepool.com
 *.briticatederfd.site
@@ -18224,6 +18226,7 @@
 *.btdnav.com
 *.bte.ink
 *.btez8.xyz
+*.btg360.com.br
 *.btgndarx.xyz
 *.bthacks.us
 *.bthwkw.bazarchic.com
@@ -32863,7 +32866,6 @@
 *.exr-mms.expertreviews.co.uk
 *.exrtbsrv.com
 *.exru.website
-*.exsmartblogxz.com
 *.ext.bhol.co.il
 *.ext.goguardian.com
 *.ext.host-tracker.com
@@ -42711,7 +42713,6 @@
 *.i.assmio.com
 *.i.bigin.io
 *.i.bigmir.net
-*.i.btg360.com.br
 *.i.cdnpark.com
 *.i.clickagy.com
 *.i.compendium.com
@@ -48246,7 +48247,6 @@
 *.kuludelo.com
 *.kum-du.com
 *.kumanaun.net
-*.kumascans.com
 *.kuminaluna.xyz
 *.kumpulblogger.com
 *.kumteerg.com
@@ -51591,7 +51591,6 @@
 *.m-offis.ru
 *.m-pathy.com
 *.m-rtb.com
-*.m-scr888.com
 *.m-shes.ru
 *.m-t.io
 *.m-technics.kz
@@ -51783,6 +51782,7 @@
 *.madh0use8.no-ip.org.ovh.net
 *.madh0use8.no-ip.org
 *.madibarohilala.ddnsgeek.com
+*.madicon.co.za
 *.madinad.com
 *.madisonavenue.com
 *.madisonlogic.com
@@ -56303,6 +56303,7 @@
 *.monumentfake.com
 *.monumentsmaterialeasel.com
 *.monxserver.com
+*.monzywuh.tk
 *.moo9995.com
 *.mooantink.com
 *.moochescramper.com
@@ -70810,6 +70811,7 @@
 *.saturdayaremoaning.com
 *.saturdayloathe.com
 *.saturn-j1407b.com
+*.satyammould.com
 *.saub27i3os.com
 *.sauceheirloom.com
 *.sauceillusionstruggling.com
@@ -87805,7 +87807,6 @@
 *.validhacks.com
 *.validserver.com
 *.valkorsgoldmakingguide.com
-*.vallabhfood.in
 *.valleyseve.de
 *.valleysupervisesecret.com
 *.valonghost.xyz
@@ -92421,7 +92422,6 @@
 *.www.sasenergia.pt
 *.www.saunaundbad.de
 *.www.sbo.it
-*.www.sbobetth.site
 *.www.scan6show.com
 *.www.scanmyphones.com
 *.www.scantanzania.com
@@ -94923,6 +94923,7 @@
 *.yushengyuancaishui.com
 *.yushuha.com
 *.yusnw.cc
+*.yusufkarpak.com.tr
 *.yusungtech.co.kr
 *.yuubuslvsqhopkk.com
 *.yuxiangrc.com
