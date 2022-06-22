@@ -1,4 +1,4 @@
-# Sun Jun 19 11:54:37 PM UTC 2022
+# Wed Jun 22 11:06:08 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -161,6 +161,7 @@
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adnium.com
@@ -1243,7 +1244,6 @@
 0.0.0.0 api.hdtv.letv.com
 0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
-0.0.0.0 api.iadvize.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.immomo.com
 0.0.0.0 api.imqtyik.com
@@ -2133,7 +2133,6 @@
 0.0.0.0 ccpa.psg.nexstardigital.net
 0.0.0.0 cd.adition.com
 0.0.0.0 cd.connatix.com
-0.0.0.0 cdlc.iadvize.com
 0.0.0.0 cdm.connatix.com
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn-3.convertexperiments.com.edgekey.net
@@ -2552,7 +2551,6 @@
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
-0.0.0.0 cobrowsing-ha.iadvize.com
 0.0.0.0 code.directadvert.ru
 0.0.0.0 code.hot-mob.com
 0.0.0.0 code.metalocator.com
@@ -3482,7 +3480,6 @@
 0.0.0.0 friendlyduck.com
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 frtn.socdm.com
-0.0.0.0 fstatic.iadvize.com
 0.0.0.0 ftjcfx.com
 0.0.0.0 funnel-assets.startappservice.com
 0.0.0.0 fuse.forbes.com
@@ -3751,7 +3748,6 @@
 0.0.0.0 hades.getsocial.im
 0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hal9000.redintelligence.net
-0.0.0.0 halc.iadvize.com
 0.0.0.0 halo.ad.gt
 0.0.0.0 hasmobi.net
 0.0.0.0 hassaleh.iad-03.braze.com
@@ -4347,7 +4343,6 @@
 0.0.0.0 lbdata.tj.ijinshan.com
 0.0.0.0 lbnyj2.bidder.owneriq.net
 0.0.0.0 lbsjc.bidder.owneriq.net
-0.0.0.0 lc.iadvize.com
 0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 lciapi.ninthdecimal.com
@@ -5248,7 +5243,6 @@
 0.0.0.0 parsnip.gocarrot.com
 0.0.0.0 participants.evolv.ai
 0.0.0.0 partner.ads.placeiq.com
-0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.knorex.com
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partnerad.l.doubleclick.net
@@ -6639,7 +6633,6 @@
 0.0.0.0 static.hk5.vip.prod.criteo.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.hyprmx.com
-0.0.0.0 static.iadvize.com
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
@@ -7878,6 +7871,7 @@
 0.0.0.0 www.zergnet.com
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 wzrkt.com
+0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 x.appbaqend.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.disq.us
@@ -7901,7 +7895,6 @@
 0.0.0.0 xml.revrtb.com
 0.0.0.0 xml1.adsimilate.com
 0.0.0.0 xmlserving.mobagent.com
-0.0.0.0 xmpp-ha-alb.iadvize.com
 0.0.0.0 xpig-dev.directservices.it
 0.0.0.0 xpromo.g5e.com
 0.0.0.0 xtr.carambo.la
