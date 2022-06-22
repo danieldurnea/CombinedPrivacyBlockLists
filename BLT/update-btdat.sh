@@ -17,6 +17,7 @@ echo "Downloaded blocklists."
 echo "Extracted blocklists from archives."
 find . -name 'czvaehmjpsnwwttrdoyl.txt' -exec mv {} bt_webattack.dat \;
 find . -name 'cwworuawihqvocglcoss.txt' -exec mv {} bt_bpeers.dat \;
+sed -i '$a\' *.dat
 cat *.dat | sed "s/amp;//g" | sed "s/\&//g" | tr -d "\200-\377" | sort -f | uniq -i > combined-final-win.dat
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
 sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final-win.dat
