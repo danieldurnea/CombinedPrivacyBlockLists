@@ -921,6 +921,7 @@
 0.0.0.0 abibletit.ru
 0.0.0.0 abidefr.com
 0.0.0.0 abissnet.net
+0.0.0.0 abj.noveltypolytechnic.edu.ng
 0.0.0.0 ablefull.com
 0.0.0.0 abmaxdigital.com
 0.0.0.0 aboardamusement.com
@@ -7911,6 +7912,7 @@
 0.0.0.0 bravebone.com
 0.0.0.0 braverymob.fusetracking.com
 0.0.0.0 brazauskas.info
+0.0.0.0 breakdownlanemovie.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 breakthroughtrend.com
 0.0.0.0 breda.vanhiele.nl
@@ -9618,6 +9620,7 @@
 0.0.0.0 corp-downloads.com
 0.0.0.0 corpcougar.com
 0.0.0.0 corpcougar.in
+0.0.0.0 corpernaija.com
 0.0.0.0 corpext-datamart.net
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpuslender.com
@@ -10897,7 +10900,6 @@
 0.0.0.0 download.008ex.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.hitbox.com
-0.0.0.0 download.pdf00.cn
 0.0.0.0 download.wildcard.applovin.com.edgekey.net
 0.0.0.0 download4mac.com
 0.0.0.0 downloadcracker.com
@@ -13260,6 +13262,7 @@
 0.0.0.0 groceriesgiftcards.com
 0.0.0.0 groovinads.com
 0.0.0.0 gropirworldplssn.ga
+0.0.0.0 group.dastai.com
 0.0.0.0 groups.us.to
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 growpush.trackpush.com
@@ -13774,6 +13777,7 @@
 0.0.0.0 hphqglobal.112.2o7.net
 0.0.0.0 hpk02h21yyts-6.com
 0.0.0.0 hpn-collector.cliqz.com
+0.0.0.0 hqsistemas.com.ar
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hraina.com
 0.0.0.0 href.asia
@@ -14299,6 +14303,7 @@
 0.0.0.0 individualkipitera24.site
 0.0.0.0 indo.autoads.asia
 0.0.0.0 indoleads.com
+0.0.0.0 indonesias.me
 0.0.0.0 indoriauperkasa.com
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indta.co.id
@@ -16258,6 +16263,7 @@
 0.0.0.0 madh0use8.no-ip.org
 0.0.0.0 madh0use8.no-ip.org.ovh.net
 0.0.0.0 madibarohilala.ddnsgeek.com
+0.0.0.0 madicon.co.za
 0.0.0.0 madisonavenue.com
 0.0.0.0 madnik.beget.tech
 0.0.0.0 mads.amazon-adsystem.com
@@ -17382,6 +17388,7 @@
 0.0.0.0 multipool.us
 0.0.0.0 multiquicks.net
 0.0.0.0 multiview.122.2o7.net
+0.0.0.0 mumgee.co.za
 0.0.0.0 mun.122.2o7.net
 0.0.0.0 munesdon.top
 0.0.0.0 murciaeconomia.folioserver.com
@@ -18553,6 +18560,7 @@
 0.0.0.0 outcome-crash-report.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
+0.0.0.0 outdoortacklebox.com
 0.0.0.0 outfitsdome.fun
 0.0.0.0 outletdemakeup.ro
 0.0.0.0 outlook.kz
@@ -18709,6 +18717,7 @@
 0.0.0.0 parketsy.pro
 0.0.0.0 parking1.samayiot.com
 0.0.0.0 parkwooddoors.co.nz
+0.0.0.0 parolabhushan.com
 0.0.0.0 parrotbay.net
 0.0.0.0 pars-science.ir
 0.0.0.0 parse.ly
@@ -22001,7 +22010,6 @@
 0.0.0.0 sr.i2i.jp
 0.0.0.0 sr57mj1bcvng4yqf2y41cep8d5.com
 0.0.0.0 sra-delivery.yieldlove-ad-serving.net
-0.0.0.0 src1.minibai.com
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
 0.0.0.0 sreex.info
@@ -22796,7 +22804,6 @@
 0.0.0.0 tags2.adsafety.net
 0.0.0.0 tagsmarkt.com
 0.0.0.0 tagular.com
-0.0.0.0 taifbazaar.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
 0.0.0.0 tajir.com
@@ -25292,7 +25299,6 @@
 0.0.0.0 w.zenback.jp
 0.0.0.0 w1.hitbox.com
 0.0.0.0 w1.luckyorange.com
-0.0.0.0 w1.zypaint.com
 0.0.0.0 w10.hitbox.com
 0.0.0.0 w100.hitbox.com
 0.0.0.0 w101.hitbox.com
@@ -26357,6 +26363,7 @@
 0.0.0.0 www.af-mark.jp
 0.0.0.0 www.affiliate-b.com
 0.0.0.0 www.afi-b.com
+0.0.0.0 www.aforv.com
 0.0.0.0 www.afyonmagazin.com
 0.0.0.0 www.agentofficetest.com
 0.0.0.0 www.agies.org
@@ -26817,6 +26824,7 @@
 0.0.0.0 www.hostingcloud.stream
 0.0.0.0 www.hostingcloud.trade
 0.0.0.0 www.hostingcloud.win
+0.0.0.0 www.hotelmourya.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.huanqiucaijing.cn
 0.0.0.0 www.huge-gay-cock.com
@@ -27031,7 +27039,6 @@
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.solotrainingcenter.com
 0.0.0.0 www.sota-france.fr
-0.0.0.0 www.soutotalsolar.com
 0.0.0.0 www.spacebridemag.com
 0.0.0.0 www.sparechange.io
 0.0.0.0 www.spl63.fr

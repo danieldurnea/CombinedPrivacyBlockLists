@@ -1,4 +1,4 @@
-# Wed Jul  6 10:21:23 PM UTC 2022
+# Wed Jul  6 10:30:09 PM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.site
