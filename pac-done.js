@@ -1,4 +1,4 @@
-// **** Wed Jun 29 09:43:30 PM UTC 2022
+// **** Wed Jul  6 10:35:31 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -8800,7 +8800,6 @@ shExpMatch(host, '*.hikutcur.ru') ||
 shExpMatch(host, '*.hilariouszinc.com') ||
 shExpMatch(host, '*.hilikus.com') ||
 shExpMatch(host, '*.hillclimbracinghack.com') ||
-shExpMatch(host, '*.hilltopads.net') ||
 shExpMatch(host, '*.himazim.ru') ||
 shExpMatch(host, '*.hinsib.com') ||
 shExpMatch(host, '*.hiperhacks.net') ||
@@ -10174,6 +10173,7 @@ shExpMatch(host, '*.lindy.co.id') ||
 shExpMatch(host, '*.linenghb.com') ||
 shExpMatch(host, '*.lingjunedu.com') ||
 shExpMatch(host, '*.link-booster.de') ||
+shExpMatch(host, '*.link.uk.expediamail.com') ||
 shExpMatch(host, '*.link4ads.com') ||
 shExpMatch(host, '*.linkadd.de') ||
 shExpMatch(host, '*.linkbuddies.com') ||
@@ -12320,7 +12320,6 @@ shExpMatch(host, '*.pigra.csheaven.com') ||
 shExpMatch(host, '*.pijilvad.ru') ||
 shExpMatch(host, '*.pills.ind.in') ||
 shExpMatch(host, '*.pillscash.com') ||
-shExpMatch(host, '*.pilotaffiliate.com') ||
 shExpMatch(host, '*.pimbarendse.nl') ||
 shExpMatch(host, '*.pimphacks.com') ||
 shExpMatch(host, '*.pimpinggadgets.com') ||
@@ -16289,7 +16288,6 @@ shExpMatch(host, '*.vanillaicebook.com') ||
 shExpMatch(host, '*.varefication.us') ||
 shExpMatch(host, '*.varellamotos.com.br') ||
 shExpMatch(host, '*.vargigsi.ru') ||
-shExpMatch(host, '*.variablefitness.com') ||
 shExpMatch(host, '*.vasfagah.ru') ||
 shExpMatch(host, '*.vauzdftjok.ru') ||
 shExpMatch(host, '*.vavagov.ru') ||
@@ -26522,7 +26520,6 @@ shExpMatch(host, 'hikutcur.ru') ||
 shExpMatch(host, 'hilariouszinc.com') ||
 shExpMatch(host, 'hilikus.com') ||
 shExpMatch(host, 'hillclimbracinghack.com') ||
-shExpMatch(host, 'hilltopads.net') ||
 shExpMatch(host, 'himazim.ru') ||
 shExpMatch(host, 'hinsib.com') ||
 shExpMatch(host, 'hiperhacks.net') ||
@@ -27896,6 +27893,7 @@ shExpMatch(host, 'lindy.co.id') ||
 shExpMatch(host, 'linenghb.com') ||
 shExpMatch(host, 'lingjunedu.com') ||
 shExpMatch(host, 'link-booster.de') ||
+shExpMatch(host, 'link.uk.expediamail.com') ||
 shExpMatch(host, 'link4ads.com') ||
 shExpMatch(host, 'linkadd.de') ||
 shExpMatch(host, 'linkbuddies.com') ||
@@ -30042,7 +30040,6 @@ shExpMatch(host, 'pigra.csheaven.com') ||
 shExpMatch(host, 'pijilvad.ru') ||
 shExpMatch(host, 'pills.ind.in') ||
 shExpMatch(host, 'pillscash.com') ||
-shExpMatch(host, 'pilotaffiliate.com') ||
 shExpMatch(host, 'pimbarendse.nl') ||
 shExpMatch(host, 'pimphacks.com') ||
 shExpMatch(host, 'pimpinggadgets.com') ||
@@ -34011,7 +34008,6 @@ shExpMatch(host, 'vanillaicebook.com') ||
 shExpMatch(host, 'varefication.us') ||
 shExpMatch(host, 'varellamotos.com.br') ||
 shExpMatch(host, 'vargigsi.ru') ||
-shExpMatch(host, 'variablefitness.com') ||
 shExpMatch(host, 'vasfagah.ru') ||
 shExpMatch(host, 'vauzdftjok.ru') ||
 shExpMatch(host, 'vavagov.ru') ||
