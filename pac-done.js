@@ -1,4 +1,4 @@
-// **** Wed Jul  6 10:35:31 PM UTC 2022
+// **** Wed Jul 13 09:10:37 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3820,6 +3820,7 @@ shExpMatch(host, '*.click.bkdpt.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
 shExpMatch(host, '*.click.cision.com') ||
 shExpMatch(host, '*.click.classmates.com') ||
+shExpMatch(host, '*.click.digital.metaquestmail.com') ||
 shExpMatch(host, '*.click.em.blizzard.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.hookupinyourcity.com') ||
@@ -12776,7 +12777,6 @@ shExpMatch(host, '*.provexia.com') ||
 shExpMatch(host, '*.proxyfill.co') ||
 shExpMatch(host, '*.proxysite.org') ||
 shExpMatch(host, '*.prpops.com') ||
-shExpMatch(host, '*.prsaln.com') ||
 shExpMatch(host, '*.prsitecheck.com') ||
 shExpMatch(host, '*.prysmm.net') ||
 shExpMatch(host, '*.ps3cfw.com') ||
@@ -17597,7 +17597,6 @@ shExpMatch(host, '*.zanox-affiliate.de') ||
 shExpMatch(host, '*.zanox.com') ||
 shExpMatch(host, '*.zans.onecinema.us') ||
 shExpMatch(host, '*.zantracker.com') ||
-shExpMatch(host, '*.zarget.com') ||
 shExpMatch(host, '*.zbuilder-bim.com') ||
 shExpMatch(host, '*.zbwp6ghm.com') ||
 shExpMatch(host, '*.zcztois.sellclassics.com') ||
@@ -21540,6 +21539,7 @@ shExpMatch(host, 'click.bkdpt.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
 shExpMatch(host, 'click.cision.com') ||
 shExpMatch(host, 'click.classmates.com') ||
+shExpMatch(host, 'click.digital.metaquestmail.com') ||
 shExpMatch(host, 'click.em.blizzard.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.hookupinyourcity.com') ||
@@ -30496,7 +30496,6 @@ shExpMatch(host, 'provexia.com') ||
 shExpMatch(host, 'proxyfill.co') ||
 shExpMatch(host, 'proxysite.org') ||
 shExpMatch(host, 'prpops.com') ||
-shExpMatch(host, 'prsaln.com') ||
 shExpMatch(host, 'prsitecheck.com') ||
 shExpMatch(host, 'prysmm.net') ||
 shExpMatch(host, 'ps3cfw.com') ||
@@ -35317,7 +35316,6 @@ shExpMatch(host, 'zanox-affiliate.de') ||
 shExpMatch(host, 'zanox.com') ||
 shExpMatch(host, 'zans.onecinema.us') ||
 shExpMatch(host, 'zantracker.com') ||
-shExpMatch(host, 'zarget.com') ||
 shExpMatch(host, 'zbuilder-bim.com') ||
 shExpMatch(host, 'zbwp6ghm.com') ||
 shExpMatch(host, 'zcztois.sellclassics.com') ||
