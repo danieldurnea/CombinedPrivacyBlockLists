@@ -1,4 +1,4 @@
-// **** Wed Jul 13 09:10:37 PM UTC 2022
+// **** Wed Jul 20 07:31:15 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1913,6 +1913,7 @@ shExpMatch(host, '*.amo122.com') ||
 shExpMatch(host, '*.amobee.com') ||
 shExpMatch(host, '*.amoninst.com') ||
 shExpMatch(host, '*.amoqixadomolir.blogspot.com') ||
+shExpMatch(host, '*.ampleclick.com') ||
 shExpMatch(host, '*.amplifiernetworks.com') ||
 shExpMatch(host, '*.ampnode.host') ||
 shExpMatch(host, '*.ampoul.com') ||
@@ -3897,7 +3898,6 @@ shExpMatch(host, '*.closedcows.com') ||
 shExpMatch(host, '*.cloud-photo.net') ||
 shExpMatch(host, '*.cloud-skins.fun') ||
 shExpMatch(host, '*.cloudcoins.biz') ||
-shExpMatch(host, '*.cloudflare-dacdn.visualwebsiteoptimizer.com') ||
 shExpMatch(host, '*.cloudflareinsights.com') ||
 shExpMatch(host, '*.cloudfsx.com') ||
 shExpMatch(host, '*.cloudiq.com') ||
@@ -9931,6 +9931,7 @@ shExpMatch(host, '*.kzupload.com') ||
 shExpMatch(host, '*.l-imgur.pl') ||
 shExpMatch(host, '*.l00t.farm') ||
 shExpMatch(host, '*.l1.britannica.com') ||
+shExpMatch(host, '*.l6b587txj1.com') ||
 shExpMatch(host, '*.la-spazzolino.com') ||
 shExpMatch(host, '*.la.land') ||
 shExpMatch(host, '*.la21jeju.or.kr') ||
@@ -19632,6 +19633,7 @@ shExpMatch(host, 'amo122.com') ||
 shExpMatch(host, 'amobee.com') ||
 shExpMatch(host, 'amoninst.com') ||
 shExpMatch(host, 'amoqixadomolir.blogspot.com') ||
+shExpMatch(host, 'ampleclick.com') ||
 shExpMatch(host, 'amplifiernetworks.com') ||
 shExpMatch(host, 'ampnode.host') ||
 shExpMatch(host, 'ampoul.com') ||
@@ -21616,7 +21618,6 @@ shExpMatch(host, 'closedcows.com') ||
 shExpMatch(host, 'cloud-photo.net') ||
 shExpMatch(host, 'cloud-skins.fun') ||
 shExpMatch(host, 'cloudcoins.biz') ||
-shExpMatch(host, 'cloudflare-dacdn.visualwebsiteoptimizer.com') ||
 shExpMatch(host, 'cloudflareinsights.com') ||
 shExpMatch(host, 'cloudfsx.com') ||
 shExpMatch(host, 'cloudiq.com') ||
@@ -27650,6 +27651,7 @@ shExpMatch(host, 'kzupload.com') ||
 shExpMatch(host, 'l-imgur.pl') ||
 shExpMatch(host, 'l00t.farm') ||
 shExpMatch(host, 'l1.britannica.com') ||
+shExpMatch(host, 'l6b587txj1.com') ||
 shExpMatch(host, 'la-spazzolino.com') ||
 shExpMatch(host, 'la.land') ||
 shExpMatch(host, 'la21jeju.or.kr') ||
