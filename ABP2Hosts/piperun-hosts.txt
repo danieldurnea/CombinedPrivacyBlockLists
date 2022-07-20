@@ -1,4 +1,4 @@
-# Wed Jul 13 09:06:30 PM UTC 2022
+# Wed Jul 20 07:27:22 PM UTC 2022
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
