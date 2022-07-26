@@ -1,4 +1,4 @@
-// **** Wed Jul 20 07:31:15 PM UTC 2022
+// **** Tue Jul 26 05:14:09 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1003,7 +1003,6 @@ shExpMatch(host, '*.ads.fairfax.com.au') ||
 shExpMatch(host, '*.ads.fastcomgroup.it') ||
 shExpMatch(host, '*.ads.fasttrack-ignite.com') ||
 shExpMatch(host, '*.ads.faxo.com') ||
-shExpMatch(host, '*.ads.femmefab.nl') ||
 shExpMatch(host, '*.ads.ferianc.com') ||
 shExpMatch(host, '*.ads.filmup.com') ||
 shExpMatch(host, '*.ads.financialcontent.com') ||
@@ -1320,7 +1319,6 @@ shExpMatch(host, '*.ads180.com') ||
 shExpMatch(host, '*.ads2.brazzers.com') ||
 shExpMatch(host, '*.ads2.clearchannel.com') ||
 shExpMatch(host, '*.ads2.contentabc.com') ||
-shExpMatch(host, '*.ads2.femmefab.nl') ||
 shExpMatch(host, '*.ads2.gamecity.net') ||
 shExpMatch(host, '*.ads2.hsoub.com') ||
 shExpMatch(host, '*.ads2.jubii.dk') ||
@@ -1514,7 +1512,6 @@ shExpMatch(host, '*.adsrv.kobi.tv') ||
 shExpMatch(host, '*.adsrv.moebelmarkt.tv') ||
 shExpMatch(host, '*.adsrv2.swidnica24.pl') ||
 shExpMatch(host, '*.adsrvr.org') ||
-shExpMatch(host, '*.adsrvus.com') ||
 shExpMatch(host, '*.adsstat.com') ||
 shExpMatch(host, '*.adstacks.in') ||
 shExpMatch(host, '*.adstage.io') ||
@@ -3828,6 +3825,7 @@ shExpMatch(host, '*.click.hookupinyourcity.com') ||
 shExpMatch(host, '*.click.hooligapps.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
+shExpMatch(host, '*.click.news.vans.com') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
 shExpMatch(host, '*.click2freemoney.com') ||
 shExpMatch(host, '*.click2paid.com') ||
@@ -12036,7 +12034,6 @@ shExpMatch(host, '*.overvid.com') ||
 shExpMatch(host, '*.ovicase.com') ||
 shExpMatch(host, '*.ovquqaip.ru') ||
 shExpMatch(host, '*.ovrmxaqfashion.xyz') ||
-shExpMatch(host, '*.owebanalytics.com') ||
 shExpMatch(host, '*.owebmoney.ru') ||
 shExpMatch(host, '*.owhacks.com') ||
 shExpMatch(host, '*.owlplayz.com') ||
@@ -17598,6 +17595,7 @@ shExpMatch(host, '*.zanox-affiliate.de') ||
 shExpMatch(host, '*.zanox.com') ||
 shExpMatch(host, '*.zans.onecinema.us') ||
 shExpMatch(host, '*.zantracker.com') ||
+shExpMatch(host, '*.zarget.com') ||
 shExpMatch(host, '*.zbuilder-bim.com') ||
 shExpMatch(host, '*.zbwp6ghm.com') ||
 shExpMatch(host, '*.zcztois.sellclassics.com') ||
@@ -18723,7 +18721,6 @@ shExpMatch(host, 'ads.fairfax.com.au') ||
 shExpMatch(host, 'ads.fastcomgroup.it') ||
 shExpMatch(host, 'ads.fasttrack-ignite.com') ||
 shExpMatch(host, 'ads.faxo.com') ||
-shExpMatch(host, 'ads.femmefab.nl') ||
 shExpMatch(host, 'ads.ferianc.com') ||
 shExpMatch(host, 'ads.filmup.com') ||
 shExpMatch(host, 'ads.financialcontent.com') ||
@@ -19040,7 +19037,6 @@ shExpMatch(host, 'ads180.com') ||
 shExpMatch(host, 'ads2.brazzers.com') ||
 shExpMatch(host, 'ads2.clearchannel.com') ||
 shExpMatch(host, 'ads2.contentabc.com') ||
-shExpMatch(host, 'ads2.femmefab.nl') ||
 shExpMatch(host, 'ads2.gamecity.net') ||
 shExpMatch(host, 'ads2.hsoub.com') ||
 shExpMatch(host, 'ads2.jubii.dk') ||
@@ -19234,7 +19230,6 @@ shExpMatch(host, 'adsrv.kobi.tv') ||
 shExpMatch(host, 'adsrv.moebelmarkt.tv') ||
 shExpMatch(host, 'adsrv2.swidnica24.pl') ||
 shExpMatch(host, 'adsrvr.org') ||
-shExpMatch(host, 'adsrvus.com') ||
 shExpMatch(host, 'adsstat.com') ||
 shExpMatch(host, 'adstacks.in') ||
 shExpMatch(host, 'adstage.io') ||
@@ -21548,6 +21543,7 @@ shExpMatch(host, 'click.hookupinyourcity.com') ||
 shExpMatch(host, 'click.hooligapps.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
+shExpMatch(host, 'click.news.vans.com') ||
 shExpMatch(host, 'click.twcwigs.com') ||
 shExpMatch(host, 'click2freemoney.com') ||
 shExpMatch(host, 'click2paid.com') ||
@@ -29756,7 +29752,6 @@ shExpMatch(host, 'overvid.com') ||
 shExpMatch(host, 'ovicase.com') ||
 shExpMatch(host, 'ovquqaip.ru') ||
 shExpMatch(host, 'ovrmxaqfashion.xyz') ||
-shExpMatch(host, 'owebanalytics.com') ||
 shExpMatch(host, 'owebmoney.ru') ||
 shExpMatch(host, 'owhacks.com') ||
 shExpMatch(host, 'owlplayz.com') ||
@@ -35318,6 +35313,7 @@ shExpMatch(host, 'zanox-affiliate.de') ||
 shExpMatch(host, 'zanox.com') ||
 shExpMatch(host, 'zans.onecinema.us') ||
 shExpMatch(host, 'zantracker.com') ||
+shExpMatch(host, 'zarget.com') ||
 shExpMatch(host, 'zbuilder-bim.com') ||
 shExpMatch(host, 'zbwp6ghm.com') ||
 shExpMatch(host, 'zcztois.sellclassics.com') ||
