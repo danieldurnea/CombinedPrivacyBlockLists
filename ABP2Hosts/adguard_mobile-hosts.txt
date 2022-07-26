@@ -1,4 +1,4 @@
-# Wed Jul 20 07:26:24 PM UTC 2022
+# Tue Jul 26 05:09:43 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -162,6 +162,7 @@
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
+0.0.0.0 a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adnium.com
@@ -945,6 +946,7 @@
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonclix.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 americanairlines.demdex.net
@@ -2498,6 +2500,7 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudapi.imrworldwide.com
+0.0.0.0 cloudconf.fengkongcloud.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 cloudservice24.kingsoft-office-service.com
@@ -6636,6 +6639,7 @@
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.eu.criteo.net
+0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.foresee.com
 0.0.0.0 static.gammaplatform.com
 0.0.0.0 static.getclicky.com
@@ -7188,6 +7192,7 @@
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.engageclick.com
+0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.fyber.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.mtrtb.com
