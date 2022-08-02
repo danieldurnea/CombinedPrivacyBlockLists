@@ -1,4 +1,4 @@
-# Tue Jul 26 05:09:43 PM UTC 2022
+# Tue Aug  2 05:58:08 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -338,6 +338,7 @@
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.turn.com.akadns.net
@@ -945,6 +946,7 @@
 0.0.0.0 am15.net
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
+0.0.0.0 amanad.adtdp.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazonclix.com
 0.0.0.0 amdc.m.taobao.com
@@ -4433,6 +4435,7 @@
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
+0.0.0.0 log-v4-insight.kaizenplatform.net
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.adplex.co.kr
@@ -4457,6 +4460,7 @@
 0.0.0.0 log.geetest.com
 0.0.0.0 log.go.com
 0.0.0.0 log.go2s.co
+0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
@@ -4478,6 +4482,7 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.particlenews.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.pngindir.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sina.cn
@@ -4493,8 +4498,11 @@
 0.0.0.0 log.umtrack.com
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 log.yougameover.com
+0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
+0.0.0.0 log1.happymod.com
 0.0.0.0 log4x.nixcdn.com
+0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
@@ -7197,6 +7205,7 @@
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
