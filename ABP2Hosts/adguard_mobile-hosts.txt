@@ -1,4 +1,4 @@
-# Tue Aug  2 06:07:14 PM UTC 2022
+# Wed Aug  3 07:46:57 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -840,6 +840,7 @@
 0.0.0.0 adwods.com
 0.0.0.0 adx-asia-imp.aarki.net
 0.0.0.0 adx-asia.aarki.net
+0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-exchange.toast.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 adx-west-imp.aarki.net
@@ -6436,7 +6437,6 @@
 0.0.0.0 smarttag.rubiconproject.com
 0.0.0.0 smarttds.ru
 0.0.0.0 smetrics.aa.com
-0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.att.com.edgekey.net
 0.0.0.0 smetrics.bestbuy.com
@@ -7030,7 +7030,6 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetries.jeeng.com
-0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.navigatorapp.net
