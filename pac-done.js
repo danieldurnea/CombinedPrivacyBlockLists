@@ -1,4 +1,4 @@
-// **** Wed Aug  3 07:51:50 PM UTC 2022
+// **** Wed Aug 10 03:02:44 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1180,7 +1180,6 @@ shExpMatch(host, '*.ads.praguetv.cz') ||
 shExpMatch(host, '*.ads.primissima.it') ||
 shExpMatch(host, '*.ads.printscr.com') ||
 shExpMatch(host, '*.ads.prisacom.com') ||
-shExpMatch(host, '*.ads.privatemedia.co') ||
 shExpMatch(host, '*.ads.program3.com') ||
 shExpMatch(host, '*.ads.psd2html.com') ||
 shExpMatch(host, '*.ads.pushplay.com') ||
@@ -4140,7 +4139,6 @@ shExpMatch(host, '*.coremetrics.com') ||
 shExpMatch(host, '*.coremproperties.com') ||
 shExpMatch(host, '*.coretalk.co') ||
 shExpMatch(host, '*.cori.pw') ||
-shExpMatch(host, '*.cormast.com') ||
 shExpMatch(host, '*.corona2.eu') ||
 shExpMatch(host, '*.corpadsinc.com') ||
 shExpMatch(host, '*.corporategroup.co.uk') ||
@@ -10584,7 +10582,6 @@ shExpMatch(host, '*.mathskins.com') ||
 shExpMatch(host, '*.mathtag.com') ||
 shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomo.crossiety.app') ||
-shExpMatch(host, '*.matomo.gals24.ru') ||
 shExpMatch(host, '*.matomo.hdweb.ru') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matrics.ro') ||
@@ -12394,6 +12391,7 @@ shExpMatch(host, '*.pix.spot.im') ||
 shExpMatch(host, '*.pix360.co.nf') ||
 shExpMatch(host, '*.pixcheats.com') ||
 shExpMatch(host, '*.pixel.adsafeprotected.com') ||
+shExpMatch(host, '*.pixel.app.returnpath.net') ||
 shExpMatch(host, '*.pixel.condenastdigital.com') ||
 shExpMatch(host, '*.pixel.digitru.st') ||
 shExpMatch(host, '*.pixel.jumptap.com') ||
@@ -13582,7 +13580,6 @@ shExpMatch(host, '*.s268400504.onlinehome.us') ||
 shExpMatch(host, '*.s2d6.com') ||
 shExpMatch(host, '*.s4gvhd35.ru') ||
 shExpMatch(host, '*.sa-m.com') ||
-shExpMatch(host, '*.sa.api.intl.miui.com') ||
 shExpMatch(host, '*.saadilent.ir') ||
 shExpMatch(host, '*.saarcop.net') ||
 shExpMatch(host, '*.sabafon.info') ||
@@ -18902,7 +18899,6 @@ shExpMatch(host, 'ads.praguetv.cz') ||
 shExpMatch(host, 'ads.primissima.it') ||
 shExpMatch(host, 'ads.printscr.com') ||
 shExpMatch(host, 'ads.prisacom.com') ||
-shExpMatch(host, 'ads.privatemedia.co') ||
 shExpMatch(host, 'ads.program3.com') ||
 shExpMatch(host, 'ads.psd2html.com') ||
 shExpMatch(host, 'ads.pushplay.com') ||
@@ -21862,7 +21858,6 @@ shExpMatch(host, 'coremetrics.com') ||
 shExpMatch(host, 'coremproperties.com') ||
 shExpMatch(host, 'coretalk.co') ||
 shExpMatch(host, 'cori.pw') ||
-shExpMatch(host, 'cormast.com') ||
 shExpMatch(host, 'corona2.eu') ||
 shExpMatch(host, 'corpadsinc.com') ||
 shExpMatch(host, 'corporategroup.co.uk') ||
@@ -28306,7 +28301,6 @@ shExpMatch(host, 'mathskins.com') ||
 shExpMatch(host, 'mathtag.com') ||
 shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomo.crossiety.app') ||
-shExpMatch(host, 'matomo.gals24.ru') ||
 shExpMatch(host, 'matomo.hdweb.ru') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matrics.ro') ||
@@ -30116,6 +30110,7 @@ shExpMatch(host, 'pix.spot.im') ||
 shExpMatch(host, 'pix360.co.nf') ||
 shExpMatch(host, 'pixcheats.com') ||
 shExpMatch(host, 'pixel.adsafeprotected.com') ||
+shExpMatch(host, 'pixel.app.returnpath.net') ||
 shExpMatch(host, 'pixel.condenastdigital.com') ||
 shExpMatch(host, 'pixel.digitru.st') ||
 shExpMatch(host, 'pixel.jumptap.com') ||
@@ -31304,7 +31299,6 @@ shExpMatch(host, 's268400504.onlinehome.us') ||
 shExpMatch(host, 's2d6.com') ||
 shExpMatch(host, 's4gvhd35.ru') ||
 shExpMatch(host, 'sa-m.com') ||
-shExpMatch(host, 'sa.api.intl.miui.com') ||
 shExpMatch(host, 'saadilent.ir') ||
 shExpMatch(host, 'saarcop.net') ||
 shExpMatch(host, 'sabafon.info') ||
