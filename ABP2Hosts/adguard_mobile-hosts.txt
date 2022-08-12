@@ -1,4 +1,4 @@
-# Wed Aug 10 02:57:21 PM UTC 2022
+# Fri Aug 12 02:25:17 AM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -515,6 +515,7 @@
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -4526,6 +4527,7 @@
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.supersonic.com
+0.0.0.0 logs1407.xiti.com
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logsink.zedge.net

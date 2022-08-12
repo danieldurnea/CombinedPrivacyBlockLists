@@ -1,4 +1,4 @@
-# Wed Aug 10 02:57:40 PM UTC 2022
+# Fri Aug 12 02:25:39 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.oldgyhogola.com
@@ -1167,6 +1167,7 @@
 0.0.0.0 4gustis.xyz
 0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4htixb.cn
+0.0.0.0 4jfggh.com
 0.0.0.0 4kddyfd.cn
 0.0.0.0 4kfv18.cn
 0.0.0.0 4kmovies.online
@@ -1427,6 +1428,8 @@
 0.0.0.0 666749.xyz
 0.0.0.0 666752.xyz
 0.0.0.0 666753.xyz
+0.0.0.0 666754.xyz
+0.0.0.0 666755.xyz
 0.0.0.0 6667778882021.site
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
@@ -4926,7 +4929,6 @@
 0.0.0.0 airconditiondescendent.com
 0.0.0.0 aircraftmighty.com
 0.0.0.0 airdropemboil.com
-0.0.0.0 airlinemeals.net
 0.0.0.0 airpush.com
 0.0.0.0 airrrxggfafnbl.xyz
 0.0.0.0 airsaurd.com
@@ -7321,6 +7323,7 @@
 0.0.0.0 bbnfcfrvjs.com
 0.0.0.0 bbs.kiiqnnx.cn
 0.0.0.0 bbsg.club
+0.0.0.0 bbt114.cn
 0.0.0.0 bbttkk.com
 0.0.0.0 bbuni.com
 0.0.0.0 bbuyfk.marinador.com
@@ -8752,6 +8755,7 @@
 0.0.0.0 c5b8d9d52f.com
 0.0.0.0 c5m.codegurutech.com
 0.0.0.0 c6.friok.com
+0.0.0.0 c60china.com
 0.0.0.0 c63d72a4022.com
 0.0.0.0 c7e4d34b2afc3.com
 0.0.0.0 c8141c728b.com
@@ -9116,6 +9120,7 @@
 0.0.0.0 cckoza.cn
 0.0.0.0 ccksdwtuzmadx.com
 0.0.0.0 cclnuzn.cn
+0.0.0.0 cclw.xyz
 0.0.0.0 ccma.hb-api.omtrdc.net
 0.0.0.0 ccma.hb.omtrdc.net
 0.0.0.0 ccmd.coveredca.com
@@ -19305,6 +19310,7 @@
 0.0.0.0 ihqcndm.cn
 0.0.0.0 ihtqqws.cn
 0.0.0.0 ihvdflxjtdsgnqb.xyz
+0.0.0.0 ihvwak.cn
 0.0.0.0 ii1.chajiaotong.com
 0.0.0.0 iia1.pikacn.com
 0.0.0.0 iiajtl.zeit.de
@@ -19973,6 +19979,7 @@
 0.0.0.0 ioomb.cn
 0.0.0.0 iople.com
 0.0.0.0 ioredi.com
+0.0.0.0 iorlsblj.cyou
 0.0.0.0 ios.426g.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 ioxiyaff.xyz
@@ -21233,6 +21240,8 @@
 0.0.0.0 keeptaza.com
 0.0.0.0 keeyekey.xyz
 0.0.0.0 keezoupe.net
+0.0.0.0 kefu3254.cn
+0.0.0.0 kefuxt2022.cn
 0.0.0.0 kegfkm.cloud-managed-networking.com
 0.0.0.0 kegsandremembrance.com
 0.0.0.0 kehalim.com
@@ -21431,6 +21440,7 @@
 0.0.0.0 kjlbxpxu.top
 0.0.0.0 kjldh.top
 0.0.0.0 kjmx.shop
+0.0.0.0 kjshenghuo.com
 0.0.0.0 kjtwpeqalrww.com
 0.0.0.0 kju369.cn
 0.0.0.0 kjwx8.com
@@ -21626,6 +21636,7 @@
 0.0.0.0 kronosspell.com
 0.0.0.0 kropka.onet.pl
 0.0.0.0 krum.vsct.fr
+0.0.0.0 krurkex.com
 0.0.0.0 krxd.net
 0.0.0.0 ks.walkq.com
 0.0.0.0 ks42zt.spec.fm
@@ -22005,6 +22016,7 @@
 0.0.0.0 lcentntel.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lcloc.com
+0.0.0.0 lcmnyfk.cn
 0.0.0.0 lcs.loginfra.com
 0.0.0.0 lcs.modoo.at
 0.0.0.0 lcs.naver.com
@@ -22217,7 +22229,6 @@
 0.0.0.0 library.westernstatescat.com
 0.0.0.0 librateam.net
 0.0.0.0 librato-collector.genius.com
-0.0.0.0 librogratis.info
 0.0.0.0 libs.tvmao.cn
 0.0.0.0 licantrum.com
 0.0.0.0 licencerings.com
@@ -22307,6 +22318,7 @@
 0.0.0.0 lingamretene.com
 0.0.0.0 lingerstored.com
 0.0.0.0 linghangshouji.com
+0.0.0.0 lingke02.xyz
 0.0.0.0 lingke03.top
 0.0.0.0 lingke05.top
 0.0.0.0 linglingccc.xyz
@@ -22742,6 +22754,7 @@
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.unchecky.com
 0.0.0.0 logs1257.at.pagesjaunes.fr
+0.0.0.0 logs1407.xiti.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -22872,6 +22885,7 @@
 0.0.0.0 lppwnue.cn
 0.0.0.0 lps.qantas.com
 0.0.0.0 lpsgc.cn
+0.0.0.0 lptssbs.cn
 0.0.0.0 lpuhcdnyejf.com
 0.0.0.0 lpw80d.online
 0.0.0.0 lpwx.xyz
@@ -27426,6 +27440,7 @@
 0.0.0.0 ooq5z.com
 0.0.0.0 ooredi.com
 0.0.0.0 oorierenegue.com
+0.0.0.0 oorlsblk.cyou
 0.0.0.0 oorunsey.com
 0.0.0.0 ooscaaming.com
 0.0.0.0 oossod.potterybarn.ae
@@ -27681,6 +27696,7 @@
 0.0.0.0 outabsola.com
 0.0.0.0 outbalancecementnegotiation.com
 0.0.0.0 outbarwonna.casa
+0.0.0.0 outbidashes.com
 0.0.0.0 outblowtewhit.com
 0.0.0.0 outelectrodean.com
 0.0.0.0 outgateniceish.com
@@ -29252,6 +29268,7 @@
 0.0.0.0 porcupine.dvresolve.com
 0.0.0.0 poredii.com
 0.0.0.0 porlandzor.com
+0.0.0.0 porlsbll.cyou
 0.0.0.0 pornhyip.com
 0.0.0.0 pornlemon.com
 0.0.0.0 pornoh.info
@@ -31000,6 +31017,7 @@
 0.0.0.0 renaissanto.com
 0.0.0.0 rencai56.com
 0.0.0.0 renderscreech.com
+0.0.0.0 renfs.xyz
 0.0.0.0 rengbali.fun
 0.0.0.0 renormaliseras.xyz
 0.0.0.0 rensovetors.info
@@ -31735,6 +31753,7 @@
 0.0.0.0 ruxianke.com
 0.0.0.0 ruytvzdcavjsjh.com
 0.0.0.0 rva.outbrain.com
+0.0.0.0 rvbztg.cn
 0.0.0.0 rvdnyq.topito.com
 0.0.0.0 rverxn.autosphere.fr
 0.0.0.0 rvfmqsiyevgao.com
@@ -36353,6 +36372,7 @@
 0.0.0.0 stat.ipsoa.it
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.kununu.cz
+0.0.0.0 stat.kwikmotion.com
 0.0.0.0 stat.landingpro.pl
 0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.m.360.cn
@@ -40879,6 +40899,7 @@
 0.0.0.0 uongsona.uno
 0.0.0.0 uongsono.uno
 0.0.0.0 uopmcdnpad.com
+0.0.0.0 uorlsblg.cyou
 0.0.0.0 uoyrsd.com
 0.0.0.0 uozrikpw.com
 0.0.0.0 up.hiao.com
@@ -42809,6 +42830,7 @@
 0.0.0.0 worldspromising.com
 0.0.0.0 worldtraffic.trade
 0.0.0.0 worldwidemailer.com
+0.0.0.0 worlsbld.cyou
 0.0.0.0 worm.paulstamatiou.com
 0.0.0.0 wormishammites.com
 0.0.0.0 worriesceaslessceaslessentreat.com
@@ -43130,6 +43152,7 @@
 0.0.0.0 wxwkgxnemw.xyz
 0.0.0.0 wxyn0o3xmora.com
 0.0.0.0 wy123.fun
+0.0.0.0 wy520.love
 0.0.0.0 wydong.top
 0.0.0.0 wydoxlhdsojndw.com
 0.0.0.0 wydpbibdqwvbr.com
@@ -43538,6 +43561,7 @@
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--u1aaw.xn--p1ai
+0.0.0.0 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0 xn--xkry73b.online
 0.0.0.0 xnbwsp.c-and-a.com
 0.0.0.0 xndcnnkygvd.com
@@ -43831,6 +43855,7 @@
 0.0.0.0 yanjunbo.com
 0.0.0.0 yanko.cc
 0.0.0.0 yanliang.vip
+0.0.0.0 yanping521.vip
 0.0.0.0 yantairuide.com
 0.0.0.0 yantrasbarges.com
 0.0.0.0 yanuvv.cn
@@ -44020,6 +44045,7 @@
 0.0.0.0 yigesi.top
 0.0.0.0 yihoo.biz
 0.0.0.0 yiiyo.top
+0.0.0.0 yijiachen.cn
 0.0.0.0 yijikm.com
 0.0.0.0 yijiuningyia.gushiwen.org
 0.0.0.0 yijuxie.com
@@ -44365,6 +44391,7 @@
 0.0.0.0 yumenetworks.com
 0.0.0.0 yumingdan.top
 0.0.0.0 yummycuisine.club
+0.0.0.0 yumnxwvd.ink
 0.0.0.0 yumu.pro
 0.0.0.0 yun-pdm2000.cn
 0.0.0.0 yun-pdm5000.cn
@@ -44494,7 +44521,6 @@
 0.0.0.0 yzmklm.com
 0.0.0.0 yznwyng.cn
 0.0.0.0 yzsbpp.top
-0.0.0.0 yzsjsjx.cn
 0.0.0.0 yzt001.com
 0.0.0.0 yzus09by.com
 0.0.0.0 yzygo.com
@@ -44756,6 +44782,7 @@
 0.0.0.0 zhoudm.love
 0.0.0.0 zhoumo.site
 0.0.0.0 zhouwutrip.cn
+0.0.0.0 zhouxingyu.xyz
 0.0.0.0 zhouyi.cool
 0.0.0.0 zhouziwang.cn
 0.0.0.0 zhpfl.cn
