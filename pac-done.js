@@ -1,4 +1,4 @@
-// **** Fri Aug 12 02:29:49 AM UTC 2022
+// **** Thu Aug 18 09:47:10 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -648,7 +648,6 @@ shExpMatch(host, '*.adcolony.com') ||
 shExpMatch(host, '*.adcomplete.com') ||
 shExpMatch(host, '*.adconion.com') ||
 shExpMatch(host, '*.adcontent.gamespy.com') ||
-shExpMatch(host, '*.adcontrolsolutions.net') ||
 shExpMatch(host, '*.adcycle.com') ||
 shExpMatch(host, '*.add.newmedia.cz') ||
 shExpMatch(host, '*.addash.co') ||
@@ -4145,7 +4144,6 @@ shExpMatch(host, '*.corpadsinc.com') ||
 shExpMatch(host, '*.corporategroup.co.uk') ||
 shExpMatch(host, '*.corporationmindjets.ru') ||
 shExpMatch(host, '*.correndo.se') ||
-shExpMatch(host, '*.cosmopolitads.com') ||
 shExpMatch(host, '*.cotelia.com') ||
 shExpMatch(host, '*.counnter.cn') ||
 shExpMatch(host, '*.count.ly') ||
@@ -5690,7 +5688,11 @@ shExpMatch(host, '*.elskins.com') ||
 shExpMatch(host, '*.em1.yoursantander.co.uk') ||
 shExpMatch(host, '*.email-clk.adguard.com') ||
 shExpMatch(host, '*.email-hack.com') ||
+shExpMatch(host, '*.email-link.adtidy.net') ||
+shExpMatch(host, '*.email-link.adtidy.org') ||
 shExpMatch(host, '*.email-links.crowdfireapp.com') ||
+shExpMatch(host, '*.email-open.adtidy.net') ||
+shExpMatch(host, '*.email-open.adtidy.org') ||
 shExpMatch(host, '*.email-opn.adguard.com') ||
 shExpMatch(host, '*.email.m1.bktrksmail.com') ||
 shExpMatch(host, '*.emaillinks.soundiiz.com') ||
@@ -11349,7 +11351,6 @@ shExpMatch(host, '*.myq-see.com') ||
 shExpMatch(host, '*.myredirect.us') ||
 shExpMatch(host, '*.myreff.com') ||
 shExpMatch(host, '*.myroitracking.com') ||
-shExpMatch(host, '*.mysafeads.com') ||
 shExpMatch(host, '*.myscreen.com') ||
 shExpMatch(host, '*.myshopmarketim.com') ||
 shExpMatch(host, '*.myshraidar.net') ||
@@ -11954,6 +11955,7 @@ shExpMatch(host, '*.openx.net') ||
 shExpMatch(host, '*.openx.skinet.cz') ||
 shExpMatch(host, '*.openx.smcaen.fr') ||
 shExpMatch(host, '*.openx2.kytary.cz') ||
+shExpMatch(host, '*.operationchicken.com') ||
 shExpMatch(host, '*.operationkettle.com') ||
 shExpMatch(host, '*.opercase.com') ||
 shExpMatch(host, '*.opexchange.com') ||
@@ -14502,6 +14504,7 @@ shExpMatch(host, '*.spaceleadster.com') ||
 shExpMatch(host, '*.spacemega.com') ||
 shExpMatch(host, '*.spacex.plus') ||
 shExpMatch(host, '*.spacexskins.fun') ||
+shExpMatch(host, '*.spadelocket.com') ||
 shExpMatch(host, '*.spam-egy.com') ||
 shExpMatch(host, '*.spamfoilingkiss.ru') ||
 shExpMatch(host, '*.spammer.ro') ||
@@ -14985,7 +14988,6 @@ shExpMatch(host, '*.superstats.com') ||
 shExpMatch(host, '*.supersupermall.ru') ||
 shExpMatch(host, '*.supertop.ru') ||
 shExpMatch(host, '*.supertop100.com') ||
-shExpMatch(host, '*.supertracking.net') ||
 shExpMatch(host, '*.supnim.com') ||
 shExpMatch(host, '*.supply.colossusssp.com') ||
 shExpMatch(host, '*.support--icloud.online') ||
@@ -15316,7 +15318,6 @@ shExpMatch(host, '*.thecarnells.com') ||
 shExpMatch(host, '*.thecheatplanet.com') ||
 shExpMatch(host, '*.theclanofhack.com') ||
 shExpMatch(host, '*.theclashroyale.com') ||
-shExpMatch(host, '*.theclickads.com') ||
 shExpMatch(host, '*.thecounter.com') ||
 shExpMatch(host, '*.thecrimebay.store') ||
 shExpMatch(host, '*.thecryptocurrencyconsultants.com') ||
@@ -18368,7 +18369,6 @@ shExpMatch(host, 'adcolony.com') ||
 shExpMatch(host, 'adcomplete.com') ||
 shExpMatch(host, 'adconion.com') ||
 shExpMatch(host, 'adcontent.gamespy.com') ||
-shExpMatch(host, 'adcontrolsolutions.net') ||
 shExpMatch(host, 'adcycle.com') ||
 shExpMatch(host, 'add.newmedia.cz') ||
 shExpMatch(host, 'addash.co') ||
@@ -21865,7 +21865,6 @@ shExpMatch(host, 'corpadsinc.com') ||
 shExpMatch(host, 'corporategroup.co.uk') ||
 shExpMatch(host, 'corporationmindjets.ru') ||
 shExpMatch(host, 'correndo.se') ||
-shExpMatch(host, 'cosmopolitads.com') ||
 shExpMatch(host, 'cotelia.com') ||
 shExpMatch(host, 'counnter.cn') ||
 shExpMatch(host, 'count.ly') ||
@@ -23410,7 +23409,11 @@ shExpMatch(host, 'elskins.com') ||
 shExpMatch(host, 'em1.yoursantander.co.uk') ||
 shExpMatch(host, 'email-clk.adguard.com') ||
 shExpMatch(host, 'email-hack.com') ||
+shExpMatch(host, 'email-link.adtidy.net') ||
+shExpMatch(host, 'email-link.adtidy.org') ||
 shExpMatch(host, 'email-links.crowdfireapp.com') ||
+shExpMatch(host, 'email-open.adtidy.net') ||
+shExpMatch(host, 'email-open.adtidy.org') ||
 shExpMatch(host, 'email-opn.adguard.com') ||
 shExpMatch(host, 'email.m1.bktrksmail.com') ||
 shExpMatch(host, 'emaillinks.soundiiz.com') ||
@@ -29069,7 +29072,6 @@ shExpMatch(host, 'myq-see.com') ||
 shExpMatch(host, 'myredirect.us') ||
 shExpMatch(host, 'myreff.com') ||
 shExpMatch(host, 'myroitracking.com') ||
-shExpMatch(host, 'mysafeads.com') ||
 shExpMatch(host, 'myscreen.com') ||
 shExpMatch(host, 'myshopmarketim.com') ||
 shExpMatch(host, 'myshraidar.net') ||
@@ -29674,6 +29676,7 @@ shExpMatch(host, 'openx.net') ||
 shExpMatch(host, 'openx.skinet.cz') ||
 shExpMatch(host, 'openx.smcaen.fr') ||
 shExpMatch(host, 'openx2.kytary.cz') ||
+shExpMatch(host, 'operationchicken.com') ||
 shExpMatch(host, 'operationkettle.com') ||
 shExpMatch(host, 'opercase.com') ||
 shExpMatch(host, 'opexchange.com') ||
@@ -32222,6 +32225,7 @@ shExpMatch(host, 'spaceleadster.com') ||
 shExpMatch(host, 'spacemega.com') ||
 shExpMatch(host, 'spacex.plus') ||
 shExpMatch(host, 'spacexskins.fun') ||
+shExpMatch(host, 'spadelocket.com') ||
 shExpMatch(host, 'spam-egy.com') ||
 shExpMatch(host, 'spamfoilingkiss.ru') ||
 shExpMatch(host, 'spammer.ro') ||
@@ -32705,7 +32709,6 @@ shExpMatch(host, 'superstats.com') ||
 shExpMatch(host, 'supersupermall.ru') ||
 shExpMatch(host, 'supertop.ru') ||
 shExpMatch(host, 'supertop100.com') ||
-shExpMatch(host, 'supertracking.net') ||
 shExpMatch(host, 'supnim.com') ||
 shExpMatch(host, 'supply.colossusssp.com') ||
 shExpMatch(host, 'support--icloud.online') ||
@@ -33036,7 +33039,6 @@ shExpMatch(host, 'thecarnells.com') ||
 shExpMatch(host, 'thecheatplanet.com') ||
 shExpMatch(host, 'theclanofhack.com') ||
 shExpMatch(host, 'theclashroyale.com') ||
-shExpMatch(host, 'theclickads.com') ||
 shExpMatch(host, 'thecounter.com') ||
 shExpMatch(host, 'thecrimebay.store') ||
 shExpMatch(host, 'thecryptocurrencyconsultants.com') ||
