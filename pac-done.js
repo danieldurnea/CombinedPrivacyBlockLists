@@ -1,4 +1,4 @@
-// **** Thu Aug 18 09:47:10 PM UTC 2022
+// **** Thu Aug 25 09:00:51 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3144,7 +3144,6 @@ shExpMatch(host, '*.btc247.xyz') ||
 shExpMatch(host, '*.btc360.xyz') ||
 shExpMatch(host, '*.btcgen.info') ||
 shExpMatch(host, '*.btcxadder.com') ||
-shExpMatch(host, '*.btez8.xyz') ||
 shExpMatch(host, '*.bthacks.us') ||
 shExpMatch(host, '*.btrll.com') ||
 shExpMatch(host, '*.btt-ceo.com') ||
@@ -3858,6 +3857,7 @@ shExpMatch(host, '*.clickmate.io') ||
 shExpMatch(host, '*.clickmedia.ro') ||
 shExpMatch(host, '*.clickmeter.ru') ||
 shExpMatch(host, '*.clickonometrics.pl') ||
+shExpMatch(host, '*.clicks.deliveroo.co.uk') ||
 shExpMatch(host, '*.clicks.equantum.com') ||
 shExpMatch(host, '*.clicks.mods.de') ||
 shExpMatch(host, '*.clickserve.cc-dt.com') ||
@@ -13837,7 +13837,6 @@ shExpMatch(host, '*.seriouscheating.com') ||
 shExpMatch(host, '*.sernoodmovies.com') ||
 shExpMatch(host, '*.serv0.com') ||
 shExpMatch(host, '*.servads.net') ||
-shExpMatch(host, '*.servadsdisrupt.com') ||
 shExpMatch(host, '*.serve.tercept.com') ||
 shExpMatch(host, '*.servedby-buysellads.com') ||
 shExpMatch(host, '*.servedbyadbutler.com') ||
@@ -16751,7 +16750,6 @@ shExpMatch(host, '*.whirlwealth.com') ||
 shExpMatch(host, '*.whiskyqueue.com') ||
 shExpMatch(host, '*.whispa.com') ||
 shExpMatch(host, '*.whisperingcrib.com') ||
-shExpMatch(host, '*.whisperingflesh.com') ||
 shExpMatch(host, '*.whitecada.ru') ||
 shExpMatch(host, '*.whitehorse-sandway.co.uk') ||
 shExpMatch(host, '*.whiterex-csgo.com') ||
@@ -20865,7 +20863,6 @@ shExpMatch(host, 'btc247.xyz') ||
 shExpMatch(host, 'btc360.xyz') ||
 shExpMatch(host, 'btcgen.info') ||
 shExpMatch(host, 'btcxadder.com') ||
-shExpMatch(host, 'btez8.xyz') ||
 shExpMatch(host, 'bthacks.us') ||
 shExpMatch(host, 'btrll.com') ||
 shExpMatch(host, 'btt-ceo.com') ||
@@ -21579,6 +21576,7 @@ shExpMatch(host, 'clickmate.io') ||
 shExpMatch(host, 'clickmedia.ro') ||
 shExpMatch(host, 'clickmeter.ru') ||
 shExpMatch(host, 'clickonometrics.pl') ||
+shExpMatch(host, 'clicks.deliveroo.co.uk') ||
 shExpMatch(host, 'clicks.equantum.com') ||
 shExpMatch(host, 'clicks.mods.de') ||
 shExpMatch(host, 'clickserve.cc-dt.com') ||
@@ -31558,7 +31556,6 @@ shExpMatch(host, 'seriouscheating.com') ||
 shExpMatch(host, 'sernoodmovies.com') ||
 shExpMatch(host, 'serv0.com') ||
 shExpMatch(host, 'servads.net') ||
-shExpMatch(host, 'servadsdisrupt.com') ||
 shExpMatch(host, 'serve.tercept.com') ||
 shExpMatch(host, 'servedby-buysellads.com') ||
 shExpMatch(host, 'servedbyadbutler.com') ||
@@ -34472,7 +34469,6 @@ shExpMatch(host, 'whirlwealth.com') ||
 shExpMatch(host, 'whiskyqueue.com') ||
 shExpMatch(host, 'whispa.com') ||
 shExpMatch(host, 'whisperingcrib.com') ||
-shExpMatch(host, 'whisperingflesh.com') ||
 shExpMatch(host, 'whitecada.ru') ||
 shExpMatch(host, 'whitehorse-sandway.co.uk') ||
 shExpMatch(host, 'whiterex-csgo.com') ||
