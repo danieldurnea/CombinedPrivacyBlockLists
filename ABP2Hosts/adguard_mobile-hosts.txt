@@ -1,4 +1,4 @@
-# Thu Aug 25 08:56:23 PM UTC 2022
+# Fri Sep  2 04:57:05 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2743,7 +2743,6 @@
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
-0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
@@ -4601,7 +4600,6 @@
 0.0.0.0 log.appbundledownload.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
-0.0.0.0 log.byteoversea.com
 0.0.0.0 log.down61.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
@@ -5816,7 +5814,6 @@
 0.0.0.0 pushpin.pinsightmedia.com
 0.0.0.0 pushwoosh.g5e.com
 0.0.0.0 pw.analytics.console.aws.a2z.com
-0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
