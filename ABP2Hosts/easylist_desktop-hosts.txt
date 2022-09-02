@@ -1,4 +1,4 @@
-# Fri Sep  2 04:57:53 PM UTC 2022
+# Fri Sep  2 05:53:16 PM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 000123456789.online

@@ -1,4 +1,4 @@
-# Fri Sep  2 04:57:31 PM UTC 2022
+# Fri Sep  2 05:52:49 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -1531,6 +1531,7 @@
 0.0.0.0 666782.xyz
 0.0.0.0 666783.xyz
 0.0.0.0 666784.xyz
+0.0.0.0 666788.xyz
 0.0.0.0 6669667.com
 0.0.0.0 666video.asia
 0.0.0.0 66996.top
