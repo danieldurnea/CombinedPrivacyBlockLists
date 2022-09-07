@@ -1,4 +1,4 @@
-// **** Fri Sep  2 05:58:22 PM UTC 2022
+// **** Wed Sep  7 02:47:01 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -9349,7 +9349,6 @@ shExpMatch(host, '*.intelliads.com') ||
 shExpMatch(host, '*.intelliduct.com') ||
 shExpMatch(host, '*.intelligenceadx.com') ||
 shExpMatch(host, '*.intellitxt.com') ||
-shExpMatch(host, '*.intentsify.io') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
 shExpMatch(host, '*.interactivearea.ru') ||
@@ -15684,6 +15683,7 @@ shExpMatch(host, '*.tracking.exipure.com') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.hyros.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
+shExpMatch(host, '*.tracking.intentsify.io') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.jiffyworld.com') ||
@@ -27103,7 +27103,6 @@ shExpMatch(host, 'intelliads.com') ||
 shExpMatch(host, 'intelliduct.com') ||
 shExpMatch(host, 'intelligenceadx.com') ||
 shExpMatch(host, 'intellitxt.com') ||
-shExpMatch(host, 'intentsify.io') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
 shExpMatch(host, 'interactivearea.ru') ||
@@ -33438,6 +33437,7 @@ shExpMatch(host, 'tracking.exipure.com') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.hyros.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
+shExpMatch(host, 'tracking.intentsify.io') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.jiffyworld.com') ||
