@@ -1,4 +1,4 @@
-# Fri Sep  2 05:52:24 PM UTC 2022
+# Wed Sep  7 02:41:41 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3076,6 +3076,7 @@
 0.0.0.0 datplus.springserve.com
 0.0.0.0 dau.fyber.com
 0.0.0.0 daviik.iad-03.braze.com
+0.0.0.0 daxuetong.zone
 0.0.0.0 db.utag.ijinshan.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbg52463.moatads.com
@@ -5846,6 +5847,7 @@
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 qgss8.com
+0.0.0.0 qist.me
 0.0.0.0 qoisocrldvnesni.ru
 0.0.0.0 qps.cint.com
 0.0.0.0 qqrp.adj.st
@@ -6168,7 +6170,6 @@
 0.0.0.0 s2s.singular.net
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.lightboxcdn.com
 0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.ttpsdk.info
