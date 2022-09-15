@@ -6883,6 +6883,7 @@
 0.0.0.0 area51-ts.com
 0.0.0.0 aresgalaxy.es
 0.0.0.0 aretywer.xyz
+0.0.0.0 areyoulivingwell.com
 0.0.0.0 argyresthia.com
 0.0.0.0 ariba.112.2o7.net
 0.0.0.0 ariesbee.com
@@ -8097,6 +8098,7 @@
 0.0.0.0 bravebone.com
 0.0.0.0 braverymob.fusetracking.com
 0.0.0.0 brazauskas.info
+0.0.0.0 breakdownlanemovie.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 breakthroughtrend.com
 0.0.0.0 breda.vanhiele.nl
@@ -9783,6 +9785,7 @@
 0.0.0.0 corpcougar.com
 0.0.0.0 corpcougar.in
 0.0.0.0 corpext-datamart.net
+0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpusstimuli.site
 0.0.0.0 correctchaos.com
 0.0.0.0 corscania.com
@@ -14374,6 +14377,7 @@
 0.0.0.0 individualkipitera24.site
 0.0.0.0 indo.autoads.asia
 0.0.0.0 indoleads.com
+0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indta.co.id
 0.0.0.0 industrybrains.com
@@ -17761,7 +17765,6 @@
 0.0.0.0 nemelyu871.info
 0.0.0.0 nemobux.ir
 0.0.0.0 nend.net
-0.0.0.0 nenlineasv.com
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 neoffic.com
 0.0.0.0 nep-west.advangelists.com
@@ -18696,7 +18699,6 @@
 0.0.0.0 oymmadencilik.com.tr
 0.0.0.0 oz-dn.org
 0.0.0.0 ozdmbn.no-ip.biz
-0.0.0.0 ozemag.com
 0.0.0.0 ozkaltd.com
 0.0.0.0 ozon.122.2o7.net
 0.0.0.0 ozonemedia.adbureau.net
@@ -20119,7 +20121,6 @@
 0.0.0.0 rc7.i2i.jp
 0.0.0.0 rc8.i2i.jp
 0.0.0.0 rc9.i2i.jp
-0.0.0.0 rccgthebrooks.org
 0.0.0.0 rcci.122.2o7.net
 0.0.0.0 rclog.rcplatformhk.com
 0.0.0.0 rcm-eu.amazon-adsystem.com
@@ -20901,6 +20902,7 @@
 0.0.0.0 sailcoalition.org
 0.0.0.0 sailsuit.com
 0.0.0.0 saintjosemariaschool.edu.pe
+0.0.0.0 sainzim.co.za
 0.0.0.0 sak.userreport.com
 0.0.0.0 saksfifthavenue.122.2o7.net
 0.0.0.0 sakuraset.top
@@ -21527,6 +21529,7 @@
 0.0.0.0 sh4sure-images.adbureau.net
 0.0.0.0 shadyclient.net
 0.0.0.0 shahidmosalsalat.co
+0.0.0.0 shahikhana.cstdevs.com
 0.0.0.0 shahkara.com.tr
 0.0.0.0 shahu66.com
 0.0.0.0 shakesea.com
@@ -27082,6 +27085,7 @@
 0.0.0.0 www.rihoworld.com
 0.0.0.0 www.ristorante53.it
 0.0.0.0 www.ristorantebiri.it
+0.0.0.0 www.roofing.galacticleads.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.rss141.com
 0.0.0.0 www.sackmeister.de
