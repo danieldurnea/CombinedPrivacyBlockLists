@@ -1,4 +1,4 @@
-// **** Wed Sep  7 02:47:01 PM UTC 2022
+// **** Thu Sep 15 07:01:29 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1689,6 +1689,7 @@ shExpMatch(host, '*.afftracking.justanswer.com') ||
 shExpMatch(host, '*.afjdoospf.ru') ||
 shExpMatch(host, '*.afonya123.com') ||
 shExpMatch(host, '*.afp.gov.au.id312666359-9036410720.w595505.com') ||
+shExpMatch(host, '*.afraidlanguage.com') ||
 shExpMatch(host, '*.afreenetflixaccount.com') ||
 shExpMatch(host, '*.afriji.com') ||
 shExpMatch(host, '*.afsvalencia.es') ||
@@ -2267,6 +2268,7 @@ shExpMatch(host, '*.atomicwalletweb.com') ||
 shExpMatch(host, '*.atshop.io') ||
 shExpMatch(host, '*.attackfile.com') ||
 shExpMatch(host, '*.atticdek.com') ||
+shExpMatch(host, '*.attractionbanana.com') ||
 shExpMatch(host, '*.attractiveafternoon.com') ||
 shExpMatch(host, '*.attractivevideos.com') ||
 shExpMatch(host, '*.attribution.report') ||
@@ -2834,7 +2836,6 @@ shExpMatch(host, '*.bio-v.ru') ||
 shExpMatch(host, '*.bioclinord.info') ||
 shExpMatch(host, '*.bioito.cn') ||
 shExpMatch(host, '*.bionaft.ru') ||
-shExpMatch(host, '*.biosda.com') ||
 shExpMatch(host, '*.bioshockinfinite.sharezips.info') ||
 shExpMatch(host, '*.biovoz.ru') ||
 shExpMatch(host, '*.bipowe.ru') ||
@@ -4149,6 +4150,7 @@ shExpMatch(host, '*.corpadsinc.com') ||
 shExpMatch(host, '*.corporategroup.co.uk') ||
 shExpMatch(host, '*.corporationmindjets.ru') ||
 shExpMatch(host, '*.correndo.se') ||
+shExpMatch(host, '*.cosmosjackson.com') ||
 shExpMatch(host, '*.cotelia.com') ||
 shExpMatch(host, '*.counnter.cn') ||
 shExpMatch(host, '*.count.ly') ||
@@ -10655,6 +10657,7 @@ shExpMatch(host, '*.mdownzone.com') ||
 shExpMatch(host, '*.me.3788.cn') ||
 shExpMatch(host, '*.measure.office.com') ||
 shExpMatch(host, '*.measuremap.com') ||
+shExpMatch(host, '*.meatydime.com') ||
 shExpMatch(host, '*.mebel.forlife.ru') ||
 shExpMatch(host, '*.mebel2010.ru') ||
 shExpMatch(host, '*.mebelest.ru') ||
@@ -11258,6 +11261,7 @@ shExpMatch(host, '*.multiplayercharacterdlc.sharezips.net') ||
 shExpMatch(host, '*.multitelusa.net') ||
 shExpMatch(host, '*.mumukafes.net') ||
 shExpMatch(host, '*.munchkin.marketo.net') ||
+shExpMatch(host, '*.mundanenail.com') ||
 shExpMatch(host, '*.mundanepollution.com') ||
 shExpMatch(host, '*.mundo-vantagens.com') ||
 shExpMatch(host, '*.muplokos.ru') ||
@@ -19443,6 +19447,7 @@ shExpMatch(host, 'afftracking.justanswer.com') ||
 shExpMatch(host, 'afjdoospf.ru') ||
 shExpMatch(host, 'afonya123.com') ||
 shExpMatch(host, 'afp.gov.au.id312666359-9036410720.w595505.com') ||
+shExpMatch(host, 'afraidlanguage.com') ||
 shExpMatch(host, 'afreenetflixaccount.com') ||
 shExpMatch(host, 'afriji.com') ||
 shExpMatch(host, 'afsvalencia.es') ||
@@ -20021,6 +20026,7 @@ shExpMatch(host, 'atomicwalletweb.com') ||
 shExpMatch(host, 'atshop.io') ||
 shExpMatch(host, 'attackfile.com') ||
 shExpMatch(host, 'atticdek.com') ||
+shExpMatch(host, 'attractionbanana.com') ||
 shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attractivevideos.com') ||
 shExpMatch(host, 'attribution.report') ||
@@ -20588,7 +20594,6 @@ shExpMatch(host, 'bio-v.ru') ||
 shExpMatch(host, 'bioclinord.info') ||
 shExpMatch(host, 'bioito.cn') ||
 shExpMatch(host, 'bionaft.ru') ||
-shExpMatch(host, 'biosda.com') ||
 shExpMatch(host, 'bioshockinfinite.sharezips.info') ||
 shExpMatch(host, 'biovoz.ru') ||
 shExpMatch(host, 'bipowe.ru') ||
@@ -21903,6 +21908,7 @@ shExpMatch(host, 'corpadsinc.com') ||
 shExpMatch(host, 'corporategroup.co.uk') ||
 shExpMatch(host, 'corporationmindjets.ru') ||
 shExpMatch(host, 'correndo.se') ||
+shExpMatch(host, 'cosmosjackson.com') ||
 shExpMatch(host, 'cotelia.com') ||
 shExpMatch(host, 'counnter.cn') ||
 shExpMatch(host, 'count.ly') ||
@@ -28409,6 +28415,7 @@ shExpMatch(host, 'mdownzone.com') ||
 shExpMatch(host, 'me.3788.cn') ||
 shExpMatch(host, 'measure.office.com') ||
 shExpMatch(host, 'measuremap.com') ||
+shExpMatch(host, 'meatydime.com') ||
 shExpMatch(host, 'mebel.forlife.ru') ||
 shExpMatch(host, 'mebel2010.ru') ||
 shExpMatch(host, 'mebelest.ru') ||
@@ -29012,6 +29019,7 @@ shExpMatch(host, 'multiplayercharacterdlc.sharezips.net') ||
 shExpMatch(host, 'multitelusa.net') ||
 shExpMatch(host, 'mumukafes.net') ||
 shExpMatch(host, 'munchkin.marketo.net') ||
+shExpMatch(host, 'mundanenail.com') ||
 shExpMatch(host, 'mundanepollution.com') ||
 shExpMatch(host, 'mundo-vantagens.com') ||
 shExpMatch(host, 'muplokos.ru') ||
