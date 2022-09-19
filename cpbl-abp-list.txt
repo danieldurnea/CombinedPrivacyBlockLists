@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Sep 15 07:19:10 PM UTC 2022
+! Updated: Mon Sep 19 06:14:02 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -97251,6 +97251,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ###ad-container
+###ads_bottom
+###ads_top
 ###banner-300x600-area
 ###banner-728x90-area
 ###player-ads
@@ -97258,7 +97260,11 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ###story-ad-2-wrapper
 ###story-ad-3-wrapper
 ###story-ad-wrapper
+##.adBanner
+##.adContent
+##.adSense
 ##.ad-container
+##.ad-text
 ##.ad-unit
 ##.ad-zone
 ##.ad-zone-container
