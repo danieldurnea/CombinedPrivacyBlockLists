@@ -1,4 +1,4 @@
-// **** Thu Sep 15 07:10:48 PM UTC 2022
+// **** Thu Sep 22 08:28:25 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3404,6 +3404,7 @@ shExpMatch(host, '*.catsnthings.fun') ||
 shExpMatch(host, '*.cattww.com') ||
 shExpMatch(host, '*.caturismo.com.ar') ||
 shExpMatch(host, '*.causecherry.com') ||
+shExpMatch(host, '*.cautiouscredit.com') ||
 shExpMatch(host, '*.cavaliersales.com') ||
 shExpMatch(host, '*.caxega.ru') ||
 shExpMatch(host, '*.caymanlandsales.com') ||
@@ -11586,7 +11587,6 @@ shExpMatch(host, '*.newpsncodegenerator.org') ||
 shExpMatch(host, '*.news-cmps.cz.cc') ||
 shExpMatch(host, '*.news-report24.com') ||
 shExpMatch(host, '*.news-today.pw') ||
-shExpMatch(host, '*.newsadsppush.com') ||
 shExpMatch(host, '*.newsgeek.pl') ||
 shExpMatch(host, '*.newshared.com') ||
 shExpMatch(host, '*.newsletter-link.com') ||
@@ -15106,7 +15106,6 @@ shExpMatch(host, '*.t.firstpromoter.com') ||
 shExpMatch(host, '*.t.insigit.com') ||
 shExpMatch(host, '*.t.irtyd.com') ||
 shExpMatch(host, '*.t.leady.com') ||
-shExpMatch(host, '*.t.news.browns-restaurants.co.uk') ||
 shExpMatch(host, '*.t.notif-colissimo-laposte.info') ||
 shExpMatch(host, '*.t.pusk.ru') ||
 shExpMatch(host, '*.t.salesmatemail.com') ||
@@ -15351,6 +15350,7 @@ shExpMatch(host, '*.thecarnells.com') ||
 shExpMatch(host, '*.thecheatplanet.com') ||
 shExpMatch(host, '*.theclanofhack.com') ||
 shExpMatch(host, '*.theclashroyale.com') ||
+shExpMatch(host, '*.theclickads.com') ||
 shExpMatch(host, '*.thecounter.com') ||
 shExpMatch(host, '*.thecrimebay.store') ||
 shExpMatch(host, '*.thecryptocurrencyconsultants.com') ||
@@ -21162,6 +21162,7 @@ shExpMatch(host, 'catsnthings.fun') ||
 shExpMatch(host, 'cattww.com') ||
 shExpMatch(host, 'caturismo.com.ar') ||
 shExpMatch(host, 'causecherry.com') ||
+shExpMatch(host, 'cautiouscredit.com') ||
 shExpMatch(host, 'cavaliersales.com') ||
 shExpMatch(host, 'caxega.ru') ||
 shExpMatch(host, 'caymanlandsales.com') ||
@@ -29344,7 +29345,6 @@ shExpMatch(host, 'newpsncodegenerator.org') ||
 shExpMatch(host, 'news-cmps.cz.cc') ||
 shExpMatch(host, 'news-report24.com') ||
 shExpMatch(host, 'news-today.pw') ||
-shExpMatch(host, 'newsadsppush.com') ||
 shExpMatch(host, 'newsgeek.pl') ||
 shExpMatch(host, 'newshared.com') ||
 shExpMatch(host, 'newsletter-link.com') ||
@@ -32864,7 +32864,6 @@ shExpMatch(host, 't.firstpromoter.com') ||
 shExpMatch(host, 't.insigit.com') ||
 shExpMatch(host, 't.irtyd.com') ||
 shExpMatch(host, 't.leady.com') ||
-shExpMatch(host, 't.news.browns-restaurants.co.uk') ||
 shExpMatch(host, 't.notif-colissimo-laposte.info') ||
 shExpMatch(host, 't.pusk.ru') ||
 shExpMatch(host, 't.salesmatemail.com') ||
@@ -33109,6 +33108,7 @@ shExpMatch(host, 'thecarnells.com') ||
 shExpMatch(host, 'thecheatplanet.com') ||
 shExpMatch(host, 'theclanofhack.com') ||
 shExpMatch(host, 'theclashroyale.com') ||
+shExpMatch(host, 'theclickads.com') ||
 shExpMatch(host, 'thecounter.com') ||
 shExpMatch(host, 'thecrimebay.store') ||
 shExpMatch(host, 'thecryptocurrencyconsultants.com') ||
