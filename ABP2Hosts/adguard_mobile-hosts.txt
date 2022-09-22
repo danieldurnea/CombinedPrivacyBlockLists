@@ -1,4 +1,4 @@
-# Thu Sep 15 07:04:35 PM UTC 2022
+# Thu Sep 22 08:22:15 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1890,6 +1890,7 @@
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
+0.0.0.0 au1.gigya.com
 0.0.0.0 auctera.gotrackier.com
 0.0.0.0 auction-banner.unityads.unity3d.com
 0.0.0.0 auction-load.unityads.unity3d.com
@@ -2438,6 +2439,7 @@
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.geodns.tubemogul.com
+0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
 0.0.0.0 cdn.gmossp-sp.jp
@@ -2577,9 +2579,16 @@
 0.0.0.0 cdnimg.izooto.com
 0.0.0.0 cdnp1.yieldoptimizer.com
 0.0.0.0 cdnpixel.simpli.fi
+0.0.0.0 cdns.au1.gigya.com
+0.0.0.0 cdns.eu2.gigya.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
+0.0.0.0 cdns.us1.gigya.com
+0.0.0.0 cdns1.gigya.com
+0.0.0.0 cdns2.gigya.com
+0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstoremedia.com
@@ -3489,7 +3498,9 @@
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu01.nr-data.net
 0.0.0.0 eu1-spiky.wzrkt.com
+0.0.0.0 eu1.gigya.com
 0.0.0.0 eu1.wzrkt.com
+0.0.0.0 eu2.gigya.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eum-orange-saas.instana.io
@@ -3605,6 +3616,9 @@
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 fanserv.us-east-1.stinger-ad.bidr.io
 0.0.0.0 fanserv.us-west-2.stinger-ad.bidr.io
+0.0.0.0 farm5.eu1.gigya.com
+0.0.0.0 farm5.gigya.com
+0.0.0.0 farm5.us1.gigya.com
 0.0.0.0 fast.a.klaviyo.com
 0.0.0.0 fast.mtvn.demdex.net
 0.0.0.0 fastapi.net
@@ -3927,6 +3941,8 @@
 0.0.0.0 grtb-de.lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
+0.0.0.0 gscounters.eu1.gigya.com
+0.0.0.0 gscounters.us1.gigya.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gsmtop.net
 0.0.0.0 gtm04.nexac.com
@@ -4203,7 +4219,6 @@
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.perf-serving.com
 0.0.0.0 images.revcontent.com
-0.0.0.0 images.salsify.com
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
@@ -4570,8 +4585,11 @@
 0.0.0.0 lazy.rayjump.com
 0.0.0.0 lb-adsdis.mng-ads.com
 0.0.0.0 lb-adsmob.mng-ads.com
+0.0.0.0 lb-d.us1.gigya.com
 0.0.0.0 lb.aatkit.com
 0.0.0.0 lb.affilae.com
+0.0.0.0 lb.au1.gigya.com
+0.0.0.0 lb.eu1.gigya.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 lb3d.tj.ijinshan.com
 0.0.0.0 lbal.wowanalytics.co.uk
@@ -7279,6 +7297,7 @@
 0.0.0.0 td.yieldify.com
 0.0.0.0 tdameritrade.demdex.net
 0.0.0.0 tdcv3.talkingdata.net
+0.0.0.0 tdid.m.qq.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 teads.tv
 0.0.0.0 teads.tv.edgekey.net
@@ -7431,6 +7450,7 @@
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.loopme.me
 0.0.0.0 track.mdrctr.com
+0.0.0.0 track.midway.run
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.omgpl.com
@@ -7746,6 +7766,7 @@
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
 0.0.0.0 us1-spiky.wzrkt.com
+0.0.0.0 us1.gigya.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usasync01.admantx.com
