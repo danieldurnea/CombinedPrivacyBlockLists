@@ -1,4 +1,4 @@
-// **** Thu Sep 22 08:28:25 PM UTC 2022
+// **** Thu Sep 29 04:34:31 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -11430,7 +11430,6 @@ shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
 shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
-shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
 shExpMatch(host, '*.navegg.com') ||
 shExpMatch(host, '*.naviblue-team.com') ||
@@ -12525,6 +12524,7 @@ shExpMatch(host, '*.poewxz.com') ||
 shExpMatch(host, '*.pogidu.ru') ||
 shExpMatch(host, '*.pogodowski.com') ||
 shExpMatch(host, '*.pointcodes4free.com') ||
+shExpMatch(host, '*.pointlesshour.com') ||
 shExpMatch(host, '*.pointmyfile.com') ||
 shExpMatch(host, '*.pointroll.com') ||
 shExpMatch(host, '*.points.riotcodegenerator.com') ||
@@ -15106,6 +15106,7 @@ shExpMatch(host, '*.t.firstpromoter.com') ||
 shExpMatch(host, '*.t.insigit.com') ||
 shExpMatch(host, '*.t.irtyd.com') ||
 shExpMatch(host, '*.t.leady.com') ||
+shExpMatch(host, '*.t.news.browns-restaurants.co.uk') ||
 shExpMatch(host, '*.t.notif-colissimo-laposte.info') ||
 shExpMatch(host, '*.t.pusk.ru') ||
 shExpMatch(host, '*.t.salesmatemail.com') ||
@@ -29188,7 +29189,6 @@ shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
 shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
-shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
 shExpMatch(host, 'navegg.com') ||
 shExpMatch(host, 'naviblue-team.com') ||
@@ -30283,6 +30283,7 @@ shExpMatch(host, 'poewxz.com') ||
 shExpMatch(host, 'pogidu.ru') ||
 shExpMatch(host, 'pogodowski.com') ||
 shExpMatch(host, 'pointcodes4free.com') ||
+shExpMatch(host, 'pointlesshour.com') ||
 shExpMatch(host, 'pointmyfile.com') ||
 shExpMatch(host, 'pointroll.com') ||
 shExpMatch(host, 'points.riotcodegenerator.com') ||
@@ -32864,6 +32865,7 @@ shExpMatch(host, 't.firstpromoter.com') ||
 shExpMatch(host, 't.insigit.com') ||
 shExpMatch(host, 't.irtyd.com') ||
 shExpMatch(host, 't.leady.com') ||
+shExpMatch(host, 't.news.browns-restaurants.co.uk') ||
 shExpMatch(host, 't.notif-colissimo-laposte.info') ||
 shExpMatch(host, 't.pusk.ru') ||
 shExpMatch(host, 't.salesmatemail.com') ||
