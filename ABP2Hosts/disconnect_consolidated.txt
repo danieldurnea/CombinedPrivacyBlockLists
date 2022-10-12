@@ -1,4 +1,4 @@
-# Fri Oct  7 02:45:00 PM UTC 2022
+# Wed Oct 12 08:09:33 PM UTC 2022
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2676,8 +2676,8 @@
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
 0.0.0.0 www.banner-link.com.br
-0.0.0.0 www.chestionar.ro
 0.0.0.0 www.dnps.com
+0.0.0.0 www.impressionz.co.uk
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
