@@ -1,4 +1,4 @@
-// **** Fri Oct  7 02:50:32 PM UTC 2022
+// **** Wed Oct 12 08:12:53 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1483,6 +1483,7 @@ shExpMatch(host, '*.adsiduous.com') ||
 shExpMatch(host, '*.adsk2.co') ||
 shExpMatch(host, '*.adskape.ru') ||
 shExpMatch(host, '*.adskeeper.co.uk') ||
+shExpMatch(host, '*.adskeeper.com') ||
 shExpMatch(host, '*.adsklick.de') ||
 shExpMatch(host, '*.adskpak.com') ||
 shExpMatch(host, '*.adsmarket.com') ||
@@ -4347,6 +4348,7 @@ shExpMatch(host, '*.cs-money.pro') ||
 shExpMatch(host, '*.cs-swap.pro') ||
 shExpMatch(host, '*.cs-trader.com') ||
 shExpMatch(host, '*.cs-trader.pro') ||
+shExpMatch(host, '*.cs.co') ||
 shExpMatch(host, '*.cs1.money') ||
 shExpMatch(host, '*.cs6serial.net') ||
 shExpMatch(host, '*.cs6serialcrack.com') ||
@@ -19246,6 +19248,7 @@ shExpMatch(host, 'adsiduous.com') ||
 shExpMatch(host, 'adsk2.co') ||
 shExpMatch(host, 'adskape.ru') ||
 shExpMatch(host, 'adskeeper.co.uk') ||
+shExpMatch(host, 'adskeeper.com') ||
 shExpMatch(host, 'adsklick.de') ||
 shExpMatch(host, 'adskpak.com') ||
 shExpMatch(host, 'adsmarket.com') ||
@@ -22110,6 +22113,7 @@ shExpMatch(host, 'cs-money.pro') ||
 shExpMatch(host, 'cs-swap.pro') ||
 shExpMatch(host, 'cs-trader.com') ||
 shExpMatch(host, 'cs-trader.pro') ||
+shExpMatch(host, 'cs.co') ||
 shExpMatch(host, 'cs1.money') ||
 shExpMatch(host, 'cs6serial.net') ||
 shExpMatch(host, 'cs6serialcrack.com') ||
