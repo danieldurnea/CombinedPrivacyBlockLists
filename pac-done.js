@@ -1,4 +1,4 @@
-// **** Wed Oct 12 08:12:53 PM UTC 2022
+// **** Mon Oct 17 11:06:56 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -2837,6 +2837,7 @@ shExpMatch(host, '*.bio-v.ru') ||
 shExpMatch(host, '*.bioclinord.info') ||
 shExpMatch(host, '*.bioito.cn') ||
 shExpMatch(host, '*.bionaft.ru') ||
+shExpMatch(host, '*.biosda.com') ||
 shExpMatch(host, '*.bioshockinfinite.sharezips.info') ||
 shExpMatch(host, '*.biovoz.ru') ||
 shExpMatch(host, '*.bipowe.ru') ||
@@ -4275,6 +4276,7 @@ shExpMatch(host, '*.crafting.xyz') ||
 shExpMatch(host, '*.crafttech.com.au') ||
 shExpMatch(host, '*.crakmedia.com') ||
 shExpMatch(host, '*.craktraffic.com') ||
+shExpMatch(host, '*.crashchance.com') ||
 shExpMatch(host, '*.crashlytics.com') ||
 shExpMatch(host, '*.crashlyticsreports-pa.googleapis.com') ||
 shExpMatch(host, '*.cratecamera.com') ||
@@ -8659,6 +8661,7 @@ shExpMatch(host, '*.haltgame.com') ||
 shExpMatch(host, '*.haltingbadge.com') ||
 shExpMatch(host, '*.hamarisafalta.com') ||
 shExpMatch(host, '*.hammerhearing.com') ||
+shExpMatch(host, '*.handsomehose.com') ||
 shExpMatch(host, '*.handyfield.com') ||
 shExpMatch(host, '*.haniz.ru') ||
 shExpMatch(host, '*.hanulsms.com') ||
@@ -12063,7 +12066,6 @@ shExpMatch(host, '*.overvid.com') ||
 shExpMatch(host, '*.ovicase.com') ||
 shExpMatch(host, '*.ovquqaip.ru') ||
 shExpMatch(host, '*.ovrmxaqfashion.xyz') ||
-shExpMatch(host, '*.owebanalytics.com') ||
 shExpMatch(host, '*.owebmoney.ru') ||
 shExpMatch(host, '*.owhacks.com') ||
 shExpMatch(host, '*.owlplayz.com') ||
@@ -20602,6 +20604,7 @@ shExpMatch(host, 'bio-v.ru') ||
 shExpMatch(host, 'bioclinord.info') ||
 shExpMatch(host, 'bioito.cn') ||
 shExpMatch(host, 'bionaft.ru') ||
+shExpMatch(host, 'biosda.com') ||
 shExpMatch(host, 'bioshockinfinite.sharezips.info') ||
 shExpMatch(host, 'biovoz.ru') ||
 shExpMatch(host, 'bipowe.ru') ||
@@ -22040,6 +22043,7 @@ shExpMatch(host, 'crafting.xyz') ||
 shExpMatch(host, 'crafttech.com.au') ||
 shExpMatch(host, 'crakmedia.com') ||
 shExpMatch(host, 'craktraffic.com') ||
+shExpMatch(host, 'crashchance.com') ||
 shExpMatch(host, 'crashlytics.com') ||
 shExpMatch(host, 'crashlyticsreports-pa.googleapis.com') ||
 shExpMatch(host, 'cratecamera.com') ||
@@ -26424,6 +26428,7 @@ shExpMatch(host, 'haltgame.com') ||
 shExpMatch(host, 'haltingbadge.com') ||
 shExpMatch(host, 'hamarisafalta.com') ||
 shExpMatch(host, 'hammerhearing.com') ||
+shExpMatch(host, 'handsomehose.com') ||
 shExpMatch(host, 'handyfield.com') ||
 shExpMatch(host, 'haniz.ru') ||
 shExpMatch(host, 'hanulsms.com') ||
@@ -29828,7 +29833,6 @@ shExpMatch(host, 'overvid.com') ||
 shExpMatch(host, 'ovicase.com') ||
 shExpMatch(host, 'ovquqaip.ru') ||
 shExpMatch(host, 'ovrmxaqfashion.xyz') ||
-shExpMatch(host, 'owebanalytics.com') ||
 shExpMatch(host, 'owebmoney.ru') ||
 shExpMatch(host, 'owhacks.com') ||
 shExpMatch(host, 'owlplayz.com') ||
