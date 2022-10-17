@@ -206,6 +206,7 @@
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 eu.vortex.data.microsoft.com
+0.0.0.0 events.data.microsoft.com
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
