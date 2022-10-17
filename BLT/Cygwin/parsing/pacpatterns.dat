@@ -477,6 +477,7 @@
 ^secure\.surveymonkey\.com$
 ^segment\.com$
 ^segment\.io$
+^self\.events\.data\.microsoft\.com$
 ^sentry\.io$
 ^serials\.ws$
 ^serverfault\.com$

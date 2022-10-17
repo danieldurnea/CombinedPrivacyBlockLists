@@ -206,7 +206,6 @@
 :: eu-v20.events.data.microsoft.com
 :: eu.vortex-win.data.microsoft.com
 :: eu.vortex.data.microsoft.com
-:: events.data.microsoft.com
 :: feedback.microsoft-hohm.com
 :: feedback.search.microsoft.com
 :: feedback.windows.com
