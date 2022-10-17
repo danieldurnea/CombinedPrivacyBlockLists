@@ -13,5 +13,6 @@ msftncsi.com
 onecollector.cloudapp.aria.akadns.net
 s.gateway.messenger.live.com
 s0.2mdn.net
+self.events.data.microsoft.com
 www.msftncsi.com
 ztd.dds.microsoft.com
