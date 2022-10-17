@@ -14277,7 +14277,6 @@
 0.0.0.0 getelectrum.live
 0.0.0.0 getelectrum.org
 0.0.0.0 getgiftfortrad.site
-0.0.0.0 gethomevaluerestoration.com
 0.0.0.0 getlack.net
 0.0.0.0 getmackeepersoftpro.xyz
 0.0.0.0 getmyads.com
@@ -18354,6 +18353,7 @@
 0.0.0.0 marks397.co.za
 0.0.0.0 marksandspencer.122.2o7.net
 0.0.0.0 marksidfgs.ug
+0.0.0.0 marnersstyler.ug
 0.0.0.0 maroohost.online
 0.0.0.0 marootrack.co
 0.0.0.0 marquesdeoliveira.com.br
