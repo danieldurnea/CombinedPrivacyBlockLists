@@ -1,4 +1,4 @@
-# Mon Oct 17 11:02:12 PM UTC 2022
+# Tue Oct 18 03:21:10 AM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -652,6 +652,7 @@
 0.0.0.0 2i0da8u7.cn
 0.0.0.0 2i1m.xyz
 0.0.0.0 2iiyrxk0.com
+0.0.0.0 2jmis11eq.de
 0.0.0.0 2kjg.xyz
 0.0.0.0 2l0g3xd.cn
 0.0.0.0 2laezi9.cn
@@ -18938,6 +18939,7 @@
 0.0.0.0 gayal.stockshouse.co
 0.0.0.0 gazati.com
 0.0.0.0 gazelle.emanager.gg
+0.0.0.0 gbahpkgnmjetkpd.com
 0.0.0.0 gbbcraf.cn
 0.0.0.0 gbcvbnv5.com
 0.0.0.0 gbdixorxxdjykr.com
@@ -19230,6 +19232,7 @@
 0.0.0.0 gfvip09at.com
 0.0.0.0 gfwiygrvi.xyz
 0.0.0.0 gfxa.sheetmusicplus.com
+0.0.0.0 gg-baidu.xyz
 0.0.0.0 gg.0598yu.com
 0.0.0.0 gg.4kdy.net
 0.0.0.0 gg.blueidea.com
@@ -19300,6 +19303,7 @@
 0.0.0.0 ghrzlu.skechers.com.tr
 0.0.0.0 ghskoqhz.com
 0.0.0.0 ghtry.amateurswild.com
+0.0.0.0 ghwsuoe.cn
 0.0.0.0 ghyklxvleas.xyz
 0.0.0.0 gi7a.structube.com
 0.0.0.0 giantaffiliates.com
@@ -20800,6 +20804,7 @@
 0.0.0.0 hggtt.top
 0.0.0.0 hghit.com
 0.0.0.0 hghm4u7b61.com
+0.0.0.0 hgibbei.cyou
 0.0.0.0 hgjxp.cn
 0.0.0.0 hgkzl.cn
 0.0.0.0 hgrjndavdfe.com
@@ -25523,6 +25528,7 @@
 0.0.0.0 llog.pl
 0.0.0.0 lloydsbankinggroup.tt.omtrdc.net
 0.0.0.0 llq9q2lacr.com
+0.0.0.0 llsynmll.fun
 0.0.0.0 lltiukmeposi.one
 0.0.0.0 lltrsknoob.click
 0.0.0.0 llyvjs.com
@@ -26383,6 +26389,7 @@
 0.0.0.0 magnetrack.klangoo.com
 0.0.0.0 magnificentmanlyyeast.com
 0.0.0.0 mahao.xyz
+0.0.0.0 maharbandi.tech
 0.0.0.0 mahdicrofter.com
 0.0.0.0 maholinoticed.com
 0.0.0.0 maibaume.com
@@ -29421,6 +29428,7 @@
 0.0.0.0 n3owhe6qa4.com
 0.0.0.0 n4kb43cl2bsw.creatordrop.com
 0.0.0.0 n4p-rus.redtram.com
+0.0.0.0 n4x8.xyz
 0.0.0.0 n5725.com
 0.0.0.0 n6579.com
 0.0.0.0 n7181.com
@@ -31107,6 +31115,7 @@
 0.0.0.0 oppositehometowndrunken.com
 0.0.0.0 opposs.com
 0.0.0.0 opptmzpops.com
+0.0.0.0 oppu778.top
 0.0.0.0 oprdsm.unisportstore.com
 0.0.0.0 ops.bpost.be
 0.0.0.0 opservicesltd.tt.omtrdc.net
@@ -34457,6 +34466,7 @@
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 0.0.0.0 qwgbxvmtuejv.com
 0.0.0.0 qwnkvvtuxivur.com
+0.0.0.0 qwofxnddafhuouy.com
 0.0.0.0 qwogldy.top
 0.0.0.0 qwpetywdh.com
 0.0.0.0 qwsad.com
@@ -35638,6 +35648,7 @@
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 rpsrv.com
 0.0.0.0 rpt.kidsfootlocker.com
+0.0.0.0 rptjx.xyz
 0.0.0.0 rptnwbxbl.com
 0.0.0.0 rpts.org
 0.0.0.0 rpucvsqfmvyp.com
@@ -36282,6 +36293,7 @@
 0.0.0.0 sales.avis.com
 0.0.0.0 sales.disneylandparis.com
 0.0.0.0 salinasbhut.com
+0.0.0.0 salishcoenact.com
 0.0.0.0 salleyte.top
 0.0.0.0 salliemae.tt.omtrdc.net
 0.0.0.0 sallyfundamental.com
@@ -42949,6 +42961,7 @@
 0.0.0.0 tgmklw.productreview.com.au
 0.0.0.0 tgmtav.slumberland.com
 0.0.0.0 tgpsew.com
+0.0.0.0 tgracefulc.one
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 tgtgzo.otelz.com
 0.0.0.0 tgudfrdwspme.com
@@ -48757,9 +48770,11 @@
 0.0.0.0 xcnqpwbeqanijjb.com
 0.0.0.0 xcsaz.com
 0.0.0.0 xcsci.cn
+0.0.0.0 xcsypkknp.com
 0.0.0.0 xcummws.cn
 0.0.0.0 xcvur.xyz
 0.0.0.0 xcwzq.xyz
+0.0.0.0 xcy8.com
 0.0.0.0 xd3r.javgg.eu
 0.0.0.0 xd4a.top
 0.0.0.0 xdbchs.bradfordexchange.com
@@ -48846,6 +48861,7 @@
 0.0.0.0 xhydrs.cn
 0.0.0.0 xhz1.me
 0.0.0.0 xhzmjs.com
+0.0.0.0 xiachouchou.com
 0.0.0.0 xiald.com
 0.0.0.0 xiandafood.cn
 0.0.0.0 xianggou.club
@@ -48888,6 +48904,7 @@
 0.0.0.0 xiezhong.club
 0.0.0.0 xigolashu.com
 0.0.0.0 xihua.me
+0.0.0.0 xihuangdushu.com
 0.0.0.0 xijgedjgg5f55.com
 0.0.0.0 xiji-express.com
 0.0.0.0 xijkye.top
@@ -48924,6 +48941,7 @@
 0.0.0.0 xinheshengmce.com
 0.0.0.0 xinhuan.mobi
 0.0.0.0 xinju.cc
+0.0.0.0 xinlongrubber.com
 0.0.0.0 xinqiannv.com
 0.0.0.0 xinray.net
 0.0.0.0 xinshizongqin.com
@@ -48943,11 +48961,13 @@
 0.0.0.0 xitang.love
 0.0.0.0 xitongku.cc
 0.0.0.0 xiulishanzhuang.com
+0.0.0.0 xiuqixuan.cn
 0.0.0.0 xivkcwzzoi.com
 0.0.0.0 xixhx.com
 0.0.0.0 xixizaix.cn
 0.0.0.0 xiyyq.cn
 0.0.0.0 xjfyx.com
+0.0.0.0 xjhjtz.cn
 0.0.0.0 xjhmap.cn
 0.0.0.0 xjjkxcg.cn
 0.0.0.0 xjpnycwqr.com
@@ -49086,6 +49106,7 @@
 0.0.0.0 xqoekp.cn
 0.0.0.0 xqtzp.cn
 0.0.0.0 xqwkjf.top
+0.0.0.0 xqzlgbbe.com
 0.0.0.0 xqzzl1l.cn
 0.0.0.0 xray.mail.ru
 0.0.0.0 xrchmz.mobafire.com
@@ -49143,6 +49164,7 @@
 0.0.0.0 xuanmingyc.com
 0.0.0.0 xuawdz.xn--b1aedqiqb.xn--p1ai
 0.0.0.0 xubb.xyz
+0.0.0.0 xubob.com
 0.0.0.0 xuchangmuying.com
 0.0.0.0 xudawhuwa.com
 0.0.0.0 xudmrz.conforama.fr
@@ -49173,6 +49195,7 @@
 0.0.0.0 xulilin.ltd
 0.0.0.0 xulizui6.com
 0.0.0.0 xumnxwvw.ink
+0.0.0.0 xunhuaji.cn
 0.0.0.0 xuningk.xyz
 0.0.0.0 xunjiu.online
 0.0.0.0 xunsilu.com
@@ -49383,6 +49406,7 @@
 0.0.0.0 yarlnk.com
 0.0.0.0 yashi.com
 0.0.0.0 yasiwngdihnfe.com
+0.0.0.0 yasmwesikz.com
 0.0.0.0 yassumeda.one
 0.0.0.0 yatab.net
 0.0.0.0 yatbzuwo.com
@@ -49566,6 +49590,7 @@
 0.0.0.0 yifuffbypvps.xyz
 0.0.0.0 yigesi.top
 0.0.0.0 yihoo.biz
+0.0.0.0 yijia2009.com
 0.0.0.0 yijiachen.cn
 0.0.0.0 yijikm.com
 0.0.0.0 yijiuningyia.gushiwen.org
@@ -49611,6 +49636,7 @@
 0.0.0.0 yitongwl.cn
 0.0.0.0 yituo-patibao.cn
 0.0.0.0 yiuspekmn.bar
+0.0.0.0 yixiangzhan.cn
 0.0.0.0 yiydtredbofv.com
 0.0.0.0 yiyu-fz.cn
 0.0.0.0 yiyuantian.com
@@ -49742,6 +49768,7 @@
 0.0.0.0 yoshatia.com
 0.0.0.0 yosjob.cn
 0.0.0.0 yotta.scrolller.com
+0.0.0.0 yottacash.com
 0.0.0.0 yottlyscript.com
 0.0.0.0 you6ka.cn
 0.0.0.0 youa2qudo.icu
@@ -49878,6 +49905,7 @@
 0.0.0.0 yst4.torviajes.com
 0.0.0.0 yswphit.cn
 0.0.0.0 yswuen.top
+0.0.0.0 ysxywj.com
 0.0.0.0 ysyjg.com
 0.0.0.0 yt-adp.nosdn.127.net
 0.0.0.0 yt-adp.ws.126.net
@@ -50042,6 +50070,7 @@
 0.0.0.0 yydtbpms8tf4.com
 0.0.0.0 yydwkkxhjb.com
 0.0.0.0 yyek3cdeo.cyou
+0.0.0.0 yyhqch.com
 0.0.0.0 yyibqpcg.com
 0.0.0.0 yyjvimo.com
 0.0.0.0 yyklg.xyz
@@ -50179,6 +50208,7 @@
 0.0.0.0 zdpsve.scrapbook.com
 0.0.0.0 zdrcnx.cn
 0.0.0.0 zdryg.com
+0.0.0.0 zdsfnagupwkztl.com
 0.0.0.0 zdtvfpu.cn
 0.0.0.0 zdwsh.tech
 0.0.0.0 zdx10.site
@@ -50366,6 +50396,7 @@
 0.0.0.0 zhuanzhuzibu.com
 0.0.0.0 zhuba8.com
 0.0.0.0 zhudao.shop
+0.0.0.0 zhufushuo.com
 0.0.0.0 zhuguangjl.top
 0.0.0.0 zhuhaiqilu.cn
 0.0.0.0 zhulik2ne1voruy1d.com
@@ -50423,6 +50454,7 @@
 0.0.0.0 zixivily.com
 0.0.0.0 zixixtx.top
 0.0.0.0 zixun8.com
+0.0.0.0 ziyeaiying.com
 0.0.0.0 ziyuanyinhang.wang
 0.0.0.0 ziyunxs.com
 0.0.0.0 zizcy.com
@@ -50563,6 +50595,7 @@
 0.0.0.0 zptxjlh.cn
 0.0.0.0 zpxalcnnafyy.com
 0.0.0.0 zpxw.vip
+0.0.0.0 zpyfsj.cn
 0.0.0.0 zq.lansedir.com
 0.0.0.0 zq2h2.com
 0.0.0.0 zq9a.top
