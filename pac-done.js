@@ -1,4 +1,4 @@
-// **** Tue Oct 18 03:25:48 AM UTC 2022
+// **** Sun Oct 23 06:18:25 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -9318,7 +9318,6 @@ shExpMatch(host, '*.insgly.net') ||
 shExpMatch(host, '*.insightexpress.com') ||
 shExpMatch(host, '*.insightexpressai.com') ||
 shExpMatch(host, '*.inskinad.com') ||
-shExpMatch(host, '*.inslco.bar') ||
 shExpMatch(host, '*.inspectlet.com') ||
 shExpMatch(host, '*.inspectorclick.com') ||
 shExpMatch(host, '*.inspiratorfreak.com') ||
@@ -11594,6 +11593,7 @@ shExpMatch(host, '*.newpsncodegenerator.org') ||
 shExpMatch(host, '*.news-cmps.cz.cc') ||
 shExpMatch(host, '*.news-report24.com') ||
 shExpMatch(host, '*.news-today.pw') ||
+shExpMatch(host, '*.newsadsppush.com') ||
 shExpMatch(host, '*.newsgeek.pl') ||
 shExpMatch(host, '*.newshared.com') ||
 shExpMatch(host, '*.newsletter-link.com') ||
@@ -12066,6 +12066,7 @@ shExpMatch(host, '*.overvid.com') ||
 shExpMatch(host, '*.ovicase.com') ||
 shExpMatch(host, '*.ovquqaip.ru') ||
 shExpMatch(host, '*.ovrmxaqfashion.xyz') ||
+shExpMatch(host, '*.owebanalytics.com') ||
 shExpMatch(host, '*.owebmoney.ru') ||
 shExpMatch(host, '*.owhacks.com') ||
 shExpMatch(host, '*.owlplayz.com') ||
@@ -12360,7 +12361,6 @@ shExpMatch(host, '*.pimproll.com') ||
 shExpMatch(host, '*.pinay.leak-video.org') ||
 shExpMatch(host, '*.pincheat.com') ||
 shExpMatch(host, '*.pinevalleycourt.co.uk') ||
-shExpMatch(host, '*.ping.ublock.org') ||
 shExpMatch(host, '*.pingpong-shop.info') ||
 shExpMatch(host, '*.pinkpillar.ru') ||
 shExpMatch(host, '*.pipedream.wistia.com') ||
@@ -12522,7 +12522,6 @@ shExpMatch(host, '*.plusbest.ru') ||
 shExpMatch(host, '*.plusjouesjeuxlimited.fr') ||
 shExpMatch(host, '*.pmnotary.com') ||
 shExpMatch(host, '*.pobunu.ru') ||
-shExpMatch(host, '*.pocketmath.com') ||
 shExpMatch(host, '*.podadaho.ru') ||
 shExpMatch(host, '*.podgorz.org') ||
 shExpMatch(host, '*.podilovy-fond.eu') ||
@@ -15853,7 +15852,6 @@ shExpMatch(host, '*.trippinger.com') ||
 shExpMatch(host, '*.triptease.io') ||
 shExpMatch(host, '*.trix.net') ||
 shExpMatch(host, '*.trixcase.com') ||
-shExpMatch(host, '*.trk.bad-tool-tell-doubt.xyz') ||
 shExpMatch(host, '*.trk.bc.shutterfly.com') ||
 shExpMatch(host, '*.trk.bee-data.com') ||
 shExpMatch(host, '*.trk.pinterest.com') ||
@@ -27085,7 +27083,6 @@ shExpMatch(host, 'insgly.net') ||
 shExpMatch(host, 'insightexpress.com') ||
 shExpMatch(host, 'insightexpressai.com') ||
 shExpMatch(host, 'inskinad.com') ||
-shExpMatch(host, 'inslco.bar') ||
 shExpMatch(host, 'inspectlet.com') ||
 shExpMatch(host, 'inspectorclick.com') ||
 shExpMatch(host, 'inspiratorfreak.com') ||
@@ -29361,6 +29358,7 @@ shExpMatch(host, 'newpsncodegenerator.org') ||
 shExpMatch(host, 'news-cmps.cz.cc') ||
 shExpMatch(host, 'news-report24.com') ||
 shExpMatch(host, 'news-today.pw') ||
+shExpMatch(host, 'newsadsppush.com') ||
 shExpMatch(host, 'newsgeek.pl') ||
 shExpMatch(host, 'newshared.com') ||
 shExpMatch(host, 'newsletter-link.com') ||
@@ -29833,6 +29831,7 @@ shExpMatch(host, 'overvid.com') ||
 shExpMatch(host, 'ovicase.com') ||
 shExpMatch(host, 'ovquqaip.ru') ||
 shExpMatch(host, 'ovrmxaqfashion.xyz') ||
+shExpMatch(host, 'owebanalytics.com') ||
 shExpMatch(host, 'owebmoney.ru') ||
 shExpMatch(host, 'owhacks.com') ||
 shExpMatch(host, 'owlplayz.com') ||
@@ -30127,7 +30126,6 @@ shExpMatch(host, 'pimproll.com') ||
 shExpMatch(host, 'pinay.leak-video.org') ||
 shExpMatch(host, 'pincheat.com') ||
 shExpMatch(host, 'pinevalleycourt.co.uk') ||
-shExpMatch(host, 'ping.ublock.org') ||
 shExpMatch(host, 'pingpong-shop.info') ||
 shExpMatch(host, 'pinkpillar.ru') ||
 shExpMatch(host, 'pipedream.wistia.com') ||
@@ -30289,7 +30287,6 @@ shExpMatch(host, 'plusbest.ru') ||
 shExpMatch(host, 'plusjouesjeuxlimited.fr') ||
 shExpMatch(host, 'pmnotary.com') ||
 shExpMatch(host, 'pobunu.ru') ||
-shExpMatch(host, 'pocketmath.com') ||
 shExpMatch(host, 'podadaho.ru') ||
 shExpMatch(host, 'podgorz.org') ||
 shExpMatch(host, 'podilovy-fond.eu') ||
@@ -33620,7 +33617,6 @@ shExpMatch(host, 'trippinger.com') ||
 shExpMatch(host, 'triptease.io') ||
 shExpMatch(host, 'trix.net') ||
 shExpMatch(host, 'trixcase.com') ||
-shExpMatch(host, 'trk.bad-tool-tell-doubt.xyz') ||
 shExpMatch(host, 'trk.bc.shutterfly.com') ||
 shExpMatch(host, 'trk.bee-data.com') ||
 shExpMatch(host, 'trk.pinterest.com') ||
