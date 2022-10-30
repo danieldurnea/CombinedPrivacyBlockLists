@@ -1,4 +1,4 @@
-// **** Sun Oct 23 06:18:25 PM UTC 2022
+// **** Sun Oct 30 06:57:26 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -4199,7 +4199,6 @@ shExpMatch(host, '*.covid-19donor.com') ||
 shExpMatch(host, '*.covid19grantor.com') ||
 shExpMatch(host, '*.covid19kit.online') ||
 shExpMatch(host, '*.coxmt.com') ||
-shExpMatch(host, '*.cp.abbp1.pw') ||
 shExpMatch(host, '*.cpadoom.com') ||
 shExpMatch(host, '*.cpafornoob.com') ||
 shExpMatch(host, '*.cpalead.com') ||
@@ -9516,7 +9515,6 @@ shExpMatch(host, '*.itunesgiftcardcodes.org') ||
 shExpMatch(host, '*.itunesgiftcardgenerators.org') ||
 shExpMatch(host, '*.itunesgiftcardsgenerator.com') ||
 shExpMatch(host, '*.itunesvouchergiveaway.com') ||
-shExpMatch(host, '*.iubzka.online') ||
 shExpMatch(host, '*.iunlockiphone5hq.com') ||
 shExpMatch(host, '*.iupload4you.com') ||
 shExpMatch(host, '*.iuploadfile.com') ||
@@ -12105,7 +12103,6 @@ shExpMatch(host, '*.padsbrown.com') ||
 shExpMatch(host, '*.pagead.l.google.com') ||
 shExpMatch(host, '*.pagecookie.org') ||
 shExpMatch(host, '*.pagefair.com') ||
-shExpMatch(host, '*.pagefair.net') ||
 shExpMatch(host, '*.pagerank-ranking.com') ||
 shExpMatch(host, '*.pagerank-ranking.de') ||
 shExpMatch(host, '*.pagerank-server7.de') ||
@@ -15806,7 +15803,6 @@ shExpMatch(host, '*.travis.bosscasinos.com') ||
 shExpMatch(host, '*.trax-doma.ru') ||
 shExpMatch(host, '*.traxster.net') ||
 shExpMatch(host, '*.trck.a8.net') ||
-shExpMatch(host, '*.trcked.me') ||
 shExpMatch(host, '*.trcklion.com') ||
 shExpMatch(host, '*.treasuredata.com') ||
 shExpMatch(host, '*.treestructurezeroes.pingpong-shop.info') ||
@@ -15852,6 +15848,7 @@ shExpMatch(host, '*.trippinger.com') ||
 shExpMatch(host, '*.triptease.io') ||
 shExpMatch(host, '*.trix.net') ||
 shExpMatch(host, '*.trixcase.com') ||
+shExpMatch(host, '*.trk.bad-tool-tell-doubt.xyz') ||
 shExpMatch(host, '*.trk.bc.shutterfly.com') ||
 shExpMatch(host, '*.trk.bee-data.com') ||
 shExpMatch(host, '*.trk.pinterest.com') ||
@@ -21964,7 +21961,6 @@ shExpMatch(host, 'covid-19donor.com') ||
 shExpMatch(host, 'covid19grantor.com') ||
 shExpMatch(host, 'covid19kit.online') ||
 shExpMatch(host, 'coxmt.com') ||
-shExpMatch(host, 'cp.abbp1.pw') ||
 shExpMatch(host, 'cpadoom.com') ||
 shExpMatch(host, 'cpafornoob.com') ||
 shExpMatch(host, 'cpalead.com') ||
@@ -27281,7 +27277,6 @@ shExpMatch(host, 'itunesgiftcardcodes.org') ||
 shExpMatch(host, 'itunesgiftcardgenerators.org') ||
 shExpMatch(host, 'itunesgiftcardsgenerator.com') ||
 shExpMatch(host, 'itunesvouchergiveaway.com') ||
-shExpMatch(host, 'iubzka.online') ||
 shExpMatch(host, 'iunlockiphone5hq.com') ||
 shExpMatch(host, 'iupload4you.com') ||
 shExpMatch(host, 'iuploadfile.com') ||
@@ -29870,7 +29865,6 @@ shExpMatch(host, 'padsbrown.com') ||
 shExpMatch(host, 'pagead.l.google.com') ||
 shExpMatch(host, 'pagecookie.org') ||
 shExpMatch(host, 'pagefair.com') ||
-shExpMatch(host, 'pagefair.net') ||
 shExpMatch(host, 'pagerank-ranking.com') ||
 shExpMatch(host, 'pagerank-ranking.de') ||
 shExpMatch(host, 'pagerank-server7.de') ||
@@ -33571,7 +33565,6 @@ shExpMatch(host, 'travis.bosscasinos.com') ||
 shExpMatch(host, 'trax-doma.ru') ||
 shExpMatch(host, 'traxster.net') ||
 shExpMatch(host, 'trck.a8.net') ||
-shExpMatch(host, 'trcked.me') ||
 shExpMatch(host, 'trcklion.com') ||
 shExpMatch(host, 'treasuredata.com') ||
 shExpMatch(host, 'treestructurezeroes.pingpong-shop.info') ||
@@ -33617,6 +33610,7 @@ shExpMatch(host, 'trippinger.com') ||
 shExpMatch(host, 'triptease.io') ||
 shExpMatch(host, 'trix.net') ||
 shExpMatch(host, 'trixcase.com') ||
+shExpMatch(host, 'trk.bad-tool-tell-doubt.xyz') ||
 shExpMatch(host, 'trk.bc.shutterfly.com') ||
 shExpMatch(host, 'trk.bee-data.com') ||
 shExpMatch(host, 'trk.pinterest.com') ||
