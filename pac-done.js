@@ -1,4 +1,4 @@
-// **** Sun Oct 30 06:57:26 PM UTC 2022
+// **** Tue Nov  8 10:34:12 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -13269,7 +13269,6 @@ shExpMatch(host, '*.referrer.disqus.com') ||
 shExpMatch(host, '*.refireads.com') ||
 shExpMatch(host, '*.reflectivereward.com') ||
 shExpMatch(host, '*.reflexonature.free.fr') ||
-shExpMatch(host, '*.reforge.in') ||
 shExpMatch(host, '*.refund.sh') ||
 shExpMatch(host, '*.regalhacks.com') ||
 shExpMatch(host, '*.regedintheclub.info') ||
@@ -13816,7 +13815,6 @@ shExpMatch(host, '*.sekaze.ru') ||
 shExpMatch(host, '*.selectivesummer.com') ||
 shExpMatch(host, '*.selectivparfumes.ru') ||
 shExpMatch(host, '*.sellarafaeli.com') ||
-shExpMatch(host, '*.sellix.io') ||
 shExpMatch(host, '*.selxaqop.us') ||
 shExpMatch(host, '*.semasio.net') ||
 shExpMatch(host, '*.semec.ru') ||
@@ -15155,6 +15153,7 @@ shExpMatch(host, '*.tamilcm.com') ||
 shExpMatch(host, '*.tangerinenet.biz') ||
 shExpMatch(host, '*.tangibleteam.com') ||
 shExpMatch(host, '*.tangoing.info') ||
+shExpMatch(host, '*.tangyamount.com') ||
 shExpMatch(host, '*.tanki.best-hacks.net') ||
 shExpMatch(host, '*.tankihack.best-hacks.net') ||
 shExpMatch(host, '*.tapad.com') ||
@@ -31031,7 +31030,6 @@ shExpMatch(host, 'referrer.disqus.com') ||
 shExpMatch(host, 'refireads.com') ||
 shExpMatch(host, 'reflectivereward.com') ||
 shExpMatch(host, 'reflexonature.free.fr') ||
-shExpMatch(host, 'reforge.in') ||
 shExpMatch(host, 'refund.sh') ||
 shExpMatch(host, 'regalhacks.com') ||
 shExpMatch(host, 'regedintheclub.info') ||
@@ -31578,7 +31576,6 @@ shExpMatch(host, 'sekaze.ru') ||
 shExpMatch(host, 'selectivesummer.com') ||
 shExpMatch(host, 'selectivparfumes.ru') ||
 shExpMatch(host, 'sellarafaeli.com') ||
-shExpMatch(host, 'sellix.io') ||
 shExpMatch(host, 'selxaqop.us') ||
 shExpMatch(host, 'semasio.net') ||
 shExpMatch(host, 'semec.ru') ||
@@ -32917,6 +32914,7 @@ shExpMatch(host, 'tamilcm.com') ||
 shExpMatch(host, 'tangerinenet.biz') ||
 shExpMatch(host, 'tangibleteam.com') ||
 shExpMatch(host, 'tangoing.info') ||
+shExpMatch(host, 'tangyamount.com') ||
 shExpMatch(host, 'tanki.best-hacks.net') ||
 shExpMatch(host, 'tankihack.best-hacks.net') ||
 shExpMatch(host, 'tapad.com') ||
