@@ -4494,7 +4494,6 @@ deny from 118.145.5.20/31
 deny from 118.145.5.22/32
 deny from 118.145.5.27/32
 deny from 119.15.70.9/32
-deny from 119.15.70.147/32
 deny from 119.31.248.68/32
 deny from 119.59.124.169/32
 deny from 119.77.12.181/32
@@ -5932,7 +5931,6 @@ deny from 202.239.162.253/32
 deny from 202.248.228.20/32
 deny from 203.2.192.124/32
 deny from 203.26.5.11/32
-deny from 203.26.51.42/32
 deny from 203.26.51.50/32
 deny from 203.26.51.157/32
 deny from 203.26.51.172/32
