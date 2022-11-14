@@ -1,4 +1,4 @@
-# Tue Nov  8 11:11:25 PM UTC 2022
+# Mon Nov 14 05:38:58 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -481,6 +481,7 @@
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
@@ -3800,6 +3801,7 @@
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gd2.mookie1.com
 0.0.0.0 gdeslon.ru
+0.0.0.0 gdl.i9dhjx.ru
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdn.socdm.com
 0.0.0.0 gdpr.rw.yieldmo.com
@@ -6555,6 +6557,7 @@
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
+0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensors.snaptubeapp.com
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sentry.justwatch.com
