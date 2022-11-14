@@ -1,4 +1,4 @@
-# Mon Nov 14 05:39:15 PM UTC 2022
+# Mon Nov 14 05:43:02 PM UTC 2022
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
