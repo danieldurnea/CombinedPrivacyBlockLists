@@ -1,4 +1,4 @@
-// **** Tue Nov  8 11:18:37 PM UTC 2022
+// **** Mon Nov 14 05:46:22 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3850,6 +3850,7 @@ shExpMatch(host, '*.clickbank.net') ||
 shExpMatch(host, '*.clickbooth.com') ||
 shExpMatch(host, '*.clickboothlnk.com') ||
 shExpMatch(host, '*.clickbrokers.com') ||
+shExpMatch(host, '*.clickcease.com') ||
 shExpMatch(host, '*.clickcompare.co.uk') ||
 shExpMatch(host, '*.clickdensity.com') ||
 shExpMatch(host, '*.clickedyclick.com') ||
@@ -5335,7 +5336,6 @@ shExpMatch(host, '*.downloadpokemonxandy.com') ||
 shExpMatch(host, '*.downloadpokemonxy.com') ||
 shExpMatch(host, '*.downloadprivate.com') ||
 shExpMatch(host, '*.downloadps3jailbreak.com') ||
-shExpMatch(host, '*.downloadr.xyz') ||
 shExpMatch(host, '*.downloadri.com') ||
 shExpMatch(host, '*.downloads-whatsapp.com') ||
 shExpMatch(host, '*.downloadsafe.org') ||
@@ -8994,6 +8994,7 @@ shExpMatch(host, '*.hs.vc') ||
 shExpMatch(host, '*.hsadspixel.net') ||
 shExpMatch(host, '*.hsh-dayz.com') ||
 shExpMatch(host, '*.hship.org') ||
+shExpMatch(host, '*.hsleadflows.net') ||
 shExpMatch(host, '*.hsn.uqhv.net') ||
 shExpMatch(host, '*.hst-19-33.splius.lt') ||
 shExpMatch(host, '*.ht1.in') ||
@@ -16360,6 +16361,7 @@ shExpMatch(host, '*.velti.com') ||
 shExpMatch(host, '*.veltrodevelopment.com') ||
 shExpMatch(host, '*.vendoradvocatemelb.com.au') ||
 shExpMatch(host, '*.venetrigni.com') ||
+shExpMatch(host, '*.vengefulgrass.com') ||
 shExpMatch(host, '*.ventergy.com') ||
 shExpMatch(host, '*.ventivmedia.com') ||
 shExpMatch(host, '*.venturead.com') ||
@@ -21611,6 +21613,7 @@ shExpMatch(host, 'clickbank.net') ||
 shExpMatch(host, 'clickbooth.com') ||
 shExpMatch(host, 'clickboothlnk.com') ||
 shExpMatch(host, 'clickbrokers.com') ||
+shExpMatch(host, 'clickcease.com') ||
 shExpMatch(host, 'clickcompare.co.uk') ||
 shExpMatch(host, 'clickdensity.com') ||
 shExpMatch(host, 'clickedyclick.com') ||
@@ -23096,7 +23099,6 @@ shExpMatch(host, 'downloadpokemonxandy.com') ||
 shExpMatch(host, 'downloadpokemonxy.com') ||
 shExpMatch(host, 'downloadprivate.com') ||
 shExpMatch(host, 'downloadps3jailbreak.com') ||
-shExpMatch(host, 'downloadr.xyz') ||
 shExpMatch(host, 'downloadri.com') ||
 shExpMatch(host, 'downloads-whatsapp.com') ||
 shExpMatch(host, 'downloadsafe.org') ||
@@ -26755,6 +26757,7 @@ shExpMatch(host, 'hs.vc') ||
 shExpMatch(host, 'hsadspixel.net') ||
 shExpMatch(host, 'hsh-dayz.com') ||
 shExpMatch(host, 'hship.org') ||
+shExpMatch(host, 'hsleadflows.net') ||
 shExpMatch(host, 'hsn.uqhv.net') ||
 shExpMatch(host, 'hst-19-33.splius.lt') ||
 shExpMatch(host, 'ht1.in') ||
@@ -34121,6 +34124,7 @@ shExpMatch(host, 'velti.com') ||
 shExpMatch(host, 'veltrodevelopment.com') ||
 shExpMatch(host, 'vendoradvocatemelb.com.au') ||
 shExpMatch(host, 'venetrigni.com') ||
+shExpMatch(host, 'vengefulgrass.com') ||
 shExpMatch(host, 'ventergy.com') ||
 shExpMatch(host, 'ventivmedia.com') ||
 shExpMatch(host, 'venturead.com') ||
