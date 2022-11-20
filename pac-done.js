@@ -1,4 +1,4 @@
-// **** Mon Nov 14 05:46:22 PM UTC 2022
+// **** Sun Nov 20 07:06:25 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -951,7 +951,6 @@ shExpMatch(host, '*.ads.colombiaonline.com') ||
 shExpMatch(host, '*.ads.com.com') ||
 shExpMatch(host, '*.ads.comeon.com') ||
 shExpMatch(host, '*.ads.contactmusic.com') ||
-shExpMatch(host, '*.ads.contentabc.com') ||
 shExpMatch(host, '*.ads.contextweb.com') ||
 shExpMatch(host, '*.ads.crakmedia.com') ||
 shExpMatch(host, '*.ads.creative-serving.com') ||
@@ -3826,6 +3825,7 @@ shExpMatch(host, '*.click.bkdpt.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
 shExpMatch(host, '*.click.cision.com') ||
 shExpMatch(host, '*.click.classmates.com') ||
+shExpMatch(host, '*.click.comm.rcibank.co.uk') ||
 shExpMatch(host, '*.click.digital.metaquestmail.com') ||
 shExpMatch(host, '*.click.em.blizzard.com') ||
 shExpMatch(host, '*.click.fool.com') ||
@@ -3834,6 +3834,7 @@ shExpMatch(host, '*.click.hooligapps.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
 shExpMatch(host, '*.click.news.vans.com') ||
+shExpMatch(host, '*.click.nl.npr.org') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
 shExpMatch(host, '*.click2freemoney.com') ||
 shExpMatch(host, '*.click2paid.com') ||
@@ -3867,7 +3868,9 @@ shExpMatch(host, '*.clickmeter.ru') ||
 shExpMatch(host, '*.clickonometrics.pl') ||
 shExpMatch(host, '*.clicks.deliveroo.co.uk') ||
 shExpMatch(host, '*.clicks.equantum.com') ||
+shExpMatch(host, '*.clicks.eventbrite.com') ||
 shExpMatch(host, '*.clicks.mods.de') ||
+shExpMatch(host, '*.clicks.monzo.com') ||
 shExpMatch(host, '*.clickserve.cc-dt.com') ||
 shExpMatch(host, '*.clicksor-com.eastmoney.com.mobile-de.homesaleplus.ru') ||
 shExpMatch(host, '*.clicksor.com') ||
@@ -11984,7 +11987,6 @@ shExpMatch(host, '*.openx.skinet.cz') ||
 shExpMatch(host, '*.openx.smcaen.fr') ||
 shExpMatch(host, '*.openx2.kytary.cz') ||
 shExpMatch(host, '*.operationchicken.com') ||
-shExpMatch(host, '*.operationkettle.com') ||
 shExpMatch(host, '*.opercase.com') ||
 shExpMatch(host, '*.opexchange.com') ||
 shExpMatch(host, '*.opienetwork.com') ||
@@ -14939,6 +14941,7 @@ shExpMatch(host, '*.streamunion.com') ||
 shExpMatch(host, '*.streamvid.tv') ||
 shExpMatch(host, '*.stresser.science') ||
 shExpMatch(host, '*.stressthem.to') ||
+shExpMatch(host, '*.stretchsquirrel.com') ||
 shExpMatch(host, '*.strikead.com') ||
 shExpMatch(host, '*.strikeiron.com') ||
 shExpMatch(host, '*.stripedburst.com') ||
@@ -15229,6 +15232,7 @@ shExpMatch(host, '*.tecnocuer.com') ||
 shExpMatch(host, '*.tecros.ru') ||
 shExpMatch(host, '*.tecslide.com') ||
 shExpMatch(host, '*.tecviqir.ru') ||
+shExpMatch(host, '*.tediousticket.com') ||
 shExpMatch(host, '*.tedioustooth.com') ||
 shExpMatch(host, '*.teenrevenue.com') ||
 shExpMatch(host, '*.teenyvolcano.com') ||
@@ -18714,7 +18718,6 @@ shExpMatch(host, 'ads.colombiaonline.com') ||
 shExpMatch(host, 'ads.com.com') ||
 shExpMatch(host, 'ads.comeon.com') ||
 shExpMatch(host, 'ads.contactmusic.com') ||
-shExpMatch(host, 'ads.contentabc.com') ||
 shExpMatch(host, 'ads.contextweb.com') ||
 shExpMatch(host, 'ads.crakmedia.com') ||
 shExpMatch(host, 'ads.creative-serving.com') ||
@@ -21589,6 +21592,7 @@ shExpMatch(host, 'click.bkdpt.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
 shExpMatch(host, 'click.cision.com') ||
 shExpMatch(host, 'click.classmates.com') ||
+shExpMatch(host, 'click.comm.rcibank.co.uk') ||
 shExpMatch(host, 'click.digital.metaquestmail.com') ||
 shExpMatch(host, 'click.em.blizzard.com') ||
 shExpMatch(host, 'click.fool.com') ||
@@ -21597,6 +21601,7 @@ shExpMatch(host, 'click.hooligapps.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
 shExpMatch(host, 'click.news.vans.com') ||
+shExpMatch(host, 'click.nl.npr.org') ||
 shExpMatch(host, 'click.twcwigs.com') ||
 shExpMatch(host, 'click2freemoney.com') ||
 shExpMatch(host, 'click2paid.com') ||
@@ -21630,7 +21635,9 @@ shExpMatch(host, 'clickmeter.ru') ||
 shExpMatch(host, 'clickonometrics.pl') ||
 shExpMatch(host, 'clicks.deliveroo.co.uk') ||
 shExpMatch(host, 'clicks.equantum.com') ||
+shExpMatch(host, 'clicks.eventbrite.com') ||
 shExpMatch(host, 'clicks.mods.de') ||
+shExpMatch(host, 'clicks.monzo.com') ||
 shExpMatch(host, 'clickserve.cc-dt.com') ||
 shExpMatch(host, 'clicksor-com.eastmoney.com.mobile-de.homesaleplus.ru') ||
 shExpMatch(host, 'clicksor.com') ||
@@ -29747,7 +29754,6 @@ shExpMatch(host, 'openx.skinet.cz') ||
 shExpMatch(host, 'openx.smcaen.fr') ||
 shExpMatch(host, 'openx2.kytary.cz') ||
 shExpMatch(host, 'operationchicken.com') ||
-shExpMatch(host, 'operationkettle.com') ||
 shExpMatch(host, 'opercase.com') ||
 shExpMatch(host, 'opexchange.com') ||
 shExpMatch(host, 'opienetwork.com') ||
@@ -32702,6 +32708,7 @@ shExpMatch(host, 'streamunion.com') ||
 shExpMatch(host, 'streamvid.tv') ||
 shExpMatch(host, 'stresser.science') ||
 shExpMatch(host, 'stressthem.to') ||
+shExpMatch(host, 'stretchsquirrel.com') ||
 shExpMatch(host, 'strikead.com') ||
 shExpMatch(host, 'strikeiron.com') ||
 shExpMatch(host, 'stripedburst.com') ||
@@ -32992,6 +32999,7 @@ shExpMatch(host, 'tecnocuer.com') ||
 shExpMatch(host, 'tecros.ru') ||
 shExpMatch(host, 'tecslide.com') ||
 shExpMatch(host, 'tecviqir.ru') ||
+shExpMatch(host, 'tediousticket.com') ||
 shExpMatch(host, 'tedioustooth.com') ||
 shExpMatch(host, 'teenrevenue.com') ||
 shExpMatch(host, 'teenyvolcano.com') ||
