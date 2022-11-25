@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Oct 23 05:55:55 PM UTC 2022
+! Updated: Fri Nov 25 04:42:49 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -12,6 +12,8 @@
 420chan.org##[id^="cummywrapper"]
 4chan.org##body > .mobile.adg-rects
 4channel.org##body > .mobile.adg-rects
+4chan.org##[class*="danbo"]
+4channel.org##[class*="danbo"]
 8kun.top##.disclaimer-8kun
 8kun.top##.thread_ads
 accuradio.com###playerSkipLoading
