@@ -1,4 +1,4 @@
-// **** Sun Nov 20 07:06:25 PM UTC 2022
+// **** Fri Nov 25 03:52:41 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -11012,6 +11012,7 @@ shExpMatch(host, '*.mnets.ru') ||
 shExpMatch(host, '*.mno.ijssalonlekker.nl') ||
 shExpMatch(host, '*.mnogobab.com') ||
 shExpMatch(host, '*.mnshdq.com') ||
+shExpMatch(host, '*.mntzrlt.net') ||
 shExpMatch(host, '*.moacbeniv.com') ||
 shExpMatch(host, '*.moadnet.com') ||
 shExpMatch(host, '*.moaramariei.ro') ||
@@ -12361,6 +12362,7 @@ shExpMatch(host, '*.pimproll.com') ||
 shExpMatch(host, '*.pinay.leak-video.org') ||
 shExpMatch(host, '*.pincheat.com') ||
 shExpMatch(host, '*.pinevalleycourt.co.uk') ||
+shExpMatch(host, '*.ping.ublock.org') ||
 shExpMatch(host, '*.pingpong-shop.info') ||
 shExpMatch(host, '*.pinkpillar.ru') ||
 shExpMatch(host, '*.pipedream.wistia.com') ||
@@ -28779,6 +28781,7 @@ shExpMatch(host, 'mnets.ru') ||
 shExpMatch(host, 'mno.ijssalonlekker.nl') ||
 shExpMatch(host, 'mnogobab.com') ||
 shExpMatch(host, 'mnshdq.com') ||
+shExpMatch(host, 'mntzrlt.net') ||
 shExpMatch(host, 'moacbeniv.com') ||
 shExpMatch(host, 'moadnet.com') ||
 shExpMatch(host, 'moaramariei.ro') ||
@@ -30128,6 +30131,7 @@ shExpMatch(host, 'pimproll.com') ||
 shExpMatch(host, 'pinay.leak-video.org') ||
 shExpMatch(host, 'pincheat.com') ||
 shExpMatch(host, 'pinevalleycourt.co.uk') ||
+shExpMatch(host, 'ping.ublock.org') ||
 shExpMatch(host, 'pingpong-shop.info') ||
 shExpMatch(host, 'pinkpillar.ru') ||
 shExpMatch(host, 'pipedream.wistia.com') ||
