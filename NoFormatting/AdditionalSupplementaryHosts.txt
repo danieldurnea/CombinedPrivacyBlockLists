@@ -1018,7 +1018,6 @@
 0.0.0.0 absurdwater.com
 0.0.0.0 abuhureira.sc.ke
 0.0.0.0 abundanceandbusinessacademy.com
-0.0.0.0 abuqir.net
 0.0.0.0 abvyoh.com
 0.0.0.0 abz.com
 0.0.0.0 ac-transfer.com
@@ -8772,7 +8771,6 @@
 0.0.0.0 biobiodrones.cl
 0.0.0.0 bioenergyeurope.it
 0.0.0.0 biogreentechnology.com
-0.0.0.0 biogroup.in
 0.0.0.0 birdcallml.com
 0.0.0.0 birkin30.com
 0.0.0.0 birlaniyaaramumbai.in
@@ -16779,7 +16777,6 @@
 0.0.0.0 guesswhatnews.com
 0.0.0.0 guiasalud.com.ec
 0.0.0.0 guile.jp
-0.0.0.0 guilhermewithana.com
 0.0.0.0 guillermoferrara.org
 0.0.0.0 guiltlessbasketball.com
 0.0.0.0 guitarbelieve.com
@@ -19367,7 +19364,6 @@
 0.0.0.0 jumpinghouse.org
 0.0.0.0 jumpingjetz.net
 0.0.0.0 jumptap.com
-0.0.0.0 junaidolaridwan.com
 0.0.0.0 junbi-tracker.com
 0.0.0.0 junk-cleaner.org
 0.0.0.0 junkcollectionservices.com
@@ -26482,7 +26478,6 @@
 0.0.0.0 pushub.net
 0.0.0.0 pussl48.com
 0.0.0.0 putin-malwrhunterteams.com
-0.0.0.0 puxtv.com
 0.0.0.0 puzzlingfall.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pv.medialead.de
@@ -27431,7 +27426,6 @@
 0.0.0.0 req.appads.com
 0.0.0.0 req.appads.in
 0.0.0.0 request.adrcdn.com
-0.0.0.0 requitelove.com
 0.0.0.0 rereferrme.xyz
 0.0.0.0 reregaton.com
 0.0.0.0 rerplan.tk

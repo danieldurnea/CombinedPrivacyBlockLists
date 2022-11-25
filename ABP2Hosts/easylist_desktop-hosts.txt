@@ -1,4 +1,4 @@
-# Fri Nov 25 03:36:34 PM UTC 2022
+# Fri Nov 25 03:42:12 PM UTC 2022
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0-owazo4.net.zooplus.de
