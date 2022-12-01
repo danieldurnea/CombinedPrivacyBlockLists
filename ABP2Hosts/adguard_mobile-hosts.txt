@@ -1,4 +1,4 @@
-# Fri Nov 25 03:41:39 PM UTC 2022
+# Thu Dec  1 03:24:09 AM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2205,6 +2205,7 @@
 0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 bugly.qq.com
+0.0.0.0 bugs2022.com
 0.0.0.0 bugsee-api-prod.elasticbeanstalk.com
 0.0.0.0 bugsense.com
 0.0.0.0 build-cdn.liftoff.io
@@ -3154,10 +3155,6 @@
 0.0.0.0 daxuetong.zone
 0.0.0.0 db.utag.ijinshan.com
 0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 dbankcloud.asia
-0.0.0.0 dbankcloud.cn
-0.0.0.0 dbankcloud.eu
-0.0.0.0 dbankcloud.ru
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbs.pushwoosh.com
 0.0.0.0 dc.banggood.com
@@ -6700,6 +6697,7 @@
 0.0.0.0 sitemaji.com
 0.0.0.0 siterecruit.comscore.com
 0.0.0.0 sitescout.com
+0.0.0.0 sitewithg.me
 0.0.0.0 sj-mknodepub.marketo.com
 0.0.0.0 sj.ijinshan.com
 0.0.0.0 sjc-249.sjc-rtb1.rfihub.com
