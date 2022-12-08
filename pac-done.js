@@ -1,4 +1,4 @@
-// **** Thu Dec  1 03:40:55 AM UTC 2022
+// **** Thu Dec  8 05:49:09 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1951,6 +1951,7 @@ shExpMatch(host, '*.analytics.inlinemanual.com') ||
 shExpMatch(host, '*.analytics.jst.ai') ||
 shExpMatch(host, '*.analytics.justuno.com') ||
 shExpMatch(host, '*.analytics.live.com') ||
+shExpMatch(host, '*.analytics.lucid.app') ||
 shExpMatch(host, '*.analytics.mailmunch.co') ||
 shExpMatch(host, '*.analytics.mobile.yandex.net') ||
 shExpMatch(host, '*.analytics.myfinance.com') ||
@@ -1963,7 +1964,6 @@ shExpMatch(host, '*.analytics.poolshool.com') ||
 shExpMatch(host, '*.analytics.posttv.com') ||
 shExpMatch(host, '*.analytics.samdd.me') ||
 shExpMatch(host, '*.analytics.santander.co.uk') ||
-shExpMatch(host, '*.analytics.siliconexpert.com') ||
 shExpMatch(host, '*.analytics.swiggy.com') ||
 shExpMatch(host, '*.analytics.tiktok.com') ||
 shExpMatch(host, '*.analytics.xelondigital.com') ||
@@ -3839,6 +3839,7 @@ shExpMatch(host, '*.click.em.blizzard.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.hookupinyourcity.com') ||
 shExpMatch(host, '*.click.hooligapps.com') ||
+shExpMatch(host, '*.click.infoblox.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
 shExpMatch(host, '*.click.news.vans.com') ||
@@ -10619,7 +10620,6 @@ shExpMatch(host, '*.mathskins.com') ||
 shExpMatch(host, '*.mathtag.com') ||
 shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomo.crossiety.app') ||
-shExpMatch(host, '*.matomo.hdweb.ru') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matrics.ro') ||
 shExpMatch(host, '*.matt-zone.com') ||
@@ -19732,6 +19732,7 @@ shExpMatch(host, 'analytics.inlinemanual.com') ||
 shExpMatch(host, 'analytics.jst.ai') ||
 shExpMatch(host, 'analytics.justuno.com') ||
 shExpMatch(host, 'analytics.live.com') ||
+shExpMatch(host, 'analytics.lucid.app') ||
 shExpMatch(host, 'analytics.mailmunch.co') ||
 shExpMatch(host, 'analytics.mobile.yandex.net') ||
 shExpMatch(host, 'analytics.myfinance.com') ||
@@ -19744,7 +19745,6 @@ shExpMatch(host, 'analytics.poolshool.com') ||
 shExpMatch(host, 'analytics.posttv.com') ||
 shExpMatch(host, 'analytics.samdd.me') ||
 shExpMatch(host, 'analytics.santander.co.uk') ||
-shExpMatch(host, 'analytics.siliconexpert.com') ||
 shExpMatch(host, 'analytics.swiggy.com') ||
 shExpMatch(host, 'analytics.tiktok.com') ||
 shExpMatch(host, 'analytics.xelondigital.com') ||
@@ -21620,6 +21620,7 @@ shExpMatch(host, 'click.em.blizzard.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.hookupinyourcity.com') ||
 shExpMatch(host, 'click.hooligapps.com') ||
+shExpMatch(host, 'click.infoblox.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
 shExpMatch(host, 'click.news.vans.com') ||
@@ -28400,7 +28401,6 @@ shExpMatch(host, 'mathskins.com') ||
 shExpMatch(host, 'mathtag.com') ||
 shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomo.crossiety.app') ||
-shExpMatch(host, 'matomo.hdweb.ru') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matrics.ro') ||
 shExpMatch(host, 'matt-zone.com') ||
