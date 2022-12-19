@@ -1,4 +1,5 @@
-# Combined Privacy Block Lists (Updates will be a bit slower than usual due to a very recent death in the family)
+# Combined Privacy Block Lists  
+(Updates will be a bit slower than usual due to a very recent death in the family)
 <p align="left">
   <img src="https://i.imgur.com/tmiMGph.png">
   <img src="https://i.imgur.com/yZ6NnIW.png">
