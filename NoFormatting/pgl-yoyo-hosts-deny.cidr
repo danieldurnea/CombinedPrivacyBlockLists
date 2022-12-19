@@ -7952,8 +7952,6 @@ deny from 217.19.248.132/31
 deny from 217.20.17.70/32
 deny from 217.20.130.17/32
 deny from 217.20.131.7/32
-deny from 217.20.163.67/32
-deny from 217.20.163.221/32
 deny from 217.21.132.24/32
 deny from 217.22.65.24/32
 deny from 217.29.32.152/32
