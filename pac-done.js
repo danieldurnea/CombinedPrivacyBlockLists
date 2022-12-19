@@ -1,4 +1,4 @@
-// **** Thu Dec  8 05:49:09 PM UTC 2022
+// **** Mon Dec 19 10:23:21 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3351,6 +3351,7 @@ shExpMatch(host, '*.cartepsn.fr') ||
 shExpMatch(host, '*.cartionel.club') ||
 shExpMatch(host, '*.cartouchespourfondationdesbrules.be') ||
 shExpMatch(host, '*.cartstack.com') ||
+shExpMatch(host, '*.carvecakes.com') ||
 shExpMatch(host, '*.cas7.co.cc') ||
 shExpMatch(host, '*.casadesaudepa.com.br') ||
 shExpMatch(host, '*.casalemedia.com') ||
@@ -3839,9 +3840,11 @@ shExpMatch(host, '*.click.em.blizzard.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.hookupinyourcity.com') ||
 shExpMatch(host, '*.click.hooligapps.com') ||
+shExpMatch(host, '*.click.i.southwesternrailway.com') ||
 shExpMatch(host, '*.click.infoblox.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
+shExpMatch(host, '*.click.mkt.grab.com') ||
 shExpMatch(host, '*.click.news.vans.com') ||
 shExpMatch(host, '*.click.nl.npr.org') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
@@ -15467,7 +15470,6 @@ shExpMatch(host, '*.thruport.com') ||
 shExpMatch(host, '*.thugskins.top') ||
 shExpMatch(host, '*.thunderhead.com') ||
 shExpMatch(host, '*.thunderruncheats.elitegamershub.com') ||
-shExpMatch(host, '*.ti.domainforlite.com') ||
 shExpMatch(host, '*.tia.timeinc.net') ||
 shExpMatch(host, '*.tiande-rivne-com-ua.1gb.ua') ||
 shExpMatch(host, '*.tiburon.viralvideos.es') ||
@@ -16222,7 +16224,6 @@ shExpMatch(host, '*.unveilhacks.com') ||
 shExpMatch(host, '*.unwieldyhealth.com') ||
 shExpMatch(host, '*.unwrittenspot.com') ||
 shExpMatch(host, '*.uomo-shopping.com') ||
-shExpMatch(host, '*.uowbqce.surf') ||
 shExpMatch(host, '*.up-flow.org') ||
 shExpMatch(host, '*.up.mykings.pw') ||
 shExpMatch(host, '*.updat120.clanteam.com') ||
@@ -21132,6 +21133,7 @@ shExpMatch(host, 'cartepsn.fr') ||
 shExpMatch(host, 'cartionel.club') ||
 shExpMatch(host, 'cartouchespourfondationdesbrules.be') ||
 shExpMatch(host, 'cartstack.com') ||
+shExpMatch(host, 'carvecakes.com') ||
 shExpMatch(host, 'cas7.co.cc') ||
 shExpMatch(host, 'casadesaudepa.com.br') ||
 shExpMatch(host, 'casalemedia.com') ||
@@ -21620,9 +21622,11 @@ shExpMatch(host, 'click.em.blizzard.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.hookupinyourcity.com') ||
 shExpMatch(host, 'click.hooligapps.com') ||
+shExpMatch(host, 'click.i.southwesternrailway.com') ||
 shExpMatch(host, 'click.infoblox.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
+shExpMatch(host, 'click.mkt.grab.com') ||
 shExpMatch(host, 'click.news.vans.com') ||
 shExpMatch(host, 'click.nl.npr.org') ||
 shExpMatch(host, 'click.twcwigs.com') ||
@@ -33248,7 +33252,6 @@ shExpMatch(host, 'thruport.com') ||
 shExpMatch(host, 'thugskins.top') ||
 shExpMatch(host, 'thunderhead.com') ||
 shExpMatch(host, 'thunderruncheats.elitegamershub.com') ||
-shExpMatch(host, 'ti.domainforlite.com') ||
 shExpMatch(host, 'tia.timeinc.net') ||
 shExpMatch(host, 'tiande-rivne-com-ua.1gb.ua') ||
 shExpMatch(host, 'tiburon.viralvideos.es') ||
@@ -34003,7 +34006,6 @@ shExpMatch(host, 'unveilhacks.com') ||
 shExpMatch(host, 'unwieldyhealth.com') ||
 shExpMatch(host, 'unwrittenspot.com') ||
 shExpMatch(host, 'uomo-shopping.com') ||
-shExpMatch(host, 'uowbqce.surf') ||
 shExpMatch(host, 'up-flow.org') ||
 shExpMatch(host, 'up.mykings.pw') ||
 shExpMatch(host, 'updat120.clanteam.com') ||
