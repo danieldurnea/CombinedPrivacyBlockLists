@@ -1,4 +1,4 @@
-// **** Mon Dec 19 10:23:21 PM UTC 2022
+// **** Sat Dec 24 09:04:57 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -13775,7 +13775,6 @@ shExpMatch(host, '*.seadform.net') ||
 shExpMatch(host, '*.search-box.in') ||
 shExpMatch(host, '*.searchcheat.com') ||
 shExpMatch(host, '*.searchfeast.com') ||
-shExpMatch(host, '*.searching-place.com') ||
 shExpMatch(host, '*.searchmarketing.com') ||
 shExpMatch(host, '*.searchnew.net') ||
 shExpMatch(host, '*.searchproducts2017.review') ||
@@ -31557,7 +31556,6 @@ shExpMatch(host, 'seadform.net') ||
 shExpMatch(host, 'search-box.in') ||
 shExpMatch(host, 'searchcheat.com') ||
 shExpMatch(host, 'searchfeast.com') ||
-shExpMatch(host, 'searching-place.com') ||
 shExpMatch(host, 'searchmarketing.com') ||
 shExpMatch(host, 'searchnew.net') ||
 shExpMatch(host, 'searchproducts2017.review') ||
