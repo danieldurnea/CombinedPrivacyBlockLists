@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Dec 27 08:36:52 PM UTC 2022
+! Updated: Tue Dec 27 08:47:49 PM UTC 2022
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -116125,8 +116125,6 @@ decrypt.co##[class*="adbutler"]
 democracynow.org###daily_digest_modal
 dextools.io##app-banner
 divestos.org###bearprompt
-docs.google.com##.docs-dialog.modal-dialog
-docs.google.com##.modal-dialog-bg
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
 eightvape.com##.mobile-6.desktop-12
@@ -116505,8 +116503,6 @@ rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
 uol.com.br##body:style(overflow: visible !important;)
-~docs.google.com##.modal-dialog-bg
-~docs.google.com##.docs-dialog.modal-dialog
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
 @@||amazon-adsystem.com^$domain=weather.com
 @@||api.segment.io^$xhr,domain=reuters.com
