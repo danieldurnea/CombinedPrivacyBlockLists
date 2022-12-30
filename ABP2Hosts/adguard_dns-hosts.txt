@@ -1,4 +1,4 @@
-# Fri Dec 30 07:44:42 AM UTC 2022
+# Fri Dec 30 07:49:46 AM UTC 2022
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru

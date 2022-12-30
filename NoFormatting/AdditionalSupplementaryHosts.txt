@@ -10641,6 +10641,7 @@
 0.0.0.0 chrome-update.com
 0.0.0.0 chrome.softupdate.xyz
 0.0.0.0 chrunlee.cn
+0.0.0.0 chuckozeas.com
 0.0.0.0 chuizi.icu
 0.0.0.0 chumtv.122.2o7.net
 0.0.0.0 chungfamily.us
@@ -19161,6 +19162,7 @@
 0.0.0.0 jgkxjhx-shoes05.com
 0.0.0.0 jgkxjhx-shoes08.com
 0.0.0.0 jgkxjhx-shoes09.com
+0.0.0.0 jhayesconsulting.com
 0.0.0.0 jhuzw.pw
 0.0.0.0 jicyst.cf
 0.0.0.0 jicyst.gq
@@ -24067,6 +24069,7 @@
 0.0.0.0 nitrokod.com
 0.0.0.0 niulzo.com
 0.0.0.0 nived.live
+0.0.0.0 nivezainvestments.com
 0.0.0.0 nixtin.us
 0.0.0.0 njmvc.112.2o7.net
 0.0.0.0 nk125srv.000webhostapp.com
@@ -25350,7 +25353,6 @@
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 paramountemporium.vip
 0.0.0.0 parcelcreature.com
-0.0.0.0 parcelinvoice.com
 0.0.0.0 parchedangle.com
 0.0.0.0 paret.live
 0.0.0.0 parfaype.xyz
@@ -33487,7 +33489,6 @@
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 uaalgee33.com
 0.0.0.0 uac.advertising.com
-0.0.0.0 uaery.top
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uapi.ads.oppomobile.com
 0.0.0.0 uarating.com
