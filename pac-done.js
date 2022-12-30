@@ -1,4 +1,4 @@
-// **** Sat Dec 24 09:04:57 AM UTC 2022
+// **** Fri Dec 30 07:53:09 AM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3678,6 +3678,7 @@ shExpMatch(host, '*.chronicfilez.com') ||
 shExpMatch(host, '*.chronicmirror.com') ||
 shExpMatch(host, '*.chroniczip.com') ||
 shExpMatch(host, '*.chsplantsales.co.uk') ||
+shExpMatch(host, '*.chubbycreature.com') ||
 shExpMatch(host, '*.chura.pl') ||
 shExpMatch(host, '*.cibleclick.com') ||
 shExpMatch(host, '*.ciclismovalenciano.com') ||
@@ -21459,6 +21460,7 @@ shExpMatch(host, 'chronicfilez.com') ||
 shExpMatch(host, 'chronicmirror.com') ||
 shExpMatch(host, 'chroniczip.com') ||
 shExpMatch(host, 'chsplantsales.co.uk') ||
+shExpMatch(host, 'chubbycreature.com') ||
 shExpMatch(host, 'chura.pl') ||
 shExpMatch(host, 'cibleclick.com') ||
 shExpMatch(host, 'ciclismovalenciano.com') ||
