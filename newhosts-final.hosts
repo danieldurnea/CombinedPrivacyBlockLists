@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/04/23~17:30:04 -~
+# ~- 01/04/23~18:04:41 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -7430,6 +7430,7 @@
 0.0.0.0 ad-web-ad.com
 0.0.0.0 ad-wheel.com
 0.0.0.0 ad-wisteria.excite.co.jp
+0.0.0.0 ad-words.ru
 0.0.0.0 ad-x.co.uk
 0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.103092804.com
@@ -12435,6 +12436,7 @@
 0.0.0.0 adserver.co.il
 0.0.0.0 adserver.colleges.com
 0.0.0.0 adserver.com
+0.0.0.0 adserver.com.my
 0.0.0.0 adserver.corusradionetwork.com
 0.0.0.0 adserver.creative-asia.com
 0.0.0.0 adserver.creativeinspire.com
@@ -12554,6 +12556,7 @@
 0.0.0.0 adserver.muaban.net
 0.0.0.0 adserver.myownemail.com
 0.0.0.0 adserver.nearby.cz
+0.0.0.0 adserver.net
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 adserver.netshahr.com
 0.0.0.0 adserver.news.com.au
@@ -12931,6 +12934,7 @@
 0.0.0.0 adsplius.lt
 0.0.0.0 adsplus.g2afse.com
 0.0.0.0 adsplus.vn
+0.0.0.0 adspoll.com
 0.0.0.0 adsponse.de
 0.0.0.0 adspop.me
 0.0.0.0 adspot.co
@@ -13636,6 +13640,7 @@
 0.0.0.0 advertop.ru
 0.0.0.0 advertpay.net
 0.0.0.0 advertpay.ru
+0.0.0.0 advertpro.com
 0.0.0.0 advertpro.investorvillage.com
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
@@ -13653,6 +13658,7 @@
 0.0.0.0 adverttraf.com
 0.0.0.0 advertur.ru
 0.0.0.0 advertwizard.com
+0.0.0.0 advertyz.com
 0.0.0.0 adverweb.ru
 0.0.0.0 advfandom.com
 0.0.0.0 advfeeds.com
