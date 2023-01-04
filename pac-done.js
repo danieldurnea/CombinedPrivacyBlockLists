@@ -1,4 +1,4 @@
-// **** Wed Jan  4 08:28:55 AM UTC 2023
+// **** Wed Jan  4 05:30:26 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -5477,7 +5477,6 @@ shExpMatch(host, '*.dsp.io') ||
 shExpMatch(host, '*.dssct.net') ||
 shExpMatch(host, '*.dstillery.com') ||
 shExpMatch(host, '*.dtalk.top') ||
-shExpMatch(host, '*.dtsrd.gov.cn') ||
 shExpMatch(host, '*.dtwzedqhz.ce.ms') ||
 shExpMatch(host, '*.duacerayo.com') ||
 shExpMatch(host, '*.dubemeqi.ru') ||
@@ -13923,8 +13922,10 @@ shExpMatch(host, '*.sexcounter.com') ||
 shExpMatch(host, '*.sexfunxcash.com') ||
 shExpMatch(host, '*.sexinyourcity.com') ||
 shExpMatch(host, '*.sexlist.com') ||
+shExpMatch(host, '*.sexmoney.com') ||
 shExpMatch(host, '*.sexologistpakistan.net') ||
 shExpMatch(host, '*.sextracker.com') ||
+shExpMatch(host, '*.sexueyun.com') ||
 shExpMatch(host, '*.sexy18.webcam') ||
 shExpMatch(host, '*.sexyfemalewrestlingmovies-c.com') ||
 shExpMatch(host, '*.sexyfemalewrestlingmovies.com') ||
@@ -14053,6 +14054,7 @@ shExpMatch(host, '*.silkysquirrel.com') ||
 shExpMatch(host, '*.sillyscrew.com') ||
 shExpMatch(host, '*.sillyslit.com') ||
 shExpMatch(host, '*.silurian.cn') ||
+shExpMatch(host, '*.silvercash.com') ||
 shExpMatch(host, '*.silvermob.com') ||
 shExpMatch(host, '*.silverupload.com') ||
 shExpMatch(host, '*.simcity.beta-keygen.com') ||
@@ -15091,6 +15093,7 @@ shExpMatch(host, '*.switchads.com') ||
 shExpMatch(host, '*.swithcoin.com') ||
 shExpMatch(host, '*.swordfishdc.com') ||
 shExpMatch(host, '*.swordgoose.com') ||
+shExpMatch(host, '*.swtest.ru') ||
 shExpMatch(host, '*.sx.trhnt.com') ||
 shExpMatch(host, '*.sxe-secure.com') ||
 shExpMatch(host, '*.sxe-shield.com') ||
@@ -23259,7 +23262,6 @@ shExpMatch(host, 'dsp.io') ||
 shExpMatch(host, 'dssct.net') ||
 shExpMatch(host, 'dstillery.com') ||
 shExpMatch(host, 'dtalk.top') ||
-shExpMatch(host, 'dtsrd.gov.cn') ||
 shExpMatch(host, 'dtwzedqhz.ce.ms') ||
 shExpMatch(host, 'duacerayo.com') ||
 shExpMatch(host, 'dubemeqi.ru') ||
@@ -31705,8 +31707,10 @@ shExpMatch(host, 'sexcounter.com') ||
 shExpMatch(host, 'sexfunxcash.com') ||
 shExpMatch(host, 'sexinyourcity.com') ||
 shExpMatch(host, 'sexlist.com') ||
+shExpMatch(host, 'sexmoney.com') ||
 shExpMatch(host, 'sexologistpakistan.net') ||
 shExpMatch(host, 'sextracker.com') ||
+shExpMatch(host, 'sexueyun.com') ||
 shExpMatch(host, 'sexy18.webcam') ||
 shExpMatch(host, 'sexyfemalewrestlingmovies-c.com') ||
 shExpMatch(host, 'sexyfemalewrestlingmovies.com') ||
@@ -31835,6 +31839,7 @@ shExpMatch(host, 'silkysquirrel.com') ||
 shExpMatch(host, 'sillyscrew.com') ||
 shExpMatch(host, 'sillyslit.com') ||
 shExpMatch(host, 'silurian.cn') ||
+shExpMatch(host, 'silvercash.com') ||
 shExpMatch(host, 'silvermob.com') ||
 shExpMatch(host, 'silverupload.com') ||
 shExpMatch(host, 'simcity.beta-keygen.com') ||
@@ -32873,6 +32878,7 @@ shExpMatch(host, 'switchads.com') ||
 shExpMatch(host, 'swithcoin.com') ||
 shExpMatch(host, 'swordfishdc.com') ||
 shExpMatch(host, 'swordgoose.com') ||
+shExpMatch(host, 'swtest.ru') ||
 shExpMatch(host, 'sx.trhnt.com') ||
 shExpMatch(host, 'sxe-secure.com') ||
 shExpMatch(host, 'sxe-shield.com') ||
