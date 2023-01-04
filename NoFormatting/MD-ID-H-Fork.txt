@@ -1063,7 +1063,6 @@
 0.0.0.0 ds-comzug.com
 0.0.0.0 dsjl.net
 0.0.0.0 dssct.net
-0.0.0.0 dtsrd.gov.cn
 0.0.0.0 dtwzedqhz.ce.ms
 0.0.0.0 ducknrun.com
 0.0.0.0 dullerappliances.ru
@@ -2874,7 +2873,9 @@
 0.0.0.0 setjetters.com
 0.0.0.0 seventa.ru
 0.0.0.0 sexfunxcash.com
+0.0.0.0 sexmoney.com
 0.0.0.0 sexologistpakistan.net
+0.0.0.0 sexueyun.com
 0.0.0.0 sexyfemalewrestlingmovies-c.com
 0.0.0.0 sexyfemalewrestlingmovies.com
 0.0.0.0 sexyoilwrestling.com
@@ -2905,6 +2906,7 @@
 0.0.0.0 shzbyb.com
 0.0.0.0 sillyslit.com
 0.0.0.0 silurian.cn
+0.0.0.0 silvercash.com
 0.0.0.0 simetservizi.com
 0.0.0.0 simpi.tourstogo.us
 0.0.0.0 simple-sales.ir
@@ -3140,6 +3142,7 @@
 0.0.0.0 sweepstakesandcontestsinfo.com
 0.0.0.0 sweepstakesandcontestsnow.com
 0.0.0.0 swhfinc.com
+0.0.0.0 swtest.ru
 0.0.0.0 sxlad.com
 0.0.0.0 syaniu.com
 0.0.0.0 syhaier.net
