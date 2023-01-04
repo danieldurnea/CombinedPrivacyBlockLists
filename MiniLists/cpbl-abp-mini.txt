@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Jan  4 05:39:51 PM UTC 2023
+! Updated: Wed Jan  4 06:10:35 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -4159,6 +4159,7 @@
 ||ad-web-ad.com^
 ||ad-wheel.com^
 ||ad-wisteria.excite.co.jp^
+||ad-words.ru^
 ||ad-x.co.uk^
 ||ad.100.tbn.ru^
 ||ad.20six.fr^
@@ -7865,6 +7866,7 @@
 ||adserver.co.il^
 ||adserver.colleges.com^
 ||adserver.com^
+||adserver.com.my^
 ||adserver.corusradionetwork.com^
 ||adserver.creative-asia.com^
 ||adserver.creativeinspire.com^
@@ -7970,6 +7972,7 @@
 ||adserver.muaban.net^
 ||adserver.myownemail.com^
 ||adserver.nearby.cz^
+||adserver.net^
 ||adserver.netcreators.nl^
 ||adserver.netshahr.com^
 ||adserver.news.com.au^
@@ -8276,6 +8279,7 @@
 ||adspleen.com^
 ||adsplius.lt^
 ||adsplus.vn^
+||adspoll.com^
 ||adsponse.de^
 ||adspop.me^
 ||adspot.co^
@@ -8786,6 +8790,7 @@
 ||advertom.com^
 ||advertpay.net^
 ||advertpay.ru^
+||advertpro.com^
 ||advertpro.investorvillage.com^
 ||advertpro.sitepoint.com^
 ||advertpro.ya.com^
@@ -8799,6 +8804,7 @@
 ||advertte.com^
 ||advertur.ru^
 ||advertwizard.com^
+||advertyz.com^
 ||advfeeds.com^
 ||advfromnwl.com^
 ||advgalaxy.com^
@@ -76395,7 +76401,6 @@
 ||www.actuabd.com^
 ||www.ad-groups.com^
 ||www.ad-net.co.uk^
-||www.ad-words.ru^
 ||www.ad1x.com^
 ||www.ad287.com^
 ||www.ad4m.at^
@@ -76449,11 +76454,8 @@
 ||www.adrotate.net^
 ||www.adscampaign.com^
 ||www.adsedo.com^
-||www.adserver.com.my^
-||www.adserver.net^
 ||www.adservtech.com^
 ||www.adspics.com^
-||www.adspoll.com^
 ||www.adszooks.com^
 ||www.adt.com.vn^
 ||www.adtarget.me^
@@ -76470,9 +76472,7 @@
 ||www.adverterenbijrtl.nl^
 ||www.adverterenzeeland.nl^
 ||www.advertising365.com^
-||www.advertpro.com^
 ||www.adverts.dcthomson.co.uk^
-||www.advertyz.com^
 ||www.adwarespy.com^
 ||www.adwidecenter.com^
 ||www.adwmg.com^
