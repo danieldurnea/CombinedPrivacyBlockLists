@@ -1,4 +1,4 @@
-// **** Fri Dec 30 07:53:09 AM UTC 2022
+// **** Wed Jan  4 07:04:33 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -578,7 +578,6 @@ shExpMatch(host, '*.ad0.bigmir.net') ||
 shExpMatch(host, '*.ad01.mediacorpsingapore.com') ||
 shExpMatch(host, '*.ad1.emediate.dk') ||
 shExpMatch(host, '*.ad1.emule-project.org') ||
-shExpMatch(host, '*.ad1.eventmanager.co.kr') ||
 shExpMatch(host, '*.ad1.kde.cz') ||
 shExpMatch(host, '*.ad1.pamedia.com.au') ||
 shExpMatch(host, '*.ad100sdhjsd.com') ||
@@ -2232,6 +2231,7 @@ shExpMatch(host, '*.askfmhackfinder.com') ||
 shExpMatch(host, '*.askfmtracker.info') ||
 shExpMatch(host, '*.asltralis-loot.fun') ||
 shExpMatch(host, '*.asly.net') ||
+shExpMatch(host, '*.aso1.net') ||
 shExpMatch(host, '*.asoxiate.com') ||
 shExpMatch(host, '*.asphalt7-android.org') ||
 shExpMatch(host, '*.asphalt8.hackfree.us') ||
@@ -10411,7 +10411,6 @@ shExpMatch(host, '*.ltcdrop.com') ||
 shExpMatch(host, '*.lubov.co.il') ||
 shExpMatch(host, '*.luchtenbergdecor.com.br') ||
 shExpMatch(host, '*.lucidmedia.com') ||
-shExpMatch(host, '*.lucklayed.info') ||
 shExpMatch(host, '*.lucky-cases.org') ||
 shExpMatch(host, '*.lucky-loot.com') ||
 shExpMatch(host, '*.luckyblank.info') ||
@@ -14399,6 +14398,7 @@ shExpMatch(host, '*.smartwebdesign.ro') ||
 shExpMatch(host, '*.smartyads.com') ||
 shExpMatch(host, '*.smashfree.net') ||
 shExpMatch(host, '*.smashingsports.co') ||
+shExpMatch(host, '*.smashquartz.com') ||
 shExpMatch(host, '*.smashsurprise.com') ||
 shExpMatch(host, '*.smetrics.10daily.com.au') ||
 shExpMatch(host, '*.smetrics.bestbuy.com') ||
@@ -18360,7 +18360,6 @@ shExpMatch(host, 'ad0.bigmir.net') ||
 shExpMatch(host, 'ad01.mediacorpsingapore.com') ||
 shExpMatch(host, 'ad1.emediate.dk') ||
 shExpMatch(host, 'ad1.emule-project.org') ||
-shExpMatch(host, 'ad1.eventmanager.co.kr') ||
 shExpMatch(host, 'ad1.kde.cz') ||
 shExpMatch(host, 'ad1.pamedia.com.au') ||
 shExpMatch(host, 'ad100sdhjsd.com') ||
@@ -20014,6 +20013,7 @@ shExpMatch(host, 'askfmhackfinder.com') ||
 shExpMatch(host, 'askfmtracker.info') ||
 shExpMatch(host, 'asltralis-loot.fun') ||
 shExpMatch(host, 'asly.net') ||
+shExpMatch(host, 'aso1.net') ||
 shExpMatch(host, 'asoxiate.com') ||
 shExpMatch(host, 'asphalt7-android.org') ||
 shExpMatch(host, 'asphalt8.hackfree.us') ||
@@ -28193,7 +28193,6 @@ shExpMatch(host, 'ltcdrop.com') ||
 shExpMatch(host, 'lubov.co.il') ||
 shExpMatch(host, 'luchtenbergdecor.com.br') ||
 shExpMatch(host, 'lucidmedia.com') ||
-shExpMatch(host, 'lucklayed.info') ||
 shExpMatch(host, 'lucky-cases.org') ||
 shExpMatch(host, 'lucky-loot.com') ||
 shExpMatch(host, 'luckyblank.info') ||
@@ -32181,6 +32180,7 @@ shExpMatch(host, 'smartwebdesign.ro') ||
 shExpMatch(host, 'smartyads.com') ||
 shExpMatch(host, 'smashfree.net') ||
 shExpMatch(host, 'smashingsports.co') ||
+shExpMatch(host, 'smashquartz.com') ||
 shExpMatch(host, 'smashsurprise.com') ||
 shExpMatch(host, 'smetrics.10daily.com.au') ||
 shExpMatch(host, 'smetrics.bestbuy.com') ||
