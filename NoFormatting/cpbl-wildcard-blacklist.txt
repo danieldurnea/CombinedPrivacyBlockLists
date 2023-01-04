@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/04/23~17:52:06 -~
+# ~- 01/04/23~18:21:03 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -5245,6 +5245,7 @@
 *.ad-web-ad.com
 *.ad-wheel.com
 *.ad-wisteria.excite.co.jp
+*.ad-words.ru
 *.ad-x.co.uk
 *.ad.100.tbn.ru
 *.ad.1k3.com
@@ -9369,6 +9370,7 @@
 *.adserver.clundressed.com
 *.adserver.co.il
 *.adserver.colleges.com
+*.adserver.com.my
 *.adserver.com
 *.adserver.corusradionetwork.com
 *.adserver.creative-asia.com
@@ -9477,6 +9479,7 @@
 *.adserver.nearby.cz
 *.adserver.netcreators.nl
 *.adserver.netshahr.com
+*.adserver.net
 *.adserver.news.com.au
 *.adserver.ngz-network.de
 *.adserver.nicestream.com
@@ -9817,6 +9820,7 @@
 *.adsplex.com
 *.adsplius.lt
 *.adsplus.vn
+*.adspoll.com
 *.adsponse.de
 *.adspop.me
 *.adspot.co
@@ -10438,6 +10442,7 @@
 *.advertop.ru
 *.advertpay.net
 *.advertpay.ru
+*.advertpro.com
 *.advertpro.investorvillage.com
 *.advertpro.sitepoint.com
 *.advertpro.ya.com
@@ -10455,6 +10460,7 @@
 *.adverttraf.com
 *.advertur.ru
 *.advertwizard.com
+*.advertyz.com
 *.adverweb.ru
 *.advfandom.com
 *.advfeeds.com
@@ -109303,7 +109309,6 @@
 *.www.actuabd.com
 *.www.ad-groups.com
 *.www.ad-net.co.uk
-*.www.ad-words.ru
 *.www.ad287.com
 *.www.ad4screen.com
 *.www.adbert.com.tw
@@ -109337,12 +109342,9 @@
 *.www.adrotate.net
 *.www.adscampaign.com
 *.www.adsedo.com
-*.www.adserver.com.my
-*.www.adserver.net
 *.www.adservtech.com
 *.www.adsnet.se
 *.www.adspics.com
-*.www.adspoll.com
 *.www.adszooks.com
 *.www.adtrader.com
 *.www.adult-top-list.com
@@ -109355,9 +109357,7 @@
 *.www.advanpromo.com
 *.www.adverterenbijrtl.nl
 *.www.adverterenzeeland.nl
-*.www.advertpro.com
 *.www.adverts.dcthomson.co.uk
-*.www.advertyz.com
 *.www.adwarespy.com
 *.www.adwidecenter.com
 *.www.adwmg.com
