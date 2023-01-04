@@ -1,4 +1,4 @@
-# Wed Jan  4 08:22:40 AM UTC 2023
+# Wed Jan  4 05:26:54 PM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -573,6 +573,7 @@
 0.0.0.0 29873398.com
 0.0.0.0 2999.store
 0.0.0.0 299f70c6b2.com
+0.0.0.0 29apfjmg2.de
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 29wjns.com
 0.0.0.0 2a2k3aom6.de
@@ -1178,6 +1179,7 @@
 0.0.0.0 62b70ac32d4614b.com
 0.0.0.0 62kjjhg.com
 0.0.0.0 6318537ccc.com
+0.0.0.0 6347032d45.com
 0.0.0.0 6374870abd.com
 0.0.0.0 6399tp.com
 0.0.0.0 63c4861697.com
@@ -5765,6 +5767,7 @@
 0.0.0.0 angelfishstats.com
 0.0.0.0 angerawkwardstricken.com
 0.0.0.0 angersteerpad.com
+0.0.0.0 anginasallodge.com
 0.0.0.0 anglebailiff.com
 0.0.0.0 anglended.club
 0.0.0.0 anglezinccompassionate.com
@@ -6135,6 +6138,7 @@
 0.0.0.0 applausesuch.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 applesometimes.com
+0.0.0.0 applets.ebxcdn.com
 0.0.0.0 applicantpoachmeat.com
 0.0.0.0 application-77my.com
 0.0.0.0 applicationgrabb.net
@@ -6464,6 +6468,7 @@
 0.0.0.0 asjsbew.cn
 0.0.0.0 askedantipathyhappiness.com
 0.0.0.0 askedappear.com
+0.0.0.0 askedopinionatedimmediately.com
 0.0.0.0 asketo.ru
 0.0.0.0 askfsh.cn
 0.0.0.0 askfuelads.com
@@ -7578,6 +7583,7 @@
 0.0.0.0 baronsoffers.com
 0.0.0.0 barotsetarente.com
 0.0.0.0 barpe.ru
+0.0.0.0 barrenmixture.pro
 0.0.0.0 barreraxyloid.com
 0.0.0.0 barriercereals.com
 0.0.0.0 barrowwailing.com
@@ -12919,6 +12925,7 @@
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2glav2919q4cw.cloudfront.net
+0.0.0.0 d2h2t5pll64zl8.cloudfront.net
 0.0.0.0 d2ho1n52p59mwv.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2hvwfg7vv4mhf.cloudfront.net
@@ -15533,6 +15540,7 @@
 0.0.0.0 eehuzaih.com
 0.0.0.0 eeksidro.com
 0.0.0.0 eel.transistor.fm
+0.0.0.0 eemedlikeama.xyz
 0.0.0.0 eempacmy.com
 0.0.0.0 eengbalu.fun
 0.0.0.0 eensoans.com
@@ -17074,6 +17082,7 @@
 0.0.0.0 felonlosel.com
 0.0.0.0 feltlonelyand.xyz
 0.0.0.0 femefaih.com
+0.0.0.0 femin.online
 0.0.0.0 femindexkilog.xyz
 0.0.0.0 fenacheaverage.com
 0.0.0.0 fenai.top
@@ -17175,6 +17184,7 @@
 0.0.0.0 fidelity-media.com
 0.0.0.0 fidelitybask.com
 0.0.0.0 fidxbyveu.xyz
+0.0.0.0 fidxclsyeowx.com
 0.0.0.0 fieldbilly.com
 0.0.0.0 fieldofbachus.com
 0.0.0.0 fiercedental.com
@@ -19565,6 +19575,7 @@
 0.0.0.0 gutouwang.net
 0.0.0.0 guuatqlmusy.xyz
 0.0.0.0 guwfusqa.com
+0.0.0.0 guxsxexlkdk.xyz
 0.0.0.0 gv4e.top
 0.0.0.0 gvapp.ru
 0.0.0.0 gvcmiz3vze3n.com
@@ -23687,6 +23698,7 @@
 0.0.0.0 kneltmayhem.com
 0.0.0.0 knewan.com
 0.0.0.0 knewy.com
+0.0.0.0 kneylhewould.xyz
 0.0.0.0 knifecontributionproposition.com
 0.0.0.0 knightsstatuesteering.com
 0.0.0.0 knightsyllabusimprobable.com
@@ -24164,6 +24176,7 @@
 0.0.0.0 lalaping.com
 0.0.0.0 lalerent.site
 0.0.0.0 laluvygy.com
+0.0.0.0 lalvpxjheogy.com
 0.0.0.0 lambda.center
 0.0.0.0 lamberserer.club
 0.0.0.0 lambingsyddir.com
@@ -28118,6 +28131,7 @@
 0.0.0.0 ndollarhe.com
 0.0.0.0 ndroip.com
 0.0.0.0 ndweandthe.xyz
+0.0.0.0 ndweandthep.xyz
 0.0.0.0 ndyzz.com
 0.0.0.0 neads.delivery
 0.0.0.0 neadwnhhis.xyz
@@ -28882,6 +28896,7 @@
 0.0.0.0 nspmotion.com
 0.0.0.0 nspot.co
 0.0.0.0 nsrealbig.ru
+0.0.0.0 nsshed.com
 0.0.0.0 nsstatic.com
 0.0.0.0 nsstatic.net
 0.0.0.0 nstarvardsus.com
@@ -29303,6 +29318,7 @@
 0.0.0.0 ofqvwaosjq.com
 0.0.0.0 ofregahen.com
 0.0.0.0 ofregahen.xyz
+0.0.0.0 ofrumhiswhelectua.info
 0.0.0.0 ofseedotom.com
 0.0.0.0 ofslakotha.com
 0.0.0.0 ofthecathedral.xyz
@@ -30307,6 +30323,7 @@
 0.0.0.0 pagiwp.com
 0.0.0.0 pagne4cham4hrobl.com
 0.0.0.0 pagoda56.com
+0.0.0.0 pagusafb.com
 0.0.0.0 paht.tech
 0.0.0.0 pahtag.tech
 0.0.0.0 pahtef.tech
@@ -30355,6 +30372,7 @@
 0.0.0.0 pamcavvupqm.com
 0.0.0.0 pamelarandom.com
 0.0.0.0 pampela.lol
+0.0.0.0 pamperencourage.com
 0.0.0.0 pamphletconspiracy.com
 0.0.0.0 pampopholf.com
 0.0.0.0 panaservers.com
@@ -32224,6 +32242,7 @@
 0.0.0.0 pryersdarat.digital
 0.0.0.0 pryrhoohs.site
 0.0.0.0 prytrainer.com
+0.0.0.0 ps123.online
 0.0.0.0 ps7894.com
 0.0.0.0 psaighid.com
 0.0.0.0 psaiptoh.net
@@ -33656,6 +33675,7 @@
 0.0.0.0 redanludb.xyz
 0.0.0.0 redarianman.com
 0.0.0.0 redatastore.ru
+0.0.0.0 redbillecphory.com
 0.0.0.0 redclick.ru
 0.0.0.0 redcounter.net
 0.0.0.0 reddenjaguarsuitcase.com
@@ -34841,6 +34861,7 @@
 0.0.0.0 runmewivel.com
 0.0.0.0 runn.fun
 0.0.0.0 runningman.site
+0.0.0.0 runnypage.pro
 0.0.0.0 runreferences.com
 0.0.0.0 runtedforcut.com
 0.0.0.0 runtnc.net
@@ -35845,7 +35866,6 @@
 0.0.0.0 serversmatrixaggregation.com
 0.0.0.0 servertraffic.de
 0.0.0.0 servestats.com
-0.0.0.0 servetraff.com
 0.0.0.0 servg1.net
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service.trustpid.com
@@ -36002,6 +36022,7 @@
 0.0.0.0 shareresults.com
 0.0.0.0 sharethrough.com
 0.0.0.0 sharieta.com
+0.0.0.0 sharkbiz.lol
 0.0.0.0 sharkflowing.com
 0.0.0.0 sharks.vn
 0.0.0.0 sharppatch.com
@@ -36743,6 +36764,7 @@
 0.0.0.0 smimarket.com
 0.0.0.0 sminewsnet.ru
 0.0.0.0 smises.com
+0.0.0.0 smists.com
 0.0.0.0 smknfyfvny.xyz
 0.0.0.0 smljmp.com
 0.0.0.0 smoggydisplay.pro
@@ -38900,6 +38922,7 @@
 0.0.0.0 t1.clipkit.com
 0.0.0.0 t1.trex.media
 0.0.0.0 t1.xuefen.com.cn
+0.0.0.0 t13.io
 0.0.0.0 t1g2.cn
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
@@ -41383,6 +41406,7 @@
 0.0.0.0 tsj0.madeindesign.com
 0.0.0.0 tsk4.com
 0.0.0.0 tsk5.com
+0.0.0.0 tskayahic.com
 0.0.0.0 tslomhfys.com
 0.0.0.0 tsmirk.xyz
 0.0.0.0 tsml.fun
@@ -42471,6 +42495,7 @@
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uytwvgrshiakd.xyz
 0.0.0.0 uyueread.com
+0.0.0.0 uyyksmmlipvcvj.com
 0.0.0.0 uyzdcun.cn
 0.0.0.0 uz-analysis.akamaized.net
 0.0.0.0 uz4cb.cn
@@ -43382,6 +43407,7 @@
 0.0.0.0 vugnubier.com
 0.0.0.0 vuhofiny.com
 0.0.0.0 vuidbsgnhfdaa.com
+0.0.0.0 vujfmyswtppoflf.com
 0.0.0.0 vukhhjzd.com
 0.0.0.0 vukipoerg.com
 0.0.0.0 vuksew.com
@@ -44586,6 +44612,7 @@
 0.0.0.0 wrathfultower.pro
 0.0.0.0 wrating.com
 0.0.0.0 wreathabble.com
+0.0.0.0 wreckgroupads.com
 0.0.0.0 wreckvolcano.com
 0.0.0.0 wren.condenastdigital.com
 0.0.0.0 wretchauraflirt.com
@@ -44860,6 +44887,7 @@
 0.0.0.0 xad.com
 0.0.0.0 xadcentral.com
 0.0.0.0 xaded.de
+0.0.0.0 xadkicakh.com
 0.0.0.0 xads.joboko.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xafc.xyz
@@ -45933,6 +45961,7 @@
 0.0.0.0 yrecomemu.one
 0.0.0.0 yrehdfer.com
 0.0.0.0 yresumeform.autos
+0.0.0.0 yrfowbaldjrxr.xyz
 0.0.0.0 yrkycfjq.com
 0.0.0.0 yrlyjc.cn
 0.0.0.0 yrnikichkxyb.xyz
