@@ -1,4 +1,4 @@
-// **** Thu Jan  5 05:27:36 AM UTC 2023
+// **** Thu Jan  5 05:42:26 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -17105,7 +17105,6 @@ shExpMatch(host, '0pencase.com') ||
 shExpMatch(host, '0x1f4b0.com') ||
 shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-verygoods.ru') ||
-shExpMatch(host, '1.pandawamovie.com') ||
 shExpMatch(host, '100-escorts.com') ||
 shExpMatch(host, '1001openingstijden.nl') ||
 shExpMatch(host, '100arcade.com') ||
@@ -17115,7 +17114,6 @@ shExpMatch(host, '101com.com') ||
 shExpMatch(host, '101order.com') ||
 shExpMatch(host, '109-204-26-16.netconnexion.managedbroadband.co.uk') ||
 shExpMatch(host, '11.gddx1.crsky.com') ||
-shExpMatch(host, '1105governmentinformationgroup.122.2o7.net') ||
 shExpMatch(host, '1111oe.com') ||
 shExpMatch(host, '114oldest.com') ||
 shExpMatch(host, '121-sex-toys.co.uk') ||
@@ -17133,8 +17131,6 @@ shExpMatch(host, '1300invention.com.au') ||
 shExpMatch(host, '13801993263.com') ||
 shExpMatch(host, '13932685557.cn') ||
 shExpMatch(host, '13cuero.com') ||
-shExpMatch(host, '1407031110.bzhualin.com') ||
-shExpMatch(host, '1409084329.xiaoyiwan.com') ||
 shExpMatch(host, '140proof.com') ||
 shExpMatch(host, '1492tapasbar.com') ||
 shExpMatch(host, '1566xueshe.com') ||
@@ -17262,7 +17258,6 @@ shExpMatch(host, '3dsemudownload.com') ||
 shExpMatch(host, '3dsemulation.com') ||
 shExpMatch(host, '3dsemulator.info') ||
 shExpMatch(host, '3dsemulator.org') ||
-shExpMatch(host, '3dsemulator.simpledownloadz.com') ||
 shExpMatch(host, '3dsemulator.us') ||
 shExpMatch(host, '3dsemulatordownload.net') ||
 shExpMatch(host, '3dsemulatorfree.com') ||
@@ -17293,7 +17288,6 @@ shExpMatch(host, '4affiliate.net') ||
 shExpMatch(host, '4analytics.ws') ||
 shExpMatch(host, '4bikebg.com') ||
 shExpMatch(host, '4c92j5.cz.cc') ||
-shExpMatch(host, '4chan-tube.on.nimp.org') ||
 shExpMatch(host, '4d5.net') ||
 shExpMatch(host, '4dexports.com') ||
 shExpMatch(host, '4ieghiufb.website') ||
@@ -17337,7 +17331,6 @@ shExpMatch(host, '61kx.uk-insolvencydirect.com') ||
 shExpMatch(host, '623762.com') ||
 shExpMatch(host, '64-b.it') ||
 shExpMatch(host, '65nq.com') ||
-shExpMatch(host, '68769.videojuh.biz') ||
 shExpMatch(host, '68cadzx.com') ||
 shExpMatch(host, '6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com') ||
 shExpMatch(host, '6bdsm.com') ||
@@ -17382,7 +17375,6 @@ shExpMatch(host, '88kv.cn') ||
 shExpMatch(host, '8955567.top') ||
 shExpMatch(host, '89757.net') ||
 shExpMatch(host, '8b1b.com') ||
-shExpMatch(host, '8ballpool.social-cheats.com') ||
 shExpMatch(host, '8box.8boxerp.com') ||
 shExpMatch(host, '8cheat.com') ||
 shExpMatch(host, '8forum-bahis.com') ||
@@ -17421,7 +17413,6 @@ shExpMatch(host, 'a.muloqot.uz') ||
 shExpMatch(host, 'a.sakh.com') ||
 shExpMatch(host, 'a.ucoz.net') ||
 shExpMatch(host, 'a.ucoz.ru') ||
-shExpMatch(host, 'a.update.51edm.net') ||
 shExpMatch(host, 'a.vartoken.com') ||
 shExpMatch(host, 'a.vfghd.com') ||
 shExpMatch(host, 'a.vfgtb.com') ||
@@ -17496,7 +17487,6 @@ shExpMatch(host, 'acento.com') ||
 shExpMatch(host, 'achieve-freedom.com') ||
 shExpMatch(host, 'achren.org') ||
 shExpMatch(host, 'acid-adserver.click') ||
-shExpMatch(host, 'acieh.onecinema.us') ||
 shExpMatch(host, 'acme.com.mx') ||
 shExpMatch(host, 'acmetoy.com') ||
 shExpMatch(host, 'acool.csheaven.com') ||
@@ -17569,7 +17559,6 @@ shExpMatch(host, 'ad.cgi.cz') ||
 shExpMatch(host, 'ad.choiceradio.com') ||
 shExpMatch(host, 'ad.clix.pt') ||
 shExpMatch(host, 'ad.cooks.com') ||
-shExpMatch(host, 'ad.crwdcntrl.net') ||
 shExpMatch(host, 'ad.digitallook.com') ||
 shExpMatch(host, 'ad.directrev.com') ||
 shExpMatch(host, 'ad.doctissimo.fr') ||
@@ -17578,17 +17567,14 @@ shExpMatch(host, 'ad.e-kolay.net') ||
 shExpMatch(host, 'ad.eurosport.com') ||
 shExpMatch(host, 'ad.exyws.org') ||
 shExpMatch(host, 'ad.f1cd.ru') ||
-shExpMatch(host, 'ad.flurry.com') ||
 shExpMatch(host, 'ad.foxnetworks.com') ||
 shExpMatch(host, 'ad.freecity.de') ||
 shExpMatch(host, 'ad.gate24.ch') ||
 shExpMatch(host, 'ad.getfond.info') ||
-shExpMatch(host, 'ad.globe7.com') ||
 shExpMatch(host, 'ad.grafika.cz') ||
 shExpMatch(host, 'ad.gt') ||
 shExpMatch(host, 'ad.hbv.de') ||
 shExpMatch(host, 'ad.hodomobile.com') ||
-shExpMatch(host, 'ad.httpool.com') ||
 shExpMatch(host, 'ad.hyena.cz') ||
 shExpMatch(host, 'ad.iinfo.cz') ||
 shExpMatch(host, 'ad.ilove.ch') ||
@@ -17604,7 +17590,6 @@ shExpMatch(host, 'ad.lgappstv.com') ||
 shExpMatch(host, 'ad.liveinternet.ru') ||
 shExpMatch(host, 'ad.lupa.cz') ||
 shExpMatch(host, 'ad.m5prod.net') ||
-shExpMatch(host, 'ad.media-servers.net') ||
 shExpMatch(host, 'ad.mediastorm.hu') ||
 shExpMatch(host, 'ad.mg') ||
 shExpMatch(host, 'ad.mgd.de') ||
@@ -17628,19 +17613,16 @@ shExpMatch(host, 'ad.rambler.ru') ||
 shExpMatch(host, 'ad.reachlocal.com') ||
 shExpMatch(host, 'ad.reunion.com') ||
 shExpMatch(host, 'ad.scanmedios.com') ||
-shExpMatch(host, 'ad.sensismediasmart.com.au') ||
 shExpMatch(host, 'ad.seznam.cz') ||
 shExpMatch(host, 'ad.simflight.com') ||
 shExpMatch(host, 'ad.simgames.net') ||
 shExpMatch(host, 'ad.slutload.com') ||
-shExpMatch(host, 'ad.smartclip.net') ||
 shExpMatch(host, 'ad.style') ||
 shExpMatch(host, 'ad.tapthislink.com') ||
 shExpMatch(host, 'ad.tbn.ru') ||
 shExpMatch(host, 'ad.technoratimedia.com') ||
 shExpMatch(host, 'ad.thewheelof.com') ||
 shExpMatch(host, 'ad.top50.to') ||
-shExpMatch(host, 'ad.turn.com') ||
 shExpMatch(host, 'ad.tv2.no') ||
 shExpMatch(host, 'ad.twitchguru.com') ||
 shExpMatch(host, 'ad.universcine.com') ||
@@ -17654,30 +17636,23 @@ shExpMatch(host, 'ad.wsod.com') ||
 shExpMatch(host, 'ad.wz.cz') ||
 shExpMatch(host, 'ad.xiaomi.com') ||
 shExpMatch(host, 'ad.xmovies8.si') ||
-shExpMatch(host, 'ad.xrea.com') ||
-shExpMatch(host, 'ad.yadro.ru') ||
 shExpMatch(host, 'ad.yourmedia.com') ||
-shExpMatch(host, 'ad.zanox.com') ||
 shExpMatch(host, 'ad.ztylez.com') ||
 shExpMatch(host, 'ad0.bigmir.net') ||
 shExpMatch(host, 'ad01.mediacorpsingapore.com') ||
-shExpMatch(host, 'ad1.emediate.dk') ||
 shExpMatch(host, 'ad1.emule-project.org') ||
 shExpMatch(host, 'ad1.kde.cz') ||
 shExpMatch(host, 'ad1.pamedia.com.au') ||
 shExpMatch(host, 'ad100sdhjsd.com') ||
 shExpMatch(host, 'ad2.iinfo.cz') ||
-shExpMatch(host, 'ad2.ip.ro') ||
 shExpMatch(host, 'ad2.linxcz.cz') ||
 shExpMatch(host, 'ad2.lupa.cz') ||
 shExpMatch(host, 'ad2.netriota.hu') ||
 shExpMatch(host, 'ad2.nmm.de') ||
-shExpMatch(host, 'ad2.xrea.com') ||
 shExpMatch(host, 'ad2flash.com') ||
 shExpMatch(host, 'ad2games.com') ||
 shExpMatch(host, 'ad3.iinfo.cz') ||
 shExpMatch(host, 'ad3.pamedia.com.au') ||
-shExpMatch(host, 'ad3.xrea.com') ||
 shExpMatch(host, 'ad4game.com') ||
 shExpMatch(host, 'ad4mat.com') ||
 shExpMatch(host, 'ad4mat.de') ||
@@ -17764,8 +17739,6 @@ shExpMatch(host, 'adexpose.com') ||
 shExpMatch(host, 'adext.inkclub.com') ||
 shExpMatch(host, 'adf.ly') ||
 shExpMatch(host, 'adfactor.nl') ||
-shExpMatch(host, 'adfarm.mediaplex.com') ||
-shExpMatch(host, 'adfeed.marchex.com') ||
 shExpMatch(host, 'adflight.com') ||
 shExpMatch(host, 'adfly-bot.online') ||
 shExpMatch(host, 'adfoc.us') ||
@@ -17835,7 +17808,6 @@ shExpMatch(host, 'adlog.com.com') ||
 shExpMatch(host, 'adloox.com') ||
 shExpMatch(host, 'adlooxtracking.com') ||
 shExpMatch(host, 'adlure.net') ||
-shExpMatch(host, 'adm.fwmrm.net') ||
 shExpMatch(host, 'admagnet.net') ||
 shExpMatch(host, 'admagnet1.com') ||
 shExpMatch(host, 'admailtiser.com') ||
@@ -17854,7 +17826,6 @@ shExpMatch(host, 'admarvel.s3.amazonaws.com') ||
 shExpMatch(host, 'admarvelco5.com') ||
 shExpMatch(host, 'admaster.com.cn') ||
 shExpMatch(host, 'admatchly.com') ||
-shExpMatch(host, 'admax.nexage.com') ||
 shExpMatch(host, 'admedia.com') ||
 shExpMatch(host, 'admedia.ro') ||
 shExpMatch(host, 'admedo.com') ||
@@ -18004,7 +17975,6 @@ shExpMatch(host, 'ads.bing.com') ||
 shExpMatch(host, 'ads.bittorrent.com') ||
 shExpMatch(host, 'ads.blog.com') ||
 shExpMatch(host, 'ads.bloomberg.com') ||
-shExpMatch(host, 'ads.bluelithium.com') ||
 shExpMatch(host, 'ads.bluemountain.com') ||
 shExpMatch(host, 'ads.bluesq.com') ||
 shExpMatch(host, 'ads.boerding.com') ||
@@ -18036,9 +18006,6 @@ shExpMatch(host, 'ads.colombiaonline.com') ||
 shExpMatch(host, 'ads.com.com') ||
 shExpMatch(host, 'ads.comeon.com') ||
 shExpMatch(host, 'ads.contactmusic.com') ||
-shExpMatch(host, 'ads.contextweb.com') ||
-shExpMatch(host, 'ads.crakmedia.com') ||
-shExpMatch(host, 'ads.creative-serving.com') ||
 shExpMatch(host, 'ads.creativematch.com') ||
 shExpMatch(host, 'ads.cricbuzz.com') ||
 shExpMatch(host, 'ads.cybersales.cz') ||
@@ -18138,7 +18105,6 @@ shExpMatch(host, 'ads.harpers.org') ||
 shExpMatch(host, 'ads.hbv.de') ||
 shExpMatch(host, 'ads.hearstmags.com') ||
 shExpMatch(host, 'ads.heartlight.org') ||
-shExpMatch(host, 'ads.heias.com') ||
 shExpMatch(host, 'ads.hideyourarms.com') ||
 shExpMatch(host, 'ads.hollywood.com') ||
 shExpMatch(host, 'ads.horsehero.com') ||
@@ -18161,7 +18127,6 @@ shExpMatch(host, 'ads.isoftmarketing.com') ||
 shExpMatch(host, 'ads.itv.com') ||
 shExpMatch(host, 'ads.iwon.com') ||
 shExpMatch(host, 'ads.jewishfriendfinder.com') ||
-shExpMatch(host, 'ads.jiwire.com') ||
 shExpMatch(host, 'ads.jobsite.co.uk') ||
 shExpMatch(host, 'ads.jpost.com') ||
 shExpMatch(host, 'ads.jubii.dk') ||
@@ -18189,14 +18154,12 @@ shExpMatch(host, 'ads.mail.bg') ||
 shExpMatch(host, 'ads.mariuana.it') ||
 shExpMatch(host, 'ads.massinfra.nl') ||
 shExpMatch(host, 'ads.mcafee.com') ||
-shExpMatch(host, 'ads.mdotm.com') ||
 shExpMatch(host, 'ads.mediaodyssey.com') ||
 shExpMatch(host, 'ads.mediasmart.es') ||
 shExpMatch(host, 'ads.mediaturf.net') ||
 shExpMatch(host, 'ads.medienhaus.de') ||
 shExpMatch(host, 'ads.meetcelebs.com') ||
 shExpMatch(host, 'ads.mgnetwork.com') ||
-shExpMatch(host, 'ads.miarroba.com') ||
 shExpMatch(host, 'ads.mic.com') ||
 shExpMatch(host, 'ads.mmania.com') ||
 shExpMatch(host, 'ads.mobilebet.com') ||
@@ -18236,7 +18199,6 @@ shExpMatch(host, 'ads.o2.pl') ||
 shExpMatch(host, 'ads.oddschecker.com') ||
 shExpMatch(host, 'ads.okcimg.com') ||
 shExpMatch(host, 'ads.ole.com') ||
-shExpMatch(host, 'ads.olivebrandresponse.com') ||
 shExpMatch(host, 'ads.oneplace.com') ||
 shExpMatch(host, 'ads.ookla.com') ||
 shExpMatch(host, 'ads.opensubtitles.org') ||
@@ -18250,7 +18212,6 @@ shExpMatch(host, 'ads.pennet.com') ||
 shExpMatch(host, 'ads.penny-arcade.com') ||
 shExpMatch(host, 'ads.pexi.nl') ||
 shExpMatch(host, 'ads.pfl.ua') ||
-shExpMatch(host, 'ads.pheedo.com') ||
 shExpMatch(host, 'ads.phpclasses.org') ||
 shExpMatch(host, 'ads.pickmeup-ltd.com') ||
 shExpMatch(host, 'ads.pinterest.com') ||
@@ -18266,7 +18227,6 @@ shExpMatch(host, 'ads.printscr.com') ||
 shExpMatch(host, 'ads.prisacom.com') ||
 shExpMatch(host, 'ads.program3.com') ||
 shExpMatch(host, 'ads.psd2html.com') ||
-shExpMatch(host, 'ads.pushplay.com') ||
 shExpMatch(host, 'ads.quasaraffiliates.com') ||
 shExpMatch(host, 'ads.quoka.de') ||
 shExpMatch(host, 'ads.radialserver.com') ||
@@ -18291,7 +18251,6 @@ shExpMatch(host, 'ads.scifi.com') ||
 shExpMatch(host, 'ads.seniorfriendfinder.com') ||
 shExpMatch(host, 'ads.servebom.com') ||
 shExpMatch(host, 'ads.sexgratuit.tv') ||
-shExpMatch(host, 'ads.sexinyourcity.com') ||
 shExpMatch(host, 'ads.shizmoo.com') ||
 shExpMatch(host, 'ads.shopstyle.com') ||
 shExpMatch(host, 'ads.sift.co.uk') ||
@@ -18347,7 +18306,6 @@ shExpMatch(host, 'ads.twojatv.info') ||
 shExpMatch(host, 'ads.uknetguide.co.uk') ||
 shExpMatch(host, 'ads.ultimate-guitar.com') ||
 shExpMatch(host, 'ads.uncrate.com') ||
-shExpMatch(host, 'ads.undertone.com') ||
 shExpMatch(host, 'ads.unison.bg') ||
 shExpMatch(host, 'ads.usatoday.com') ||
 shExpMatch(host, 'ads.uxs.at') ||
@@ -18402,7 +18360,6 @@ shExpMatch(host, 'ads10.speedbit.com') ||
 shExpMatch(host, 'ads180.com') ||
 shExpMatch(host, 'ads2.brazzers.com') ||
 shExpMatch(host, 'ads2.clearchannel.com') ||
-shExpMatch(host, 'ads2.contentabc.com') ||
 shExpMatch(host, 'ads2.femmefab.nl') ||
 shExpMatch(host, 'ads2.gamecity.net') ||
 shExpMatch(host, 'ads2.hsoub.com') ||
@@ -18417,7 +18374,6 @@ shExpMatch(host, 'ads2.xnet.cz') ||
 shExpMatch(host, 'ads2004.treiberupdate.de') ||
 shExpMatch(host, 'ads24h.net') ||
 shExpMatch(host, 'ads3-adnow.com') ||
-shExpMatch(host, 'ads3.contentabc.com') ||
 shExpMatch(host, 'ads3.gamecity.net') ||
 shExpMatch(host, 'ads3.virtual-nights.com') ||
 shExpMatch(host, 'ads4.clearchannel.com') ||
@@ -18459,7 +18415,6 @@ shExpMatch(host, 'adserve.ams.rhythmxchange.com') ||
 shExpMatch(host, 'adserve.gkeurope.de') ||
 shExpMatch(host, 'adserve.io') ||
 shExpMatch(host, 'adserve.jbs.org') ||
-shExpMatch(host, 'adserver-live.yoc.mobi') ||
 shExpMatch(host, 'adserver.43plc.com') ||
 shExpMatch(host, 'adserver.71i.de') ||
 shExpMatch(host, 'adserver.adultfriendfinder.com') ||
@@ -18539,8 +18494,6 @@ shExpMatch(host, 'adserver.virginmedia.com') ||
 shExpMatch(host, 'adserver.waggonerguide.com') ||
 shExpMatch(host, 'adserver.yahoo.com') ||
 shExpMatch(host, 'adserver01.de') ||
-shExpMatch(host, 'adserver1-images.backbeatmedia.com') ||
-shExpMatch(host, 'adserver1.backbeatmedia.com') ||
 shExpMatch(host, 'adserver1.mindshare.de') ||
 shExpMatch(host, 'adserver1.mokono.com') ||
 shExpMatch(host, 'adserver1.ogilvy-interactive.de') ||
@@ -18551,7 +18504,6 @@ shExpMatch(host, 'adserverplus.com') ||
 shExpMatch(host, 'adserverpub.com') ||
 shExpMatch(host, 'adserversolutions.com') ||
 shExpMatch(host, 'adserverxxl.de') ||
-shExpMatch(host, 'adservetx.media.net') ||
 shExpMatch(host, 'adservice.google.com') ||
 shExpMatch(host, 'adservice.google.com.mt') ||
 shExpMatch(host, 'adserving.favorit-network.com') ||
@@ -18780,7 +18732,6 @@ shExpMatch(host, 'affiliation-france.com') ||
 shExpMatch(host, 'afftracking.justanswer.com') ||
 shExpMatch(host, 'afjdoospf.ru') ||
 shExpMatch(host, 'afonya123.com') ||
-shExpMatch(host, 'afp.gov.au.id312666359-9036410720.w595505.com') ||
 shExpMatch(host, 'afraidlanguage.com') ||
 shExpMatch(host, 'afreenetflixaccount.com') ||
 shExpMatch(host, 'afriji.com') ||
@@ -18816,8 +18767,6 @@ shExpMatch(host, 'aileronx.com') ||
 shExpMatch(host, 'aim4media.com') ||
 shExpMatch(host, 'aimauto.org') ||
 shExpMatch(host, 'aimbotfreaks.org') ||
-shExpMatch(host, 'aimbothack.sharezips.net') ||
-shExpMatch(host, 'aimbotnow.sharezips.info') ||
 shExpMatch(host, 'ainapensii.ru') ||
 shExpMatch(host, 'aintdoinshit.com') ||
 shExpMatch(host, 'aipp-italia.it') ||
@@ -18842,14 +18791,12 @@ shExpMatch(host, 'akciove-fondy.eu') ||
 shExpMatch(host, 'akeeperoftime.com') ||
 shExpMatch(host, 'akirkpatrick.com') ||
 shExpMatch(host, 'aksai-katod.ru') ||
-shExpMatch(host, 'aktrack.pubmatic.com') ||
 shExpMatch(host, 'akuaba.chez.com') ||
 shExpMatch(host, 'alanlindsay.net') ||
 shExpMatch(host, 'alansaritrading.com') ||
 shExpMatch(host, 'alarmanlage-hannover.de') ||
 shExpMatch(host, 'albullansa.com') ||
 shExpMatch(host, 'albumdownloadfree.com') ||
-shExpMatch(host, 'albumleak.freehst.com') ||
 shExpMatch(host, 'albumleaked.com') ||
 shExpMatch(host, 'alburyaccounting.com.au') ||
 shExpMatch(host, 'alchemist.go2cloud.org') ||
@@ -18872,10 +18819,6 @@ shExpMatch(host, 'ali59000.free.fr') ||
 shExpMatch(host, 'alias.jjbworks.com') ||
 shExpMatch(host, 'alibos.ru') ||
 shExpMatch(host, 'alienradar.ru') ||
-shExpMatch(host, 'alienrage.sharezips.info') ||
-shExpMatch(host, 'alienrage.sharezips.net') ||
-shExpMatch(host, 'aligator.exgrafix.com') ||
-shExpMatch(host, 'aligator.footai.es') ||
 shExpMatch(host, 'alinaturu.info') ||
 shExpMatch(host, 'alipromo.com') ||
 shExpMatch(host, 'alisa-carter.com') ||
@@ -18925,7 +18868,6 @@ shExpMatch(host, 'alliancetourism.ru') ||
 shExpMatch(host, 'allinclusivevacationsfan.com') ||
 shExpMatch(host, 'allindiapoint.com') ||
 shExpMatch(host, 'alljazeera.co') ||
-shExpMatch(host, 'allkeygenscheats.hackspress.net') ||
 shExpMatch(host, 'allkeygensdownload.com') ||
 shExpMatch(host, 'allnaturalpornstars.com') ||
 shExpMatch(host, 'allopass-generator.com') ||
@@ -18975,8 +18917,6 @@ shExpMatch(host, 'amazingoffer.biz') ||
 shExpMatch(host, 'amazingvacationhotels.com') ||
 shExpMatch(host, 'amazon-adsystem.com') ||
 shExpMatch(host, 'amazon-sicherheit.kunden-ueberpruefung.xyz') ||
-shExpMatch(host, 'amazon.freecodes.us') ||
-shExpMatch(host, 'amazon.hackingfree.com') ||
 shExpMatch(host, 'amazoncards.dlcodes.com') ||
 shExpMatch(host, 'amazoncodefree.com') ||
 shExpMatch(host, 'amazoncodes.freehacks.pw') ||
@@ -19010,7 +18950,6 @@ shExpMatch(host, 'ampoul.com') ||
 shExpMatch(host, 'amuejgo.cn') ||
 shExpMatch(host, 'amung.us') ||
 shExpMatch(host, 'amvgvvyasde.myfw.us') ||
-shExpMatch(host, 'an.tacoda.net') ||
 shExpMatch(host, 'an4u.com') ||
 shExpMatch(host, 'anachronisms-anaboliset.repipeseattlenow.com') ||
 shExpMatch(host, 'anadoluvitamin.com.tr') ||
@@ -19026,7 +18965,6 @@ shExpMatch(host, 'analytics.brave.com') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.cohesionapps.com') ||
 shExpMatch(host, 'analytics.dnsfilter.com') ||
-shExpMatch(host, 'analytics.emarketer.com') ||
 shExpMatch(host, 'analytics.ext.go-tellm.com') ||
 shExpMatch(host, 'analytics.google.com') ||
 shExpMatch(host, 'analytics.htmedia.in') ||
@@ -19078,7 +19016,6 @@ shExpMatch(host, 'androidhack24.com') ||
 shExpMatch(host, 'androidhacks4u.com') ||
 shExpMatch(host, 'androidhacksfree.com') ||
 shExpMatch(host, 'androidhackstool.net') ||
-shExpMatch(host, 'androidioshack.gem24.net') ||
 shExpMatch(host, 'androidplayhack.com') ||
 shExpMatch(host, 'androidsbestgames.com') ||
 shExpMatch(host, 'androidwifihack.net') ||
@@ -19113,8 +19050,6 @@ shExpMatch(host, 'anrdoezrs.net') ||
 shExpMatch(host, 'anstrex.com') ||
 shExpMatch(host, 'antalya.ru') ||
 shExpMatch(host, 'antennalaminates.com') ||
-shExpMatch(host, 'anterbuz.baltihen.com') ||
-shExpMatch(host, 'anterbuz.faboshine.com') ||
 shExpMatch(host, 'anticheaters-sxe.com') ||
 shExpMatch(host, 'antiquesilversouvenirspoons.com') ||
 shExpMatch(host, 'antivirus-online51.com') ||
@@ -19128,7 +19063,6 @@ shExpMatch(host, 'anyscent.ru') ||
 shExpMatch(host, 'ao-mall.com') ||
 shExpMatch(host, 'aonikesi.com') ||
 shExpMatch(host, 'ap-transz.hu') ||
-shExpMatch(host, 'apap.filminstan.pw') ||
 shExpMatch(host, 'apapaxu.ru') ||
 shExpMatch(host, 'apartmentsbaska.com') ||
 shExpMatch(host, 'apathetictheory.com') ||
@@ -19252,7 +19186,6 @@ shExpMatch(host, 'areaalp.com') ||
 shExpMatch(host, 'arenadownload.org') ||
 shExpMatch(host, 'areyouabot.net') ||
 shExpMatch(host, 'areyouahuman.co') ||
-shExpMatch(host, 'argentfacile.isthebe.st') ||
 shExpMatch(host, 'argoauto.net') ||
 shExpMatch(host, 'argonfiles.com') ||
 shExpMatch(host, 'argosvoucher.net') ||
@@ -19269,8 +19202,6 @@ shExpMatch(host, 'armhack.com') ||
 shExpMatch(host, 'armorhack.com') ||
 shExpMatch(host, 'arnaell.com') ||
 shExpMatch(host, 'aromamirror.com') ||
-shExpMatch(host, 'aromedtransport.sharezips.info') ||
-shExpMatch(host, 'aromedtransport.sharezips.net') ||
 shExpMatch(host, 'arouersobesite.free.fr') ||
 shExpMatch(host, 'arraypot.xyz') ||
 shExpMatch(host, 'arredarte.it') ||
@@ -19294,7 +19225,6 @@ shExpMatch(host, 'as2.adserverhd.com') ||
 shExpMatch(host, 'as2.advfn.com') ||
 shExpMatch(host, 'as5000.com') ||
 shExpMatch(host, 'asajaformacion.com') ||
-shExpMatch(host, 'asda.100giveaways.com') ||
 shExpMatch(host, 'asdagiveaways.com') ||
 shExpMatch(host, 'asdvolley2010.it') ||
 shExpMatch(host, 'aserv.motorsgate.com') ||
@@ -19302,8 +19232,6 @@ shExpMatch(host, 'asess.com.mx') ||
 shExpMatch(host, 'asewlfjqwlflkew.com') ||
 shExpMatch(host, 'asfirey.com') ||
 shExpMatch(host, 'asfirey.net') ||
-shExpMatch(host, 'asgard.sharezips.info') ||
-shExpMatch(host, 'asgarddlc.sharezips.net') ||
 shExpMatch(host, 'asham.tourstogo.us') ||
 shExpMatch(host, 'asia999.website') ||
 shExpMatch(host, 'asianrbtrade.net') ||
@@ -19320,7 +19248,6 @@ shExpMatch(host, 'aso1.net') ||
 shExpMatch(host, 'asoxiate.com') ||
 shExpMatch(host, 'asphalt7-android.org') ||
 shExpMatch(host, 'asphalt8.hackfree.us') ||
-shExpMatch(host, 'asphalt8airborne.hackscheats.org') ||
 shExpMatch(host, 'asphalt8airbornehack.com') ||
 shExpMatch(host, 'asphalt8airbornehack.net') ||
 shExpMatch(host, 'asphalt8hack.com') ||
@@ -19356,7 +19283,6 @@ shExpMatch(host, 'atlassolutions.com') ||
 shExpMatch(host, 'atlcourier.com') ||
 shExpMatch(host, 'ato.mx') ||
 shExpMatch(host, 'atomhack.net') ||
-shExpMatch(host, 'atomic.sharezips.info') ||
 shExpMatch(host, 'atomicwallet.pro') ||
 shExpMatch(host, 'atomicwallet.ws') ||
 shExpMatch(host, 'atomicwalletweb.com') ||
@@ -19368,7 +19294,6 @@ shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attractivevideos.com') ||
 shExpMatch(host, 'attribution.report') ||
 shExpMatch(host, 'atwola.com') ||
-shExpMatch(host, 'au.id312666359-9036410720.w595505.com') ||
 shExpMatch(host, 'auanalytics.net') ||
 shExpMatch(host, 'auctionads.com') ||
 shExpMatch(host, 'auctionads.net') ||
@@ -19393,15 +19318,12 @@ shExpMatch(host, 'autohits.dk') ||
 shExpMatch(host, 'autolikefb.net') ||
 shExpMatch(host, 'automaticflock.com') ||
 shExpMatch(host, 'autoritet.by') ||
-shExpMatch(host, 'av.ghura.pl') ||
 shExpMatch(host, 'avalonalbum.com') ||
 shExpMatch(host, 'avantcase.com') ||
-shExpMatch(host, 'avast.legratuits.com') ||
 shExpMatch(host, 'avazutracking.net') ||
 shExpMatch(host, 'ave1.cn') ||
 shExpMatch(host, 'avenuea.com') ||
 shExpMatch(host, 'averageanteater.info') ||
-shExpMatch(host, 'avers.ijssalonlekker.nl') ||
 shExpMatch(host, 'aviationclub.ae') ||
 shExpMatch(host, 'avocet.io') ||
 shExpMatch(host, 'avpa.javalobby.org') ||
@@ -19482,7 +19404,6 @@ shExpMatch(host, 'badahub.com') ||
 shExpMatch(host, 'badudaz.ru') ||
 shExpMatch(host, 'bagusholidays.com') ||
 shExpMatch(host, 'bahoci.ru') ||
-shExpMatch(host, 'bai.caiyun72.com') ||
 shExpMatch(host, 'baidustatz.com') ||
 shExpMatch(host, 'bakmid.ru') ||
 shExpMatch(host, 'bakuzbuq.ru') ||
@@ -19581,9 +19502,7 @@ shExpMatch(host, 'banners.getiton.com') ||
 shExpMatch(host, 'banners.iq.pl') ||
 shExpMatch(host, 'banners.isoftmarketing.com') ||
 shExpMatch(host, 'banners.lifeserv.com') ||
-shExpMatch(host, 'banners.linkbuddies.com') ||
 shExpMatch(host, 'banners.passion.com') ||
-shExpMatch(host, 'banners.payserve.com') ||
 shExpMatch(host, 'banners.resultonline.com') ||
 shExpMatch(host, 'banners.sexsearch.com') ||
 shExpMatch(host, 'banners.sys-con.com') ||
@@ -19625,9 +19544,6 @@ shExpMatch(host, 'baskettexture.com') ||
 shExpMatch(host, 'bat.bing.com') ||
 shExpMatch(host, 'batbuilding.com') ||
 shExpMatch(host, 'batcoroadlinescorporation.com') ||
-shExpMatch(host, 'batmanarkhamorigins.aldenvids.com') ||
-shExpMatch(host, 'batmanarkhamorigins.sharezips.info') ||
-shExpMatch(host, 'batmanarkhamorigins.sharezips.net') ||
 shExpMatch(host, 'battery-apps.com') ||
 shExpMatch(host, 'battery-booster-apps.com') ||
 shExpMatch(host, 'battery-problems.com') ||
@@ -19636,13 +19552,10 @@ shExpMatch(host, 'battle-mix.com') ||
 shExpMatch(host, 'battlefield3crack.org') ||
 shExpMatch(host, 'battlefield3game.info') ||
 shExpMatch(host, 'battlefield4-cdkey.com') ||
-shExpMatch(host, 'battlefield4.sharezips.net') ||
 shExpMatch(host, 'battlefield4beta.eu') ||
 shExpMatch(host, 'battlefield4download.com') ||
 shExpMatch(host, 'battlefield4free.org') ||
 shExpMatch(host, 'battlefield4freedownload.info') ||
-shExpMatch(host, 'battlefield4premium.sharezips.net') ||
-shExpMatch(host, 'battlefield4premiumpass.sharezips.info') ||
 shExpMatch(host, 'battlefield4secondassaultdlc.goblogz.net') ||
 shExpMatch(host, 'battlefieldheroeshacks.com') ||
 shExpMatch(host, 'battlefieldplay.com') ||
@@ -19709,7 +19622,6 @@ shExpMatch(host, 'beespace.com.ua') ||
 shExpMatch(host, 'beethoventshirts.com') ||
 shExpMatch(host, 'before-this-life.ru') ||
 shExpMatch(host, 'begeti.ru') ||
-shExpMatch(host, 'begin.tzarmedia.com') ||
 shExpMatch(host, 'beginsh.us') ||
 shExpMatch(host, 'begun.ru') ||
 shExpMatch(host, 'behaku.faith') ||
@@ -19744,7 +19656,6 @@ shExpMatch(host, 'berlin-hauptstadtanwaeltin.de') ||
 shExpMatch(host, 'bern.su') ||
 shExpMatch(host, 'beroepsperformancescan.nl') ||
 shExpMatch(host, 'berp.com') ||
-shExpMatch(host, 'berry.filminstan.pw') ||
 shExpMatch(host, 'besdupoj.ru') ||
 shExpMatch(host, 'besidehacks.com') ||
 shExpMatch(host, 'besloqawe.com') ||
@@ -19831,7 +19742,6 @@ shExpMatch(host, 'bestway.cz') ||
 shExpMatch(host, 'bestwebsitesfast.com') ||
 shExpMatch(host, 'bestwifihacker.com') ||
 shExpMatch(host, 'beta-darksoulsii.us') ||
-shExpMatch(host, 'beta-elderscrollsonline.com-host.info') ||
 shExpMatch(host, 'beta-gamers.com') ||
 shExpMatch(host, 'beta-keygen.com') ||
 shExpMatch(host, 'beta.spb0.ru') ||
@@ -19841,7 +19751,6 @@ shExpMatch(host, 'betagameskeys.com') ||
 shExpMatch(host, 'betaghosts.net') ||
 shExpMatch(host, 'betagiveaway.com') ||
 shExpMatch(host, 'betakey-giveaway.com') ||
-shExpMatch(host, 'betawi.pashuber.net') ||
 shExpMatch(host, 'betawildstarkey.com') ||
 shExpMatch(host, 'bets-fortune.com') ||
 shExpMatch(host, 'betscsgoplay.com') ||
@@ -19854,12 +19763,9 @@ shExpMatch(host, 'bevob.ru') ||
 shExpMatch(host, 'bewilderedblade.com') ||
 shExpMatch(host, 'bezproudoff.cz') ||
 shExpMatch(host, 'bf-games.net') ||
-shExpMatch(host, 'bf3aimbot.filesforgames.com') ||
 shExpMatch(host, 'bf3h.com') ||
-shExpMatch(host, 'bf4.sharezips.info') ||
 shExpMatch(host, 'bf4chinarising.dlcodes.com') ||
 shExpMatch(host, 'bf4codes.dlcodes.com') ||
-shExpMatch(host, 'bf4dlc.sharezips.info') ||
 shExpMatch(host, 'bf4secondassault.dlcodes.com') ||
 shExpMatch(host, 'bfgshh.com') ||
 shExpMatch(host, 'bfhredeemcodes.com') ||
@@ -19880,7 +19786,6 @@ shExpMatch(host, 'bidswitch.net') ||
 shExpMatch(host, 'bidtellect.com') ||
 shExpMatch(host, 'bidtrk.com') ||
 shExpMatch(host, 'bidvertiser.com') ||
-shExpMatch(host, 'biebersecrets.vvassup.com') ||
 shExpMatch(host, 'big-asses.ru') ||
 shExpMatch(host, 'big-bang-ads.com') ||
 shExpMatch(host, 'bigads.guj.de') ||
@@ -19895,7 +19800,6 @@ shExpMatch(host, 'bigpremiumfind.cn') ||
 shExpMatch(host, 'bigreal.org') ||
 shExpMatch(host, 'bigrxdiscountmedstore.com') ||
 shExpMatch(host, 'bigskytopguide.cn') ||
-shExpMatch(host, 'bigsoccerwinhack.gethackz.com') ||
 shExpMatch(host, 'bigtopescorts.cn') ||
 shExpMatch(host, 'bigtopmanagement.cn') ||
 shExpMatch(host, 'bigtoprocks.cn') ||
@@ -19906,8 +19810,6 @@ shExpMatch(host, 'bilainkos.ru') ||
 shExpMatch(host, 'bilbaopisos.es') ||
 shExpMatch(host, 'bilbotrade.com') ||
 shExpMatch(host, 'bilderfarbwelt.de') ||
-shExpMatch(host, 'bilkul.swarmscape.com') ||
-shExpMatch(host, 'bill.wiedemann.com') ||
 shExpMatch(host, 'billboard.cz') ||
 shExpMatch(host, 'billigamkvaskarea.se') ||
 shExpMatch(host, 'billing.zabiyaka.org') ||
@@ -19930,7 +19832,6 @@ shExpMatch(host, 'bioclinord.info') ||
 shExpMatch(host, 'bioito.cn') ||
 shExpMatch(host, 'bionaft.ru') ||
 shExpMatch(host, 'biosda.com') ||
-shExpMatch(host, 'bioshockinfinite.sharezips.info') ||
 shExpMatch(host, 'biovoz.ru') ||
 shExpMatch(host, 'bipowe.ru') ||
 shExpMatch(host, 'birdmarker.com') ||
@@ -19983,32 +19884,20 @@ shExpMatch(host, 'bkkwedding.com') ||
 shExpMatch(host, 'bkrtx.com') ||
 shExpMatch(host, 'bksfr.com') ||
 shExpMatch(host, 'black-files.com') ||
-shExpMatch(host, 'black.sharezips.info') ||
 shExpMatch(host, 'blackfalcon5.net') ||
-shExpMatch(host, 'blackflag.sharezips.info') ||
-shExpMatch(host, 'blackflag.sharezips.net') ||
 shExpMatch(host, 'blackgameworld.com') ||
 shExpMatch(host, 'blackgamezone.com') ||
 shExpMatch(host, 'blackhacks24.com') ||
 shExpMatch(host, 'blackhatsky.com') ||
 shExpMatch(host, 'blackhatsoft.net') ||
 shExpMatch(host, 'blackhulu.com') ||
-shExpMatch(host, 'blackislandpack.sharezips.info') ||
-shExpMatch(host, 'blackislandpack.sharezips.net') ||
-shExpMatch(host, 'blackmaskchallengemapdlc.sharezips.net') ||
 shExpMatch(host, 'blacknite.eu') ||
 shExpMatch(host, 'blackops.freehacks.pw') ||
-shExpMatch(host, 'blackops2.filesforgames.com') ||
-shExpMatch(host, 'blackops2.livehacksource.com') ||
 shExpMatch(host, 'blackops2.newzgames.com') ||
-shExpMatch(host, 'blackops2aimbot.filesforgames.com') ||
-shExpMatch(host, 'blackops2godmode.filesforgames.com') ||
 shExpMatch(host, 'blackops2hack2013.com') ||
 shExpMatch(host, 'blackops2hacked.com') ||
 shExpMatch(host, 'blackops2prestigehack.com') ||
 shExpMatch(host, 'blackops2steam.com') ||
-shExpMatch(host, 'blackops2vengeance.sharezips.info') ||
-shExpMatch(host, 'blackops2wallhack.filesforgames.com') ||
 shExpMatch(host, 'blackopsprestigehack.com') ||
 shExpMatch(host, 'blackoutday.ca') ||
 shExpMatch(host, 'blackporn1.com') ||
@@ -20053,7 +19942,6 @@ shExpMatch(host, 'blogtoplist.se') ||
 shExpMatch(host, 'blogtopsites.com') ||
 shExpMatch(host, 'blondemuschi.com') ||
 shExpMatch(host, 'bloodbrothershacked.com') ||
-shExpMatch(host, 'blow20.newsregular.com') ||
 shExpMatch(host, 'blueadvertise.com') ||
 shExpMatch(host, 'bluecava.com') ||
 shExpMatch(host, 'bluecheating.com') ||
@@ -20074,7 +19962,6 @@ shExpMatch(host, 'bm.annonce.cz') ||
 shExpMatch(host, 'bmw-330d.com') ||
 shExpMatch(host, 'bmwchinhhang.vn') ||
 shExpMatch(host, 'bmwforum.co') ||
-shExpMatch(host, 'bmwpromo.pixoveexs.com') ||
 shExpMatch(host, 'bn.bfast.com') ||
 shExpMatch(host, 'bnnrrv.qontentum.de') ||
 shExpMatch(host, 'bnrs.ilm.ee') ||
@@ -20126,7 +20013,6 @@ shExpMatch(host, 'boom.ro') ||
 shExpMatch(host, 'boomads.com') ||
 shExpMatch(host, 'boombeach-cheat.com') ||
 shExpMatch(host, 'boombeachdiamant.org') ||
-shExpMatch(host, 'boombeachhack.epickeys.com') ||
 shExpMatch(host, 'boombeachhack.info') ||
 shExpMatch(host, 'boombeachhack.org') ||
 shExpMatch(host, 'boombeachhackguide.com') ||
@@ -20224,7 +20110,6 @@ shExpMatch(host, 'broadstreetads.com') ||
 shExpMatch(host, 'broadtech.co') ||
 shExpMatch(host, 'brokdrop.com') ||
 shExpMatch(host, 'brokeneagledlc.goblogz.net') ||
-shExpMatch(host, 'brokeneagledlc.sharezips.info') ||
 shExpMatch(host, 'bronotak.cn') ||
 shExpMatch(host, 'bronzesage.ru') ||
 shExpMatch(host, 'browser-http-intake.logs.datadoghq.com') ||
@@ -20246,7 +20131,6 @@ shExpMatch(host, 'btrll.com') ||
 shExpMatch(host, 'btt-ceo.com') ||
 shExpMatch(host, 'bttrack.com') ||
 shExpMatch(host, 'btw.co.il') ||
-shExpMatch(host, 'btwosfunny.onthenetas.com') ||
 shExpMatch(host, 'bucketbean.com') ||
 shExpMatch(host, 'bucks.as') ||
 shExpMatch(host, 'buddydocument.com') ||
@@ -20262,8 +20146,6 @@ shExpMatch(host, 'bulbazaur.com') ||
 shExpMatch(host, 'bulguide.com') ||
 shExpMatch(host, 'bulleprivee.com') ||
 shExpMatch(host, 'bulletflix.com') ||
-shExpMatch(host, 'bullpit.faboshine.com') ||
-shExpMatch(host, 'bullseye.backbeatmedia.com') ||
 shExpMatch(host, 'bullstresser.net') ||
 shExpMatch(host, 'bumarazhkaio.ru') ||
 shExpMatch(host, 'bumpgaming.net') ||
@@ -20316,8 +20198,6 @@ shExpMatch(host, 'bzupload.com') ||
 shExpMatch(host, 'c.bigmir.net') ||
 shExpMatch(host, 'c.compete.com') ||
 shExpMatch(host, 'c1.nowlinux.com') ||
-shExpMatch(host, 'c100.rxhealthprescriptions.com') ||
-shExpMatch(host, 'c102.pharmacyalberta.com') ||
 shExpMatch(host, 'c1exchange.com') ||
 shExpMatch(host, 'c1z.at') ||
 shExpMatch(host, 'c212.net') ||
@@ -20348,9 +20228,7 @@ shExpMatch(host, 'calculatingtoothbrush.com') ||
 shExpMatch(host, 'calculatorcamera.com') ||
 shExpMatch(host, 'calhacks.org') ||
 shExpMatch(host, 'californians.biz') ||
-shExpMatch(host, 'call-ad-network-api.marchex.com') ||
 shExpMatch(host, 'call-the-plumber.men') ||
-shExpMatch(host, 'call.hackingfree.com') ||
 shExpMatch(host, 'callfire.com') ||
 shExpMatch(host, 'callingcardsinstantly.com') ||
 shExpMatch(host, 'callloop.com') ||
@@ -20362,7 +20240,6 @@ shExpMatch(host, 'callofdutyghosthack.com') ||
 shExpMatch(host, 'callofdutyghosts.pw') ||
 shExpMatch(host, 'callofdutyghostshack.net') ||
 shExpMatch(host, 'callofdutyghostsprestigehack.com') ||
-shExpMatch(host, 'callofdutyghostsprestigehack.social-cheats.com') ||
 shExpMatch(host, 'callofdutygost.com') ||
 shExpMatch(host, 'callofdutyprestigehacks.com') ||
 shExpMatch(host, 'callousbrake.com') ||
@@ -20375,7 +20252,6 @@ shExpMatch(host, 'camasi.ru') ||
 shExpMatch(host, 'cameraplay.com') ||
 shExpMatch(host, 'camerarollspy.com') ||
 shExpMatch(host, 'caminixws.com') ||
-shExpMatch(host, 'camos.ghostsbetakeys.com') ||
 shExpMatch(host, 'campaign.bharatmatrimony.com') ||
 shExpMatch(host, 'campbellcontracting.nz') ||
 shExpMatch(host, 'camservicesgroup.com') ||
@@ -20395,7 +20271,6 @@ shExpMatch(host, 'candycrushcheat.com') ||
 shExpMatch(host, 'candycrushcheatsapp.com') ||
 shExpMatch(host, 'candycrushcheatss.com') ||
 shExpMatch(host, 'candycrushcheatzone.com') ||
-shExpMatch(host, 'candycrushsagacheats.com-promotions.us') ||
 shExpMatch(host, 'candycrushsagacheats.info') ||
 shExpMatch(host, 'candycrushsagacheats.org') ||
 shExpMatch(host, 'candycrushsagahack.com') ||
@@ -20481,8 +20356,6 @@ shExpMatch(host, 'casinopays.com') ||
 shExpMatch(host, 'casinorewards.com') ||
 shExpMatch(host, 'casinotraffic.com') ||
 shExpMatch(host, 'casinotreasure.com') ||
-shExpMatch(host, 'castleclashhack.leakbay.net') ||
-shExpMatch(host, 'castleclashhackapk.official-guide.net') ||
 shExpMatch(host, 'castleclashhacktool.com') ||
 shExpMatch(host, 'castlecrashers.console2pc.info') ||
 shExpMatch(host, 'castleofhacks.com') ||
@@ -20517,7 +20390,6 @@ shExpMatch(host, 'ccjbox.ivyro.net') ||
 shExpMatch(host, 'ccsagacheats.com') ||
 shExpMatch(host, 'cdcenterco.com') ||
 shExpMatch(host, 'cddbshred.ru') ||
-shExpMatch(host, 'cdn.bannerflow.com') ||
 shExpMatch(host, 'cdn.branch.io') ||
 shExpMatch(host, 'cdn.freefacti.com') ||
 shExpMatch(host, 'cdn.freshmarketer.com') ||
@@ -20568,7 +20440,6 @@ shExpMatch(host, 'cervusequipment.ca') ||
 shExpMatch(host, 'cescon.ca') ||
 shExpMatch(host, 'ceskarepublika.net') ||
 shExpMatch(host, 'ceskydomov.alias.ngs.modry.cz') ||
-shExpMatch(host, 'ceso.filminstan.pw') ||
 shExpMatch(host, 'cestec.org') ||
 shExpMatch(host, 'cetrk.com') ||
 shExpMatch(host, 'cf-host.com') ||
@@ -20602,7 +20473,6 @@ shExpMatch(host, 'chartboost.com') ||
 shExpMatch(host, 'chatandgames.net') ||
 shExpMatch(host, 'chatter-bate.com') ||
 shExpMatch(host, 'chaturbate-token-hack.com') ||
-shExpMatch(host, 'chaturbate.epickeys.com') ||
 shExpMatch(host, 'chaturbatetokenhack.org') ||
 shExpMatch(host, 'chaturbatetokenhacks.com') ||
 shExpMatch(host, 'cheapdomains.science') ||
@@ -20734,13 +20604,11 @@ shExpMatch(host, 'chicagocutsteakhouse.com') ||
 shExpMatch(host, 'chickenkiller.com') ||
 shExpMatch(host, 'chickensstation.com') ||
 shExpMatch(host, 'childlikecrowd.com') ||
-shExpMatch(host, 'chilki.bonypin.com') ||
 shExpMatch(host, 'chilli-recipes.com') ||
 shExpMatch(host, 'china-container.cn') ||
 shExpMatch(host, 'chinacxyy.com') ||
 shExpMatch(host, 'chinamajestic.com.au') ||
 shExpMatch(host, 'chinapower7.com') ||
-shExpMatch(host, 'chinarisingexpansiondlc.sharezips.net') ||
 shExpMatch(host, 'chinsnakes.com') ||
 shExpMatch(host, 'chip-skins.com') ||
 shExpMatch(host, 'chitika.com') ||
@@ -20753,7 +20621,6 @@ shExpMatch(host, 'chop.wtf') ||
 shExpMatch(host, 'chopchop.wtf') ||
 shExpMatch(host, 'christinecodyat0b8.tk') ||
 shExpMatch(host, 'christinerose.de') ||
-shExpMatch(host, 'christmas.minecraftpromotions.com') ||
 shExpMatch(host, 'christmasgiftnow.com') ||
 shExpMatch(host, 'christmasgiftsau.com') ||
 shExpMatch(host, 'christmasvoucher.net') ||
@@ -20784,7 +20651,6 @@ shExpMatch(host, 'cineveo.com') ||
 shExpMatch(host, 'cipane.ru') ||
 shExpMatch(host, 'cipayroll.com') ||
 shExpMatch(host, 'cipta.net') ||
-shExpMatch(host, 'cisay.cinemamovie.biz') ||
 shExpMatch(host, 'ciscotred.cz.cc') ||
 shExpMatch(host, 'citagiva.ru') ||
 shExpMatch(host, 'citiesoftomorrow.dlcodes.com') ||
@@ -20795,7 +20661,6 @@ shExpMatch(host, 'citygrid.com') ||
 shExpMatch(host, 'citymediamagazin.hu') ||
 shExpMatch(host, 'cityville-cash.com') ||
 shExpMatch(host, 'cityville2hack.com') ||
-shExpMatch(host, 'civilization5.sharezips.info') ||
 shExpMatch(host, 'cj.com') ||
 shExpMatch(host, 'cjbmanagement.com') ||
 shExpMatch(host, 'cjlog.com') ||
@@ -20814,9 +20679,6 @@ shExpMatch(host, 'clash-of-clans-for-android.com') ||
 shExpMatch(host, 'clash-of-clans-hack.com') ||
 shExpMatch(host, 'clash-of-clans-hacks.com') ||
 shExpMatch(host, 'clash-of-clans-hacks.net') ||
-shExpMatch(host, 'clash.cleandownload.net') ||
-shExpMatch(host, 'clash.newclashgems.com') ||
-shExpMatch(host, 'clash.ofclans.com') ||
 shExpMatch(host, 'clash4free.com') ||
 shExpMatch(host, 'clashclanshack.com') ||
 shExpMatch(host, 'clashgenerator.com') ||
@@ -20827,14 +20689,9 @@ shExpMatch(host, 'clashofclanhacks.com') ||
 shExpMatch(host, 'clashofclans-gen.com') ||
 shExpMatch(host, 'clashofclans-hack.net') ||
 shExpMatch(host, 'clashofclans-hacks.com') ||
-shExpMatch(host, 'clashofclans.confidencegames.com') ||
-shExpMatch(host, 'clashofclans.filesforgames.com') ||
-shExpMatch(host, 'clashofclans.hack-free.com') ||
 shExpMatch(host, 'clashofclans.hackfbgames.com') ||
 shExpMatch(host, 'clashofclans.htlwlnk.com') ||
 shExpMatch(host, 'clashofclans.newzgames.com') ||
-shExpMatch(host, 'clashofclans.sharezips.info') ||
-shExpMatch(host, 'clashofclans2014new.elitegamershub.com') ||
 shExpMatch(host, 'clashofclansastuce.fr') ||
 shExpMatch(host, 'clashofclanscheat.com') ||
 shExpMatch(host, 'clashofclanscheat.newzgames.com') ||
@@ -20855,12 +20712,8 @@ shExpMatch(host, 'clashofclansgenerator.com') ||
 shExpMatch(host, 'clashofclanshack.com') ||
 shExpMatch(host, 'clashofclanshack.fr') ||
 shExpMatch(host, 'clashofclanshack.io') ||
-shExpMatch(host, 'clashofclanshack.leakbay.net') ||
 shExpMatch(host, 'clashofclanshack.me') ||
-shExpMatch(host, 'clashofclanshack.mygamersarena.com') ||
 shExpMatch(host, 'clashofclanshack.newzgames.com') ||
-shExpMatch(host, 'clashofclanshack.online-cheats.com') ||
-shExpMatch(host, 'clashofclanshack.social-cheats.com') ||
 shExpMatch(host, 'clashofclanshack2014.net') ||
 shExpMatch(host, 'clashofclanshackcheat.com') ||
 shExpMatch(host, 'clashofclanshackcheats.com') ||
@@ -20894,7 +20747,6 @@ shExpMatch(host, 'clashofhacks.com') ||
 shExpMatch(host, 'clashoflords2hack.net') ||
 shExpMatch(host, 'clashroyalegemshack.org') ||
 shExpMatch(host, 'clashroyaleonlinecheatshack.com') ||
-shExpMatch(host, 'clashroyales.freeastuces.com') ||
 shExpMatch(host, 'class-act-clicks.com') ||
 shExpMatch(host, 'classicallyabsurdphotography.com') ||
 shExpMatch(host, 'classicpastries.com') ||
@@ -20970,7 +20822,6 @@ shExpMatch(host, 'clicks.eventbrite.com') ||
 shExpMatch(host, 'clicks.mods.de') ||
 shExpMatch(host, 'clicks.monzo.com') ||
 shExpMatch(host, 'clickserve.cc-dt.com') ||
-shExpMatch(host, 'clicksor-com.eastmoney.com.mobile-de.homesaleplus.ru') ||
 shExpMatch(host, 'clicksor.com') ||
 shExpMatch(host, 'clicktag.de') ||
 shExpMatch(host, 'clickthrucash.com') ||
@@ -21017,12 +20868,10 @@ shExpMatch(host, 'cltmusic.com') ||
 shExpMatch(host, 'clubdo.free.fr') ||
 shExpMatch(host, 'clubfrontenisnaquera.es') ||
 shExpMatch(host, 'clubpenguin.haxdo.com') ||
-shExpMatch(host, 'clubpenguin.validcheats.com') ||
 shExpMatch(host, 'clubpenguincheatsv.com') ||
 shExpMatch(host, 'clubpenguingenerator.com') ||
 shExpMatch(host, 'clubpenguinmembershiphack.newzgames.com') ||
 shExpMatch(host, 'clubproposte.it') ||
-shExpMatch(host, 'clumsyninja.sharezips.info') ||
 shExpMatch(host, 'clumsyninjahack.com') ||
 shExpMatch(host, 'clumsyninjahack.goblogz.net') ||
 shExpMatch(host, 'cluster.adultworld.com') ||
@@ -21046,7 +20895,6 @@ shExpMatch(host, 'cnn-africa.co') ||
 shExpMatch(host, 'cnn-breaking-news.info') ||
 shExpMatch(host, 'cnn-local.info') ||
 shExpMatch(host, 'cnn-news-us.science') ||
-shExpMatch(host, 'cnn.leak-video.org') ||
 shExpMatch(host, 'cnomy.com') ||
 shExpMatch(host, 'cnrdn.com') ||
 shExpMatch(host, 'cnt.spbland.ru') ||
@@ -21056,9 +20904,7 @@ shExpMatch(host, 'cnyc99.com') ||
 shExpMatch(host, 'co3corp.com') ||
 shExpMatch(host, 'coaha.frenchgerlemanelectric.com') ||
 shExpMatch(host, 'coalimpex.com') ||
-shExpMatch(host, 'coc.extafiles.com') ||
 shExpMatch(host, 'coc.tw') ||
-shExpMatch(host, 'coc.validcheats.com') ||
 shExpMatch(host, 'cocaskins.net') ||
 shExpMatch(host, 'coccheats.org') ||
 shExpMatch(host, 'cocfreegems.net') ||
@@ -21066,7 +20912,6 @@ shExpMatch(host, 'cocgemtool.com') ||
 shExpMatch(host, 'cochack.site') ||
 shExpMatch(host, 'cochacks.com') ||
 shExpMatch(host, 'cochinpropertymart.com') ||
-shExpMatch(host, 'cod-modernwarfare3-hacks.upfiles.eu') ||
 shExpMatch(host, 'cod24.net') ||
 shExpMatch(host, 'codadvancedwarfarehacks.net') ||
 shExpMatch(host, 'codbetakeys.us') ||
@@ -21082,7 +20927,6 @@ shExpMatch(host, 'codeforpsn.com') ||
 shExpMatch(host, 'codegenerator.me') ||
 shExpMatch(host, 'codegeneratorfree.net') ||
 shExpMatch(host, 'codegenerators.net') ||
-shExpMatch(host, 'codegoogleplay.betack.com') ||
 shExpMatch(host, 'codegratuit.net') ||
 shExpMatch(host, 'codeheaven.org') ||
 shExpMatch(host, 'codeprimeur.com') ||
@@ -21100,7 +20944,6 @@ shExpMatch(host, 'codesandgenerators.com') ||
 shExpMatch(host, 'codesforfree.net') ||
 shExpMatch(host, 'codesfreexbl.com') ||
 shExpMatch(host, 'codesgenerators.com') ||
-shExpMatch(host, 'codeskype.betack.com') ||
 shExpMatch(host, 'codesnhacks.net') ||
 shExpMatch(host, 'codesplace.com') ||
 shExpMatch(host, 'codesplaystationnetwork.fr') ||
@@ -21109,8 +20952,6 @@ shExpMatch(host, 'codeswifigratuit.com') ||
 shExpMatch(host, 'codesxblfree.com') ||
 shExpMatch(host, 'codesxboxlive.com') ||
 shExpMatch(host, 'codesxboxlivegratuit.com') ||
-shExpMatch(host, 'codghost.sharezips.info') ||
-shExpMatch(host, 'codghost.sharezips.net') ||
 shExpMatch(host, 'codghostprestigehack.com') ||
 shExpMatch(host, 'codghosts-hack.com') ||
 shExpMatch(host, 'codghostseasonpass.com') ||
@@ -21168,13 +21009,11 @@ shExpMatch(host, 'commonswing.com') ||
 shExpMatch(host, 'communications.melitaltd.com') ||
 shExpMatch(host, 'community.hackersclub.net') ||
 shExpMatch(host, 'communitypulse.io') ||
-shExpMatch(host, 'como-descargar-gta-5-para-pc.official-guide.net') ||
 shExpMatch(host, 'comoespiarwhatsapp.com') ||
 shExpMatch(host, 'comohackearelface.com') ||
 shExpMatch(host, 'comohackearunacuentadefacebook.com') ||
 shExpMatch(host, 'compactbanner.com') ||
 shExpMatch(host, 'company-target.com') ||
-shExpMatch(host, 'companyofheroes2.sharezips.info') ||
 shExpMatch(host, 'compdata.ca') ||
 shExpMatch(host, 'competehack.com') ||
 shExpMatch(host, 'completecabbage.com') ||
@@ -21183,7 +21022,6 @@ shExpMatch(host, 'comprabanner.it') ||
 shExpMatch(host, 'compsystech.com') ||
 shExpMatch(host, 'compte-facebook.ws') ||
 shExpMatch(host, 'comptefacebookpirater.fr') ||
-shExpMatch(host, 'computerquestions.on.nimp.org') ||
 shExpMatch(host, 'concede.fmtlib.net') ||
 shExpMatch(host, 'concernedcondition.com') ||
 shExpMatch(host, 'concerneddrink.com') ||
@@ -21207,7 +21045,6 @@ shExpMatch(host, 'consolesupply.com') ||
 shExpMatch(host, 'constructionverified.org') ||
 shExpMatch(host, 'consult4jobs.com') ||
 shExpMatch(host, 'contact-celebrities.com') ||
-shExpMatch(host, 'contadores.miarroba.com') ||
 shExpMatch(host, 'contaxe.de') ||
 shExpMatch(host, 'contemporaryfineart.com') ||
 shExpMatch(host, 'content.acc-hd.de') ||
@@ -21216,7 +21053,6 @@ shExpMatch(host, 'content22.online.citi.com') ||
 shExpMatch(host, 'contentabc.com') ||
 shExpMatch(host, 'contextweb.com') ||
 shExpMatch(host, 'continuumdownload.com') ||
-shExpMatch(host, 'contour.isthebe.st') ||
 shExpMatch(host, 'convectiontoasterovenreviews.biz') ||
 shExpMatch(host, 'converge-digital.com') ||
 shExpMatch(host, 'conversantmedia.com') ||
@@ -21235,7 +21071,6 @@ shExpMatch(host, 'coolluck.info') ||
 shExpMatch(host, 'coolmydl.com') ||
 shExpMatch(host, 'coolnameshop.cn') ||
 shExpMatch(host, 'coolstats1.net') ||
-shExpMatch(host, 'cooper.mylftv.com') ||
 shExpMatch(host, 'coordinatedcub.com') ||
 shExpMatch(host, 'cootlogix.com') ||
 shExpMatch(host, 'cope.it') ||
@@ -21278,7 +21113,6 @@ shExpMatch(host, 'counter.rambler.ru') ||
 shExpMatch(host, 'counter.search.bg') ||
 shExpMatch(host, 'counter.snackly.co') ||
 shExpMatch(host, 'counter.sparklit.com') ||
-shExpMatch(host, 'counter.yadro.ru') ||
 shExpMatch(host, 'counterfeitdoc.com') ||
 shExpMatch(host, 'counterfeitmoneyshop.org') ||
 shExpMatch(host, 'counterfeitnote.com') ||
@@ -21293,7 +21127,6 @@ shExpMatch(host, 'couponspage.club') ||
 shExpMatch(host, 'courtneygreenrealtor.com') ||
 shExpMatch(host, 'covenantfinancial.org') ||
 shExpMatch(host, 'covert-case.com') ||
-shExpMatch(host, 'coverthunterpack.sharezips.info') ||
 shExpMatch(host, 'coverty.it') ||
 shExpMatch(host, 'coverwhelm.tk') ||
 shExpMatch(host, 'covid-19donator.com') ||
@@ -21410,7 +21243,6 @@ shExpMatch(host, 'creativitygap.com') ||
 shExpMatch(host, 'creditbootcamp.com') ||
 shExpMatch(host, 'creditbureauexperts.com') ||
 shExpMatch(host, 'creditcard-2014.com') ||
-shExpMatch(host, 'creed3.sharezips.info') ||
 shExpMatch(host, 'creid.eu') ||
 shExpMatch(host, 'creigslist.com') ||
 shExpMatch(host, 'criminalcase-cheats.com') ||
@@ -21515,7 +21347,6 @@ shExpMatch(host, 'csgo-up.com') ||
 shExpMatch(host, 'csgo-zone.net') ||
 shExpMatch(host, 'csgo.ae') ||
 shExpMatch(host, 'csgo.run') ||
-shExpMatch(host, 'csgo.steamanaylst.com') ||
 shExpMatch(host, 'csgo2casino.com') ||
 shExpMatch(host, 'csgo2happy.com') ||
 shExpMatch(host, 'csgo2lotto.com') ||
@@ -21797,7 +21628,6 @@ shExpMatch(host, 'cspokemon.com') ||
 shExpMatch(host, 'csreaver.com') ||
 shExpMatch(host, 'csrich.pro') ||
 shExpMatch(host, 'csrnoney.com') ||
-shExpMatch(host, 'csrracingcheats.gimmehacks.us') ||
 shExpMatch(host, 'cssmoneyredirect3.live') ||
 shExpMatch(host, 'cssmoneyredirect4.live') ||
 shExpMatch(host, 'cstrader.top') ||
@@ -21819,7 +21649,6 @@ shExpMatch(host, 'cubeworld-freedownload.com') ||
 shExpMatch(host, 'cubeworld-game.net') ||
 shExpMatch(host, 'cubeworld-games.com') ||
 shExpMatch(host, 'cubeworld-telecharger.com') ||
-shExpMatch(host, 'cubeworld.sharezips.info') ||
 shExpMatch(host, 'cubeworlddownload.com') ||
 shExpMatch(host, 'cubeworldfree.org') ||
 shExpMatch(host, 'cubeworldhack.com') ||
@@ -21839,7 +21668,6 @@ shExpMatch(host, 'cureofcoronavirus.com') ||
 shExpMatch(host, 'curiouscat.club') ||
 shExpMatch(host, 'curiouserdesserts.com') ||
 shExpMatch(host, 'curse-talker.com') ||
-shExpMatch(host, 'cursevoice.epickeys.com') ||
 shExpMatch(host, 'cursopdg.online') ||
 shExpMatch(host, 'cursosneuromarketing.com') ||
 shExpMatch(host, 'curtaincows.com') ||
@@ -21887,7 +21715,6 @@ shExpMatch(host, 'czgtgj.com') ||
 shExpMatch(host, 'cznylsf.cn') ||
 shExpMatch(host, 'czupload.com') ||
 shExpMatch(host, 'd.adroll.com') ||
-shExpMatch(host, 'd.newagerocksinc.com') ||
 shExpMatch(host, 'd1.kuai8.com') ||
 shExpMatch(host, 'd1054130-28095.cp.blacknight.com') ||
 shExpMatch(host, 'd18.dopiao.net') ||
@@ -21964,7 +21791,6 @@ shExpMatch(host, 'dawut.ru') ||
 shExpMatch(host, 'daxflow.com') ||
 shExpMatch(host, 'daxia123.cn') ||
 shExpMatch(host, 'dayzalpha.com') ||
-shExpMatch(host, 'dayzstandalone.gamespress.net') ||
 shExpMatch(host, 'dayzstandalonebeta.com') ||
 shExpMatch(host, 'dbabyshop.com') ||
 shExpMatch(host, 'dbbsrv.com') ||
@@ -21981,18 +21807,12 @@ shExpMatch(host, 'ddos.city') ||
 shExpMatch(host, 'ddtankhack.net') ||
 shExpMatch(host, 'ddtankhacks.com') ||
 shExpMatch(host, 'ddtdown.pro') ||
-shExpMatch(host, 'ddw.bigrxdiscountmedstore.com') ||
 shExpMatch(host, 'de007.net') ||
 shExpMatch(host, 'de17a.com') ||
 shExpMatch(host, 'deadpantruck.com') ||
-shExpMatch(host, 'deadpool.sharezips.info') ||
-shExpMatch(host, 'deadrising3.sharezips.info') ||
-shExpMatch(host, 'deadrising3seasonpass.sharezips.info') ||
 shExpMatch(host, 'dealdotcom.com') ||
 shExpMatch(host, 'dealul-lomb.ro') ||
 shExpMatch(host, 'deanmediagroup.com') ||
-shExpMatch(host, 'deathstrokedlc.sharezips.info') ||
-shExpMatch(host, 'deathstrokedlc.sharezips.net') ||
 shExpMatch(host, 'debloque-ton-tel.com') ||
 shExpMatch(host, 'debloquertoutdesuite.com') ||
 shExpMatch(host, 'debonairway.com') ||
@@ -22046,7 +21866,6 @@ shExpMatch(host, 'demongenerator.com') ||
 shExpMatch(host, 'demonstreet.net') ||
 shExpMatch(host, 'demovie.xyz') ||
 shExpMatch(host, 'denisen.com.cn') ||
-shExpMatch(host, 'denmark.filminstan.pw') ||
 shExpMatch(host, 'densepromissory.info') ||
 shExpMatch(host, 'dentairemalin.com') ||
 shExpMatch(host, 'denverfilmdigitalmedia.cn') ||
@@ -22099,7 +21918,6 @@ shExpMatch(host, 'dghongyu17.cn') ||
 shExpMatch(host, 'dgp.cc') ||
 shExpMatch(host, 'dhansz.xyz') ||
 shExpMatch(host, 'di1.shopping.com') ||
-shExpMatch(host, 'diablo3.sharezips.info') ||
 shExpMatch(host, 'diablo3cracked.org') ||
 shExpMatch(host, 'diablo3keygen.org') ||
 shExpMatch(host, 'diaflora.hu') ||
@@ -22113,7 +21931,6 @@ shExpMatch(host, 'dianepiette.co.uk') ||
 shExpMatch(host, 'dianomi.com') ||
 shExpMatch(host, 'diaryofagameaddict.com') ||
 shExpMatch(host, 'dicebot-game.com') ||
-shExpMatch(host, 'dicolol.ledicodi.com') ||
 shExpMatch(host, 'didtheyreadit.com') ||
 shExpMatch(host, 'diemov.com') ||
 shExpMatch(host, 'dieorhack.com') ||
@@ -22162,7 +21979,6 @@ shExpMatch(host, 'discordcrypt.xyz') ||
 shExpMatch(host, 'discountclick.com') ||
 shExpMatch(host, 'discountforest.com') ||
 shExpMatch(host, 'discreetfield.com') ||
-shExpMatch(host, 'disneyinfinity.sharezips.info') ||
 shExpMatch(host, 'dispensablestranger.com') ||
 shExpMatch(host, 'displayadsmedia.com') ||
 shExpMatch(host, 'displaypagerank.com') ||
@@ -22243,7 +22059,6 @@ shExpMatch(host, 'docsworking.com') ||
 shExpMatch(host, 'doctorbzb.com') ||
 shExpMatch(host, 'doctorsdirectory.net') ||
 shExpMatch(host, 'dofeb.frenchgerlemanelectric.com') ||
-shExpMatch(host, 'dofushack.sharezips.info') ||
 shExpMatch(host, 'dofuskamas-generateur.com') ||
 shExpMatch(host, 'dofuskamasgenerateur.com') ||
 shExpMatch(host, 'dofuskamashack.net') ||
@@ -22339,7 +22154,6 @@ shExpMatch(host, 'down.360safe.com') ||
 shExpMatch(host, 'down.3lsoft.com') ||
 shExpMatch(host, 'down.cngr.cn') ||
 shExpMatch(host, 'down.downholic.com') ||
-shExpMatch(host, 'down.feiyang163.com') ||
 shExpMatch(host, 'down.guangsu.cn') ||
 shExpMatch(host, 'down.mykings.pw') ||
 shExpMatch(host, 'down.nowdream.kr') ||
@@ -22351,9 +22165,7 @@ shExpMatch(host, 'down.whphonesoft.com') ||
 shExpMatch(host, 'down.yxdfc.com') ||
 shExpMatch(host, 'down1.cnzz.cc') ||
 shExpMatch(host, 'down1.upanfile.com') ||
-shExpMatch(host, 'down2.feiyang163.com') ||
 shExpMatch(host, 'down2.upantool.com') ||
-shExpMatch(host, 'down3.feiyang163.com') ||
 shExpMatch(host, 'down4.cr173.com') ||
 shExpMatch(host, 'downflvplayer.com') ||
 shExpMatch(host, 'downhack.net') ||
@@ -22374,10 +22186,8 @@ shExpMatch(host, 'download-hack.org') ||
 shExpMatch(host, 'download-hacks.us') ||
 shExpMatch(host, 'download-minecraft.ru') ||
 shExpMatch(host, 'download.56.com') ||
-shExpMatch(host, 'download.buzzfiles.net') ||
 shExpMatch(host, 'download.cdn.jzip.com') ||
 shExpMatch(host, 'download.cm') ||
-shExpMatch(host, 'download.forfreeminecraft.com') ||
 shExpMatch(host, 'download.grandcloud.cn') ||
 shExpMatch(host, 'download.ttrili.com') ||
 shExpMatch(host, 'download10-25.ru') ||
@@ -22476,10 +22286,6 @@ shExpMatch(host, 'dragonballzstream.com') ||
 shExpMatch(host, 'dragonborn.dlcodes.com') ||
 shExpMatch(host, 'dragoncity-hack.net') ||
 shExpMatch(host, 'dragoncity-hack.org') ||
-shExpMatch(host, 'dragoncity.cooldownloadz.com') ||
-shExpMatch(host, 'dragoncity.fbgamesgiveaway.com') ||
-shExpMatch(host, 'dragoncity.gaminghazard.com') ||
-shExpMatch(host, 'dragoncity.hack-team.org') ||
 shExpMatch(host, 'dragoncity.newzgames.com') ||
 shExpMatch(host, 'dragoncitycheat.biz') ||
 shExpMatch(host, 'dragoncitycheat.info') ||
@@ -22492,7 +22298,6 @@ shExpMatch(host, 'dragoncitygems.com') ||
 shExpMatch(host, 'dragoncitygemshack.com') ||
 shExpMatch(host, 'dragoncityhack.net') ||
 shExpMatch(host, 'dragoncityhack.org') ||
-shExpMatch(host, 'dragoncityhack.zerw.org') ||
 shExpMatch(host, 'dragoncityhackcheats.com') ||
 shExpMatch(host, 'dragoncityhackdownload.com') ||
 shExpMatch(host, 'dragoncityhackon.com') ||
@@ -22501,7 +22306,6 @@ shExpMatch(host, 'dragoncityhacks.org') ||
 shExpMatch(host, 'dragoncityhacksandcheats.com') ||
 shExpMatch(host, 'dragoncityhackstool.net') ||
 shExpMatch(host, 'dragoncityhacktool.net') ||
-shExpMatch(host, 'dragoncityhacktool.sharezips.info') ||
 shExpMatch(host, 'dragoncityhacktools.com') ||
 shExpMatch(host, 'dragonhacktool.com') ||
 shExpMatch(host, 'dragons-cases.fun') ||
@@ -22753,7 +22557,6 @@ shExpMatch(host, 'elantrasantrope.ru') ||
 shExpMatch(host, 'elasticchange.com') ||
 shExpMatch(host, 'elderlyscissors.com') ||
 shExpMatch(host, 'elderlytown.com') ||
-shExpMatch(host, 'elderscrollsonline.gamespress.net') ||
 shExpMatch(host, 'electcase.com') ||
 shExpMatch(host, 'electrohemostasis.makemoneywithmegan.net') ||
 shExpMatch(host, 'electronicssense-search.com') ||
@@ -22779,7 +22582,6 @@ shExpMatch(host, 'elitegenerators.info') ||
 shExpMatch(host, 'elitehack24.com') ||
 shExpMatch(host, 'elitehacking.net') ||
 shExpMatch(host, 'elitehacks.fr') ||
-shExpMatch(host, 'elitehacks.gem24.net') ||
 shExpMatch(host, 'elitehacksforgames.com') ||
 shExpMatch(host, 'elitehacksor.com') ||
 shExpMatch(host, 'elitehacktool.com') ||
@@ -22818,7 +22620,6 @@ shExpMatch(host, 'emediate.eu') ||
 shExpMatch(host, 'emeraldfiles.com') ||
 shExpMatch(host, 'emerse.com') ||
 shExpMatch(host, 'emetriq.de') ||
-shExpMatch(host, 'eminem2014scandal.sharest.org') ||
 shExpMatch(host, 'emiratenbd-account.icu') ||
 shExpMatch(host, 'emiratesfoundation.net') ||
 shExpMatch(host, 'emiratesnbd-account.icu') ||
@@ -22832,7 +22633,6 @@ shExpMatch(host, 'emlratesnbd-upgrade.icu') ||
 shExpMatch(host, 'emltrk.com') ||
 shExpMatch(host, 'emodoinc.com') ||
 shExpMatch(host, 'emonitor.takeit.cz') ||
-shExpMatch(host, 'empiresandallieshack.movies-mania.com') ||
 shExpMatch(host, 'emptyescort.com') ||
 shExpMatch(host, 'emrahkeskin.com') ||
 shExpMatch(host, 'emulateur3ds.com') ||
@@ -22908,7 +22708,6 @@ shExpMatch(host, 'eqy.link') ||
 shExpMatch(host, 'eracou.com') ||
 shExpMatch(host, 'eramsitioweb.com.ar') ||
 shExpMatch(host, 'erapidassure.com') ||
-shExpMatch(host, 'erection.doktordick.com') ||
 shExpMatch(host, 'ericaduranceworld.com') ||
 shExpMatch(host, 'ericzworkz.free.fr') ||
 shExpMatch(host, 'erne.co') ||
@@ -22921,7 +22720,6 @@ shExpMatch(host, 'err0r-logme-page-all-0x00002542.website') ||
 shExpMatch(host, 'error-reporting-32.org') ||
 shExpMatch(host, 'ersinkayisli.com') ||
 shExpMatch(host, 'ertyu.com') ||
-shExpMatch(host, 'es.fbwand.com') ||
 shExpMatch(host, 'esassociacao.org') ||
 shExpMatch(host, 'esavefile.com') ||
 shExpMatch(host, 'escribaniaquinterno.com.ar') ||
@@ -22970,14 +22768,6 @@ shExpMatch(host, 'etstemizlik.com') ||
 shExpMatch(host, 'ettc-online.com') ||
 shExpMatch(host, 'eu-adcenter.net') ||
 shExpMatch(host, 'eu-roulette.com') ||
-shExpMatch(host, 'eu.france.id100429421-9222533281.e406019.com') ||
-shExpMatch(host, 'eu.france.id108979765-7218227704.w595505.com') ||
-shExpMatch(host, 'eu.france.id130546622-3701190119.w595505.com') ||
-shExpMatch(host, 'eu.france.id131337608-5036396713.w595505.com') ||
-shExpMatch(host, 'eu.id442015863-6945696543.k769943.com') ||
-shExpMatch(host, 'eu.id474190312-1662660088.y439967.com') ||
-shExpMatch(host, 'eu.id527347220-7229513996.p250632.com') ||
-shExpMatch(host, 'eu.id608939235-5535903207.o239315.com') ||
 shExpMatch(host, 'eu1.madsone.com') ||
 shExpMatch(host, 'eubuild.com') ||
 shExpMatch(host, 'eucsgo.com') ||
@@ -22993,23 +22783,7 @@ shExpMatch(host, 'euroclick.com') ||
 shExpMatch(host, 'eurocompkft.hu') ||
 shExpMatch(host, 'euroks.ru') ||
 shExpMatch(host, 'eurolatexthai.com') ||
-shExpMatch(host, 'europe.eu.france.id100429421-9222533281.e406019.com') ||
-shExpMatch(host, 'europe.eu.france.id108979765-7218227704.w595505.com') ||
-shExpMatch(host, 'europe.eu.france.id130546622-3701190119.w595505.com') ||
-shExpMatch(host, 'europe.eu.france.id131337608-5036396713.w595505.com') ||
-shExpMatch(host, 'europe.eu.id442015863-6945696543.k769943.com') ||
-shExpMatch(host, 'europe.eu.id474190312-1662660088.y439967.com') ||
-shExpMatch(host, 'europe.eu.id527347220-7229513996.p250632.com') ||
-shExpMatch(host, 'europe.eu.id608939235-5535903207.o239315.com') ||
 shExpMatch(host, 'european-toplist.de') ||
-shExpMatch(host, 'europol.europe.eu.france.id100429421-9222533281.e406019.com') ||
-shExpMatch(host, 'europol.europe.eu.france.id108979765-7218227704.w595505.com') ||
-shExpMatch(host, 'europol.europe.eu.france.id130546622-3701190119.w595505.com') ||
-shExpMatch(host, 'europol.europe.eu.france.id131337608-5036396713.w595505.com') ||
-shExpMatch(host, 'europol.europe.eu.id442015863-6945696543.k769943.com') ||
-shExpMatch(host, 'europol.europe.eu.id474190312-1662660088.y439967.com') ||
-shExpMatch(host, 'europol.europe.eu.id527347220-7229513996.p250632.com') ||
-shExpMatch(host, 'europol.europe.eu.id608939235-5535903207.o239315.com') ||
 shExpMatch(host, 'euroranking.de') ||
 shExpMatch(host, 'euros4click.de') ||
 shExpMatch(host, 'eurotrucksimulator2keygen.com') ||
@@ -23145,7 +22919,6 @@ shExpMatch(host, 'extreme-dm.com') ||
 shExpMatch(host, 'extremetracking.com') ||
 shExpMatch(host, 'eyebager.site') ||
 shExpMatch(host, 'eyeblaster.com') ||
-shExpMatch(host, 'eyecatchercharters.isthebe.st') ||
 shExpMatch(host, 'eyeota.net') ||
 shExpMatch(host, 'eyereturn.com') ||
 shExpMatch(host, 'eyesopensocialmediasafety.com.au') ||
@@ -23193,7 +22966,6 @@ shExpMatch(host, 'facebook-hack.org') ||
 shExpMatch(host, 'facebook-hacks.com') ||
 shExpMatch(host, 'facebook-steal.com') ||
 shExpMatch(host, 'facebook.ali-office.com') ||
-shExpMatch(host, 'facebook.mishacks.com') ||
 shExpMatch(host, 'facebookaccounthack.com') ||
 shExpMatch(host, 'facebookaccounthack.net') ||
 shExpMatch(host, 'facebookcreditsgenerator.com') ||
@@ -23280,15 +23052,11 @@ shExpMatch(host, 'fantasy-hacks.com') ||
 shExpMatch(host, 'fantasyhack.com') ||
 shExpMatch(host, 'fantasyherald.com') ||
 shExpMatch(host, 'faracoon.com') ||
-shExpMatch(host, 'farcry3.sharezips.info') ||
 shExpMatch(host, 'farethief.com') ||
-shExpMatch(host, 'farmepiccheats.elitegamershub.com') ||
 shExpMatch(host, 'farmergoldfish.com') ||
 shExpMatch(host, 'farmingsimulator.dlcodes.com') ||
-shExpMatch(host, 'farmville2.fbgamesgiveaway.com') ||
 shExpMatch(host, 'farmville2generator.com') ||
 shExpMatch(host, 'farmville2hack.com') ||
-shExpMatch(host, 'farmville2hack.social-cheats.com') ||
 shExpMatch(host, 'fascinatedfeather.com') ||
 shExpMatch(host, 'fashion-ol.com.pl') ||
 shExpMatch(host, 'fast-adv.it') ||
@@ -23333,8 +23101,6 @@ shExpMatch(host, 'fb-hackers.com') ||
 shExpMatch(host, 'fb-hacks.com') ||
 shExpMatch(host, 'fb-promotions.com') ||
 shExpMatch(host, 'fb-szpieguj.pl') ||
-shExpMatch(host, 'fb.deluxecheat.com') ||
-shExpMatch(host, 'fb.media-tricks.com') ||
 shExpMatch(host, 'fbacchacker.com') ||
 shExpMatch(host, 'fbaccounthack.com') ||
 shExpMatch(host, 'fbaccounthacker.com') ||
@@ -23360,7 +23126,6 @@ shExpMatch(host, 'fbgamesgiveaway.com') ||
 shExpMatch(host, 'fbgamez.com') ||
 shExpMatch(host, 'fbgiveaways.net') ||
 shExpMatch(host, 'fbhack.info') ||
-shExpMatch(host, 'fbhack.sharezips.info') ||
 shExpMatch(host, 'fbhackaccount.com') ||
 shExpMatch(host, 'fbhackearya.com') ||
 shExpMatch(host, 'fbhackelite.com') ||
@@ -23432,7 +23197,6 @@ shExpMatch(host, 'fetemaf.ru') ||
 shExpMatch(host, 'fetishfitnessbabes.com') ||
 shExpMatch(host, 'fetishlocator.com') ||
 shExpMatch(host, 'fetuh.ru') ||
-shExpMatch(host, 'few.ijssalonlekker.nl') ||
 shExpMatch(host, 'ffa-hosting.com') ||
 shExpMatch(host, 'fffddd11.cn') ||
 shExpMatch(host, 'ffsi.info') ||
@@ -23449,23 +23213,16 @@ shExpMatch(host, 'fifa-14-coin-generator.com') ||
 shExpMatch(host, 'fifa-ea.com') ||
 shExpMatch(host, 'fifa-free-coins.xyz') ||
 shExpMatch(host, 'fifa12-android.org') ||
-shExpMatch(host, 'fifa13.sharezips.info') ||
 shExpMatch(host, 'fifa13pointsfree.com') ||
 shExpMatch(host, 'fifa13ultimateteamfreecoins.com') ||
 shExpMatch(host, 'fifa14-hack-coins.info') ||
 shExpMatch(host, 'fifa14-hack-players.biz') ||
-shExpMatch(host, 'fifa14.epickeys.com') ||
-shExpMatch(host, 'fifa14.sharezips.info') ||
-shExpMatch(host, 'fifa14.social-cheats.com') ||
 shExpMatch(host, 'fifa14androidhack.com') ||
-shExpMatch(host, 'fifa14coingenerator.elitegamershub.com') ||
 shExpMatch(host, 'fifa14coinhack.com') ||
 shExpMatch(host, 'fifa14coinsgenerator.com') ||
 shExpMatch(host, 'fifa14coinshack.com') ||
 shExpMatch(host, 'fifa14cracked.com') ||
 shExpMatch(host, 'fifa14hack.com') ||
-shExpMatch(host, 'fifa14hack.leakbay.net') ||
-shExpMatch(host, 'fifa14points.legratuits.com') ||
 shExpMatch(host, 'fifa14ultimateteamfreecoins.com') ||
 shExpMatch(host, 'fifa15creditsgratuit.fr') ||
 shExpMatch(host, 'fifa15gen.com') ||
@@ -23483,8 +23240,6 @@ shExpMatch(host, 'fifacoinsgenerator.com') ||
 shExpMatch(host, 'fifacreditgratuit.com') ||
 shExpMatch(host, 'fifaeasport19.live') ||
 shExpMatch(host, 'fifapoints.net') ||
-shExpMatch(host, 'fifasoccer14.sharezips.info') ||
-shExpMatch(host, 'fifasoccer14.sharezips.net') ||
 shExpMatch(host, 'fifaultimateteampiecesinfini.com') ||
 shExpMatch(host, 'fiftyshadesofgreyonlinemovie.com') ||
 shExpMatch(host, 'fightagent.ru') ||
@@ -23492,7 +23247,6 @@ shExpMatch(host, 'fiksu.com') ||
 shExpMatch(host, 'file-save.com') ||
 shExpMatch(host, 'file-site.com') ||
 shExpMatch(host, 'file-speedy.com') ||
-shExpMatch(host, 'file.adgatemedia.com') ||
 shExpMatch(host, 'file.mm.co.kr') ||
 shExpMatch(host, 'file.oculus-tech.com') ||
 shExpMatch(host, 'fileace.com') ||
@@ -23651,7 +23405,6 @@ shExpMatch(host, 'fimc.net') ||
 shExpMatch(host, 'fime2013.com') ||
 shExpMatch(host, 'fimmovie.com') ||
 shExpMatch(host, 'fimserve.com') ||
-shExpMatch(host, 'finalexamgame.sharezips.info') ||
 shExpMatch(host, 'finalions.ru') ||
 shExpMatch(host, 'findbigbearproperty.cn') ||
 shExpMatch(host, 'findbigmoneygame.cn') ||
@@ -23729,9 +23482,7 @@ shExpMatch(host, 'flamefile.com') ||
 shExpMatch(host, 'flamefolders.com') ||
 shExpMatch(host, 'flamehacks.com') ||
 shExpMatch(host, 'flappy-bird-cheats.com') ||
-shExpMatch(host, 'flappybird.jeux-triche.com') ||
 shExpMatch(host, 'flappybirdcheats.net') ||
-shExpMatch(host, 'flappybirdcheats.validcheats.com') ||
 shExpMatch(host, 'flappybirdhacking.com') ||
 shExpMatch(host, 'flash-fm.tk') ||
 shExpMatch(host, 'flash-player-updates.com') ||
@@ -23799,7 +23550,6 @@ shExpMatch(host, 'foresee.com') ||
 shExpMatch(host, 'forex-affiliate.net') ||
 shExpMatch(host, 'forfreeminecraft.com') ||
 shExpMatch(host, 'forgametrick.com') ||
-shExpMatch(host, 'forgeofempires.elitegamershub.com') ||
 shExpMatch(host, 'forgottencelebs.com') ||
 shExpMatch(host, 'forkcdn.com') ||
 shExpMatch(host, 'formanth.win') ||
@@ -23833,11 +23583,7 @@ shExpMatch(host, 'forvetbet65.com') ||
 shExpMatch(host, 'forwrdnow.com') ||
 shExpMatch(host, 'foryou1k.com') ||
 shExpMatch(host, 'forza.console2pc.info') ||
-shExpMatch(host, 'forzacarpass.sharezips.info') ||
-shExpMatch(host, 'forzagame.sharezips.info') ||
 shExpMatch(host, 'forzahackers.com') ||
-shExpMatch(host, 'forzamotorsport5seasonpass.sharezips.net') ||
-shExpMatch(host, 'forzaseasonpass.sharezips.info') ||
 shExpMatch(host, 'fosass.net') ||
 shExpMatch(host, 'foto-nsk.ru') ||
 shExpMatch(host, 'fotocerdas.com') ||
@@ -23859,20 +23605,12 @@ shExpMatch(host, 'fpert.qpoe.com') ||
 shExpMatch(host, 'fpjs.io') ||
 shExpMatch(host, 'fpstool.com') ||
 shExpMatch(host, 'fqtag.com') ||
-shExpMatch(host, 'fr.best-hacks.net') ||
-shExpMatch(host, 'fr.comohackearelface.com') ||
-shExpMatch(host, 'fr.dilimania.net') ||
-shExpMatch(host, 'fr.freeskypecredit.com') ||
 shExpMatch(host, 'fragmentserv.iac-online.de') ||
 shExpMatch(host, 'frailoffer.com') ||
 shExpMatch(host, 'frame.hosting') ||
 shExpMatch(host, 'frameip.com') ||
 shExpMatch(host, 'framtr.com') ||
 shExpMatch(host, 'france-leasebacks.com') ||
-shExpMatch(host, 'france.id100429421-9222533281.e406019.com') ||
-shExpMatch(host, 'france.id108979765-7218227704.w595505.com') ||
-shExpMatch(host, 'france.id130546622-3701190119.w595505.com') ||
-shExpMatch(host, 'france.id131337608-5036396713.w595505.com') ||
 shExpMatch(host, 'frankdoc.site') ||
 shExpMatch(host, 'frankjackpot.io') ||
 shExpMatch(host, 'frankjackpot.pro') ||
@@ -23883,7 +23621,6 @@ shExpMatch(host, 'frecheats.com') ||
 shExpMatch(host, 'free--ipad.net') ||
 shExpMatch(host, 'free--iphone4s.com') ||
 shExpMatch(host, 'free--iphone5.com') ||
-shExpMatch(host, 'free-amazon-gift-card.passionsofmyheart.com') ||
 shExpMatch(host, 'free-amazon-gifts.info') ||
 shExpMatch(host, 'free-amazoncodes.com') ||
 shExpMatch(host, 'free-amazongift-cards.com') ||
@@ -23896,10 +23633,8 @@ shExpMatch(host, 'free-codes.info') ||
 shExpMatch(host, 'free-counter.co.uk') ||
 shExpMatch(host, 'free-crochet-pattern.com') ||
 shExpMatch(host, 'free-csgo-skin.com') ||
-shExpMatch(host, 'free-ddddsex-ddddpasswords.isthebe.st') ||
 shExpMatch(host, 'free-dominos.co.uk') ||
 shExpMatch(host, 'free-down.xyz') ||
-shExpMatch(host, 'free-dsex-dpasswords.isthebe.st') ||
 shExpMatch(host, 'free-ebookdownloads.com') ||
 shExpMatch(host, 'free-facebook-account-hack.com') ||
 shExpMatch(host, 'free-facebook-hack-account.com') ||
@@ -23925,10 +23660,8 @@ shExpMatch(host, 'free-lol-skins.org') ||
 shExpMatch(host, 'free-lolriotpoints.com') ||
 shExpMatch(host, 'free-minecraftaccount.org') ||
 shExpMatch(host, 'free-minecraftgiftcodes.com') ||
-shExpMatch(host, 'free-netflix.official-guide.net') ||
 shExpMatch(host, 'free-netflixaccounts.com') ||
 shExpMatch(host, 'free-new.com') ||
-shExpMatch(host, 'free-online-games.cybergamez.us') ||
 shExpMatch(host, 'free-ourworld.com') ||
 shExpMatch(host, 'free-playstation-plus.com') ||
 shExpMatch(host, 'free-pokecoins.org') ||
@@ -23946,12 +23679,7 @@ shExpMatch(host, 'free-steam-games.com') ||
 shExpMatch(host, 'free-steam-games.net') ||
 shExpMatch(host, 'free-steamgames.com') ||
 shExpMatch(host, 'free-wifi-hack.com') ||
-shExpMatch(host, 'free-wii-points-project.hackservices.com') ||
 shExpMatch(host, 'free-zynga-poker-chips.com') ||
-shExpMatch(host, 'free.exmovie.xyz') ||
-shExpMatch(host, 'free.minecraftferfree.com') ||
-shExpMatch(host, 'free.minecraftpremiumworld.com') ||
-shExpMatch(host, 'free.netflix-accounts.com') ||
 shExpMatch(host, 'free3dsemulator.com') ||
 shExpMatch(host, 'free4android.net') ||
 shExpMatch(host, 'free4hack.org') ||
@@ -23965,7 +23693,6 @@ shExpMatch(host, 'freeamazongiftcardcodes.biz') ||
 shExpMatch(host, 'freeamzgiftcards.com') ||
 shExpMatch(host, 'freeandroidgamescheats.com') ||
 shExpMatch(host, 'freeanonymous.host') ||
-shExpMatch(host, 'freeapocalypsemap.sharezips.info') ||
 shExpMatch(host, 'freeastuce.ml') ||
 shExpMatch(host, 'freeastuces.com') ||
 shExpMatch(host, 'freebanner.com') ||
@@ -23984,7 +23711,6 @@ shExpMatch(host, 'freebrazzersaccounts.us') ||
 shExpMatch(host, 'freebtcgenerator.net') ||
 shExpMatch(host, 'freecallofdutyserver.com') ||
 shExpMatch(host, 'freecardcodes.com') ||
-shExpMatch(host, 'freecheat.hackspress.net') ||
 shExpMatch(host, 'freecheatbay.com') ||
 shExpMatch(host, 'freecheathackdownload.com') ||
 shExpMatch(host, 'freecheatscodes.net') ||
@@ -23998,7 +23724,6 @@ shExpMatch(host, 'freecodegenerator.net') ||
 shExpMatch(host, 'freecodegeneratorgeek.com') ||
 shExpMatch(host, 'freecodeitunes.com') ||
 shExpMatch(host, 'freecodes.us') ||
-shExpMatch(host, 'freecodesbox.gamerlh.com') ||
 shExpMatch(host, 'freecodesend.com') ||
 shExpMatch(host, 'freecodesgenerator.com') ||
 shExpMatch(host, 'freecodesheaven.com') ||
@@ -24034,8 +23759,6 @@ shExpMatch(host, 'freeelitegames.com') ||
 shExpMatch(host, 'freeeshopcodes.com') ||
 shExpMatch(host, 'freefacebookhacking.com') ||
 shExpMatch(host, 'freefacecredits.com') ||
-shExpMatch(host, 'freefallmapdlc.sharezips.info') ||
-shExpMatch(host, 'freefallmapdlc.sharezips.net') ||
 shExpMatch(host, 'freefantagemembership.com') ||
 shExpMatch(host, 'freefbcredit.com') ||
 shExpMatch(host, 'freefbcredits.org') ||
@@ -24064,7 +23787,6 @@ shExpMatch(host, 'freegameshacks.com') ||
 shExpMatch(host, 'freegamez.ru') ||
 shExpMatch(host, 'freegamezgiveawayz.com') ||
 shExpMatch(host, 'freegamingcardcodes.com') ||
-shExpMatch(host, 'freegems.clashofclansresourcesgenerator.com') ||
 shExpMatch(host, 'freegenerator.io') ||
 shExpMatch(host, 'freegeneratorhack.com') ||
 shExpMatch(host, 'freeghostskey.net') ||
@@ -24073,7 +23795,6 @@ shExpMatch(host, 'freegiftcardgenerator.com') ||
 shExpMatch(host, 'freegiftcards.co') ||
 shExpMatch(host, 'freegiftcode.com') ||
 shExpMatch(host, 'freegiftcodegenerator.com') ||
-shExpMatch(host, 'freegoogleplaycodes.cleanfile.org') ||
 shExpMatch(host, 'freegoogleplaycodes.com') ||
 shExpMatch(host, 'freegta5keys.us') ||
 shExpMatch(host, 'freeguard.biz') ||
@@ -24113,7 +23834,6 @@ shExpMatch(host, 'freeitunes.cc') ||
 shExpMatch(host, 'freeitunescard.org') ||
 shExpMatch(host, 'freeitunescodegenerator.com') ||
 shExpMatch(host, 'freeitunescodegenerator.net') ||
-shExpMatch(host, 'freeitunescodes.cracknhacks.net') ||
 shExpMatch(host, 'freeitunescodes.info') ||
 shExpMatch(host, 'freeitunescodesgen.com') ||
 shExpMatch(host, 'freeitunescodeshere.com') ||
@@ -24139,7 +23859,6 @@ shExpMatch(host, 'freemacbookpro.eu') ||
 shExpMatch(host, 'freemaddencoins.com') ||
 shExpMatch(host, 'freemazon.org') ||
 shExpMatch(host, 'freemcaccount.com') ||
-shExpMatch(host, 'freemcdonalds.holidayvoucher.us') ||
 shExpMatch(host, 'freemcgenerator.info') ||
 shExpMatch(host, 'freemeez.com') ||
 shExpMatch(host, 'freemicrosoftcodes.info') ||
@@ -24153,7 +23872,6 @@ shExpMatch(host, 'freemicrosoftpointslive.com') ||
 shExpMatch(host, 'freemicrosoftpointsx.net') ||
 shExpMatch(host, 'freeminecraft.co.uk') ||
 shExpMatch(host, 'freeminecraft.me') ||
-shExpMatch(host, 'freeminecraft.social-cheats.com') ||
 shExpMatch(host, 'freeminecraft.us') ||
 shExpMatch(host, 'freeminecraftaccount.me') ||
 shExpMatch(host, 'freeminecraftaccountsz.com') ||
@@ -24165,7 +23883,6 @@ shExpMatch(host, 'freeminecraftgiftcardsnow.com') ||
 shExpMatch(host, 'freeminecraftgiftcode.net') ||
 shExpMatch(host, 'freeminecrafthosting.org') ||
 shExpMatch(host, 'freeminecraftonline.com') ||
-shExpMatch(host, 'freeminecraftpremium.cleanfile.org') ||
 shExpMatch(host, 'freeminecraftpremiumaccounts.info') ||
 shExpMatch(host, 'freeminecraftserver.me') ||
 shExpMatch(host, 'freeminecraftserverhoster.com') ||
@@ -24176,7 +23893,6 @@ shExpMatch(host, 'freemobacoins.com') ||
 shExpMatch(host, 'freemods.info') ||
 shExpMatch(host, 'freemods.net') ||
 shExpMatch(host, 'freemofospassword.com') ||
-shExpMatch(host, 'freemoshicodes.com-host.info') ||
 shExpMatch(host, 'freemspcodes.com') ||
 shExpMatch(host, 'freemspcodez.com') ||
 shExpMatch(host, 'freemspointsforever.com') ||
@@ -24210,7 +23926,6 @@ shExpMatch(host, 'freeplaycards.com') ||
 shExpMatch(host, 'freeplaygiftcard.com') ||
 shExpMatch(host, 'freeplaygiftcards.com') ||
 shExpMatch(host, 'freeplaystationcards.info') ||
-shExpMatch(host, 'freeplaystationplus.com-promotions.us') ||
 shExpMatch(host, 'freeplaystationpluscode.net') ||
 shExpMatch(host, 'freeplaystationrewards.com') ||
 shExpMatch(host, 'freepmoney.com') ||
@@ -24236,12 +23951,9 @@ shExpMatch(host, 'freepsncodegen.org') ||
 shExpMatch(host, 'freepsncodegenerator.org') ||
 shExpMatch(host, 'freepsncodegiveaway.com') ||
 shExpMatch(host, 'freepsncodes.cc') ||
-shExpMatch(host, 'freepsncodes.cleanfile.org') ||
 shExpMatch(host, 'freepsncodes.deephack.com') ||
-shExpMatch(host, 'freepsncodes.freecodegeneratorgeek.com') ||
 shExpMatch(host, 'freepsncodes.gameopen.org') ||
 shExpMatch(host, 'freepsncodes.info') ||
-shExpMatch(host, 'freepsncodes.leakbay.net') ||
 shExpMatch(host, 'freepsncodes.premium-codes.com') ||
 shExpMatch(host, 'freepsncodes.pw') ||
 shExpMatch(host, 'freepsncodesgenerator.org') ||
@@ -24262,7 +23974,6 @@ shExpMatch(host, 'freeriotcode.com') ||
 shExpMatch(host, 'freeriotcodes.org') ||
 shExpMatch(host, 'freeriotpoint.com') ||
 shExpMatch(host, 'freeriotpoint.net') ||
-shExpMatch(host, 'freeriotpoints.cleanfile.org') ||
 shExpMatch(host, 'freeriotpoints.me') ||
 shExpMatch(host, 'freeriotpointsgenerator.net') ||
 shExpMatch(host, 'freeriotpointsnow.com') ||
@@ -24281,9 +23992,7 @@ shExpMatch(host, 'freeskin.online') ||
 shExpMatch(host, 'freeskins.live') ||
 shExpMatch(host, 'freeskreen.com') ||
 shExpMatch(host, 'freeskypecredit.com') ||
-shExpMatch(host, 'freeskypecredit.com-promotions.us') ||
 shExpMatch(host, 'freeskypecredit.net') ||
-shExpMatch(host, 'freeskypecredits.cleanfile.org') ||
 shExpMatch(host, 'freeskypecredits.net') ||
 shExpMatch(host, 'freeskypecreditvoucher.com') ||
 shExpMatch(host, 'freesocialfollowers.net') ||
@@ -24297,7 +24006,6 @@ shExpMatch(host, 'freestats.com') ||
 shExpMatch(host, 'freestats.tv') ||
 shExpMatch(host, 'freesteamgamesnow.com') ||
 shExpMatch(host, 'freesteamgifts.com') ||
-shExpMatch(host, 'freesteamwallet.cleanfile.org') ||
 shExpMatch(host, 'freesteamwalletcodes.com') ||
 shExpMatch(host, 'freesteamwalletcodes.net') ||
 shExpMatch(host, 'freestuf.pl') ||
@@ -24352,7 +24060,6 @@ shExpMatch(host, 'freexboxlive.cc') ||
 shExpMatch(host, 'freexboxlivecodesgen.com') ||
 shExpMatch(host, 'freexboxlivee.com') ||
 shExpMatch(host, 'freexboxliveforever.com') ||
-shExpMatch(host, 'freexboxlivegold.cleanfile.org') ||
 shExpMatch(host, 'freexboxlivegold.info') ||
 shExpMatch(host, 'freexboxlivegoldcodes.net') ||
 shExpMatch(host, 'freexboxlivehere.com') ||
@@ -24404,7 +24111,6 @@ shExpMatch(host, 'fuglekos.com') ||
 shExpMatch(host, 'fugub.ru') ||
 shExpMatch(host, 'full-movies-online.cba.pl') ||
 shExpMatch(host, 'full-x-clips.in') ||
-shExpMatch(host, 'full.exmovie.xyz') ||
 shExpMatch(host, 'fullepisodesfree.com') ||
 shExpMatch(host, 'fullfreegamex.com') ||
 shExpMatch(host, 'fullfreeversiongames.com') ||
@@ -24462,7 +24168,6 @@ shExpMatch(host, 'fuzem.ru') ||
 shExpMatch(host, 'fuzzybasketball.com') ||
 shExpMatch(host, 'fuzzyflavor.com') ||
 shExpMatch(host, 'fuzzyweather.com') ||
-shExpMatch(host, 'fv2.razergiveaway.com') ||
 shExpMatch(host, 'fv2cheats.com') ||
 shExpMatch(host, 'fwbjgras.cz.cc') ||
 shExpMatch(host, 'fwcdn1.com') ||
@@ -24530,7 +24235,6 @@ shExpMatch(host, 'gamecheatglitch.com') ||
 shExpMatch(host, 'gamecheathq.com') ||
 shExpMatch(host, 'gamecheating.net') ||
 shExpMatch(host, 'gamecheatpro.com') ||
-shExpMatch(host, 'gamecheats.blackhatsky.com') ||
 shExpMatch(host, 'gamecheatscode.org') ||
 shExpMatch(host, 'gamecheatscrack.us') ||
 shExpMatch(host, 'gamecheatsgiveaways.com') ||
@@ -24555,7 +24259,6 @@ shExpMatch(host, 'gamegensire.com') ||
 shExpMatch(host, 'gamegiftcard.net') ||
 shExpMatch(host, 'gameglad.ru') ||
 shExpMatch(host, 'gamegoldonline.in') ||
-shExpMatch(host, 'gameguide.everyday-fun.us') ||
 shExpMatch(host, 'gameguidecheats.com') ||
 shExpMatch(host, 'gamehack.eu') ||
 shExpMatch(host, 'gamehackarena.com') ||
@@ -24627,8 +24330,6 @@ shExpMatch(host, 'games-redeem-codes-generator.com') ||
 shExpMatch(host, 'games-safari.com') ||
 shExpMatch(host, 'games-trick.com') ||
 shExpMatch(host, 'games-unlocked.com') ||
-shExpMatch(host, 'games.hackspress.net') ||
-shExpMatch(host, 'games.movies-mania.com') ||
 shExpMatch(host, 'gamesaccess2k.com') ||
 shExpMatch(host, 'gamesaimbot.com') ||
 shExpMatch(host, 'gamesalty.com') ||
@@ -24729,7 +24430,6 @@ shExpMatch(host, 'gaoanalitics.info') ||
 shExpMatch(host, 'gapap.ru') ||
 shExpMatch(host, 'garantiinsaat.net') ||
 shExpMatch(host, 'garcinia-six.com') ||
-shExpMatch(host, 'garena.cheatsplanet.net') ||
 shExpMatch(host, 'gassystem.co.kr') ||
 shExpMatch(host, 'gaswljdh.qpoe.com') ||
 shExpMatch(host, 'gator.com') ||
@@ -24813,7 +24513,6 @@ shExpMatch(host, 'georiot.com') ||
 shExpMatch(host, 'geovisite.com') ||
 shExpMatch(host, 'gerber-crow.ru') ||
 shExpMatch(host, 'german-linkindex.de') ||
-shExpMatch(host, 'german.filminstan.pw') ||
 shExpMatch(host, 'germanyenergy.online') ||
 shExpMatch(host, 'gestreifthelle.site') ||
 shExpMatch(host, 'get-bills.com') ||
@@ -24821,7 +24520,6 @@ shExpMatch(host, 'get-bitcoin.website') ||
 shExpMatch(host, 'get-cracked.com') ||
 shExpMatch(host, 'get-hack.com') ||
 shExpMatch(host, 'get-well-now.info') ||
-shExpMatch(host, 'get.setheo.com') ||
 shExpMatch(host, 'get1000followers.com') ||
 shExpMatch(host, 'getallforgames.com') ||
 shExpMatch(host, 'getapplicationmy.info') ||
@@ -24914,10 +24612,8 @@ shExpMatch(host, 'ggxskins.fun') ||
 shExpMatch(host, 'ghaly.ae') ||
 shExpMatch(host, 'gharibola.ru') ||
 shExpMatch(host, 'ghidneamt.ro') ||
-shExpMatch(host, 'ghido.isthebe.st') ||
 shExpMatch(host, 'ghooet.com') ||
 shExpMatch(host, 'ghost-team.info') ||
-shExpMatch(host, 'ghosts.sharezips.info') ||
 shExpMatch(host, 'ghostsbetakeys.com') ||
 shExpMatch(host, 'ghostshack.net') ||
 shExpMatch(host, 'ghostssquadpoints.dlcodes.com') ||
@@ -24932,7 +24628,6 @@ shExpMatch(host, 'giffgaff-sim.support') ||
 shExpMatch(host, 'giffgaff-simswap.help') ||
 shExpMatch(host, 'giffgaff.team') ||
 shExpMatch(host, 'gift-claim.bid') ||
-shExpMatch(host, 'gift.steamchristmas.com') ||
 shExpMatch(host, 'gift4free.zone') ||
 shExpMatch(host, 'giftazon.net') ||
 shExpMatch(host, 'giftcard4u.us') ||
@@ -25031,7 +24726,6 @@ shExpMatch(host, 'go.budurl.co') ||
 shExpMatch(host, 'go.dhs.gov') ||
 shExpMatch(host, 'go.eu.sparkpostmail1.com') ||
 shExpMatch(host, 'go.icann.org') ||
-shExpMatch(host, 'go.jozmovie.xyz') ||
 shExpMatch(host, 'go.scmagazine.com') ||
 shExpMatch(host, 'go.usa.gov') ||
 shExpMatch(host, 'go00ogle.net') ||
@@ -25044,7 +24738,6 @@ shExpMatch(host, 'goalsettingflipping.ru') ||
 shExpMatch(host, 'gocreditgo.com') ||
 shExpMatch(host, 'godlikedrop.com') ||
 shExpMatch(host, 'godsamongus.console2pc.info') ||
-shExpMatch(host, 'godzilla-2014.leakbay.net') ||
 shExpMatch(host, 'goeiendagmail.be') ||
 shExpMatch(host, 'gofiq.ru') ||
 shExpMatch(host, 'gofreehack.com') ||
@@ -25058,7 +24751,6 @@ shExpMatch(host, 'gohus.ru') ||
 shExpMatch(host, 'gohvjgbrplkm.myfw.us') ||
 shExpMatch(host, 'goingplatinum.com') ||
 shExpMatch(host, 'gokhancoban.com') ||
-shExpMatch(host, 'gold.weborama.fr') ||
 shExpMatch(host, 'gold247.xyz') ||
 shExpMatch(host, 'golddeery.info') ||
 shExpMatch(host, 'golden-hacks.com') ||
@@ -25110,7 +24802,6 @@ shExpMatch(host, 'google-stats44.info') ||
 shExpMatch(host, 'google-stats45.info') ||
 shExpMatch(host, 'google-stats49.info') ||
 shExpMatch(host, 'google-stats55.info') ||
-shExpMatch(host, 'google.maniyakat.cn') ||
 shExpMatch(host, 'google247.xyz') ||
 shExpMatch(host, 'google360.xyz') ||
 shExpMatch(host, 'googleadservices.com') ||
@@ -25118,11 +24809,8 @@ shExpMatch(host, 'googleanalytics.com') ||
 shExpMatch(host, 'googleanalytlcs.net') ||
 shExpMatch(host, 'googleclick.info') ||
 shExpMatch(host, 'googleplay-store.com') ||
-shExpMatch(host, 'googleplay.freecodes.us') ||
-shExpMatch(host, 'googleplay.validcheats.com') ||
 shExpMatch(host, 'googleplaycards.dlcodes.com') ||
 shExpMatch(host, 'googleplaycodes.com') ||
-shExpMatch(host, 'googleplaycodes.extafiles.com') ||
 shExpMatch(host, 'googleplayfree.com') ||
 shExpMatch(host, 'googleplaygiftcardcodegenerator.com') ||
 shExpMatch(host, 'googleplaygiftcardgenerator.net') ||
@@ -25166,7 +24854,6 @@ shExpMatch(host, 'gotraffic.net') ||
 shExpMatch(host, 'goulpreview.xyz') ||
 shExpMatch(host, 'goupload.net') ||
 shExpMatch(host, 'gouttierewood.webcam') ||
-shExpMatch(host, 'gov.au.id312666359-9036410720.w595505.com') ||
 shExpMatch(host, 'goxcup.pro') ||
 shExpMatch(host, 'gp.dejanews.com') ||
 shExpMatch(host, 'gpotatogenerator.com') ||
@@ -25190,7 +24877,6 @@ shExpMatch(host, 'gracefulsock.com') ||
 shExpMatch(host, 'graficasseryal.com') ||
 shExpMatch(host, 'grafstat.ro') ||
 shExpMatch(host, 'graizoah.com') ||
-shExpMatch(host, 'grammy2014.streams24.tv') ||
 shExpMatch(host, 'grampus.ru') ||
 shExpMatch(host, 'grand-eight.club') ||
 shExpMatch(host, 'grandeveryday.com') ||
@@ -25280,9 +24966,7 @@ shExpMatch(host, 'gsniper2.com') ||
 shExpMatch(host, 'gstaticx.com') ||
 shExpMatch(host, 'gstats.cn') ||
 shExpMatch(host, 'gsx-appleaccess.com') ||
-shExpMatch(host, 'gt6.sharezips.info') ||
 shExpMatch(host, 'gt6download.goblogz.net') ||
-shExpMatch(host, 'gt6download.sharezips.info') ||
 shExpMatch(host, 'gt6hack.goblogz.net') ||
 shExpMatch(host, 'gt6torquepack.dlcodes.com') ||
 shExpMatch(host, 'gta-5-pc-download.com') ||
@@ -25291,7 +24975,6 @@ shExpMatch(host, 'gta5-beta.net') ||
 shExpMatch(host, 'gta5-free-download.com') ||
 shExpMatch(host, 'gta5-generator.com') ||
 shExpMatch(host, 'gta5-pc-download.com') ||
-shExpMatch(host, 'gta5atomicblimpdlc.sharezips.net') ||
 shExpMatch(host, 'gta5cheat.org') ||
 shExpMatch(host, 'gta5cheatsmoney.net') ||
 shExpMatch(host, 'gta5cheatsonline.net') ||
@@ -25320,7 +25003,6 @@ shExpMatch(host, 'gta5onlinemoneygenerator.com') ||
 shExpMatch(host, 'gta5onlinemoneyhack.org') ||
 shExpMatch(host, 'gta5onlinemoneyhack.xyz') ||
 shExpMatch(host, 'gta5onlinemoneyserver.com') ||
-shExpMatch(host, 'gta5pc.extafiles.com') ||
 shExpMatch(host, 'gta5serials.com') ||
 shExpMatch(host, 'gta5telecharger.fr') ||
 shExpMatch(host, 'gta5unlimitedmoney.com') ||
@@ -25328,7 +25010,6 @@ shExpMatch(host, 'gta5xboxcheats.com') ||
 shExpMatch(host, 'gtadb.net') ||
 shExpMatch(host, 'gtamoneyhacks.com') ||
 shExpMatch(host, 'gtaonlinemoneyhacks.com') ||
-shExpMatch(host, 'gtav.openbetakeys.com') ||
 shExpMatch(host, 'gtavbetagiveaway.com') ||
 shExpMatch(host, 'gtavgenerator.info') ||
 shExpMatch(host, 'gtavlaunch.com') ||
@@ -25342,16 +25023,13 @@ shExpMatch(host, 'gtsads.com') ||
 shExpMatch(host, 'gtsmobi.com') ||
 shExpMatch(host, 'gty5.ru') ||
 shExpMatch(host, 'guardedschool.com') ||
-shExpMatch(host, 'guardiansofmiddleearth.sharezips.info') ||
 shExpMatch(host, 'guccigang.top') ||
 shExpMatch(host, 'guessworkhiking.ru') ||
 shExpMatch(host, 'guffawdecipher.com') ||
 shExpMatch(host, 'gugelo.ru') ||
-shExpMatch(host, 'guildwars2.nextgenhacks.info') ||
 shExpMatch(host, 'guildwars2beta.org') ||
 shExpMatch(host, 'gukes.ru') ||
 shExpMatch(host, 'gulf-industrial.com') ||
-shExpMatch(host, 'gulo-sa-mall.leak-video.org') ||
 shExpMatch(host, 'gumblar.cn') ||
 shExpMatch(host, 'gunggo.com') ||
 shExpMatch(host, 'gununanlasmasi.com') ||
@@ -25428,7 +25106,6 @@ shExpMatch(host, 'hack-twitter.com') ||
 shExpMatch(host, 'hack-ultimate.com') ||
 shExpMatch(host, 'hack-und-cheats.net') ||
 shExpMatch(host, 'hack-zone.info') ||
-shExpMatch(host, 'hack.ezeedl.com') ||
 shExpMatch(host, 'hack1000.com') ||
 shExpMatch(host, 'hack2all.com') ||
 shExpMatch(host, 'hack2k.com') ||
@@ -25471,7 +25148,6 @@ shExpMatch(host, 'hackdownloadworld.com') ||
 shExpMatch(host, 'hackdownloadzone.com') ||
 shExpMatch(host, 'hackdragoncity.net') ||
 shExpMatch(host, 'hackearcuentaface.com') ||
-shExpMatch(host, 'hackearfacebook.hackearya.com') ||
 shExpMatch(host, 'hackearfacebook.net') ||
 shExpMatch(host, 'hackearfacebook.tv') ||
 shExpMatch(host, 'hackearfacebook2013.com') ||
@@ -25496,7 +25172,6 @@ shExpMatch(host, 'hackerfbhack.com') ||
 shExpMatch(host, 'hackerfiles.net') ||
 shExpMatch(host, 'hackernews.online') ||
 shExpMatch(host, 'hackers-center.com') ||
-shExpMatch(host, 'hackers.tubbing.net') ||
 shExpMatch(host, 'hackersface.com') ||
 shExpMatch(host, 'hackersfb.org') ||
 shExpMatch(host, 'hackersuniversit.com') ||
@@ -25706,7 +25381,6 @@ shExpMatch(host, 'hackstopeleven.com') ||
 shExpMatch(host, 'hackstudio24.com') ||
 shExpMatch(host, 'hacksturbo.com') ||
 shExpMatch(host, 'hacksunion.com') ||
-shExpMatch(host, 'hacksuniverse.gamespress.net') ||
 shExpMatch(host, 'hacksworld24.com') ||
 shExpMatch(host, 'hackszone.com') ||
 shExpMatch(host, 'hackteam-adreon.com') ||
@@ -25754,7 +25428,6 @@ shExpMatch(host, 'halifax-international.co.cc') ||
 shExpMatch(host, 'halliimp.com') ||
 shExpMatch(host, 'halo3steam.com') ||
 shExpMatch(host, 'halo4.console2pc.info') ||
-shExpMatch(host, 'halo4.filesforgames.com') ||
 shExpMatch(host, 'halo4codes.com') ||
 shExpMatch(host, 'halo4hack.com') ||
 shExpMatch(host, 'haltgame.com') ||
@@ -25780,7 +25453,6 @@ shExpMatch(host, 'hardtofindmilk.com') ||
 shExpMatch(host, 'harrenmedia.com') ||
 shExpMatch(host, 'harrenmedianetwork.com') ||
 shExpMatch(host, 'harshwhispers.com') ||
-shExpMatch(host, 'haters.faboshine.com') ||
 shExpMatch(host, 'havamedia.net') ||
 shExpMatch(host, 'haveadentalimplantsshop.com') ||
 shExpMatch(host, 'hax4u.org') ||
@@ -25789,15 +25461,10 @@ shExpMatch(host, 'haxsite.com') ||
 shExpMatch(host, 'haxub.ru') ||
 shExpMatch(host, 'hay-day-hack.com') ||
 shExpMatch(host, 'hay-day-hacks.com') ||
-shExpMatch(host, 'hayday.cooldownloadz.com') ||
-shExpMatch(host, 'hayday.filesforgames.com') ||
 shExpMatch(host, 'hayday.newzgames.com') ||
-shExpMatch(host, 'haydaycheats.social-cheats.com') ||
 shExpMatch(host, 'haydaycydiahack.com') ||
-shExpMatch(host, 'haydayhack.cnn-local.info') ||
 shExpMatch(host, 'haydayhack.com') ||
 shExpMatch(host, 'haydayhack.eu') ||
-shExpMatch(host, 'haydayhack.leakbay.net') ||
 shExpMatch(host, 'haydayhack.net') ||
 shExpMatch(host, 'haydayhackdownload.com') ||
 shExpMatch(host, 'haydayhacked.com') ||
@@ -25903,8 +25570,6 @@ shExpMatch(host, 'hhj5.cn') ||
 shExpMatch(host, 'hi8.ss.la') ||
 shExpMatch(host, 'hicam.net') ||
 shExpMatch(host, 'hidden.gogoceleb.com') ||
-shExpMatch(host, 'hiddenmysterypackdlc.sharezips.info') ||
-shExpMatch(host, 'hiddenmysterypackdlc.sharezips.net') ||
 shExpMatch(host, 'high-hollin.org') ||
 shExpMatch(host, 'high-point.cn') ||
 shExpMatch(host, 'high5china.com') ||
@@ -25939,7 +25604,6 @@ shExpMatch(host, 'hit.ua') ||
 shExpMatch(host, 'hit.webcentre.lycos.co.uk') ||
 shExpMatch(host, 'hitbox.com') ||
 shExpMatch(host, 'hitcents.com') ||
-shExpMatch(host, 'hitcounters.miarroba.com') ||
 shExpMatch(host, 'hitechnationalfloodrelief.com') ||
 shExpMatch(host, 'hitexchange.net') ||
 shExpMatch(host, 'hitfarm.com') ||
@@ -25947,7 +25611,6 @@ shExpMatch(host, 'hithomeloans.com') ||
 shExpMatch(host, 'hitiz.com') ||
 shExpMatch(host, 'hitlist.ru') ||
 shExpMatch(host, 'hitlounge.com') ||
-shExpMatch(host, 'hitman-absolution.filesforgames.com') ||
 shExpMatch(host, 'hitometer.com') ||
 shExpMatch(host, 'hits-i.iubenda.com') ||
 shExpMatch(host, 'hits.europuls.eu') ||
@@ -26005,7 +25668,6 @@ shExpMatch(host, 'honeygoldfish.com') ||
 shExpMatch(host, 'hongkongtower-kanglong.com') ||
 shExpMatch(host, 'hongshengzhisu.com') ||
 shExpMatch(host, 'hongyun88.net') ||
-shExpMatch(host, 'honka2.isthebe.st') ||
 shExpMatch(host, 'honorablehall.com') ||
 shExpMatch(host, 'honorableland.com') ||
 shExpMatch(host, 'hookedfacebook.com') ||
@@ -26078,7 +25740,6 @@ shExpMatch(host, 'howtohacktwitteraccount.com') ||
 shExpMatch(host, 'howtohackwifi-password.com') ||
 shExpMatch(host, 'howtohackyahoopasswords.com') ||
 shExpMatch(host, 'howtomakemoneyingta5.xyz') ||
-shExpMatch(host, 'howtomakeresume.iheaven.us') ||
 shExpMatch(host, 'howtosnaphack.com') ||
 shExpMatch(host, 'howtowinjustinbiebertickets.com') ||
 shExpMatch(host, 'hp-h.us') ||
@@ -26157,8 +25818,6 @@ shExpMatch(host, 'i-cooker.com') ||
 shExpMatch(host, 'i-i.lt') ||
 shExpMatch(host, 'i-leading.com') ||
 shExpMatch(host, 'i-lookup.com') ||
-shExpMatch(host, 'i.imger.me') ||
-shExpMatch(host, 'i.xx.openx.com') ||
 shExpMatch(host, 'i1img.com') ||
 shExpMatch(host, 'i1media.no') ||
 shExpMatch(host, 'i56ad.site') ||
@@ -26202,16 +25861,7 @@ shExpMatch(host, 'icptrack.com') ||
 shExpMatch(host, 'icrcworld.com') ||
 shExpMatch(host, 'icyhacks.com') ||
 shExpMatch(host, 'icysn0w.com') ||
-shExpMatch(host, 'id100429421-9222533281.e406019.com') ||
-shExpMatch(host, 'id108979765-7218227704.w595505.com') ||
-shExpMatch(host, 'id130546622-3701190119.w595505.com') ||
-shExpMatch(host, 'id131337608-5036396713.w595505.com') ||
-shExpMatch(host, 'id312666359-9036410720.w595505.com') ||
-shExpMatch(host, 'id442015863-6945696543.k769943.com') ||
-shExpMatch(host, 'id474190312-1662660088.y439967.com') ||
 shExpMatch(host, 'id5-sync.com') ||
-shExpMatch(host, 'id527347220-7229513996.p250632.com') ||
-shExpMatch(host, 'id608939235-5535903207.o239315.com') ||
 shExpMatch(host, 'idaplay.com') ||
 shExpMatch(host, 'idbmarket.com') ||
 shExpMatch(host, 'idcounter.com') ||
@@ -26247,7 +25897,6 @@ shExpMatch(host, 'igfamous.me') ||
 shExpMatch(host, 'igfollowershackpw.me') ||
 shExpMatch(host, 'igfreefollowers.com') ||
 shExpMatch(host, 'iggamestop.com') ||
-shExpMatch(host, 'iggy.cnn-local.info') ||
 shExpMatch(host, 'igoby.frost-electric-supply.com') ||
 shExpMatch(host, 'igpasshack.com') ||
 shExpMatch(host, 'igpgame.com') ||
@@ -26356,10 +26005,6 @@ shExpMatch(host, 'incoctel.cl') ||
 shExpMatch(host, 'incognitosearches.com') ||
 shExpMatch(host, 'incoming-telemetry.thunderbird.net') ||
 shExpMatch(host, 'incoming.telemetry.mozilla.org') ||
-shExpMatch(host, 'incrdble.faboshine.com') ||
-shExpMatch(host, 'incredbile.tintubright.com') ||
-shExpMatch(host, 'incredble.bonypin.com') ||
-shExpMatch(host, 'index.isthebe.st') ||
 shExpMatch(host, 'indexexchange.com') ||
 shExpMatch(host, 'indexjs.ru') ||
 shExpMatch(host, 'indexstats.com') ||
@@ -26376,7 +26021,6 @@ shExpMatch(host, 'iner.kz') ||
 shExpMatch(host, 'inet-poisk.ru') ||
 shExpMatch(host, 'inetlog.ru') ||
 shExpMatch(host, 'inexper.com') ||
-shExpMatch(host, 'inf.dragon-cityhack.com') ||
 shExpMatch(host, 'infernoalts.store') ||
 shExpMatch(host, 'infinite-ads.com') ||
 shExpMatch(host, 'infinite-hacks.com') ||
@@ -26388,8 +26032,6 @@ shExpMatch(host, 'infinitydownline.com') ||
 shExpMatch(host, 'infinitydownline5k.com') ||
 shExpMatch(host, 'infinityhacksclan.net') ||
 shExpMatch(host, 'info.cyzgly.com') ||
-shExpMatch(host, 'info.fifa-14-coin-generator.com') ||
-shExpMatch(host, 'info.free-amazongift-cards.com') ||
 shExpMatch(host, 'infocsgo.com') ||
 shExpMatch(host, 'infoevent.startappservice.com') ||
 shExpMatch(host, 'infoitpoweringgathering.com') ||
@@ -26451,7 +26093,6 @@ shExpMatch(host, 'instructedtabtastic.org') ||
 shExpMatch(host, 'instrumentsponge.com') ||
 shExpMatch(host, 'instruminahui.edu.ec') ||
 shExpMatch(host, 'insyncvideo.com') ||
-shExpMatch(host, 'integrarcutesier.friendshipapostolicchurch.org') ||
 shExpMatch(host, 'integratedidea.com') ||
 shExpMatch(host, 'intelliads.com') ||
 shExpMatch(host, 'intelliduct.com') ||
@@ -26563,7 +26204,6 @@ shExpMatch(host, 'ireklama.cz') ||
 shExpMatch(host, 'iris2009.co.kr') ||
 shExpMatch(host, 'ironforcehack.com') ||
 shExpMatch(host, 'ironhidecheats.com') ||
-shExpMatch(host, 'ironroguecostume.sharezips.info') ||
 shExpMatch(host, 'is-apple.com') ||
 shExpMatch(host, 'is-tracking-pixel-api-prod.appspot.com') ||
 shExpMatch(host, 'isaac-mafi.persiangig.com') ||
@@ -26583,7 +26223,6 @@ shExpMatch(host, 'itanito.ru') ||
 shExpMatch(host, 'itappm.com') ||
 shExpMatch(host, 'itchel.com') ||
 shExpMatch(host, 'itemsorter.com') ||
-shExpMatch(host, 'iteungfilms.filminstan.pw') ||
 shExpMatch(host, 'itfarm.com') ||
 shExpMatch(host, 'itgiftcards.com') ||
 shExpMatch(host, 'ithyk.frenchgerlemanelectric.com') ||
@@ -26596,10 +26235,6 @@ shExpMatch(host, 'itspecialist.ro') ||
 shExpMatch(host, 'itsptp.com') ||
 shExpMatch(host, 'itunecodegenerator.com') ||
 shExpMatch(host, 'itunes-giveaway.com') ||
-shExpMatch(host, 'itunes.cardcodes.net') ||
-shExpMatch(host, 'itunes.extafiles.com') ||
-shExpMatch(host, 'itunes.foundcheats.com') ||
-shExpMatch(host, 'itunes.freecodes.us') ||
 shExpMatch(host, 'itunesboss.com') ||
 shExpMatch(host, 'itunescardsfree.com') ||
 shExpMatch(host, 'itunescardsnew.dlcodes.com') ||
@@ -26612,7 +26247,6 @@ shExpMatch(host, 'itunesfreecards.com') ||
 shExpMatch(host, 'itunesfreecodes.goldmovie-trailer.com') ||
 shExpMatch(host, 'itunesfreecodes.org') ||
 shExpMatch(host, 'itunesgenerator.com') ||
-shExpMatch(host, 'itunesgiftcard.com-promotions.us') ||
 shExpMatch(host, 'itunesgiftcardcodes.org') ||
 shExpMatch(host, 'itunesgiftcardgenerators.org') ||
 shExpMatch(host, 'itunesgiftcardsgenerator.com') ||
@@ -26640,12 +26274,10 @@ shExpMatch(host, 'izzy-cars.nl') ||
 shExpMatch(host, 'j0008.com') ||
 shExpMatch(host, 'j890482.com') ||
 shExpMatch(host, 'j93557g.com') ||
-shExpMatch(host, 'jack.beautyspaguide.com') ||
 shExpMatch(host, 'jackabit.com') ||
 shExpMatch(host, 'jackmedway.co.uk') ||
 shExpMatch(host, 'jackpot-bets.com') ||
 shExpMatch(host, 'jackpothard.com') ||
-shExpMatch(host, 'jackpotjoy.freeproductgiveaway.info') ||
 shExpMatch(host, 'jackpotwinner.info') ||
 shExpMatch(host, 'jackskins.com') ||
 shExpMatch(host, 'jadeitite.com') ||
@@ -26655,7 +26287,6 @@ shExpMatch(host, 'jailbreak-absinthe.com') ||
 shExpMatch(host, 'jailbreak-app.com') ||
 shExpMatch(host, 'jailbreak-ios.org') ||
 shExpMatch(host, 'jailbreak7.com') ||
-shExpMatch(host, 'jailbreak7.newbetakey.com') ||
 shExpMatch(host, 'jailbreakall.net') ||
 shExpMatch(host, 'jailbreakbj.com') ||
 shExpMatch(host, 'jailbreakios613.com') ||
@@ -26719,7 +26350,6 @@ shExpMatch(host, 'jerkstore.dk') ||
 shExpMatch(host, 'jerrylehane.com') ||
 shExpMatch(host, 'jerrysautosurf.com') ||
 shExpMatch(host, 'jessisjewels.com') ||
-shExpMatch(host, 'jesuislol.fblikegenerateur.com') ||
 shExpMatch(host, 'jetpackjoyride.newzgames.com') ||
 shExpMatch(host, 'jetplayz.com') ||
 shExpMatch(host, 'jeufax.com') ||
@@ -26754,7 +26384,6 @@ shExpMatch(host, 'jkazaa.cjt1.net') ||
 shExpMatch(host, 'jkhteqa.com') ||
 shExpMatch(host, 'jkjlaawd.cz.cc') ||
 shExpMatch(host, 'jkub.com') ||
-shExpMatch(host, 'jl.chura.pl') ||
 shExpMatch(host, 'jlshayne.info') ||
 shExpMatch(host, 'jlyse.net') ||
 shExpMatch(host, 'jmdongnan.com') ||
@@ -26799,7 +26428,6 @@ shExpMatch(host, 'js.tongji.linezing.com') ||
 shExpMatch(host, 'js.users.51.la') ||
 shExpMatch(host, 'jsecoin.com') ||
 shExpMatch(host, 'jsguangji.cn') ||
-shExpMatch(host, 'jsngupdwxeoa.uglyas.com') ||
 shExpMatch(host, 'jsrdn.com') ||
 shExpMatch(host, 'jsth8899.com') ||
 shExpMatch(host, 'jstoredirect.net') ||
@@ -26829,8 +26457,6 @@ shExpMatch(host, 'jureetse.ru') ||
 shExpMatch(host, 'just-bets.com') ||
 shExpMatch(host, 'just-for-style.omur71.ru') ||
 shExpMatch(host, 'just-watch-it.com') ||
-shExpMatch(host, 'justdance2014.sharezips.info') ||
-shExpMatch(host, 'justdance2014.sharezips.net') ||
 shExpMatch(host, 'justdrop.store') ||
 shExpMatch(host, 'justicejudo.com') ||
 shExpMatch(host, 'justinbieber.reviewbuckz.com') ||
@@ -26979,7 +26605,6 @@ shExpMatch(host, 'klinikangka.org') ||
 shExpMatch(host, 'klixfiles.com') ||
 shExpMatch(host, 'klowis.ru') ||
 shExpMatch(host, 'klsdee.com') ||
-shExpMatch(host, 'klwines.com.order.complete.prysmm.net') ||
 shExpMatch(host, 'kmpiframe.keepmeposted.com.mt') ||
 shExpMatch(host, 'kmqwe.in') ||
 shExpMatch(host, 'knife-born.com') ||
@@ -26990,7 +26615,6 @@ shExpMatch(host, 'knorex.com') ||
 shExpMatch(host, 'knowledgeonline.site') ||
 shExpMatch(host, 'kntyisivtuitbuilde.brightfuture.biz') ||
 shExpMatch(host, 'knullmessengerkvinnor.xyz') ||
-shExpMatch(host, 'kobex.filminstan.pw') ||
 shExpMatch(host, 'kockoy.com') ||
 shExpMatch(host, 'kogirlsnotcryz.ru') ||
 shExpMatch(host, 'koklik.com') ||
@@ -27057,7 +26681,6 @@ shExpMatch(host, 'la21jeju.or.kr') ||
 shExpMatch(host, 'labono.ru') ||
 shExpMatch(host, 'laboratory-security.ru') ||
 shExpMatch(host, 'ladenas938.com') ||
-shExpMatch(host, 'ladyz.alyx.isthebe.st') ||
 shExpMatch(host, 'laed.ru') ||
 shExpMatch(host, 'laenergiadeltrigo.com') ||
 shExpMatch(host, 'laextradeocotlan.com.mx') ||
@@ -27125,7 +26748,6 @@ shExpMatch(host, 'leadclick.com') ||
 shExpMatch(host, 'leadfiles.net') ||
 shExpMatch(host, 'leadingedgecash.com') ||
 shExpMatch(host, 'leadplace.fr') ||
-shExpMatch(host, 'leadsold.cinemamovie.biz') ||
 shExpMatch(host, 'leadspace.com') ||
 shExpMatch(host, 'leadzupc.com') ||
 shExpMatch(host, 'league-gamers.com') ||
@@ -27153,7 +26775,6 @@ shExpMatch(host, 'leakbay.net') ||
 shExpMatch(host, 'leaked-snapchats.org') ||
 shExpMatch(host, 'leaked-snapchatz.com') ||
 shExpMatch(host, 'leaked-snapchatz.org') ||
-shExpMatch(host, 'leaked.cnn-local.info') ||
 shExpMatch(host, 'leakedfile.com') ||
 shExpMatch(host, 'leakedfilms.net') ||
 shExpMatch(host, 'leakedmovies.net') ||
@@ -27195,14 +26816,11 @@ shExpMatch(host, 'legalbarcode.com') ||
 shExpMatch(host, 'legalmatters.biz') ||
 shExpMatch(host, 'legendary-skins.fun') ||
 shExpMatch(host, 'legendarycheats.com') ||
-shExpMatch(host, 'legends.tintubright.com') ||
 shExpMatch(host, 'legendsdtv.com') ||
 shExpMatch(host, 'legendturk.shop') ||
 shExpMatch(host, 'legitcheats.com') ||
 shExpMatch(host, 'legithackers.net') ||
 shExpMatch(host, 'legolas-media.com') ||
-shExpMatch(host, 'legomarvelsuperheroes.sharezips.info') ||
-shExpMatch(host, 'legomarvelsuperheroes.sharezips.net') ||
 shExpMatch(host, 'legratuits.com') ||
 shExpMatch(host, 'leiarimet.com') ||
 shExpMatch(host, 'lekturymp3.pl') ||
@@ -27333,7 +26951,6 @@ shExpMatch(host, 'litle.me') ||
 shExpMatch(host, 'liulanwangye.com') ||
 shExpMatch(host, 'liulanwangye.com246sjinzanylec.com') ||
 shExpMatch(host, 'live-cheat.com') ||
-shExpMatch(host, 'live.streams24.tv') ||
 shExpMatch(host, 'liveadexchanger.com') ||
 shExpMatch(host, 'liveappsearch.com') ||
 shExpMatch(host, 'livecheat.com') ||
@@ -27419,14 +27036,11 @@ shExpMatch(host, 'logua.com') ||
 shExpMatch(host, 'lokhlp.com') ||
 shExpMatch(host, 'lolblog.cn') ||
 shExpMatch(host, 'lolfreerp.com') ||
-shExpMatch(host, 'lolgiveaways.everyday-fun.us') ||
 shExpMatch(host, 'lolhack.softwareuninstallerdownload.com') ||
 shExpMatch(host, 'loliskins.com') ||
 shExpMatch(host, 'lolmystery.net') ||
-shExpMatch(host, 'lolriotpoints.validcheats.com') ||
 shExpMatch(host, 'lolriotpointsgen.goldmovie-trailer.com') ||
 shExpMatch(host, 'lolrpcodes.net') ||
-shExpMatch(host, 'lolrphack.sharezips.info') ||
 shExpMatch(host, 'lonelyzero.ru') ||
 shExpMatch(host, 'longbeierfs.cn') ||
 shExpMatch(host, 'longer-battery-life.com') ||
@@ -27459,9 +27073,6 @@ shExpMatch(host, 'loserjoker.com') ||
 shExpMatch(host, 'losotrana.com') ||
 shExpMatch(host, 'lost-appledevice.com') ||
 shExpMatch(host, 'lostmovie.net') ||
-shExpMatch(host, 'lostplanet3.sharezips.info') ||
-shExpMatch(host, 'losttreasurespack.sharezips.info') ||
-shExpMatch(host, 'losttreasurespackdlc.sharezips.net') ||
 shExpMatch(host, 'lotante.cn') ||
 shExpMatch(host, 'lotbetsite.cn') ||
 shExpMatch(host, 'lotbetworld.cn') ||
@@ -27542,7 +27153,6 @@ shExpMatch(host, 'm-offis.ru') ||
 shExpMatch(host, 'm.trb.com') ||
 shExpMatch(host, 'm.webtrends.com') ||
 shExpMatch(host, 'm0vl.com') ||
-shExpMatch(host, 'm1.webstats4u.com') ||
 shExpMatch(host, 'm1d.ru') ||
 shExpMatch(host, 'm2.ai') ||
 shExpMatch(host, 'm2pk.com') ||
@@ -27555,7 +27165,6 @@ shExpMatch(host, 'mabexo.ru') ||
 shExpMatch(host, 'machine-err0r-dial-startup-sdd.website') ||
 shExpMatch(host, 'mackeeperapp.mackeeper.com') ||
 shExpMatch(host, 'macsecurityalarm.info') ||
-shExpMatch(host, 'mad.excellentmovies.net') ||
 shExpMatch(host, 'madadsmedia.com') ||
 shExpMatch(host, 'madclient.uimserv.net') ||
 shExpMatch(host, 'madcmx.mx') ||
@@ -27563,8 +27172,6 @@ shExpMatch(host, 'madcpms.com') ||
 shExpMatch(host, 'madden15cheats.net') ||
 shExpMatch(host, 'madden16coinglitch.com') ||
 shExpMatch(host, 'maddenmobilehackcheats.xyz') ||
-shExpMatch(host, 'maddennfl13.sharezips.info') ||
-shExpMatch(host, 'maddennfl25.sharezips.info') ||
 shExpMatch(host, 'madgeniusreview.com') ||
 shExpMatch(host, 'madinad.com') ||
 shExpMatch(host, 'madisonavenue.com') ||
@@ -27614,7 +27221,6 @@ shExpMatch(host, 'maithi.info') ||
 shExpMatch(host, 'make-image.com') ||
 shExpMatch(host, 'make-skins.com') ||
 shExpMatch(host, 'makeasymoneyx.com') ||
-shExpMatch(host, 'makeda.infinitydownline5k.com') ||
 shExpMatch(host, 'makeios.com') ||
 shExpMatch(host, 'makerlab.ca') ||
 shExpMatch(host, 'makifege.ru') ||
@@ -27633,7 +27239,6 @@ shExpMatch(host, 'mampoks.ru') ||
 shExpMatch(host, 'manafnet.com') ||
 shExpMatch(host, 'manage.com') ||
 shExpMatch(host, 'manageadv.cblogs.eu') ||
-shExpMatch(host, 'mango.isthebe.st') ||
 shExpMatch(host, 'maniyakat.cn') ||
 shExpMatch(host, 'mannen-shopping.com') ||
 shExpMatch(host, 'mannesoth.com') ||
@@ -27669,10 +27274,8 @@ shExpMatch(host, 'marketron.com') ||
 shExpMatch(host, 'markleppke.com') ||
 shExpMatch(host, 'markratfelderscoachingandconsulting.com') ||
 shExpMatch(host, 'marocuisine.net') ||
-shExpMatch(host, 'maroon5.streams24.tv') ||
 shExpMatch(host, 'maroonspider.com') ||
 shExpMatch(host, 'marriedbelief.com') ||
-shExpMatch(host, 'mars.beautyspaguide.com') ||
 shExpMatch(host, 'martinique-editions.com') ||
 shExpMatch(host, 'martinschroer.eu') ||
 shExpMatch(host, 'martpictureexistence.cn') ||
@@ -27680,15 +27283,11 @@ shExpMatch(host, 'martuz.cn') ||
 shExpMatch(host, 'marvel-avengers-alliance-hacks.com') ||
 shExpMatch(host, 'marvelavengersalliancecheats.com') ||
 shExpMatch(host, 'marvelavengersalliancehack.org') ||
-shExpMatch(host, 'marvelavengerscheat.elitegamershub.com') ||
 shExpMatch(host, 'marvelwarofheroeshack.net') ||
 shExpMatch(host, 'marx-brothers.mhwang.com') ||
 shExpMatch(host, 'mas.sector.sk') ||
 shExpMatch(host, 'masjlr.com') ||
 shExpMatch(host, 'maskedwarrior.dlcodes.com') ||
-shExpMatch(host, 'maskedwarriordlc.sharezips.info') ||
-shExpMatch(host, 'maskedwarriordlc.sharezips.net') ||
-shExpMatch(host, 'maspedmeasled.bogotatraveller.info') ||
 shExpMatch(host, 'masqu3rade.com') ||
 shExpMatch(host, 'massivehacking.com') ||
 shExpMatch(host, 'massivemark.com') ||
@@ -27738,7 +27337,6 @@ shExpMatch(host, 'mbcv.co.il') ||
 shExpMatch(host, 'mbn.com.ua') ||
 shExpMatch(host, 'mbs.megaroticlive.com') ||
 shExpMatch(host, 'mbuyu.nl') ||
-shExpMatch(host, 'mc.cardcodes.net') ||
 shExpMatch(host, 'mc183.com') ||
 shExpMatch(host, 'mcalts.store') ||
 shExpMatch(host, 'mcameraonline.club') ||
@@ -27830,7 +27428,6 @@ shExpMatch(host, 'meetmecredits.com') ||
 shExpMatch(host, 'meetrics.net') ||
 shExpMatch(host, 'meewxib.ru') ||
 shExpMatch(host, 'meez.us') ||
-shExpMatch(host, 'meezcoinsgenerator.validcheats.com') ||
 shExpMatch(host, 'meezhacks.net') ||
 shExpMatch(host, 'mefa.ws') ||
 shExpMatch(host, 'mefid.ru') ||
@@ -27852,7 +27449,6 @@ shExpMatch(host, 'megaplayz.com') ||
 shExpMatch(host, 'megapolis-hack.com') ||
 shExpMatch(host, 'megapolis.newzgames.com') ||
 shExpMatch(host, 'megapu.sh') ||
-shExpMatch(host, 'megashare.filminstan.pw') ||
 shExpMatch(host, 'megastats.com') ||
 shExpMatch(host, 'megauploaders.net') ||
 shExpMatch(host, 'megauploadgame.com') ||
@@ -27867,7 +27463,6 @@ shExpMatch(host, 'melaridoweb.eu') ||
 shExpMatch(host, 'meldorgroup.cn') ||
 shExpMatch(host, 'mellowads.com') ||
 shExpMatch(host, 'meltdsp.com') ||
-shExpMatch(host, 'members.valkorsgoldmakingguide.com') ||
 shExpMatch(host, 'membersonly.pw') ||
 shExpMatch(host, 'memeglobal.com') ||
 shExpMatch(host, 'memonod.ru') ||
@@ -27888,7 +27483,6 @@ shExpMatch(host, 'merrymilkfoods.com') ||
 shExpMatch(host, 'mervetos.com') ||
 shExpMatch(host, 'mesexclusivites.fr') ||
 shExpMatch(host, 'messagenovice.com') ||
-shExpMatch(host, 'messenger.zango.com') ||
 shExpMatch(host, 'metadsp.co.uk') ||
 shExpMatch(host, 'metaffiliation.com') ||
 shExpMatch(host, 'metalboxer.com') ||
@@ -27897,7 +27491,6 @@ shExpMatch(host, 'metanetwork.com') ||
 shExpMatch(host, 'metanetwork.net') ||
 shExpMatch(host, 'metaresolver.com') ||
 shExpMatch(host, 'metaspoonfed.com') ||
-shExpMatch(host, 'meteoprog.ns01.us') ||
 shExpMatch(host, 'methodcash.com') ||
 shExpMatch(host, 'methodelafayfemme.fr') ||
 shExpMatch(host, 'methuenedge.com') ||
@@ -27941,8 +27534,6 @@ shExpMatch(host, 'microramcomputers.com') ||
 shExpMatch(host, 'microsearchstat.com') ||
 shExpMatch(host, 'microsoftgeneratorpoints.com') ||
 shExpMatch(host, 'microsoftpointgenerator.net') ||
-shExpMatch(host, 'microsoftpoints.cleanfile.org') ||
-shExpMatch(host, 'microsoftpoints.freegiftcode.com') ||
 shExpMatch(host, 'microsoftpoints.premium-codes.com') ||
 shExpMatch(host, 'microsoftpointsgenerateur.info') ||
 shExpMatch(host, 'microsoftpointsgenerator.us') ||
@@ -27956,7 +27547,6 @@ shExpMatch(host, 'midagihead.eu') ||
 shExpMatch(host, 'middlemanether.ru') ||
 shExpMatch(host, 'midilibremarchespublics.com') ||
 shExpMatch(host, 'midnightclicking.com') ||
-shExpMatch(host, 'midsacmi.ikebanaclitor.ru') ||
 shExpMatch(host, 'miemarche.it') ||
 shExpMatch(host, 'miesstore.ru') ||
 shExpMatch(host, 'migejo.ru') ||
@@ -27978,9 +27568,6 @@ shExpMatch(host, 'minecraft-premium-gratuit.fr') ||
 shExpMatch(host, 'minecraft-premiums.com') ||
 shExpMatch(host, 'minecraft-server.com') ||
 shExpMatch(host, 'minecraft-skins.xyz') ||
-shExpMatch(host, 'minecraft.cardcodes.net') ||
-shExpMatch(host, 'minecraft.cleandownload.net') ||
-shExpMatch(host, 'minecraft.legratuits.com') ||
 shExpMatch(host, 'minecraftaccount4free.com') ||
 shExpMatch(host, 'minecraftadminhack.com') ||
 shExpMatch(host, 'minecraftcheatss.com') ||
@@ -27999,7 +27586,6 @@ shExpMatch(host, 'minecraftgen.com') ||
 shExpMatch(host, 'minecraftget.com') ||
 shExpMatch(host, 'minecraftgiftcodegen.com') ||
 shExpMatch(host, 'minecraftgiftcodegenerator.org') ||
-shExpMatch(host, 'minecraftgiftcodes.cracknhacks.net') ||
 shExpMatch(host, 'minecraftgiftcodesgenerator.net') ||
 shExpMatch(host, 'minecraftgiveaway.net') ||
 shExpMatch(host, 'minecraftgratuit.org') ||
@@ -28008,11 +27594,8 @@ shExpMatch(host, 'minecrafthosting.biz') ||
 shExpMatch(host, 'minecrafthostingforfree.com') ||
 shExpMatch(host, 'minecraftmodification.com') ||
 shExpMatch(host, 'minecraftophack.com') ||
-shExpMatch(host, 'minecraftpremium.freecodegeneratorgeek.com') ||
 shExpMatch(host, 'minecraftpremiumacc.com') ||
 shExpMatch(host, 'minecraftpremiumaccount.info') ||
-shExpMatch(host, 'minecraftpremiumaccount.leakbay.net') ||
-shExpMatch(host, 'minecraftpremiumaccount2013.livehacksource.com') ||
 shExpMatch(host, 'minecraftpremiumgenerator.net') ||
 shExpMatch(host, 'minecraftpremiumgratis.net') ||
 shExpMatch(host, 'minecraftpremiumgratuit.net') ||
@@ -28038,7 +27621,6 @@ shExpMatch(host, 'minidvdsoft.com') ||
 shExpMatch(host, 'minigametight.in') ||
 shExpMatch(host, 'minihosted.com') ||
 shExpMatch(host, 'minionrush.freehakz.com') ||
-shExpMatch(host, 'minionrushhack.simpledownloadz.com') ||
 shExpMatch(host, 'minishared.com') ||
 shExpMatch(host, 'ministerio-publi.info') ||
 shExpMatch(host, 'minormeeting.com') ||
@@ -28105,7 +27687,6 @@ shExpMatch(host, 'mmstat.com') ||
 shExpMatch(host, 'mmtro.com') ||
 shExpMatch(host, 'mmtservis.com') ||
 shExpMatch(host, 'mnets.ru') ||
-shExpMatch(host, 'mno.ijssalonlekker.nl') ||
 shExpMatch(host, 'mnogobab.com') ||
 shExpMatch(host, 'mnshdq.com') ||
 shExpMatch(host, 'mntzrlt.net') ||
@@ -28175,7 +27756,6 @@ shExpMatch(host, 'mojiva.com') ||
 shExpMatch(host, 'mok55.com') ||
 shExpMatch(host, 'mokingbirdgives.org') ||
 shExpMatch(host, 'mokov.ru') ||
-shExpMatch(host, 'mol.cheatsplanet.net') ||
 shExpMatch(host, 'mol.haxdo.com') ||
 shExpMatch(host, 'moldyicicle.com') ||
 shExpMatch(host, 'molo.tw') ||
@@ -28226,14 +27806,12 @@ shExpMatch(host, 'moremoshi.net') ||
 shExpMatch(host, 'morenewmedia.com') ||
 shExpMatch(host, 'morenews3.net') ||
 shExpMatch(host, 'morogefiles.com') ||
-shExpMatch(host, 'mortalkombatfreegame.sharezips.info') ||
 shExpMatch(host, 'mortgames.com') ||
 shExpMatch(host, 'moscom.ru') ||
 shExpMatch(host, 'moshgame.com') ||
 shExpMatch(host, 'moshi.newzgames.com') ||
 shExpMatch(host, 'moshicheats.newzgames.com') ||
 shExpMatch(host, 'moshimonsterscodes.info') ||
-shExpMatch(host, 'moshimonsterscodes.validcheats.com') ||
 shExpMatch(host, 'mostwantedhf.info') ||
 shExpMatch(host, 'mot-de-passe-facebook.com') ||
 shExpMatch(host, 'motabu.ru') ||
@@ -28254,8 +27832,6 @@ shExpMatch(host, 'movepix.com') ||
 shExpMatch(host, 'moversa.com') ||
 shExpMatch(host, 'movichart.com') ||
 shExpMatch(host, 'movie-hater.com') ||
-shExpMatch(host, 'movie.imdbwatch.com') ||
-shExpMatch(host, 'movie.jebul.info') ||
 shExpMatch(host, 'movie1get.com') ||
 shExpMatch(host, 'movie24.tv') ||
 shExpMatch(host, 'movie2kdb.net') ||
@@ -28298,10 +27874,7 @@ shExpMatch(host, 'moviesbag.us') ||
 shExpMatch(host, 'moviescollections.net') ||
 shExpMatch(host, 'movieset.us') ||
 shExpMatch(host, 'moviesfree.co') ||
-shExpMatch(host, 'moviestarplanet.gamonig.com') ||
-shExpMatch(host, 'moviestarplanet.topfreecheats.com') ||
 shExpMatch(host, 'moviestarplanethack.filesquicky.com') ||
-shExpMatch(host, 'moviestarplanethack.gimmehacks.us') ||
 shExpMatch(host, 'moviestarplanethack.org') ||
 shExpMatch(host, 'moviestopia.com') ||
 shExpMatch(host, 'moviestreamhd.eu') ||
@@ -28329,17 +27902,14 @@ shExpMatch(host, 'mrcrackworld.com') ||
 shExpMatch(host, 'mrskincash.com') ||
 shExpMatch(host, 'ms11.net') ||
 shExpMatch(host, 'mscodes.info') ||
-shExpMatch(host, 'msgoldcodes.epickeys.com') ||
 shExpMatch(host, 'msihacks.com') ||
 shExpMatch(host, 'mslivegirl.com') ||
 shExpMatch(host, 'msnhackerpro.com') ||
-shExpMatch(host, 'msp.jailbreakall.net') ||
 shExpMatch(host, 'msp4free.org') ||
 shExpMatch(host, 'mspointgenerator.net') ||
 shExpMatch(host, 'mspointsfree.me') ||
 shExpMatch(host, 'mspointsfree.net') ||
 shExpMatch(host, 'mstrlytcs.com') ||
-shExpMatch(host, 'msw67.cafe24.com') ||
 shExpMatch(host, 'msxblpointscodes.com') ||
 shExpMatch(host, 'mtldesigns.ca') ||
 shExpMatch(host, 'mtpgame.com') ||
@@ -28363,8 +27933,6 @@ shExpMatch(host, 'multidimensionalpersisted.org') ||
 shExpMatch(host, 'multigamble.wtf') ||
 shExpMatch(host, 'multigiftcards.com') ||
 shExpMatch(host, 'multimc.info') ||
-shExpMatch(host, 'multiplayercharacterdlc.sharezips.info') ||
-shExpMatch(host, 'multiplayercharacterdlc.sharezips.net') ||
 shExpMatch(host, 'multitelusa.net') ||
 shExpMatch(host, 'mumukafes.net') ||
 shExpMatch(host, 'munchkin.marketo.net') ||
@@ -28388,15 +27956,8 @@ shExpMatch(host, 'muwmedia.com') ||
 shExpMatch(host, 'muziczion.com') ||
 shExpMatch(host, 'mv-wallern-pamhagen.at') ||
 shExpMatch(host, 'mvcbattle.pro') ||
-shExpMatch(host, 'mw2aimbot.filesforgames.com') ||
-shExpMatch(host, 'mw2godmode.filesforgames.com') ||
-shExpMatch(host, 'mw2wallhack.filesforgames.com') ||
 shExpMatch(host, 'mw3-hacked.com') ||
-shExpMatch(host, 'mw3aimbot.filesforgames.com') ||
-shExpMatch(host, 'mw3aimbots.filesforgames.com') ||
-shExpMatch(host, 'mw3godmode.filesforgames.com') ||
 shExpMatch(host, 'mw3wallhack.com') ||
-shExpMatch(host, 'mw3wallhack.filesforgames.com') ||
 shExpMatch(host, 'mxapple-icloud.com') ||
 shExpMatch(host, 'mxbpointcodes.com') ||
 shExpMatch(host, 'mxptint.net') ||
@@ -28547,15 +28108,8 @@ shExpMatch(host, 'nazvsat.ru') ||
 shExpMatch(host, 'nb-huaheng.com') ||
 shExpMatch(host, 'nba-center.org') ||
 shExpMatch(host, 'nba1001.net') ||
-shExpMatch(host, 'nba2k13.sharezips.info') ||
 shExpMatch(host, 'nba2k14.dlcodes.com') ||
-shExpMatch(host, 'nba2k14.sharezips.info') ||
-shExpMatch(host, 'nba2k14.sharezips.net') ||
-shExpMatch(host, 'nba2k14dlc.sharezips.info') ||
-shExpMatch(host, 'nba2k14dlc.sharezips.net') ||
 shExpMatch(host, 'nba2k14keygen.dlcodes.com') ||
-shExpMatch(host, 'nba2k14skillmod.sharezips.info') ||
-shExpMatch(host, 'nba2k14skillmod.sharezips.net') ||
 shExpMatch(host, 'nba2k15vcgenerator.com') ||
 shExpMatch(host, 'nbalivemobilehack.net') ||
 shExpMatch(host, 'nbanba.lt') ||
@@ -28570,7 +28124,6 @@ shExpMatch(host, 'ndnmit.ddns.info') ||
 shExpMatch(host, 'ndparking.com') ||
 shExpMatch(host, 'neasyset.icu') ||
 shExpMatch(host, 'nebula-team.com') ||
-shExpMatch(host, 'nebula.isthebe.st') ||
 shExpMatch(host, 'nectra-skincare.com') ||
 shExpMatch(host, 'nedepi.ru') ||
 shExpMatch(host, 'nedstat.com') ||
@@ -28579,9 +28132,7 @@ shExpMatch(host, 'nedstatbasic.net') ||
 shExpMatch(host, 'nedstatpro.net') ||
 shExpMatch(host, 'needforfile.net') ||
 shExpMatch(host, 'needforhacks.com') ||
-shExpMatch(host, 'needforspeedrivals.sharezips.info') ||
 shExpMatch(host, 'needforspeedrivalsdownload.com') ||
-shExpMatch(host, 'needforspeedrivalspoints.sharezips.info') ||
 shExpMatch(host, 'needserve.ru') ||
 shExpMatch(host, 'neepelsty.cz.cc') ||
 shExpMatch(host, 'nefib.tourstogo.us') ||
@@ -28618,16 +28169,12 @@ shExpMatch(host, 'netflix-accounts.com') ||
 shExpMatch(host, 'netflix-membership.com') ||
 shExpMatch(host, 'netflix4all.com') ||
 shExpMatch(host, 'netflix4u.com') ||
-shExpMatch(host, 'netflixaccount.com-promotions.us') ||
 shExpMatch(host, 'netflixaccount.org') ||
 shExpMatch(host, 'netflixaccountfree.com') ||
 shExpMatch(host, 'netflixaccounts.com') ||
-shExpMatch(host, 'netflixaccounts.leakbay.net') ||
 shExpMatch(host, 'netflixaccountsforfree.com') ||
 shExpMatch(host, 'netflixgiftcard.net') ||
 shExpMatch(host, 'netflixgiftcode.com') ||
-shExpMatch(host, 'netflixhack.validcheats.com') ||
-shExpMatch(host, 'netflixpremiumfree.sharezips.info') ||
 shExpMatch(host, 'netflixtools.com') ||
 shExpMatch(host, 'nethrie.com') ||
 shExpMatch(host, 'netincap.com') ||
@@ -28711,7 +28258,6 @@ shExpMatch(host, 'newtopsites.com') ||
 shExpMatch(host, 'newuyuy2012.osa.pl') ||
 shExpMatch(host, 'newvipbox.com') ||
 shExpMatch(host, 'newware10.craa-club.com') ||
-shExpMatch(host, 'newware11.024xuyisheng.com') ||
 shExpMatch(host, 'newware16.jtkf120.com') ||
 shExpMatch(host, 'newwave.orge.pl') ||
 shExpMatch(host, 'newwhatsapp.net') ||
@@ -28731,12 +28277,9 @@ shExpMatch(host, 'ngs-inn.com') ||
 shExpMatch(host, 'ngs.impress.co.jp') ||
 shExpMatch(host, 'nhbay.com') ||
 shExpMatch(host, 'nhfnjfg43.bij.pl') ||
-shExpMatch(host, 'nhl14.sharezips.info') ||
-shExpMatch(host, 'nhl14ultimateteampass.sharezips.info') ||
 shExpMatch(host, 'nhpfvdlbjg.com') ||
 shExpMatch(host, 'nicebridge.net') ||
 shExpMatch(host, 'nicecheat.eu') ||
-shExpMatch(host, 'nickisboyfriend.holidayvoucher.us') ||
 shExpMatch(host, 'nicolascalmels.com') ||
 shExpMatch(host, 'niculae.net') ||
 shExpMatch(host, 'nieuwsvoorjou.nl') ||
@@ -28765,7 +28308,6 @@ shExpMatch(host, 'nnmssc.cn') ||
 shExpMatch(host, 'nobodyspeakstruth.narod.ru') ||
 shExpMatch(host, 'nobrain.dk') ||
 shExpMatch(host, 'nocostgiftcards.com') ||
-shExpMatch(host, 'noel.cheriefm.fr') ||
 shExpMatch(host, 'noirpirater.com') ||
 shExpMatch(host, 'noiselessplough.com') ||
 shExpMatch(host, 'noitdcelol.com') ||
@@ -28793,7 +28335,6 @@ shExpMatch(host, 'noporotolozaza.2waky.com') ||
 shExpMatch(host, 'nordavind.syzran.ru') ||
 shExpMatch(host, 'nordiccountry.cz') ||
 shExpMatch(host, 'nortonfire.co.uk') ||
-shExpMatch(host, 'norway.filminstan.pw') ||
 shExpMatch(host, 'norwide.top') ||
 shExpMatch(host, 'nosurveyhack.net') ||
 shExpMatch(host, 'notebookservisru.161.com1.ru') ||
@@ -28849,7 +28390,6 @@ shExpMatch(host, 'nubilespics.com') ||
 shExpMatch(host, 'nuclear3.com') ||
 shExpMatch(host, 'nucur.ru') ||
 shExpMatch(host, 'nudebeachgalleries.net') ||
-shExpMatch(host, 'nug.jozmovie.xyz') ||
 shExpMatch(host, 'nuggad.net') ||
 shExpMatch(host, 'nuguz.ru') ||
 shExpMatch(host, 'nuhus.ru') ||
@@ -28923,7 +28463,6 @@ shExpMatch(host, 'oewabox.at') ||
 shExpMatch(host, 'ofclans.com') ||
 shExpMatch(host, 'offaces-butional.com') ||
 shExpMatch(host, 'offer.fyber.com') ||
-shExpMatch(host, 'offer.sponsorpay.com') ||
 shExpMatch(host, 'offerbroker.net') ||
 shExpMatch(host, 'offerforge.com') ||
 shExpMatch(host, 'offerfusion.com') ||
@@ -29006,7 +28545,6 @@ shExpMatch(host, 'online-metrix.net') ||
 shExpMatch(host, 'online-pictures.net') ||
 shExpMatch(host, 'online-stats201.info') ||
 shExpMatch(host, 'online-tvstream.com') ||
-shExpMatch(host, 'online.miarroba.com') ||
 shExpMatch(host, 'online143.com') ||
 shExpMatch(host, 'onlinebackupgrowing.biz') ||
 shExpMatch(host, 'onlinebalances.com') ||
@@ -29036,7 +28574,6 @@ shExpMatch(host, 'onlineshoppinggiftcards.net') ||
 shExpMatch(host, 'onlinetribun.com') ||
 shExpMatch(host, 'onlinewatchmoviez.com') ||
 shExpMatch(host, 'onlinexploits.com') ||
-shExpMatch(host, 'only.onecinema.us') ||
 shExpMatch(host, 'onlyfiles.net') ||
 shExpMatch(host, 'onlyfind.net') ||
 shExpMatch(host, 'onlyforyou.tech') ||
@@ -29119,7 +28656,6 @@ shExpMatch(host, 'orangeroller.ru') ||
 shExpMatch(host, 'orboot.pw') ||
 shExpMatch(host, 'orbowlada.strefa.pl') ||
 shExpMatch(host, 'orcahub.com') ||
-shExpMatch(host, 'orderandchaoshack.blackhatsky.com') ||
 shExpMatch(host, 'ordermedonline.com') ||
 shExpMatch(host, 'ordingly.com') ||
 shExpMatch(host, 'organizedmadness.org') ||
@@ -29150,7 +28686,6 @@ shExpMatch(host, 'out-there-media.com') ||
 shExpMatch(host, 'outandappear.win') ||
 shExpMatch(host, 'outbrain.com') ||
 shExpMatch(host, 'outdonuthack.com') ||
-shExpMatch(host, 'outlast.sharezips.info') ||
 shExpMatch(host, 'outporn.com') ||
 shExpMatch(host, 'ouyajiahua.com') ||
 shExpMatch(host, 'ouyaoxiazai.com') ||
@@ -29221,8 +28756,6 @@ shExpMatch(host, 'pakjevoordeel.net') ||
 shExpMatch(host, 'pakkagit.com.tr') ||
 shExpMatch(host, 'paleenem.com') ||
 shExpMatch(host, 'paleleaf.com') ||
-shExpMatch(host, 'pamila.medlafare.com') ||
-shExpMatch(host, 'pan.bjzm365.com') ||
 shExpMatch(host, 'panacinema.pw') ||
 shExpMatch(host, 'pancakebonus.com') ||
 shExpMatch(host, 'pandapopcheats.xyz') ||
@@ -29232,7 +28765,6 @@ shExpMatch(host, 'panel.teamspeak.bz') ||
 shExpMatch(host, 'panickycurtain.com') ||
 shExpMatch(host, 'panickypancake.com') ||
 shExpMatch(host, 'papahughes.com.au') ||
-shExpMatch(host, 'papapear.fb-hacks.com') ||
 shExpMatch(host, 'papapearsagacheats.com') ||
 shExpMatch(host, 'papapkz.myvnc.com') ||
 shExpMatch(host, 'papayamobile.com') ||
@@ -29294,14 +28826,11 @@ shExpMatch(host, 'patogh-persian.persiangig.com') ||
 shExpMatch(host, 'patrickhickey.eu') ||
 shExpMatch(host, 'patrickmurphy.me') ||
 shExpMatch(host, 'pattayabazaar.com') ||
-shExpMatch(host, 'paul.cescon.ca') ||
 shExpMatch(host, 'pausebas.xyz') ||
 shExpMatch(host, 'pave.elisecries.com') ||
 shExpMatch(host, 'pay-ads.com') ||
 shExpMatch(host, 'paychat.fuse-cloud.com') ||
 shExpMatch(host, 'paycounter.com') ||
-shExpMatch(host, 'payday2.sharezips.info') ||
-shExpMatch(host, 'payday2lootbagdlcfree.sharezips.info') ||
 shExpMatch(host, 'paylessuniformsrgv.com') ||
 shExpMatch(host, 'payment-glonas.in') ||
 shExpMatch(host, 'paypal-verificationresolve.net') ||
@@ -29316,7 +28845,6 @@ shExpMatch(host, 'payserve.com') ||
 shExpMatch(host, 'paytraff.biz') ||
 shExpMatch(host, 'pbj-gallery.com') ||
 shExpMatch(host, 'pbnet.ru') ||
-shExpMatch(host, 'pboh.punklocalbabez.com') ||
 shExpMatch(host, 'pbterra.com') ||
 shExpMatch(host, 'pcash.imlive.com') ||
 shExpMatch(host, 'pcdownloadstation.com') ||
@@ -29364,13 +28892,11 @@ shExpMatch(host, 'pension-helene.cz') ||
 shExpMatch(host, 'peoria33884.cz.cc') ||
 shExpMatch(host, 'pepertum.com') ||
 shExpMatch(host, 'pepperjamnetwork.com') ||
-shExpMatch(host, 'peppersaga.cooldownloadz.com') ||
 shExpMatch(host, 'perceivequarter.com') ||
 shExpMatch(host, 'percentmobile.com') ||
 shExpMatch(host, 'perderpeso2013.com') ||
 shExpMatch(host, 'perdusha.ru') ||
 shExpMatch(host, 'perevod.me') ||
-shExpMatch(host, 'perf.weborama.fr') ||
 shExpMatch(host, 'perfect-hacks.com') ||
 shExpMatch(host, 'perfectaudience.com') ||
 shExpMatch(host, 'perfectfreedomcut.com') ||
@@ -29386,7 +28912,6 @@ shExpMatch(host, 'personalsyscheck.com') ||
 shExpMatch(host, 'peruenred.net') ||
 shExpMatch(host, 'perugemstones.com') ||
 shExpMatch(host, 'pes15cheats.com') ||
-shExpMatch(host, 'pes2014.sharezips.info') ||
 shExpMatch(host, 'peskygamer.com') ||
 shExpMatch(host, 'petiteumbrella.com') ||
 shExpMatch(host, 'petmovea.com') ||
@@ -29416,7 +28941,6 @@ shExpMatch(host, 'photomoa.co.kr') ||
 shExpMatch(host, 'photos-ic.com') ||
 shExpMatch(host, 'photos.vasilcastle.com') ||
 shExpMatch(host, 'photoscape.ch') ||
-shExpMatch(host, 'photoshopcs6.com-promotions.us') ||
 shExpMatch(host, 'phpadsnew.new.natuurpark.nl') ||
 shExpMatch(host, 'phpmyvisites.net') ||
 shExpMatch(host, 'phsihaikeji.com') ||
@@ -29455,7 +28979,6 @@ shExpMatch(host, 'pimbarendse.nl') ||
 shExpMatch(host, 'pimphacks.com') ||
 shExpMatch(host, 'pimpinggadgets.com') ||
 shExpMatch(host, 'pimproll.com') ||
-shExpMatch(host, 'pinay.leak-video.org') ||
 shExpMatch(host, 'pincheat.com') ||
 shExpMatch(host, 'pinevalleycourt.co.uk') ||
 shExpMatch(host, 'ping.ublock.org') ||
@@ -29521,11 +29044,9 @@ shExpMatch(host, 'piwite.ru') ||
 shExpMatch(host, 'pix.spot.im') ||
 shExpMatch(host, 'pix360.co.nf') ||
 shExpMatch(host, 'pixcheats.com') ||
-shExpMatch(host, 'pixel.adsafeprotected.com') ||
 shExpMatch(host, 'pixel.app.returnpath.net') ||
 shExpMatch(host, 'pixel.condenastdigital.com') ||
 shExpMatch(host, 'pixel.digitru.st') ||
-shExpMatch(host, 'pixel.jumptap.com') ||
 shExpMatch(host, 'pixel.keywee.co') ||
 shExpMatch(host, 'pixel.sojern.com') ||
 shExpMatch(host, 'pixel.watch') ||
@@ -29536,7 +29057,6 @@ shExpMatch(host, 'piyambakan.com') ||
 shExpMatch(host, 'pizzalie.be') ||
 shExpMatch(host, 'pizzotti.net') ||
 shExpMatch(host, 'pkgo.com.ve') ||
-shExpMatch(host, 'pkgo.fullpcgames.xyz') ||
 shExpMatch(host, 'pkkm5.com') ||
 shExpMatch(host, 'place-telechargement.com') ||
 shExpMatch(host, 'placecollocation.ru') ||
@@ -29561,11 +29081,9 @@ shExpMatch(host, 'plausibleio.workers.dev') ||
 shExpMatch(host, 'play-beta.com') ||
 shExpMatch(host, 'play-services.com') ||
 shExpMatch(host, 'play-voice.com') ||
-shExpMatch(host, 'play.movieglobal.co') ||
 shExpMatch(host, 'play4traffic.com') ||
 shExpMatch(host, 'playbattlegrounds.trade') ||
 shExpMatch(host, 'playcapt.com') ||
-shExpMatch(host, 'playcinema.stream80.com') ||
 shExpMatch(host, 'playdowncenter.com') ||
 shExpMatch(host, 'playdowngames.com') ||
 shExpMatch(host, 'playdownload.info') ||
@@ -29603,7 +29121,6 @@ shExpMatch(host, 'pleasantpump.com') ||
 shExpMatch(host, 'plengeh.wen.ru') ||
 shExpMatch(host, 'plethoramobile.com') ||
 shExpMatch(host, 'plista.com') ||
-shExpMatch(host, 'plmma26extra.streams24.tv') ||
 shExpMatch(host, 'ploai.com') ||
 shExpMatch(host, 'plotonk.com') ||
 shExpMatch(host, 'plotrabbit.com') ||
@@ -29636,8 +29153,6 @@ shExpMatch(host, 'pointscodesfree.com') ||
 shExpMatch(host, 'pointstackers.com') ||
 shExpMatch(host, 'pointstackersdevel.com') ||
 shExpMatch(host, 'pokachi.net') ||
-shExpMatch(host, 'pokecoin.freeastuces.com') ||
-shExpMatch(host, 'pokecoins.freeastuce.ml') ||
 shExpMatch(host, 'pokecoins.net') ||
 shExpMatch(host, 'pokecoinsfreebies.com') ||
 shExpMatch(host, 'pokecoinsgo.online') ||
@@ -29646,19 +29161,14 @@ shExpMatch(host, 'pokecoinshacked.org') ||
 shExpMatch(host, 'pokegocoinsz.com') ||
 shExpMatch(host, 'pokemon-x-and-y-pc-roms.com') ||
 shExpMatch(host, 'pokemoncoins.com') ||
-shExpMatch(host, 'pokemongo.freeastuce.ml') ||
-shExpMatch(host, 'pokemongo.freeastuces.com') ||
 shExpMatch(host, 'pokemongocoinhacker.com') ||
 shExpMatch(host, 'pokemongogiveaways.top') ||
 shExpMatch(host, 'pokemonhackcheat.com') ||
 shExpMatch(host, 'pokemonomegarubyandalphasapphire.com') ||
 shExpMatch(host, 'pokemonxandydownload.com') ||
 shExpMatch(host, 'pokemonxandyromdownload.com') ||
-shExpMatch(host, 'pokemonxandyroms.extafiles.com') ||
 shExpMatch(host, 'pokemonxdownload.com') ||
 shExpMatch(host, 'pokemonxetyroms.com') ||
-shExpMatch(host, 'pokemonxetyroms.extafiles.com') ||
-shExpMatch(host, 'pokemonxetyroms.gamerlh.com') ||
 shExpMatch(host, 'pokemonxydownload.org') ||
 shExpMatch(host, 'pokerlivestar.de') ||
 shExpMatch(host, 'pokerlounge-langenfeld.de') ||
@@ -29733,7 +29243,6 @@ shExpMatch(host, 'powerstrike.org') ||
 shExpMatch(host, 'powggi.ru') ||
 shExpMatch(host, 'poyed.ru') ||
 shExpMatch(host, 'ppapgame.com') ||
-shExpMatch(host, 'ppc.adhere.marchex.com') ||
 shExpMatch(host, 'ppcheats.com') ||
 shExpMatch(host, 'ppcsoft.in') ||
 shExpMatch(host, 'ppcube.com') ||
@@ -29838,7 +29347,6 @@ shExpMatch(host, 'proach.ru') ||
 shExpMatch(host, 'proanalytics.cn') ||
 shExpMatch(host, 'probtc.org') ||
 shExpMatch(host, 'processinfo.com.cn') ||
-shExpMatch(host, 'procyclingmanager2013.sharezips.info') ||
 shExpMatch(host, 'prod-review.info') ||
 shExpMatch(host, 'prodesigners.club') ||
 shExpMatch(host, 'producecopy.com') ||
@@ -29933,11 +29441,7 @@ shExpMatch(host, 'psn-code-generator.com') ||
 shExpMatch(host, 'psn-code.info') ||
 shExpMatch(host, 'psn-codes-generator.com') ||
 shExpMatch(host, 'psn-jeux.com') ||
-shExpMatch(host, 'psn.cardcodes.net') ||
 shExpMatch(host, 'psn.codes.gamesject.com') ||
-shExpMatch(host, 'psn.foundcheats.com') ||
-shExpMatch(host, 'psn.freecodes.us') ||
-shExpMatch(host, 'psn.upfiles.eu') ||
 shExpMatch(host, 'psn4free.com') ||
 shExpMatch(host, 'psnboy.com') ||
 shExpMatch(host, 'psncardcodes.com') ||
@@ -29953,7 +29457,6 @@ shExpMatch(host, 'psncodegenerator.filesquicky.com') ||
 shExpMatch(host, 'psncodegenerator.fr') ||
 shExpMatch(host, 'psncodegenerator.pw') ||
 shExpMatch(host, 'psncodegenerator.us') ||
-shExpMatch(host, 'psncodegenerator.validcheats.com') ||
 shExpMatch(host, 'psncodegenerator2013.info') ||
 shExpMatch(host, 'psncodegeneratoraccess.com') ||
 shExpMatch(host, 'psncodegeneratordownload.net') ||
@@ -29965,12 +29468,8 @@ shExpMatch(host, 'psncodegenerators.info') ||
 shExpMatch(host, 'psncodegenerators.net') ||
 shExpMatch(host, 'psncodegeneratorss.com') ||
 shExpMatch(host, 'psncodegeneratorstar.com') ||
-shExpMatch(host, 'psncodegiveaway.newbetakey.com') ||
 shExpMatch(host, 'psncodegratuit.com') ||
-shExpMatch(host, 'psncodegratuit.extafiles.com') ||
 shExpMatch(host, 'psncodelive.com') ||
-shExpMatch(host, 'psncodes.gamerlh.com') ||
-shExpMatch(host, 'psncodes.hudbee.com') ||
 shExpMatch(host, 'psncodesfree.info') ||
 shExpMatch(host, 'psncodesgenerator.net') ||
 shExpMatch(host, 'psncodesgenerators.com') ||
@@ -29985,7 +29484,6 @@ shExpMatch(host, 'psnfreepoints.com') ||
 shExpMatch(host, 'psngratuit.com') ||
 shExpMatch(host, 'psnlivecodegenerator.com') ||
 shExpMatch(host, 'psnlivecodegenerator.net') ||
-shExpMatch(host, 'psnplus.legratuits.com') ||
 shExpMatch(host, 'psnplusgratuit.fr') ||
 shExpMatch(host, 'psnzone.com') ||
 shExpMatch(host, 'psooz.tourstogo.us') ||
@@ -30065,8 +29563,6 @@ shExpMatch(host, 'pushwhy.com') ||
 shExpMatch(host, 'pusop.ru') ||
 shExpMatch(host, 'putlockermovie.net') ||
 shExpMatch(host, 'puzky.com') ||
-shExpMatch(host, 'puzzleanddragonscheat.elitegamershub.com') ||
-shExpMatch(host, 'pvz2.amazinglyhot.com') ||
 shExpMatch(host, 'pwdomawomen.in') ||
 shExpMatch(host, 'pwgegrsdfs.ru') ||
 shExpMatch(host, 'pwoman.co.kr') ||
@@ -30187,7 +29683,6 @@ shExpMatch(host, 'radarurl.com') ||
 shExpMatch(host, 'radegamble.com') ||
 shExpMatch(host, 'radfgerbs.ddns.me.uk') ||
 shExpMatch(host, 'radiate.com') ||
-shExpMatch(host, 'radiomangalia.isthebe.st') ||
 shExpMatch(host, 'radiosinus.se') ||
 shExpMatch(host, 'radiosouf.free.fr') ||
 shExpMatch(host, 'radiumone.com') ||
@@ -30254,7 +29749,6 @@ shExpMatch(host, 'ravelotti.cn') ||
 shExpMatch(host, 'raviganeshassociates.com') ||
 shExpMatch(host, 'rawactf.xyz') ||
 shExpMatch(host, 'rayjump.com') ||
-shExpMatch(host, 'raymanlegends.sharezips.info') ||
 shExpMatch(host, 'razerbets.com') ||
 shExpMatch(host, 'razergiveaway.com') ||
 shExpMatch(host, 'razergo.com') ||
@@ -30277,8 +29771,6 @@ shExpMatch(host, 'rbm.co.in') ||
 shExpMatch(host, 'rcadserver.com') ||
 shExpMatch(host, 'rcturbo.com') ||
 shExpMatch(host, 'rd.jiguangie.com') ||
-shExpMatch(host, 'rd.meediabuy.com') ||
-shExpMatch(host, 'rd.moonetizer.com') ||
 shExpMatch(host, 're-directme.com') ||
 shExpMatch(host, 'reachjunction.com') ||
 shExpMatch(host, 'reachsaw.ru') ||
@@ -30349,7 +29841,6 @@ shExpMatch(host, 'rediropencom.com') ||
 shExpMatch(host, 'redissoft.ru') ||
 shExpMatch(host, 'reditions.net') ||
 shExpMatch(host, 'redjezelf.net') ||
-shExpMatch(host, 'redlinecompany.ravelotti.cn') ||
 shExpMatch(host, 'redmas.com') ||
 shExpMatch(host, 'redoperabwo.ru') ||
 shExpMatch(host, 'redpoo.com') ||
@@ -30359,8 +29850,6 @@ shExpMatch(host, 'redsn0wjb.net') ||
 shExpMatch(host, 'redtagcentral.ru') ||
 shExpMatch(host, 'reduxmedia.com') ||
 shExpMatch(host, 'reduxmediagroup.com') ||
-shExpMatch(host, 'ree.onecinema.us') ||
-shExpMatch(host, 'reechh.faboshine.com') ||
 shExpMatch(host, 'reedbusiness.com') ||
 shExpMatch(host, 'reefaquarium.biz') ||
 shExpMatch(host, 'reelhd.com') ||
@@ -30505,19 +29994,14 @@ shExpMatch(host, 'ringplant.com') ||
 shExpMatch(host, 'ringsrecord.com') ||
 shExpMatch(host, 'riorub.ru') ||
 shExpMatch(host, 'riot-codes.com') ||
-shExpMatch(host, 'riot.extafiles.com') ||
-shExpMatch(host, 'riot.hudbee.com') ||
 shExpMatch(host, 'riotassistance.ru') ||
 shExpMatch(host, 'riotcodes.net') ||
 shExpMatch(host, 'riotcodesgenerator.com') ||
 shExpMatch(host, 'riotpointcodes.org') ||
 shExpMatch(host, 'riotpointgratuit.fr') ||
 shExpMatch(host, 'riotpoints.cu.cc') ||
-shExpMatch(host, 'riotpoints.freecodes.us') ||
 shExpMatch(host, 'riotpoints.gamesject.com') ||
-shExpMatch(host, 'riotpoints.legratuits.com') ||
 shExpMatch(host, 'riotpoints.net') ||
-shExpMatch(host, 'riotpoints.sharezips.info') ||
 shExpMatch(host, 'riotpointscodes.info') ||
 shExpMatch(host, 'riotpointscodes.net') ||
 shExpMatch(host, 'riotpointsgenerator.co') ||
@@ -30561,7 +30045,6 @@ shExpMatch(host, 'robberscull.com') ||
 shExpMatch(host, 'robbobrothers.com') ||
 shExpMatch(host, 'robig.ru') ||
 shExpMatch(host, 'robints.us') ||
-shExpMatch(host, 'roblox.com-cheat.in') ||
 shExpMatch(host, 'robloxrobux-generator.com') ||
 shExpMatch(host, 'robotbobot.cn') ||
 shExpMatch(host, 'robotreplay.com') ||
@@ -30575,8 +30058,6 @@ shExpMatch(host, 'rocket-galaxy.net') ||
 shExpMatch(host, 'rocket-league-lounge.com') ||
 shExpMatch(host, 'rocketfuel.com') ||
 shExpMatch(host, 'rockleadesign.com') ||
-shExpMatch(host, 'rocksmith2014.sharezips.info') ||
-shExpMatch(host, 'rocksmith2014edition.sharezips.net') ||
 shExpMatch(host, 'rocksresort.com.au') ||
 shExpMatch(host, 'rodekon.ru') ||
 shExpMatch(host, 'rodeonlinesurveys.co.za') ||
@@ -30634,7 +30115,6 @@ shExpMatch(host, 'royalfolders.com') ||
 shExpMatch(host, 'royalhacks.net') ||
 shExpMatch(host, 'royalspin.co.uk') ||
 shExpMatch(host, 'rozqet.ru') ||
-shExpMatch(host, 'rp.game-cards.org') ||
 shExpMatch(host, 'rpcode.me') ||
 shExpMatch(host, 'rpcodesnow.info') ||
 shExpMatch(host, 'rpcs3emulator.com') ||
@@ -30661,7 +30141,6 @@ shExpMatch(host, 'rtbpop.com') ||
 shExpMatch(host, 'rtbpopd.com') ||
 shExpMatch(host, 'rthlsinks.cz.cc') ||
 shExpMatch(host, 'rtmark.net') ||
-shExpMatch(host, 'rto.ijssalonlekker.nl') ||
 shExpMatch(host, 'rtpdn11.com') ||
 shExpMatch(host, 'rtrust.mobi') ||
 shExpMatch(host, 'rtxplatform.com') ||
@@ -30682,7 +30161,6 @@ shExpMatch(host, 'rum-http-intake.logs.datadoghq.eu') ||
 shExpMatch(host, 'rumblefighterhacks.com') ||
 shExpMatch(host, 'rumog.frost-electric-supply.com') ||
 shExpMatch(host, 'runads.com') ||
-shExpMatch(host, 'runandgunpack.sharezips.info') ||
 shExpMatch(host, 'rundsp.com') ||
 shExpMatch(host, 'runedo.ru') ||
 shExpMatch(host, 'runikeipajpsales.party') ||
@@ -30691,7 +30169,6 @@ shExpMatch(host, 'rupor.info') ||
 shExpMatch(host, 'rurik.at.ua') ||
 shExpMatch(host, 'russianhackers.com') ||
 shExpMatch(host, 'russianporn.tv') ||
-shExpMatch(host, 'rustalpha.sharezips.info') ||
 shExpMatch(host, 'rustbetakey.net') ||
 shExpMatch(host, 'rustbetakeys.com') ||
 shExpMatch(host, 'rutabletki.com') ||
@@ -30705,8 +30182,6 @@ shExpMatch(host, 'rxgsslla.cn') ||
 shExpMatch(host, 'rxgsslll.cn') ||
 shExpMatch(host, 'rxgssllt.cn') ||
 shExpMatch(host, 'rxhealthprescriptions.com') ||
-shExpMatch(host, 'rysesonofromeseasonpass.sharezips.info') ||
-shExpMatch(host, 'rysesonofromeseasonpass.sharezips.net') ||
 shExpMatch(host, 'rythmxchange.com') ||
 shExpMatch(host, 's-telecharger.com') ||
 shExpMatch(host, 's.adroll.com') ||
@@ -30720,7 +30195,6 @@ shExpMatch(host, 'saadilent.ir') ||
 shExpMatch(host, 'saarcop.net') ||
 shExpMatch(host, 'sabafon.info') ||
 shExpMatch(host, 'sabio.us') ||
-shExpMatch(host, 'sacrificedsecretspack.sharezips.info') ||
 shExpMatch(host, 'sadiqtv.com') ||
 shExpMatch(host, 'sadkajt357.com') ||
 shExpMatch(host, 'saemark.is') ||
@@ -30735,7 +30209,6 @@ shExpMatch(host, 'safetytrade.net') ||
 shExpMatch(host, 'saganamu.com') ||
 shExpMatch(host, 'sageanalyst.net') ||
 shExpMatch(host, 'sail-horizon.com') ||
-shExpMatch(host, 'saintsrow4.sharezips.info') ||
 shExpMatch(host, 'saison-x.com') ||
 shExpMatch(host, 'saisonstream.com') ||
 shExpMatch(host, 'sajko.co.cc') ||
@@ -30760,7 +30233,6 @@ shExpMatch(host, 'sandra.sanchitatiwari.com') ||
 shExpMatch(host, 'sanity-dataplane.rudderstack.com') ||
 shExpMatch(host, 'santa-case.fun') ||
 shExpMatch(host, 'santacruzsuspension.com') ||
-shExpMatch(host, 'sanya.moneyhome.biz') ||
 shExpMatch(host, 'saol.co') ||
 shExpMatch(host, 'sapindaceaactinoblast.repipeseattlenow.com') ||
 shExpMatch(host, 'saqix.ru') ||
@@ -30864,10 +30336,7 @@ shExpMatch(host, 'searchnew.net') ||
 shExpMatch(host, 'searchproducts2017.review') ||
 shExpMatch(host, 'searchramp.com') ||
 shExpMatch(host, 'searra-ditol.cn') ||
-shExpMatch(host, 'seasoncode.sharezips.info') ||
 shExpMatch(host, 'seasonfull.com') ||
-shExpMatch(host, 'seasonpass.sharezips.net') ||
-shExpMatch(host, 'seasonpassdlc.sharezips.net') ||
 shExpMatch(host, 'seawolbeamasa.com') ||
 shExpMatch(host, 'sebastian-hain.com') ||
 shExpMatch(host, 'secaviable.ru') ||
@@ -30888,7 +30357,6 @@ shExpMatch(host, 'secure-mob-001.date') ||
 shExpMatch(host, 'secure-runescape.co') ||
 shExpMatch(host, 'secure-runescape.com') ||
 shExpMatch(host, 'secure-softwaremanager.com') ||
-shExpMatch(host, 'secure.lawsuit-runescape.com') ||
 shExpMatch(host, 'secure.webconnect.net') ||
 shExpMatch(host, 'securedopen-bp.com') ||
 shExpMatch(host, 'securefile.info') ||
@@ -30896,7 +30364,6 @@ shExpMatch(host, 'securefileupload.com') ||
 shExpMatch(host, 'securemetrics.apple.com') ||
 shExpMatch(host, 'securite-informatique.info') ||
 shExpMatch(host, 'security-laboratory.ru') ||
-shExpMatch(host, 'security.system.ssl-verified.site') ||
 shExpMatch(host, 'securitywebservices.com') ||
 shExpMatch(host, 'sedfer.com') ||
 shExpMatch(host, 'sedoparking.com') ||
@@ -30912,7 +30379,6 @@ shExpMatch(host, 'sehabinden.com') ||
 shExpMatch(host, 'seiinmovimento.it') ||
 shExpMatch(host, 'seikopacking.cn') ||
 shExpMatch(host, 'seizefile.co') ||
-shExpMatch(host, 'sejoong.tourskorea.com') ||
 shExpMatch(host, 'sekaze.ru') ||
 shExpMatch(host, 'selectivesummer.com') ||
 shExpMatch(host, 'selectivparfumes.ru') ||
@@ -30961,7 +30427,6 @@ shExpMatch(host, 'sepatugaul.dhmart.info') ||
 shExpMatch(host, 'sepi.tw') ||
 shExpMatch(host, 'seres.https443.net') ||
 shExpMatch(host, 'serial-keys.info') ||
-shExpMatch(host, 'serial.filminstan.pw') ||
 shExpMatch(host, 'serialandkeygen.com') ||
 shExpMatch(host, 'serialkeygen.us') ||
 shExpMatch(host, 'serialpost.net') ||
@@ -30976,7 +30441,6 @@ shExpMatch(host, 'servedbyadbutler.com') ||
 shExpMatch(host, 'servedbyopenx.com') ||
 shExpMatch(host, 'serveload.com') ||
 shExpMatch(host, 'server-csgo.com') ||
-shExpMatch(host, 'server.roulette-faker.pro') ||
 shExpMatch(host, 'server1.extra-web.cz') ||
 shExpMatch(host, 'servethis.com') ||
 shExpMatch(host, 'serveupload.com') ||
@@ -30985,7 +30449,6 @@ shExpMatch(host, 'servicelaptop.eu') ||
 shExpMatch(host, 'services.hearstmags.com') ||
 shExpMatch(host, 'serving-sys.com') ||
 shExpMatch(host, 'serving-tracking.com') ||
-shExpMatch(host, 'sesaonpass.sharezips.info') ||
 shExpMatch(host, 'sessioncam.com') ||
 shExpMatch(host, 'sessionm.com') ||
 shExpMatch(host, 'setheo.com') ||
@@ -31142,10 +30605,6 @@ shExpMatch(host, 'silurian.cn') ||
 shExpMatch(host, 'silvercash.com') ||
 shExpMatch(host, 'silvermob.com') ||
 shExpMatch(host, 'silverupload.com') ||
-shExpMatch(host, 'simcity.beta-keygen.com') ||
-shExpMatch(host, 'simcity.sharezips.info') ||
-shExpMatch(host, 'simcity.sharezips.net') ||
-shExpMatch(host, 'simcity.software-hacks.com') ||
 shExpMatch(host, 'simcity5crackdownload.com') ||
 shExpMatch(host, 'simcity5hack.com') ||
 shExpMatch(host, 'simetservizi.com') ||
@@ -31165,11 +30624,9 @@ shExpMatch(host, 'simplexdrop.com') ||
 shExpMatch(host, 'simpli.fi') ||
 shExpMatch(host, 'simplycast.com') ||
 shExpMatch(host, 'simplycrack.com') ||
-shExpMatch(host, 'simpsons.filesforgames.com') ||
 shExpMatch(host, 'simpsons.hackfree.us') ||
 shExpMatch(host, 'simpsons.newzgames.com') ||
 shExpMatch(host, 'simpsonsdonuthackandroid.com') ||
-shExpMatch(host, 'simpsonstappedoutcheats.social-cheats.com') ||
 shExpMatch(host, 'simpsontappedouthack.com') ||
 shExpMatch(host, 'sims4crack.com') ||
 shExpMatch(host, 'sims4downloadx.com') ||
@@ -31522,7 +30979,6 @@ shExpMatch(host, 'snapch.net') ||
 shExpMatch(host, 'snapchathack.co') ||
 shExpMatch(host, 'snapchathack.mobi') ||
 shExpMatch(host, 'snapchathack.org') ||
-shExpMatch(host, 'snapchathack.weakwiki.com') ||
 shExpMatch(host, 'snapchatscorehack.site') ||
 shExpMatch(host, 'snapchatspys.com') ||
 shExpMatch(host, 'snapcheat.net') ||
@@ -31532,7 +30988,6 @@ shExpMatch(host, 'snaphack.net') ||
 shExpMatch(host, 'sniffb.com') ||
 shExpMatch(host, 'snipe.blue') ||
 shExpMatch(host, 'sniperdz.com') ||
-shExpMatch(host, 'sniperghostwarrior2.sharezips.info') ||
 shExpMatch(host, 'snipeskins.com') ||
 shExpMatch(host, 'snl-doge.ceo') ||
 shExpMatch(host, 'snlday.top') ||
@@ -31542,7 +30997,6 @@ shExpMatch(host, 'snlprize.net') ||
 shExpMatch(host, 'snoobi.com') ||
 shExpMatch(host, 'snow-case.net') ||
 shExpMatch(host, 'snowcases.net') ||
-shExpMatch(host, 'snrp.uglyas.com') ||
 shExpMatch(host, 'soccergamesunblocked.us') ||
 shExpMatch(host, 'soccerstars-hack.net') ||
 shExpMatch(host, 'social-cheats.com') ||
@@ -31564,7 +31018,6 @@ shExpMatch(host, 'sockslab.net') ||
 shExpMatch(host, 'socmedfollowers.com') ||
 shExpMatch(host, 'sodudak.ru') ||
 shExpMatch(host, 'soft-hack.net') ||
-shExpMatch(host, 'soft.youxi123.com') ||
 shExpMatch(host, 'soft2011.co.uk') ||
 shExpMatch(host, 'soft4cash.net') ||
 shExpMatch(host, 'softclick.com.br') ||
@@ -31588,7 +31041,6 @@ shExpMatch(host, 'soigbu.ru') ||
 shExpMatch(host, 'soisokdomen.ru') ||
 shExpMatch(host, 'sokiz.ru') ||
 shExpMatch(host, 'soldegratuit.com') ||
-shExpMatch(host, 'soldiersinccheat.elitegamershub.com') ||
 shExpMatch(host, 'solidhacks.com') ||
 shExpMatch(host, 'solutionblue.us') ||
 shExpMatch(host, 'solutionhacks.eu') ||
@@ -31609,7 +31061,6 @@ shExpMatch(host, 'sonicjailbreak.net') ||
 shExpMatch(host, 'sonicthehedgehog.pw') ||
 shExpMatch(host, 'sonobi.com') ||
 shExpMatch(host, 'sonodrugs.eu') ||
-shExpMatch(host, 'sony69.cinemamovie.biz') ||
 shExpMatch(host, 'sonyps3jailbreak.com') ||
 shExpMatch(host, 'soo.gd') ||
 shExpMatch(host, 'sordidsmile.com') ||
@@ -31625,7 +31076,6 @@ shExpMatch(host, 'soundeem.com') ||
 shExpMatch(host, 'source-hack.com') ||
 shExpMatch(host, 'sourcepoint.vice.com') ||
 shExpMatch(host, 'soushop.net') ||
-shExpMatch(host, 'southparksot.topfree.us') ||
 shExpMatch(host, 'southstreetim.com') ||
 shExpMatch(host, 'sovi.tw') ||
 shExpMatch(host, 'sovrn.com') ||
@@ -31690,7 +31140,6 @@ shExpMatch(host, 'spirebaboon.com') ||
 shExpMatch(host, 'spiritofmorris.com') ||
 shExpMatch(host, 'spitefulstop.com') ||
 shExpMatch(host, 'splinter-cell-blacklist-keygen.com') ||
-shExpMatch(host, 'splintercellblacklist.sharezips.info') ||
 shExpMatch(host, 'split.karmel.hr') ||
 shExpMatch(host, 'sponsorads.de') ||
 shExpMatch(host, 'sponsorpay.com') ||
@@ -31707,7 +31156,6 @@ shExpMatch(host, 'spotify-espana.com') ||
 shExpMatch(host, 'spotify-france.com') ||
 shExpMatch(host, 'spotify-sub.com') ||
 shExpMatch(host, 'spotify-vip.com') ||
-shExpMatch(host, 'spotify.viph4ck.com') ||
 shExpMatch(host, 'spotifyferfree.com') ||
 shExpMatch(host, 'spotifypremiumaccounts.info') ||
 shExpMatch(host, 'spotifypremiumcodes.com') ||
@@ -31741,7 +31189,6 @@ shExpMatch(host, 'srbijacafe.org') ||
 shExpMatch(host, 'srslogisticts.com') ||
 shExpMatch(host, 'srt.icu') ||
 shExpMatch(host, 'srutebmduoh.myfw.us') ||
-shExpMatch(host, 'srv5.movie1get.com') ||
 shExpMatch(host, 'srvmath.com') ||
 shExpMatch(host, 'srvtrck.com') ||
 shExpMatch(host, 'srwww1.com') ||
@@ -31783,9 +31230,7 @@ shExpMatch(host, 'starbucks.bio') ||
 shExpMatch(host, 'starbucksisbadforyou.com') ||
 shExpMatch(host, 'starbucksiswrong.com') ||
 shExpMatch(host, 'starcardsnbulls.com') ||
-shExpMatch(host, 'starcraft2.sharezips.info') ||
 shExpMatch(host, 'starcraftvip.com') ||
-shExpMatch(host, 'stardollcheats.elitegamershub.com') ||
 shExpMatch(host, 'stardrop.fun') ||
 shExpMatch(host, 'starffa.com') ||
 shExpMatch(host, 'starpasscodegenerator.goldmovie-trailer.com') ||
@@ -31887,9 +31332,6 @@ shExpMatch(host, 'steam-wallet-money.com') ||
 shExpMatch(host, 'steam-wallet-rewards.com') ||
 shExpMatch(host, 'steam-wallet.co') ||
 shExpMatch(host, 'steam-wallet.com') ||
-shExpMatch(host, 'steam.cooldownloadz.com') ||
-shExpMatch(host, 'steam.extafiles.com') ||
-shExpMatch(host, 'steam.legratuits.com') ||
 shExpMatch(host, 'steamanalyst.be') ||
 shExpMatch(host, 'steamanalystics.com') ||
 shExpMatch(host, 'steamanalysts.com') ||
@@ -31996,7 +31438,6 @@ shExpMatch(host, 'stolben.com.br') ||
 shExpMatch(host, 'stoneb.cn') ||
 shExpMatch(host, 'stoned-skins.fun') ||
 shExpMatch(host, 'stoorvogelsoftware.nl') ||
-shExpMatch(host, 'stop.ijssalonlekker.nl') ||
 shExpMatch(host, 'stopify.co') ||
 shExpMatch(host, 'stopin.pl') ||
 shExpMatch(host, 'stopmeagency.free.fr') ||
@@ -32024,18 +31465,11 @@ shExpMatch(host, 'strategiccapitalalliance.com') ||
 shExpMatch(host, 'stratix.info') ||
 shExpMatch(host, 'strawpoll.ga') ||
 shExpMatch(host, 'strawpolll.ga') ||
-shExpMatch(host, 'stream.ezeedl.com') ||
-shExpMatch(host, 'stream.gonx.xyz') ||
-shExpMatch(host, 'stream.hdmoviefull.com') ||
-shExpMatch(host, 'stream.jozmovie.xyz') ||
-shExpMatch(host, 'stream.movichart.com') ||
 shExpMatch(host, 'stream7.info') ||
 shExpMatch(host, 'stream80.com') ||
 shExpMatch(host, 'streamfullmoviehd.com') ||
 shExpMatch(host, 'streamhd24.com') ||
 shExpMatch(host, 'streaming.filmsgratuits.org') ||
-shExpMatch(host, 'streaming.sportsnews-online.info') ||
-shExpMatch(host, 'streaming.watchmuvee.info') ||
 shExpMatch(host, 'streamingfilmhd.com') ||
 shExpMatch(host, 'streamingvideoonline.net') ||
 shExpMatch(host, 'streams24.tv') ||
@@ -32110,7 +31544,6 @@ shExpMatch(host, 'super-web-homes.tech') ||
 shExpMatch(host, 'superalts.com') ||
 shExpMatch(host, 'superbhacks.com') ||
 shExpMatch(host, 'superbingopalace.com') ||
-shExpMatch(host, 'superbowl2014.streams24.tv') ||
 shExpMatch(host, 'supercell.net') ||
 shExpMatch(host, 'supercheatsandhacks.com') ||
 shExpMatch(host, 'superclix.de') ||
@@ -32122,8 +31555,6 @@ shExpMatch(host, 'supernewstuff.ru') ||
 shExpMatch(host, 'supernotessolution.com') ||
 shExpMatch(host, 'superore.ru') ||
 shExpMatch(host, 'superpack.dlcodes.com') ||
-shExpMatch(host, 'superpackdlc.sharezips.info') ||
-shExpMatch(host, 'superpackdlc.sharezips.net') ||
 shExpMatch(host, 'supersonicads.com') ||
 shExpMatch(host, 'superstats.com') ||
 shExpMatch(host, 'supersupermall.ru') ||
@@ -32135,7 +31566,6 @@ shExpMatch(host, 'support--icloud.online') ||
 shExpMatch(host, 'support--iphone.online') ||
 shExpMatch(host, 'support-apple-services.net') ||
 shExpMatch(host, 'support.semptoshiba.com.br') ||
-shExpMatch(host, 'suppressandassaultpack.sharezips.info') ||
 shExpMatch(host, 'supragame.com') ||
 shExpMatch(host, 'suptullog.com') ||
 shExpMatch(host, 'surefile.org') ||
@@ -32191,7 +31621,6 @@ shExpMatch(host, 'sykazt.com.cn') ||
 shExpMatch(host, 'symantecsecuremails.com') ||
 shExpMatch(host, 'sync911.com') ||
 shExpMatch(host, 'syscodec.com') ||
-shExpMatch(host, 'system.ssl-verified.site') ||
 shExpMatch(host, 'systemtds.net') ||
 shExpMatch(host, 'sywrenalts.com') ||
 shExpMatch(host, 'syxinhaiyang.com') ||
@@ -32203,12 +31632,9 @@ shExpMatch(host, 'szinhaz.hu') ||
 shExpMatch(host, 'sznaucer-figa.nd.e-wro.pl') ||
 shExpMatch(host, 'sznm.com.cn') ||
 shExpMatch(host, 't-safe.nl') ||
-shExpMatch(host, 't.appsflyer.com') ||
 shExpMatch(host, 't.armchairbookie.com') ||
 shExpMatch(host, 't.bawafx.com') ||
 shExpMatch(host, 't.carta.com') ||
-shExpMatch(host, 't.device9.com') ||
-shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 't.eloqua.com') ||
 shExpMatch(host, 't.email.superdrug.com') ||
 shExpMatch(host, 't.en25.com') ||
@@ -32230,8 +31656,6 @@ shExpMatch(host, 'tabex.sopharma.bg') ||
 shExpMatch(host, 'tabfirmware.com') ||
 shExpMatch(host, 'taboola.com') ||
 shExpMatch(host, 'tacoda.net') ||
-shExpMatch(host, 'tag.device9.com') ||
-shExpMatch(host, 'tag.device9.net') ||
 shExpMatch(host, 'tag.links-analytics.com') ||
 shExpMatch(host, 'tagcommander.com') ||
 shExpMatch(host, 'tagdebate.ru') ||
@@ -32262,8 +31686,6 @@ shExpMatch(host, 'tangerinenet.biz') ||
 shExpMatch(host, 'tangibleteam.com') ||
 shExpMatch(host, 'tangoing.info') ||
 shExpMatch(host, 'tangyamount.com') ||
-shExpMatch(host, 'tanki.best-hacks.net') ||
-shExpMatch(host, 'tankihack.best-hacks.net') ||
 shExpMatch(host, 'tapad.com') ||
 shExpMatch(host, 'tapfiliate.com') ||
 shExpMatch(host, 'tapgen.com') ||
@@ -32355,12 +31777,10 @@ shExpMatch(host, 'telecharger-hack.com') ||
 shExpMatch(host, 'telecharger-minecraft-gratuit.com') ||
 shExpMatch(host, 'telecharger1.com') ||
 shExpMatch(host, 'telecharger24.fr') ||
-shExpMatch(host, 'telechargerassassinscreed.gamerlh.com') ||
 shExpMatch(host, 'telechargerdes.com') ||
 shExpMatch(host, 'telechargerfilmsfrancaisgratuit.info') ||
 shExpMatch(host, 'telechargergratuites.com') ||
 shExpMatch(host, 'telechargergta5.com') ||
-shExpMatch(host, 'telechargergta5gratuit.gamerlh.com') ||
 shExpMatch(host, 'telechargergta5pcgratuit.com') ||
 shExpMatch(host, 'telechargerjeuxpsvitagratuit.com') ||
 shExpMatch(host, 'telechargersgta5.com') ||
@@ -32388,8 +31808,6 @@ shExpMatch(host, 'teqamu.ru') ||
 shExpMatch(host, 'terapiya-spb.ru') ||
 shExpMatch(host, 'terriblethumb.com') ||
 shExpMatch(host, 'tesago.ru') ||
-shExpMatch(host, 'tesco.100giveaways.com') ||
-shExpMatch(host, 'tesco.365giveaways.com') ||
 shExpMatch(host, 'tescovouchersfree.com') ||
 shExpMatch(host, 'tesla-coins.net') ||
 shExpMatch(host, 'tesla-gifting.site') ||
@@ -32409,7 +31827,6 @@ shExpMatch(host, 'testtralala.xorg.pl') ||
 shExpMatch(host, 'tetuma.ru') ||
 shExpMatch(host, 'teutorace2012.de') ||
 shExpMatch(host, 'texasholdemfreechips.com') ||
-shExpMatch(host, 'texasholdempoker.prod-review.info') ||
 shExpMatch(host, 'texasjeeps.net') ||
 shExpMatch(host, 'text-link-ads.com') ||
 shExpMatch(host, 'textad.sexsearch.com') ||
@@ -32447,7 +31864,6 @@ shExpMatch(host, 'theadex.com') ||
 shExpMatch(host, 'theadhost.com') ||
 shExpMatch(host, 'theads.me') ||
 shExpMatch(host, 'thealtening.com') ||
-shExpMatch(host, 'theamazingspiderman2.leakbay.net') ||
 shExpMatch(host, 'theater21.com') ||
 shExpMatch(host, 'theatrekoodak.webphoto.ir') ||
 shExpMatch(host, 'thebesthack24.com') ||
@@ -32457,7 +31873,6 @@ shExpMatch(host, 'theblackops2hack.com') ||
 shExpMatch(host, 'theblackshothack.com') ||
 shExpMatch(host, 'thebubbleprocess.com') ||
 shExpMatch(host, 'thebugs.ws') ||
-shExpMatch(host, 'thebureauxcomdeclassified.sharezips.info') ||
 shExpMatch(host, 'thecardoctorsales.co.uk') ||
 shExpMatch(host, 'thecarnells.com') ||
 shExpMatch(host, 'thecheatplanet.com') ||
@@ -32519,7 +31934,6 @@ shExpMatch(host, 'thesuperexchange.ru') ||
 shExpMatch(host, 'theunderheard.com') ||
 shExpMatch(host, 'theuploaddata.com') ||
 shExpMatch(host, 'theuploadfree.com') ||
-shExpMatch(host, 'thewalkingdead400days.sharezips.info') ||
 shExpMatch(host, 'thewalkingdeadseason4episode10.com') ||
 shExpMatch(host, 'thewarzdownloads.com') ||
 shExpMatch(host, 'theweatherspace.com') ||
@@ -32557,10 +31971,8 @@ shExpMatch(host, 'throtle.io') ||
 shExpMatch(host, 'thruport.com') ||
 shExpMatch(host, 'thugskins.top') ||
 shExpMatch(host, 'thunderhead.com') ||
-shExpMatch(host, 'thunderruncheats.elitegamershub.com') ||
 shExpMatch(host, 'tia.timeinc.net') ||
 shExpMatch(host, 'tiande-rivne-com-ua.1gb.ua') ||
-shExpMatch(host, 'tiburon.viralvideos.es') ||
 shExpMatch(host, 'ticdewi.ru') ||
 shExpMatch(host, 'ticfiles.com') ||
 shExpMatch(host, 'ticketaunt.com') ||
@@ -32580,8 +31992,6 @@ shExpMatch(host, 'time4swap.com') ||
 shExpMatch(host, 'time4swap.fun') ||
 shExpMatch(host, 'timedirect.ru') ||
 shExpMatch(host, 'timesaver.dlcodes.com') ||
-shExpMatch(host, 'timesaverpack.sharezips.info') ||
-shExpMatch(host, 'timesaverpack.sharezips.net') ||
 shExpMatch(host, 'timeswap.net') ||
 shExpMatch(host, 'timeswap.pro') ||
 shExpMatch(host, 'timgorichanaz.com') ||
@@ -32643,7 +32053,6 @@ shExpMatch(host, 'tomosetuci9.cz.cc') ||
 shExpMatch(host, 'tompriki.gr') ||
 shExpMatch(host, 'tomscheats.com') ||
 shExpMatch(host, 'tomtaylorinsurance.com') ||
-shExpMatch(host, 'tomyfilms.filminstan.pw') ||
 shExpMatch(host, 'tonibethphotography.com') ||
 shExpMatch(host, 'toohack.com') ||
 shExpMatch(host, 'toolbotx.com') ||
@@ -32662,7 +32071,6 @@ shExpMatch(host, 'top-hacks.net') ||
 shExpMatch(host, 'top-site-list.com') ||
 shExpMatch(host, 'top.list.ru') ||
 shExpMatch(host, 'top.mail.ru') ||
-shExpMatch(host, 'top.proext.com') ||
 shExpMatch(host, 'top100-images.rambler.ru') ||
 shExpMatch(host, 'top100.mafia.ru') ||
 shExpMatch(host, 'top123.ro') ||
@@ -32679,7 +32087,6 @@ shExpMatch(host, 'topcontactco.com') ||
 shExpMatch(host, 'topdownlodablefreeware.com') ||
 shExpMatch(host, 'topeleven.newzgames.com') ||
 shExpMatch(host, 'topelevenfreehack.com') ||
-shExpMatch(host, 'topelevenhack.freehackstools.com') ||
 shExpMatch(host, 'topelevenhack.info') ||
 shExpMatch(host, 'topelevenhackcheats.com') ||
 shExpMatch(host, 'topelevenhacked.com') ||
@@ -32723,11 +32130,9 @@ shExpMatch(host, 'topstats.com') ||
 shExpMatch(host, 'topstreaming.us') ||
 shExpMatch(host, 'topuploader.net') ||
 shExpMatch(host, 'topuploadfile.com') ||
-shExpMatch(host, 'toqd.friendshipapostolicchurch.org') ||
 shExpMatch(host, 'torafav.ru') ||
 shExpMatch(host, 'torvaldscallthat.info') ||
 shExpMatch(host, 'tosane.ru') ||
-shExpMatch(host, 'totalwarrome2.sharezips.info') ||
 shExpMatch(host, 'totemcash.com') ||
 shExpMatch(host, 'tottaldomain.cn') ||
 shExpMatch(host, 'touchads.com') ||
@@ -32749,7 +32154,6 @@ shExpMatch(host, 'towmidar.ru') ||
 shExpMatch(host, 'toxicskins.com') ||
 shExpMatch(host, 'tpnads.com') ||
 shExpMatch(host, 'track-your-fedex-package.org') ||
-shExpMatch(host, 'track.adform.net') ||
 shExpMatch(host, 'track.anchorfree.com') ||
 shExpMatch(host, 'track.contently.com') ||
 shExpMatch(host, 'track.effiliation.com') ||
@@ -32777,11 +32181,9 @@ shExpMatch(host, 'trackcash.org') ||
 shExpMatch(host, 'trackedlink.net') ||
 shExpMatch(host, 'trackedweb.net') ||
 shExpMatch(host, 'tracker-pm2.spilleren.com') ||
-shExpMatch(host, 'tracker.bannerflow.com') ||
 shExpMatch(host, 'tracker.cdnbye.com') ||
 shExpMatch(host, 'tracker.comunidadmarriott.com') ||
 shExpMatch(host, 'tracker.icerocket.com') ||
-shExpMatch(host, 'tracker.marinsm.com') ||
 shExpMatch(host, 'tracker.mmdlv.it') ||
 shExpMatch(host, 'tracker.samplicio.us') ||
 shExpMatch(host, 'tracker.vgame.us') ||
@@ -32904,7 +32306,6 @@ shExpMatch(host, 'tranquilside.com') ||
 shExpMatch(host, 'transferfiles.cloud') ||
 shExpMatch(host, 'transfergrab.com') ||
 shExpMatch(host, 'transferspeedy.com') ||
-shExpMatch(host, 'transformers4.leakbay.net') ||
 shExpMatch(host, 'transformice2013hack.com') ||
 shExpMatch(host, 'transportationrouter.net') ||
 shExpMatch(host, 'travis.bosscasinos.com') ||
@@ -32913,7 +32314,6 @@ shExpMatch(host, 'traxster.net') ||
 shExpMatch(host, 'trck.a8.net') ||
 shExpMatch(host, 'trcklion.com') ||
 shExpMatch(host, 'treasuredata.com') ||
-shExpMatch(host, 'treestructurezeroes.pingpong-shop.info') ||
 shExpMatch(host, 'trek21.net') ||
 shExpMatch(host, 'trekblue.com') ||
 shExpMatch(host, 'trekdata.com') ||
@@ -32972,7 +32372,6 @@ shExpMatch(host, 'trmit.com') ||
 shExpMatch(host, 'tro-pas.ru') ||
 shExpMatch(host, 'tropas.ru') ||
 shExpMatch(host, 'trouvermotdepassefacebook.com') ||
-shExpMatch(host, 'troveofmystery.sharezips.info') ||
 shExpMatch(host, 'troytempest.com') ||
 shExpMatch(host, 'trtlu.ddns.info') ||
 shExpMatch(host, 'truckersemanifest.com') ||
@@ -33091,7 +32490,6 @@ shExpMatch(host, 'tubemoviez.com') ||
 shExpMatch(host, 'tucugo.ru') ||
 shExpMatch(host, 'tugaleriadetatuajes.com') ||
 shExpMatch(host, 'tuguijab.ru') ||
-shExpMatch(host, 'tumbl.viphacks.net') ||
 shExpMatch(host, 'tunatekstil.net') ||
 shExpMatch(host, 'tuneuputilities2014keygen.com') ||
 shExpMatch(host, 'tunnelgamers.com') ||
@@ -33110,22 +32508,15 @@ shExpMatch(host, 'turnskins.fun') ||
 shExpMatch(host, 'turukana.ru') ||
 shExpMatch(host, 'tutorialjungle.com') ||
 shExpMatch(host, 'tuttomariorestaurant.com') ||
-shExpMatch(host, 'tv.exmovie.xyz') ||
-shExpMatch(host, 'tv.ezgameonline.com') ||
-shExpMatch(host, 'tv.giredo.com') ||
-shExpMatch(host, 'tv.moviebli.com') ||
 shExpMatch(host, 'tvaktuality.cz') ||
 shExpMatch(host, 'tvas-a.pw') ||
 shExpMatch(host, 'tvas-c.pw') ||
 shExpMatch(host, 'tvcmarketingassociates.org') ||
-shExpMatch(host, 'tvhd.jozmovie.xyz') ||
-shExpMatch(host, 'tvhdstream.jozmovie.xyz') ||
 shExpMatch(host, 'tvmacs.com') ||
 shExpMatch(host, 'tvmedion.pl') ||
 shExpMatch(host, 'tvmovies.us') ||
 shExpMatch(host, 'tvmtracker.com') ||
 shExpMatch(host, 'tvoizodiak.ru') ||
-shExpMatch(host, 'tvonline.jozmovie.xyz') ||
 shExpMatch(host, 'tvoyatajna.msk.ru') ||
 shExpMatch(host, 'tvreel.us') ||
 shExpMatch(host, 'tvseries-cravings.info') ||
@@ -33135,7 +32526,6 @@ shExpMatch(host, 'tvsquirrel.com') ||
 shExpMatch(host, 'tvundercover.com') ||
 shExpMatch(host, 'twazizo.ru') ||
 shExpMatch(host, 'tweakingtricks.com') ||
-shExpMatch(host, 'twenbrmndfui.myredirect.us') ||
 shExpMatch(host, 'twirlskins.com') ||
 shExpMatch(host, 'twitch-stats.stream') ||
 shExpMatch(host, 'twitchloot.com') ||
@@ -33200,7 +32590,6 @@ shExpMatch(host, 'uduoduo.com') ||
 shExpMatch(host, 'uebelacker.makemoneywithmegan.net') ||
 shExpMatch(host, 'uegnytqslcm.myfw.us') ||
 shExpMatch(host, 'ufc-streams.com') ||
-shExpMatch(host, 'ufc168.streams24.tv') ||
 shExpMatch(host, 'ufcundisputed3.console2pc.info') ||
 shExpMatch(host, 'ufudf8fjoidiosoi.co.at.nr') ||
 shExpMatch(host, 'uglyas.com') ||
@@ -33222,15 +32611,12 @@ shExpMatch(host, 'ulka-gallery.yoyo.pl') ||
 shExpMatch(host, 'ultimahacks.com') ||
 shExpMatch(host, 'ultimateclixx.com') ||
 shExpMatch(host, 'ultimatecoppack.dlcodes.com') ||
-shExpMatch(host, 'ultimatecoppack.sharezips.info') ||
-shExpMatch(host, 'ultimatecoppackdlc.sharezips.net') ||
 shExpMatch(host, 'ultimatedownloadz.net') ||
 shExpMatch(host, 'ultimatefreecheats.com') ||
 shExpMatch(host, 'ultimatefreehacks.com') ||
 shExpMatch(host, 'ultimatehacks.net') ||
 shExpMatch(host, 'ultimatenarutohack.com') ||
 shExpMatch(host, 'ultimateteamgift.com') ||
-shExpMatch(host, 'ultimatewarriordlc.sharezips.net') ||
 shExpMatch(host, 'ultimovie.com') ||
 shExpMatch(host, 'ultra-files.com') ||
 shExpMatch(host, 'ultra-files.net') ||
@@ -33241,7 +32627,6 @@ shExpMatch(host, 'ultramercial.com') ||
 shExpMatch(host, 'ultraoranges.com') ||
 shExpMatch(host, 'ultrasn0wtool.com') ||
 shExpMatch(host, 'ultsearch.com') ||
-shExpMatch(host, 'un-accident-video.jibonerareknamtaka.com') ||
 shExpMatch(host, 'unalbilgisayar.com') ||
 shExpMatch(host, 'unanimis.co.uk') ||
 shExpMatch(host, 'unarmedindustry.com') ||
@@ -33273,7 +32658,6 @@ shExpMatch(host, 'universityofhackers.com') ||
 shExpMatch(host, 'univision.click') ||
 shExpMatch(host, 'univisionnet.com') ||
 shExpMatch(host, 'unja1l.com') ||
-shExpMatch(host, 'unja1l.iosjailbreakpod2g.com') ||
 shExpMatch(host, 'unkercase.com') ||
 shExpMatch(host, 'unknownbooter.co') ||
 shExpMatch(host, 'unknowntray.com') ||
@@ -33324,7 +32708,6 @@ shExpMatch(host, 'updatenowpro.com') ||
 shExpMatch(host, 'updo.nl') ||
 shExpMatch(host, 'upfiles.eu') ||
 shExpMatch(host, 'upgrade.questscantwo.com') ||
-shExpMatch(host, 'uphero.hackspress.net') ||
 shExpMatch(host, 'uploadamigo.com') ||
 shExpMatch(host, 'uploadcash.org') ||
 shExpMatch(host, 'uploaderonline.com') ||
@@ -33507,7 +32890,6 @@ shExpMatch(host, 'vexplay.com') ||
 shExpMatch(host, 'vgdownloads.net') ||
 shExpMatch(host, 'vgfree.com') ||
 shExpMatch(host, 'viables.cz.cc') ||
-shExpMatch(host, 'viber.hack-team.org') ||
 shExpMatch(host, 'vibewpav.ru') ||
 shExpMatch(host, 'vibranceversus.ru') ||
 shExpMatch(host, 'vibrantmedia.com') ||
@@ -33516,7 +32898,6 @@ shExpMatch(host, 'victory-thing.fun') ||
 shExpMatch(host, 'victoryld.com') ||
 shExpMatch(host, 'victoryskins.icu') ||
 shExpMatch(host, 'vid-id.org') ||
-shExpMatch(host, 'vid.jozmovie.xyz') ||
 shExpMatch(host, 'vidcpm.com') ||
 shExpMatch(host, 'video-id.org') ||
 shExpMatch(host, 'video-stats.video.google.com') ||
@@ -33557,7 +32938,6 @@ shExpMatch(host, 'viomars.com') ||
 shExpMatch(host, 'vip-rabota.ru') ||
 shExpMatch(host, 'vip-talk24.com') ||
 shExpMatch(host, 'vip-traffic.com') ||
-shExpMatch(host, 'vip.dns-vip.net') ||
 shExpMatch(host, 'vip1320.com') ||
 shExpMatch(host, 'vipcheats.net') ||
 shExpMatch(host, 'viperhacksheaven.com') ||
@@ -33647,7 +33027,6 @@ shExpMatch(host, 'vsnis.com') ||
 shExpMatch(host, 'vstart.net') ||
 shExpMatch(host, 'vtracy.de') ||
 shExpMatch(host, 'vtu1.co.cc') ||
-shExpMatch(host, 'vuclip.onecinema.us') ||
 shExpMatch(host, 'vudatop.ru') ||
 shExpMatch(host, 'vufese.ru') ||
 shExpMatch(host, 'vukoldi.ru') ||
@@ -33675,7 +33054,6 @@ shExpMatch(host, 'walec.ovh.org') ||
 shExpMatch(host, 'walemedia.com') ||
 shExpMatch(host, 'walesedu.com') ||
 shExpMatch(host, 'walkets.click') ||
-shExpMatch(host, 'walkingdead.movie24.tv') ||
 shExpMatch(host, 'wallhackblackops2.com') ||
 shExpMatch(host, 'wallmountedsubprojects.info') ||
 shExpMatch(host, 'wan4399.com') ||
@@ -33707,15 +33085,8 @@ shExpMatch(host, 'watch-breaking-bad.com') ||
 shExpMatch(host, 'watch-now.us') ||
 shExpMatch(host, 'watch-the-fullvideo.pw') ||
 shExpMatch(host, 'watch.allharrypottermovies.com') ||
-shExpMatch(host, 'watch.excellentmovies.net') ||
-shExpMatch(host, 'watch.exmovie.xyz') ||
-shExpMatch(host, 'watch.hdmoviespot.com') ||
-shExpMatch(host, 'watch.moviebli.com') ||
 shExpMatch(host, 'watch.scarymovieonline.com') ||
-shExpMatch(host, 'watchdogs.extafiles.com') ||
-shExpMatch(host, 'watchdogs.sharezips.info') ||
 shExpMatch(host, 'watchdogsbeta.com') ||
-shExpMatch(host, 'watchdogsbeta.simpledownloadz.com') ||
 shExpMatch(host, 'watchdogsdownload.com') ||
 shExpMatch(host, 'watches-my.stream') ||
 shExpMatch(host, 'watchfreestreamingmoviesonline.com') ||
@@ -33733,8 +33104,6 @@ shExpMatch(host, 'watchmoviesonlinefreefullstreaming.com') ||
 shExpMatch(host, 'watchmoviesonlinefreeinhq.com') ||
 shExpMatch(host, 'watchmoviestream.in') ||
 shExpMatch(host, 'watchmuvee.info') ||
-shExpMatch(host, 'watchnow.pashuber.in') ||
-shExpMatch(host, 'watchonline.topmovies4free.com') ||
 shExpMatch(host, 'watchrugbystream.com') ||
 shExpMatch(host, 'watchseriesonline.eu') ||
 shExpMatch(host, 'watchthesenow.com') ||
@@ -33743,7 +33112,6 @@ shExpMatch(host, 'waterboi.com') ||
 shExpMatch(host, 'watermarksugary.org') ||
 shExpMatch(host, 'wateryvan.com') ||
 shExpMatch(host, 'wattpad.online') ||
-shExpMatch(host, 'wavelinkswing.pingpong-shop.info') ||
 shExpMatch(host, 'waxhack.com') ||
 shExpMatch(host, 'wayachts.eu') ||
 shExpMatch(host, 'wayhacks.com') ||
@@ -33761,8 +33129,6 @@ shExpMatch(host, 'wdfl.co') ||
 shExpMatch(host, 'wdggtwegww.com') ||
 shExpMatch(host, 'we-faw.cz.cc') ||
 shExpMatch(host, 'we-hack.com') ||
-shExpMatch(host, 'we.ijssalonlekker.nl') ||
-shExpMatch(host, 'we.sharezips.info') ||
 shExpMatch(host, 'weakwiki.com') ||
 shExpMatch(host, 'wearbasin.com') ||
 shExpMatch(host, 'web-ledger.su') ||
@@ -33842,24 +33208,20 @@ shExpMatch(host, 'webunddesign.info') ||
 shExpMatch(host, 'webwalletledger.com') ||
 shExpMatch(host, 'webwatcherdata.com') ||
 shExpMatch(host, 'webxcdn.com') ||
-shExpMatch(host, 'wechat.epickeys.com') ||
 shExpMatch(host, 'wee4wee.ws') ||
 shExpMatch(host, 'weeb-tv.pl') ||
 shExpMatch(host, 'weekly7.org') ||
 shExpMatch(host, 'weeworld.us') ||
 shExpMatch(host, 'weeworldvip.com') ||
 shExpMatch(host, 'weeworldvipgenerator.com') ||
-shExpMatch(host, 'weeworldvipgenerator.validcheats.com') ||
 shExpMatch(host, 'wegcash.com') ||
 shExpMatch(host, 'wehackgames.com') ||
 shExpMatch(host, 'weightedcu.be') ||
-shExpMatch(host, 'weightloss.vvassup.com') ||
 shExpMatch(host, 'well-done-4us.net') ||
 shExpMatch(host, 'wellmadefrog.com') ||
 shExpMatch(host, 'wellmediaonline.com') ||
 shExpMatch(host, 'welnessed.ru') ||
 shExpMatch(host, 'weqeweqqq2012.com') ||
-shExpMatch(host, 'wer.ijssalonlekker.nl') ||
 shExpMatch(host, 'werbung.meteoxpress.com') ||
 shExpMatch(host, 'werhackers.net') ||
 shExpMatch(host, 'wertunge.paladin-global.net') ||
@@ -33882,7 +33244,6 @@ shExpMatch(host, 'whatsappcl.com') ||
 shExpMatch(host, 'whatsapphack.biz') ||
 shExpMatch(host, 'whatsapphack.com') ||
 shExpMatch(host, 'whatsapphack.info') ||
-shExpMatch(host, 'whatsapphack.validcheats.com') ||
 shExpMatch(host, 'whatsapphacktool.net') ||
 shExpMatch(host, 'whatsappit.com') ||
 shExpMatch(host, 'whatsappmy.com') ||
@@ -33925,7 +33286,6 @@ shExpMatch(host, 'wifihackpass.info') ||
 shExpMatch(host, 'wifihackpassword.com') ||
 shExpMatch(host, 'wifipasser.com') ||
 shExpMatch(host, 'wifipasswordcracker.com') ||
-shExpMatch(host, 'wifipasswordhack.filesforgames.com') ||
 shExpMatch(host, 'wifipasswordhacker.com') ||
 shExpMatch(host, 'wifipasswordhacking.org') ||
 shExpMatch(host, 'wifizone.org') ||
@@ -33949,7 +33309,6 @@ shExpMatch(host, 'wincheats.com') ||
 shExpMatch(host, 'window-error--message.info') ||
 shExpMatch(host, 'window.nixnet.cz') ||
 shExpMatch(host, 'window32registryerroralert.in') ||
-shExpMatch(host, 'windows81preactivated.simpledownloadz.com') ||
 shExpMatch(host, 'windows8activator.com') ||
 shExpMatch(host, 'windows8activatordownload.com') ||
 shExpMatch(host, 'windowshopworld.com') ||
@@ -33981,11 +33340,8 @@ shExpMatch(host, 'wittyvideos.com') ||
 shExpMatch(host, 'wiwox.ru') ||
 shExpMatch(host, 'wizaly.com') ||
 shExpMatch(host, 'wizard101-crowngenerator.com') ||
-shExpMatch(host, 'wizard101.com-cheat.in') ||
-shExpMatch(host, 'wizard101codes.com-host.info') ||
 shExpMatch(host, 'wizard101codes.info') ||
 shExpMatch(host, 'wizard101codes.org') ||
-shExpMatch(host, 'wizard101crowngenerator.simpledownloadz.com') ||
 shExpMatch(host, 'wizard101giveaway.com') ||
 shExpMatch(host, 'wizard101giveaway.net') ||
 shExpMatch(host, 'wizsearch.co.kr') ||
@@ -34027,7 +33383,6 @@ shExpMatch(host, 'world-hack.com') ||
 shExpMatch(host, 'world-of-tanks-bonus-code.com') ||
 shExpMatch(host, 'world-of-tanks-gold-hack.com') ||
 shExpMatch(host, 'world-of-tanks-hack.com') ||
-shExpMatch(host, 'worldboost.sharezips.info') ||
 shExpMatch(host, 'worldcase.fun') ||
 shExpMatch(host, 'worldcases.fun') ||
 shExpMatch(host, 'worldcup2014streams.com') ||
@@ -34044,7 +33399,6 @@ shExpMatch(host, 'worldoftankspromocode.info') ||
 shExpMatch(host, 'worldofwarplanescodes.info') ||
 shExpMatch(host, 'worldofwarshipshack.com') ||
 shExpMatch(host, 'worldonhacking.com') ||
-shExpMatch(host, 'worldorderpack.sharezips.net') ||
 shExpMatch(host, 'worldothack.com') ||
 shExpMatch(host, 'worldsofhacks.com') ||
 shExpMatch(host, 'worldsoftwaredownloads.com') ||
@@ -34063,7 +33417,6 @@ shExpMatch(host, 'wowtribes.com') ||
 shExpMatch(host, 'wp9.ru') ||
 shExpMatch(host, 'wpills.info') ||
 shExpMatch(host, 'wpnrtnmrewunrtok.xyz') ||
-shExpMatch(host, 'wpthemes.lock24.net') ||
 shExpMatch(host, 'wpvhiedhnzxs.myfw.us') ||
 shExpMatch(host, 'wqs88.com') ||
 shExpMatch(host, 'wrigleyville23.com') ||
@@ -34100,16 +33453,9 @@ shExpMatch(host, 'wuwuf.ru') ||
 shExpMatch(host, 'wuxigangguan.net') ||
 shExpMatch(host, 'wuxililong.com') ||
 shExpMatch(host, 'wv-law.com') ||
-shExpMatch(host, 'ww2.ajytse5.com') ||
 shExpMatch(host, 'wwcomputers.net') ||
-shExpMatch(host, 'wwe12.sharezips.info') ||
-shExpMatch(host, 'wwe2k14.sharezips.info') ||
-shExpMatch(host, 'wwe2k14.sharezips.net') ||
-shExpMatch(host, 'wwe2k14dlc.sharezips.info') ||
 shExpMatch(host, 'wwe2k14giveaway.net') ||
 shExpMatch(host, 'wwe2k14key.dlcodes.com') ||
-shExpMatch(host, 'wwe2k14seasonpassdlc.sharezips.info') ||
-shExpMatch(host, 'wwe2k14seasonpassdlc.sharezips.net') ||
 shExpMatch(host, 'wwe2k14superstarsdlc.goblogz.net') ||
 shExpMatch(host, 'wwe2kbeta.com') ||
 shExpMatch(host, 'wwesupercardhack.xyz') ||
@@ -34120,7 +33466,6 @@ shExpMatch(host, 'www.0uk.net') ||
 shExpMatch(host, 'www.100dof.com') ||
 shExpMatch(host, 'www.3dfishgame.com') ||
 shExpMatch(host, 'www.3peaks.co.jp') ||
-shExpMatch(host, 'www.5178424.com') ||
 shExpMatch(host, 'www.acquisizionevideo.com') ||
 shExpMatch(host, 'www.actiagroup.com') ||
 shExpMatch(host, 'www.advancesrl.eu') ||
@@ -34129,13 +33474,11 @@ shExpMatch(host, 'www.airsonett.se') ||
 shExpMatch(host, 'www.alphamedical02.fr') ||
 shExpMatch(host, 'www.angolotesti.it') ||
 shExpMatch(host, 'www.archigate.it') ||
-shExpMatch(host, 'www.arkinsoftware.in') ||
 shExpMatch(host, 'www.assculturaleincontri.it') ||
 shExpMatch(host, 'www.atousoft.com') ||
 shExpMatch(host, 'www.banner-link.com.br') ||
 shExpMatch(host, 'www.barbiemobi.cn') ||
 shExpMatch(host, 'www.bcservice.it') ||
-shExpMatch(host, 'www.bilbaopisos.es') ||
 shExpMatch(host, 'www.bxgjiage.com') ||
 shExpMatch(host, 'www.casamama.nl') ||
 shExpMatch(host, 'www.catgallery.com') ||
@@ -34149,21 +33492,17 @@ shExpMatch(host, 'www.coloritpak.by') ||
 shExpMatch(host, 'www.consumeralternatives.org') ||
 shExpMatch(host, 'www.cortesidesign.com') ||
 shExpMatch(host, 'www.del-marine.com') ||
-shExpMatch(host, 'www.device9.com') ||
-shExpMatch(host, 'www.device9.net') ||
 shExpMatch(host, 'www.dezuiderwaard.nl') ||
 shExpMatch(host, 'www.dnps.com') ||
 shExpMatch(host, 'www.doctor-alex.com') ||
 shExpMatch(host, 'www.donneuropa.it') ||
 shExpMatch(host, 'www.downloaddirect.com') ||
-shExpMatch(host, 'www.ebibliothek.de') ||
 shExpMatch(host, 'www.eivamos.com') ||
 shExpMatch(host, 'www.emrlogistics.com') ||
 shExpMatch(host, 'www.enchantier.com') ||
 shExpMatch(host, 'www.fabioalbini.com') ||
 shExpMatch(host, 'www.family-partners.fr') ||
 shExpMatch(host, 'www.fasadobygg.com') ||
-shExpMatch(host, 'www.feiyang163.com') ||
 shExpMatch(host, 'www.fiduciariobajio.com.mx') ||
 shExpMatch(host, 'www.flowtec.com.br') ||
 shExpMatch(host, 'www.fotoidea.com') ||
@@ -34172,24 +33511,19 @@ shExpMatch(host, 'www.freewebtown.com') ||
 shExpMatch(host, 'www.frosinonewesternshow.it') ||
 shExpMatch(host, 'www.fsm-europe.eu') ||
 shExpMatch(host, 'www.galileounaluna.com') ||
-shExpMatch(host, 'www.galliagroup.com') ||
 shExpMatch(host, 'www.gameangel.com') ||
 shExpMatch(host, 'www.gasthofpost-ebs.de') ||
 shExpMatch(host, 'www.gbooksdownloader.com') ||
 shExpMatch(host, 'www.gennaroespositomilano.it') ||
 shExpMatch(host, 'www.gmcjjh.org') ||
 shExpMatch(host, 'www.gold-city.it') ||
-shExpMatch(host, 'www.haphuongfoundation.net') ||
 shExpMatch(host, 'www.hausnet.ru') ||
 shExpMatch(host, 'www.hitekshop.vn') ||
 shExpMatch(host, 'www.hjaoopoa.top') ||
-shExpMatch(host, 'www.hryspap.cn') ||
 shExpMatch(host, 'www.icybrand.eu') ||
 shExpMatch(host, 'www.inevo.co.il') ||
 shExpMatch(host, 'www.infra.by') ||
-shExpMatch(host, 'www.investmentsforlifegroup.com') ||
 shExpMatch(host, 'www.isikpandizot.com') ||
-shExpMatch(host, 'www.ivysolutions.it') ||
 shExpMatch(host, 'www.jcmarcadolib.com') ||
 shExpMatch(host, 'www.joomlalivechat.com') ||
 shExpMatch(host, 'www.joydownload.com') ||
@@ -34198,7 +33532,6 @@ shExpMatch(host, 'www.kasdjjaks83adsasd.com') ||
 shExpMatch(host, 'www.kcta.or.kr') ||
 shExpMatch(host, 'www.kjbbc.net') ||
 shExpMatch(host, 'www.kurulumtr.com') ||
-shExpMatch(host, 'www.landisbaptist.com') ||
 shExpMatch(host, 'www.lccl.org.uk') ||
 shExpMatch(host, 'www.lifelabs.vn') ||
 shExpMatch(host, 'www.litra.com.mk') ||
@@ -34209,8 +33542,6 @@ shExpMatch(host, 'www.lyzgs.com') ||
 shExpMatch(host, 'www.m-barati.de') ||
 shExpMatch(host, 'www.marinoderosas.com') ||
 shExpMatch(host, 'www.marss.eu') ||
-shExpMatch(host, 'www.maszcjc.com') ||
-shExpMatch(host, 'www.mebel2010.ru') ||
 shExpMatch(host, 'www.memeva.com') ||
 shExpMatch(host, 'www.milardi.it') ||
 shExpMatch(host, 'www.mindownload.com') ||
@@ -34237,7 +33568,6 @@ shExpMatch(host, 'www.petpleasers.ca') ||
 shExpMatch(host, 'www.pgathailand.com') ||
 shExpMatch(host, 'www.photo-ads.co.uk') ||
 shExpMatch(host, 'www.pieiron.co.uk') ||
-shExpMatch(host, 'www.poricaci.wz.cz') ||
 shExpMatch(host, 'www.professionalblackbook.com') ||
 shExpMatch(host, 'www.profill-smd.com') ||
 shExpMatch(host, 'www.propan.ru') ||
@@ -34253,7 +33583,6 @@ shExpMatch(host, 'www.ristoromontebasso.it') ||
 shExpMatch(host, 'www.rokus-tgy.hu') ||
 shExpMatch(host, 'www.roltek.com.tr') ||
 shExpMatch(host, 'www.rooversadvocatuur.nl') ||
-shExpMatch(host, 'www.saemark.is') ||
 shExpMatch(host, 'www.salentoeasy.it') ||
 shExpMatch(host, 'www.sankyo.gr.jp') ||
 shExpMatch(host, 'www.sanseracingteam.com') ||
@@ -34266,9 +33595,7 @@ shExpMatch(host, 'www.seal-technicsag.ch') ||
 shExpMatch(host, 'www.secondome.com') ||
 shExpMatch(host, 'www.sieltre.it') ||
 shExpMatch(host, 'www.sitepalace.com') ||
-shExpMatch(host, 'www.sj88.com') ||
 shExpMatch(host, 'www.skycity.com.tw') ||
-shExpMatch(host, 'www.slimming21cn.com') ||
 shExpMatch(host, 'www.slivki.com.ua') ||
 shExpMatch(host, 'www.smartscan.ro') ||
 shExpMatch(host, 'www.solo-juegos.com') ||
@@ -34290,7 +33617,6 @@ shExpMatch(host, 'www.thesparkmachine.com') ||
 shExpMatch(host, 'www.tiergestuetzt.de') ||
 shExpMatch(host, 'www.toochattoo.com') ||
 shExpMatch(host, 'www.torgi.kz') ||
-shExpMatch(host, 'www.tourindia.in') ||
 shExpMatch(host, 'www.tpt.edu.in') ||
 shExpMatch(host, 'www.truegritanimation.com') ||
 shExpMatch(host, 'www.tvnews.or.kr') ||
@@ -34368,21 +33694,15 @@ shExpMatch(host, 'xblunter.net') ||
 shExpMatch(host, 'xbox-freecodes.com') ||
 shExpMatch(host, 'xbox-livegratuit.fr') ||
 shExpMatch(host, 'xbox-zone.info') ||
-shExpMatch(host, 'xbox.cleanfile.in') ||
-shExpMatch(host, 'xbox.freewifihack.com') ||
 shExpMatch(host, 'xbox360emulator.net') ||
-shExpMatch(host, 'xbox360emulators.com-host.info') ||
 shExpMatch(host, 'xboxboss.com') ||
 shExpMatch(host, 'xboxcodegenerator.com') ||
 shExpMatch(host, 'xboxcodes.fr') ||
 shExpMatch(host, 'xboxcodesnow.com') ||
 shExpMatch(host, 'xboxdailycode.com') ||
 shExpMatch(host, 'xboxgamesforkids.com') ||
-shExpMatch(host, 'xboxgold.extafiles.com') ||
-shExpMatch(host, 'xboxgoldgratuit.extafiles.com') ||
 shExpMatch(host, 'xboxjailbreak.com') ||
 shExpMatch(host, 'xboxlab.com') ||
-shExpMatch(host, 'xboxlive.legratuits.com') ||
 shExpMatch(host, 'xboxlive4free.net') ||
 shExpMatch(host, 'xboxlivecodegenerator.info') ||
 shExpMatch(host, 'xboxlivecodes.fr') ||
@@ -34459,7 +33779,6 @@ shExpMatch(host, 'xlzones.com') ||
 shExpMatch(host, 'xlzxsh.cn') ||
 shExpMatch(host, 'xmhbcc.com') ||
 shExpMatch(host, 'xmjkjm.com') ||
-shExpMatch(host, 'xmlbasedautomaticupdate.pingpong-shop.info') ||
 shExpMatch(host, 'xmoneymakers.com') ||
 shExpMatch(host, 'xmufemba.cn') ||
 shExpMatch(host, 'xmultiply.pro') ||
@@ -34565,7 +33884,6 @@ shExpMatch(host, 'yabeme.ru') ||
 shExpMatch(host, 'yabuka.com') ||
 shExpMatch(host, 'yadr0.com') ||
 shExpMatch(host, 'yadro.ru') ||
-shExpMatch(host, 'yahacker.viphacks.net') ||
 shExpMatch(host, 'yahoo-statistic.com') ||
 shExpMatch(host, 'yahoosite.ru') ||
 shExpMatch(host, 'yalescoin.com') ||
@@ -34640,7 +33958,6 @@ shExpMatch(host, 'youlikehookups.com') ||
 shExpMatch(host, 'youngarea.ru') ||
 shExpMatch(host, 'youngorfabric.com') ||
 shExpMatch(host, 'youngyear.com') ||
-shExpMatch(host, 'youpig.passas.us') ||
 shExpMatch(host, 'your-advantages.co.uk') ||
 shExpMatch(host, 'your-free-hack.com') ||
 shExpMatch(host, 'your-hack.com') ||
@@ -34700,14 +34017,6 @@ shExpMatch(host, 'youthfire.com') ||
 shExpMatch(host, 'youthsprout.com') ||
 shExpMatch(host, 'youtibe.com') ||
 shExpMatch(host, 'youtube-newscompilation.com') ||
-shExpMatch(host, 'youtube.channel.video.fim.fimmovie.com') ||
-shExpMatch(host, 'youtube.com.play.channel.mov.moviebis.com') ||
-shExpMatch(host, 'youtube.dwis.onomovie.xyz') ||
-shExpMatch(host, 'youtube.mychannel.tvepisode.exmovie.xyz') ||
-shExpMatch(host, 'youtube.mychannel.tvepisode.songertv.exmovie.xyz') ||
-shExpMatch(host, 'youtube.space.tvseries.showmovie.xyz') ||
-shExpMatch(host, 'youtube.streaming.demovie.xyz') ||
-shExpMatch(host, 'youtube.wandi.onomovie.xyz') ||
 shExpMatch(host, 'youtubedownloaderfree.net') ||
 shExpMatch(host, 'youtuhe.com') ||
 shExpMatch(host, 'youutube.gq') ||
@@ -34745,7 +34054,6 @@ shExpMatch(host, 'zango.com') ||
 shExpMatch(host, 'zangocash.com') ||
 shExpMatch(host, 'zanox-affiliate.de') ||
 shExpMatch(host, 'zanox.com') ||
-shExpMatch(host, 'zans.onecinema.us') ||
 shExpMatch(host, 'zantracker.com') ||
 shExpMatch(host, 'zarget.com') ||
 shExpMatch(host, 'zbuilder-bim.com') ||
@@ -34776,19 +34084,11 @@ shExpMatch(host, 'zeroredirect2.com') ||
 shExpMatch(host, 'zerw.org') ||
 shExpMatch(host, 'zeus.developershed.com') ||
 shExpMatch(host, 'zeusclicks.com') ||
-shExpMatch(host, 'zfhbsvcererr.myredirect.us') ||
 shExpMatch(host, 'zfile.us') ||
 shExpMatch(host, 'zgbxxxw.com') ||
 shExpMatch(host, 'zgsysz.com') ||
 shExpMatch(host, 'zharuk.org.ua') ||
 shExpMatch(host, 'zhenzhongmuye.com') ||
-shExpMatch(host, 'zhidao.greateasy.cn') ||
-shExpMatch(host, 'zhidao.greenhome88.com') ||
-shExpMatch(host, 'zhidao.hznverhong.com') ||
-shExpMatch(host, 'zhidao.njcasio.com') ||
-shExpMatch(host, 'zhidao.shchaoneng.cn') ||
-shExpMatch(host, 'zhidao.shenyangxg.com') ||
-shExpMatch(host, 'zhidao.xinhuacybz.com') ||
 shExpMatch(host, 'zhizhishe.com') ||
 shExpMatch(host, 'zibup.csheaven.com') ||
 shExpMatch(host, 'zief.pl') ||
