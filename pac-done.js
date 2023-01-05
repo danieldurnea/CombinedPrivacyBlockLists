@@ -1,4 +1,4 @@
-// **** Thu Jan  5 07:41:30 AM UTC 2023
+// **** Thu Jan  5 08:54:21 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -34011,7 +34011,7 @@ shExpMatch(host, 'adserver.*') ||
 shExpMatch(host, 'adservice.*') ||
 shExpMatch(host, 'adserving.*')
        ) {
-       return "PROXY 127.0.0.1";
+       return "PROXY 0.0.0.0";
        }
    else {
        return "DIRECT";

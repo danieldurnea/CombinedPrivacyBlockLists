@@ -5,7 +5,7 @@ shExpMatch(host, 'adserver.*') ||
 shExpMatch(host, 'adservice.*') ||
 shExpMatch(host, 'adserving.*')
        ) {
-       return "PROXY 127.0.0.1";
+       return "PROXY 0.0.0.0";
        }
    else {
        return "DIRECT";
