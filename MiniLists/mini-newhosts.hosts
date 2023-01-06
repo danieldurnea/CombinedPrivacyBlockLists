@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/06/23~09:40:02 -~
+# ~- 01/06/23~23:05:25 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -5716,6 +5716,7 @@
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.bharatstudent.com
+0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
 0.0.0.0 ad.blm.net
@@ -5751,6 +5752,7 @@
 0.0.0.0 ad.click.kaffnet.com
 0.0.0.0 ad.clickotmedia.com
 0.0.0.0 ad.clicrbs.com.br
+0.0.0.0 ad.clipcentric.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 ad.cooks.com
@@ -6142,6 +6144,7 @@
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.smaclick.com
 0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.smartmediarep.com
 0.0.0.0 ad.smv.to
 0.0.0.0 ad.snappea.com
 0.0.0.0 ad.snaptube.app
@@ -9824,6 +9827,7 @@
 0.0.0.0 adsagony.com
 0.0.0.0 adsakamai.20minutos.es
 0.0.0.0 adsales.snidigital.com
+0.0.0.0 adsalvo.com
 0.0.0.0 adsame.cm.admaster.com.cn
 0.0.0.0 adsame.com
 0.0.0.0 adsandcomputer.com
@@ -15945,7 +15949,6 @@
 0.0.0.0 arrangemydate.site
 0.0.0.0 arraypot.xyz
 0.0.0.0 arrenothanca.xyz
-0.0.0.0 arriaza.net
 0.0.0.0 arridedoregano.tech
 0.0.0.0 arrietty.nrj.fr
 0.0.0.0 arrism.com
@@ -18762,6 +18765,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bearagriculture.com
 0.0.0.0 bearbigger.top
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 bearerassistance.com
 0.0.0.0 beargrizzler.win
 0.0.0.0 bearingpreoccupationadmonish.com
@@ -19687,7 +19691,6 @@
 0.0.0.0 bijwawr.com
 0.0.0.0 biked.live
 0.0.0.0 bikeforumsnet.skimlinks.com
-0.0.0.0 bikkviz.com
 0.0.0.0 bikrurda.net
 0.0.0.0 bikton43.ru
 0.0.0.0 bilahh.feuvert.fr
@@ -27087,6 +27090,7 @@
 0.0.0.0 cpaway.com
 0.0.0.0 cpays.com
 0.0.0.0 cpcmart.com
+0.0.0.0 cperformmedia-a.akamaihd.net
 0.0.0.0 cpfprd.112.2o7.net
 0.0.0.0 cpgo.avatacar.com
 0.0.0.0 cpgo.xyz
@@ -40173,7 +40177,6 @@
 0.0.0.0 goingtoothachemagician.com
 0.0.0.0 goji-actives.net
 0.0.0.0 gokceozagar.com
-0.0.0.0 gokcevizyon.com
 0.0.0.0 gokliks.ru
 0.0.0.0 goku.brightcove.com
 0.0.0.0 golanjobs.me
@@ -61781,6 +61784,7 @@
 0.0.0.0 parimpiables.com
 0.0.0.0 parinamatch.ru
 0.0.0.0 paripartners.ru
+0.0.0.0 paris.newemprirez.com
 0.0.0.0 parishleft.com
 0.0.0.0 parisjeroleinpg.com
 0.0.0.0 park.above.com
@@ -68457,7 +68461,6 @@
 0.0.0.0 rlaa.xyz
 0.0.0.0 rlabinsahab.com
 0.0.0.0 rlcdn.com
-0.0.0.0 rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet
 0.0.0.0 rldwideorga.com
 0.0.0.0 rle.ru
 0.0.0.0 rlfvuficzdmsx.com
@@ -72198,7 +72201,6 @@
 0.0.0.0 servjces.com
 0.0.0.0 servlce.store
 0.0.0.0 servote.de
-0.0.0.0 servproviders.com.br
 0.0.0.0 servtraff97.com
 0.0.0.0 serw.myroitracking.com
 0.0.0.0 sesameasterisk.com
@@ -91190,6 +91192,7 @@
 0.0.0.0 www.ads345.com
 0.0.0.0 www.adsafeprotected.com
 0.0.0.0 www.adsafety.net
+0.0.0.0 www.adsalvo.com
 0.0.0.0 www.adsbynimbus.com
 0.0.0.0 www.adscale.de
 0.0.0.0 www.adscampaign.com
@@ -91215,6 +91218,7 @@
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adskeeper.com
 0.0.0.0 www.adsluna.com
+0.0.0.0 www.adsnet.se
 0.0.0.0 www.adsoftware.com
 0.0.0.0 www.adsota.com
 0.0.0.0 www.adsparc.com
@@ -95463,7 +95467,6 @@
 0.0.0.0 yydtbpms8tf4.com
 0.0.0.0 yydwkkxhjb.com
 0.0.0.0 yyek3cdeo.cyou
-0.0.0.0 yyhdb.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 yyhhwt.com
 0.0.0.0 yyhqch.com
 0.0.0.0 yyjvimo.com
