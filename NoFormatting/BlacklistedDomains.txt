@@ -7538,6 +7538,7 @@ ad.beritasatumedia.com
 ad.bestsportstream.com
 ad.bg.doubleclick.net
 ad.bharatstudent.com
+ad.bitbay.net
 ad.bitmedia.io
 ad.bizo.com
 ad.blm.net
@@ -7573,6 +7574,7 @@ ad.cl.doubleclick.net
 ad.click.kaffnet.com
 ad.clickotmedia.com
 ad.clicrbs.com.br
+ad.clipcentric.com
 ad.clix.pt
 ad.cn.doubleclick.net
 ad.cooks.com
@@ -7982,6 +7984,7 @@ ad.smaad.jp
 ad.smaato.net
 ad.smaclick.com
 ad.smartclip.net
+ad.smartmediarep.com
 ad.smv.to
 ad.snappea.com
 ad.snaptube.app
@@ -12137,6 +12140,7 @@ adsage.com
 adsagony.com
 adsakamai.20minutos.es
 adsales.snidigital.com
+adsalvo.com
 adsame.cm.admaster.com.cn
 adsame.com
 adsandcomputer.com
@@ -19826,7 +19830,6 @@ arrangemydate.site
 arraypot.xyz
 arredarte.it
 arrenothanca.xyz
-arriaza.net
 arridedoregano.tech
 arrietty.nrj.fr
 arrism.com
@@ -23407,6 +23410,7 @@ bear.jake.nyc
 bear.modulr.design
 bearagriculture.com
 bearbigger.top
+bearcatpumps.com.cn
 bearerassistance.com
 beargrizzler.win
 bearingpreoccupationadmonish.com
@@ -24681,7 +24685,6 @@ bijers.live
 bijwawr.com
 biked.live
 bikeforumsnet.skimlinks.com
-bikkviz.com
 bikrurda.net
 bikton43.ru
 bilahh.feuvert.fr
@@ -35082,6 +35085,7 @@ cpbild.co
 cpbldi.com
 cpcmanager.com
 cpcmart.com
+cperformmedia-a.akamaihd.net
 cpfclassifieds.com
 cpfprd.112.2o7.net
 cpgfgf.linens.com.tr
@@ -55757,7 +55761,6 @@ goingup.com
 gointhe.space
 goji-actives.net
 gokceozagar.com
-gokcevizyon.com
 gokhancoban.com
 gokliks.ru
 goku.brightcove.com
@@ -86166,6 +86169,7 @@ parimpiables.com
 parinamatch.ru
 paripartner.com
 paripartners.ru
+paris.newemprirez.com
 parishleft.com
 parisjeroleinpg.com
 park.above.com
@@ -95507,7 +95511,6 @@ rl8vd.kikul.com
 rlaa.xyz
 rlabinsahab.com
 rlcdn.com
-rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet
 rldwideorga.com
 rle.ru
 rlets.com
@@ -100507,7 +100510,6 @@ servo-report.dvdfab.cn
 servo-report.dvdfab.co.jp
 servo-report.dvdfab.fr
 servote.de
-servproviders.com.br
 servtraff97.com
 servustats.com
 servw.bid
@@ -127573,6 +127575,7 @@ www.ads2srv.com
 www.ads345.com
 www.adsafeprotected.com
 www.adsafety.net
+www.adsalvo.com
 www.adsbynimbus.com
 www.adscale.de
 www.adscampaign.com
@@ -133059,7 +133062,6 @@ yycjho.com
 yydtbpms8tf4.com
 yydwkkxhjb.com
 yyek3cdeo.cyou
-yyhdb.oss-cn-shenzhen.aliyuncs.com
 yyhhwt.com
 yyhijp.g123.jp
 yyhqch.com
