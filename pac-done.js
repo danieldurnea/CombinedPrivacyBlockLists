@@ -1,4 +1,4 @@
-// **** Fri Jan  6 09:11:00 AM UTC 2023
+// **** Fri Jan  6 09:34:43 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0-24bpautomentes.hu") ||
@@ -9351,7 +9351,6 @@ shExpMatch(host, "*.redcada.com") ||
 shExpMatch(host, "*.reddeerramadahotel.com") ||
 shExpMatch(host, "*.reddii.org") ||
 shExpMatch(host, "*.reddii.ru") ||
-shExpMatch(host, "*.redditstatic.com") ||
 shExpMatch(host, "*.reddragonfl.com") ||
 shExpMatch(host, "*.redfast.com") ||
 shExpMatch(host, "*.redintelligence.net") ||
@@ -23068,7 +23067,6 @@ shExpMatch(host, "redcada.com") ||
 shExpMatch(host, "reddeerramadahotel.com") ||
 shExpMatch(host, "reddii.org") ||
 shExpMatch(host, "reddii.ru") ||
-shExpMatch(host, "redditstatic.com") ||
 shExpMatch(host, "reddragonfl.com") ||
 shExpMatch(host, "redfast.com") ||
 shExpMatch(host, "redintelligence.net") ||
