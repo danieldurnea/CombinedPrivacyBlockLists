@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Jan  6 09:41:51 AM UTC 2023
+! Updated: Fri Jan  6 11:09:40 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -4258,6 +4258,7 @@
 ||ad.bench.utorrent.com^
 ||ad.beritasatumedia.com^
 ||ad.bharatstudent.com^
+||ad.bitbay.net^
 ||ad.bitmedia.io^
 ||ad.bizo.com^
 ||ad.blm.net^
@@ -4282,6 +4283,7 @@
 ||ad.citynews.it^
 ||ad.clickotmedia.com^
 ||ad.clicrbs.com.br^
+||ad.clipcentric.com^
 ||ad.clix.pt^
 ||ad.cooks.com^
 ||ad.correioweb.com.br^
@@ -4571,6 +4573,7 @@
 ||ad.site-landing.com^
 ||ad.slashgear.com^
 ||ad.slutload.com^
+||ad.smartmediarep.com^
 ||ad.smv.to^
 ||ad.snappea.com^
 ||ad.snaptube.app^
@@ -7707,6 +7710,7 @@
 ||adsagony.com^
 ||adsakamai.20minutos.es^
 ||adsales.snidigital.com^
+||adsalvo.com^
 ||adsame.com^
 ||adsandcomputer.com^
 ||adsapi.manhuaren.com^
@@ -12800,7 +12804,6 @@
 ||arrangemydate.site^
 ||arraypot.xyz^
 ||arrenothanca.xyz^
-||arriaza.net^
 ||arridedoregano.tech^
 ||arrietty.nrj.fr^
 ||arrism.com^
@@ -15158,6 +15161,7 @@
 ||beap.adx.yahoo.com^
 ||bearagriculture.com^
 ||bearbigger.top^
+||bearcatpumps.com.cn^
 ||bearerassistance.com^
 ||beargrizzler.win^
 ||bearingpreoccupationadmonish.com^
@@ -15988,7 +15992,6 @@
 ||bijwawr.com^
 ||biked.live^
 ||bikeforumsnet.skimlinks.com^
-||bikkviz.com^
 ||bikrurda.net^
 ||bikton43.ru^
 ||bilahh.feuvert.fr^
@@ -21881,6 +21884,7 @@
 ||cpaway.com^
 ||cpays.com^
 ||cpcmart.com^
+||cperformmedia-a.akamaihd.net^
 ||cpgo.avatacar.com^
 ||cpgo.xyz^
 ||cpi.adflex.vn^
@@ -33260,7 +33264,6 @@
 ||goingtoothachemagician.com^
 ||goji-actives.net^
 ||gokceozagar.com^
-||gokcevizyon.com^
 ||gokliks.ru^
 ||goku.brightcove.com^
 ||golanjobs.me^
@@ -52223,6 +52226,7 @@
 ||parimpiables.com^
 ||parinamatch.ru^
 ||paripartners.ru^
+||paris.newemprirez.com^
 ||parishleft.com^
 ||parisjeroleinpg.com^
 ||park.parkingpanel.com^
@@ -57989,7 +57993,6 @@
 ||rlaa.xyz^
 ||rlabinsahab.com^
 ||rlcdn.com^
-||rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet^
 ||rldwideorga.com^
 ||rle.ru^
 ||rlfvuficzdmsx.com^
@@ -60982,7 +60985,6 @@
 ||servjces.com^
 ||servlce.store^
 ||servote.de^
-||servproviders.com.br^
 ||servtraff97.com^
 ||serw.myroitracking.com^
 ||sesameasterisk.com^
@@ -80100,7 +80102,6 @@
 ||yydtbpms8tf4.com^
 ||yydwkkxhjb.com^
 ||yyek3cdeo.cyou^
-||yyhdb.oss-cn-shenzhen.aliyuncs.com^
 ||yyhhwt.com^
 ||yyhqch.com^
 ||yyjvimo.com^

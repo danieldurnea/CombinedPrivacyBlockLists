@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jan  6 09:41:50 AM UTC 2023
+! Updated: Fri Jan  6 11:09:40 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -5313,6 +5313,7 @@
 ||ad.beritasatumedia.com^
 ||ad.bestsportstream.com^
 ||ad.bharatstudent.com^
+||ad.bitbay.net^
 ||ad.blm.net^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
@@ -5629,6 +5630,7 @@
 ||ad.site-landing.com^
 ||ad.slashgear.com^
 ||ad.slutload.com^
+||ad.smartmediarep.com^
 ||ad.snappea.com^
 ||ad.snaptube.app^
 ||ad.sp.mbga.jp^
@@ -9148,6 +9150,7 @@
 ||adsagony.com^
 ||adsakamai.20minutos.es^
 ||adsales.snidigital.com^
+||adsalvo.com^
 ||adsame.com^
 ||adsandcomputer.com^
 ||adsapi.manhuaren.com^
@@ -15596,7 +15599,6 @@
 ||arraypot.xyz^
 ||arredarte.it^
 ||arrenothanca.xyz^
-||arriaza.net^
 ||arridedoregano.tech^
 ||arrietty.nrj.fr^
 ||arrism.com^
@@ -18635,6 +18637,7 @@
 ||bear.modulr.design^
 ||bearagriculture.com^
 ||bearbigger.top^
+||bearcatpumps.com.cn^
 ||bearerassistance.com^
 ||beargrizzler.win^
 ||bearingpreoccupationadmonish.com^
@@ -19794,7 +19797,6 @@
 ||bijwawr.com^
 ||biked.live^
 ||bikeforumsnet.skimlinks.com^
-||bikkviz.com^
 ||bikrurda.net^
 ||bikton43.ru^
 ||bilahh.feuvert.fr^
@@ -28324,6 +28326,7 @@
 ||cpbldi.com^
 ||cpcmanager.com^
 ||cpcmart.com^
+||cperformmedia-a.akamaihd.net^
 ||cpfclassifieds.com^
 ||cpgfgf.linens.com.tr^
 ||cpgo.avatacar.com^
@@ -46827,7 +46830,6 @@
 ||gointhe.space^
 ||goji-actives.net^
 ||gokceozagar.com^
-||gokcevizyon.com^
 ||gokhancoban.com^
 ||gokliks.ru^
 ||goku.brightcove.com^
@@ -73983,6 +73985,7 @@
 ||parinamatch.ru^
 ||paripartner.com^
 ||paripartners.ru^
+||paris.newemprirez.com^
 ||parishleft.com^
 ||parisjeroleinpg.com^
 ||park.parkingpanel.com^
@@ -82223,7 +82226,6 @@
 ||rlaa.xyz^
 ||rlabinsahab.com^
 ||rlcdn.com^
-||rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet^
 ||rldwideorga.com^
 ||rle.ru^
 ||rlets.com^
@@ -86295,7 +86297,6 @@
 ||servo-report.dvdfab.co.jp^
 ||servo-report.dvdfab.fr^
 ||servote.de^
-||servproviders.com.br^
 ||servtraff97.com^
 ||servustats.com^
 ||servw.bid^
@@ -113576,7 +113577,6 @@
 ||yydtbpms8tf4.com^
 ||yydwkkxhjb.com^
 ||yyek3cdeo.cyou^
-||yyhdb.oss-cn-shenzhen.aliyuncs.com^
 ||yyhhwt.com^
 ||yyhijp.g123.jp^
 ||yyhqch.com^
