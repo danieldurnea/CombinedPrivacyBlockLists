@@ -1374,6 +1374,7 @@
 0.0.0.0 ad.bench.utorrent.com
 0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.bharatstudent.com
+0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
 0.0.0.0 ad.blm.net
@@ -1408,6 +1409,7 @@
 0.0.0.0 ad.click.kaffnet.com
 0.0.0.0 ad.clickotmedia.com
 0.0.0.0 ad.clicrbs.com.br
+0.0.0.0 ad.clipcentric.com
 0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 ad.cooks.com
@@ -1745,6 +1747,7 @@
 0.0.0.0 ad.slashgear.com
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.smartmediarep.com
 0.0.0.0 ad.smv.to
 0.0.0.0 ad.sp.mbga.jp
 0.0.0.0 ad.spreaker.com
@@ -4239,6 +4242,7 @@
 0.0.0.0 adsage.com
 0.0.0.0 adsagony.com
 0.0.0.0 adsakamai.20minutos.es
+0.0.0.0 adsalvo.com
 0.0.0.0 adsame.cm.admaster.com.cn
 0.0.0.0 adsame.com
 0.0.0.0 adsandcomputer.com
@@ -12258,6 +12262,7 @@
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpalead.com
 0.0.0.0 cpanel.adnetworktech.com
+0.0.0.0 cperformmedia-a.akamaihd.net
 0.0.0.0 cpfprd.112.2o7.net
 0.0.0.0 cpi.adflex.vn
 0.0.0.0 cpi.functionads.com
@@ -37941,6 +37946,7 @@
 0.0.0.0 www.ads345.com
 0.0.0.0 www.adsafeprotected.com
 0.0.0.0 www.adsafety.net
+0.0.0.0 www.adsalvo.com
 0.0.0.0 www.adsbynimbus.com
 0.0.0.0 www.adscale.de
 0.0.0.0 www.adschoom.com
@@ -37964,6 +37970,7 @@
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adskeeper.com
 0.0.0.0 www.adsluna.com
+0.0.0.0 www.adsnet.se
 0.0.0.0 www.adsoftware.com
 0.0.0.0 www.adsota.com
 0.0.0.0 www.adsparc.com
