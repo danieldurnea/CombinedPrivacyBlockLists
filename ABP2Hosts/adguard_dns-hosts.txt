@@ -1,4 +1,4 @@
-# Thu Jan  5 11:48:48 PM UTC 2023
+# Fri Jan  6 12:07:57 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -1772,6 +1772,7 @@
 0.0.0.0 9nl.eu
 0.0.0.0 9nwg9sib9e.com
 0.0.0.0 9purdfe9xg.com
+0.0.0.0 9r7i9bo06157.top
 0.0.0.0 9rendezvous-l.com
 0.0.0.0 9s4l9nik.de
 0.0.0.0 9t5.me
@@ -2313,6 +2314,7 @@
 0.0.0.0 aceekroo.net
 0.0.0.0 acelacien.com
 0.0.0.0 acelogger.heraldcorp.com
+0.0.0.0 acendantoftheq.xyz
 0.0.0.0 aceporntube.com
 0.0.0.0 acerbictierer.com
 0.0.0.0 acertb.com
@@ -2382,6 +2384,7 @@
 0.0.0.0 actionrtb.com
 0.0.0.0 actionteaser.ru
 0.0.0.0 actirinius.com
+0.0.0.0 activatestoolpoise.com
 0.0.0.0 active-tracking.de
 0.0.0.0 active-trk7.com
 0.0.0.0 active24stats.nl
@@ -4775,6 +4778,7 @@
 0.0.0.0 airserve.net
 0.0.0.0 airthabolete.com
 0.0.0.0 airticmonsoa.com
+0.0.0.0 airydeservesannounce.com
 0.0.0.0 aisastore.club
 0.0.0.0 aisdd.xyz
 0.0.0.0 aishangcan.com
@@ -7638,6 +7642,7 @@
 0.0.0.0 basnn15.com
 0.0.0.0 basnn16.com
 0.0.0.0 basquedplotx.store
+0.0.0.0 bassdyemanipulate.com
 0.0.0.0 bassistscrap.com
 0.0.0.0 bastingestival.com
 0.0.0.0 batbuilding.com
@@ -10569,6 +10574,7 @@
 0.0.0.0 chinoismoras.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chioneflake.com
+0.0.0.0 chipeets.com
 0.0.0.0 chipleader.com
 0.0.0.0 chipmanksmochus.com
 0.0.0.0 chipsleapt.com
@@ -17303,6 +17309,7 @@
 0.0.0.0 find-a.jp
 0.0.0.0 find-ip-address.org
 0.0.0.0 find-my-great-life.com
+0.0.0.0 findanonymous.com
 0.0.0.0 findbetterresults.com
 0.0.0.0 finderlocator.com
 0.0.0.0 findicaterperty.site
@@ -18199,6 +18206,7 @@
 0.0.0.0 gaizeissuer.com
 0.0.0.0 gaizipol.com
 0.0.0.0 gak.webtoons.com
+0.0.0.0 gakamlsu.com
 0.0.0.0 gakinibe.pro
 0.0.0.0 gakogedifoda.ru
 0.0.0.0 galacticmenueasier.com
@@ -20817,6 +20825,7 @@
 0.0.0.0 hqrsuxsjqycv.info
 0.0.0.0 hqscene.com
 0.0.0.0 hqsjc.com
+0.0.0.0 hqtbnelkvax.com
 0.0.0.0 hqtlw.cn
 0.0.0.0 hqycr.cn
 0.0.0.0 hr44.com
@@ -22782,6 +22791,7 @@
 0.0.0.0 jievf.cn
 0.0.0.0 jiezoiq.cn
 0.0.0.0 jifdrogtovz.com
+0.0.0.0 jiffehxjwvpoefo.xyz
 0.0.0.0 jigado.com
 0.0.0.0 jigdigtry.com
 0.0.0.0 jighucme.com
@@ -23773,6 +23783,7 @@
 0.0.0.0 kmapagpkik.com
 0.0.0.0 kmbikv.cn
 0.0.0.0 kmfcxq.cn
+0.0.0.0 kmfwrqdp.com
 0.0.0.0 kmindex.ru
 0.0.0.0 kmjbwejnr.xyz
 0.0.0.0 kmmgoogle.oss-ap-southeast-1.aliyuncs.com
@@ -27471,6 +27482,7 @@
 0.0.0.0 morar.biz
 0.0.0.0 morbitempus.com
 0.0.0.0 mordieuweeshee.com
+0.0.0.0 mordoops.com
 0.0.0.0 more-data.ru
 0.0.0.0 more1.biz
 0.0.0.0 more427.net
@@ -28949,6 +28961,7 @@
 0.0.0.0 np176.com
 0.0.0.0 npario-inc.net
 0.0.0.0 npcad.com
+0.0.0.0 npcwfrohnshriw.com
 0.0.0.0 npecialukiz.com
 0.0.0.0 npecialukize.lol
 0.0.0.0 nplxa.com
@@ -34376,6 +34389,7 @@
 0.0.0.0 rgjeow3.com
 0.0.0.0 rglctlo.cn
 0.0.0.0 rglvbpi.cn
+0.0.0.0 rglvosnaub.com
 0.0.0.0 rgnlaigz.fun
 0.0.0.0 rgqxbf.com
 0.0.0.0 rgttoipdr.com
@@ -35392,6 +35406,7 @@
 0.0.0.0 satisfyingspark.com
 0.0.0.0 saturdayaremoaning.com
 0.0.0.0 saturdayloathe.com
+0.0.0.0 saturdaymarryspill.com
 0.0.0.0 saturn-j1407b.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 sauceheirloom.com
@@ -40022,6 +40037,7 @@
 0.0.0.0 tieszhu.com
 0.0.0.0 tiffybetween.website
 0.0.0.0 tifkxxoqpuuvd.xyz
+0.0.0.0 tifstudiousyo.info
 0.0.0.0 tifybecausingp.com
 0.0.0.0 tigely.com
 0.0.0.0 tigerpush.net
@@ -41954,6 +41970,7 @@
 0.0.0.0 uclmad.com
 0.0.0.0 uclo.net
 0.0.0.0 ucounter.ucoz.net
+0.0.0.0 ucqlpapdmyjv.com
 0.0.0.0 ucretsiz-indirin.online
 0.0.0.0 ucs.betwaygroup.com
 0.0.0.0 ucurtatus.com
@@ -42166,6 +42183,7 @@
 0.0.0.0 unbeedrillom.com
 0.0.0.0 unblentnitric.com
 0.0.0.0 unblockia.com
+0.0.0.0 unbriefnothous.com
 0.0.0.0 unbuttondeferinstalment.com
 0.0.0.0 unbuttontumorbaloney.com
 0.0.0.0 uncavefertile.website
@@ -43308,6 +43326,7 @@
 0.0.0.0 visitstreamer.com
 0.0.0.0 visitsviolatedifficult.com
 0.0.0.0 visitweb.com
+0.0.0.0 visor.sberbank.ru
 0.0.0.0 vistashomonid.com
 0.0.0.0 visto1.net
 0.0.0.0 vistoolr.net
@@ -45573,6 +45592,7 @@
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 0.0.0.0 xy98.com.cn
+0.0.0.0 xycsxvhsxqrlbji.com
 0.0.0.0 xydestygre.com
 0.0.0.0 xyhfc.xyz
 0.0.0.0 xyhly.xyz
