@@ -11,12 +11,11 @@ cd ~/BLT/pac
 rm -f pac-* *.pac
 echo "Changed working directory and cleaned up old data. Now downloading new lists."
 wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt"
-wget -nv -O 2.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
-wget -nv -O 3.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
-wget -nv -O 4.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"
-wget -nv -O 5.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
-wget -nv -O 6.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
-wget -nv -O 7.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
+wget -nv -O 2.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt"
+wget -nv -O 3.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
+wget -nv -O 4.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
+wget -nv -O 5.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
+wget -nv -O 6.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
 sed -i '$a\' *.pac
 sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/\t\+/ /g" | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/@/d" | sed "/ /d" | sed "/\[/d" | sed "/\]/d" | sed "/\//d" | sed -e "/^adserver\./d" -e "/^adservice\./d" -e "/^adserving\./d" | sort -f | uniq -i > pac-uniq.txt
