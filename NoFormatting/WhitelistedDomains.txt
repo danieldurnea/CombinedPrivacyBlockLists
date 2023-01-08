@@ -1,4 +1,5 @@
 #These domains are excluded from all of my standard lists
+#Assume that www is accounted for in relevant entries
 #Everything in this list has been carefully selected
 #I will not add just any domain to this list
 0.client-channel.google.com
@@ -188,6 +189,7 @@ conviva.com
 cookie-script.com
 cookie.monster.com
 cookieblock.trackersimulate.org
+countryflags.io
 crbcdn.jsfiddle.net
 cs.dds.microsoft.com
 cse.google.com
@@ -309,6 +311,7 @@ healthgrades.com
 hello.myfonts.net
 here.com
 hostsfile.org
+howtogeek.com
 html5zombo.com
 i.ibb.co
 i.imgbox.com
@@ -366,9 +369,11 @@ mail.ru
 malwaredomainlist.com
 malwaredomains.com
 managemymove.usps.com
+mcssl.com
 medium.com
 movies.netflix.com
 msa.akadns6.net
+msftncsi.com
 multiscreen.samsung.com
 my.mixtape.moe
 nab.demdex.net
@@ -380,6 +385,7 @@ nextdns.io
 nexus.ensighten.com
 nitroflare.com
 nj.com
+no-ip.com
 nocdnrlly.xyz
 notify.xboxlive.com
 nu.nl
@@ -444,7 +450,6 @@ rethinkdns.com
 richmedia.channeladvisor.com
 rolo.nocdnrlly.xyz
 rpxnow.com
-s3blog.org
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.swiftypecdn.com
@@ -453,6 +458,7 @@ s.zkcdn.net
 s0.2mdn.net
 s3-eu-west-1.amazonaws.com
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3blog.org
 s6.exct.net
 saa.cbsi.com
 safelinking.net
@@ -504,6 +510,7 @@ ssl-images-amazon.com
 ssl.bblck.me
 ssl.o.webmd.com
 ssl.reddit.com
+staradvertiser.com
 static.parsely.com
 static01.nyt.com
 steamcommunity.com
@@ -528,6 +535,7 @@ telegraph.api.hbo.com
 tenforums.com
 teslathemes.com
 textsecure-service-staging.whispersystems.org
+theguardian.com
 themoviedb.com
 thepiratebay.org
 thetvdb.com
@@ -538,6 +546,7 @@ tinyurl.com
 tn.com.ar
 todo-ta-g7g.amazon.com
 tomshardware.com
+travelzoo.com
 tvaddons.ag
 tvpassport.com
 twimg.com
@@ -583,62 +592,6 @@ widget-cdn.rpxnow.com
 winhelp2002.mvps.org
 wix.com
 ws.audioscrobbler.com
-www.4shared.com
-www.adblockplus.org
-www.adtidy.org
-www.archive.org
-www.ask.com
-www.bet365.com
-www.binance.com
-www.bit.ly
-www.bittrex.com
-www.clamav.net
-www.cloudflare.com
-www.coinbase.com
-www.countryflags.io
-www.fanboy.co.nz
-www.fide.com
-www.gameanalytics.com
-www.github.com
-www.godaddy.com
-www.gravatar.com
-www.healthgrades.com
-www.howtogeek.com
-www.html5zombo.com
-www.jdownloader.org
-www.jwplayer.com
-www.letsencrypt.org
-www.lightboxcdn.com
-www.live-nhl.stream
-www.liveinternet.ru
-www.lotustalk.com
-www.mcssl.com
-www.msftncsi.com
-www.neocities.org
-www.no-ip.com
-www.nocdnrlly.xyz
-www.opendns.com
-www.opensubtitles.org
-www.ow.ly
-www.pastebin.com
-www.privacy-center.org
-www.redditstatic.com
-www.serials.ws
-www.sevenforums.com
-www.shorl.com
-www.sports-streams-online.best
-www.staradvertiser.com
-www.tenforums.com
-www.theguardian.com
-www.travelzoo.com
-www.tvaddons.ag
-www.unpkg.com
-www.urbanairship.com
-www.vidible.tv
-www.void.gr
-www.xda-developers.com
-www.youtube-nocookie.com
-www.zombo.com
 xda-developers.com
 yimg.com
 yimg.jp
