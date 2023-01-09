@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/09/23~09:01:03 -~
+# ~- 01/09/23~09:43:11 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -106,7 +106,6 @@
 0.0.0.0 02aa19117f396e9.com
 0.0.0.0 02asdf.com
 0.0.0.0 02b57bb965.com
-0.0.0.0 02coverlab.com
 0.0.0.0 02ip.ru
 0.0.0.0 02m830l.cn
 0.0.0.0 033.com
@@ -8603,6 +8602,7 @@
 0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.gelbe-liste.de
+0.0.0.0 ads.gemini.media
 0.0.0.0 ads.gencgazete.net
 0.0.0.0 ads.genericlink.com
 0.0.0.0 ads.genieessp.com
@@ -8619,9 +8619,11 @@
 0.0.0.0 ads.globo.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.go2net.com.ua
+0.0.0.0 ads.go2perseo.com
 0.0.0.0 ads.go2reach.com
 0.0.0.0 ads.godlikeproductions.com
 0.0.0.0 ads.gofuckyourself.com
+0.0.0.0 ads.gogel.al
 0.0.0.0 ads.gogovest.com
 0.0.0.0 ads.gold
 0.0.0.0 ads.golem.de
@@ -8850,6 +8852,7 @@
 0.0.0.0 ads.lzjl.com
 0.0.0.0 ads.ma7.tv
 0.0.0.0 ads.macsonuclari.mobi
+0.0.0.0 ads.madcheddar.net
 0.0.0.0 ads.madisonavenue.com
 0.0.0.0 ads.magnetic.is
 0.0.0.0 ads.mail.bg
@@ -8962,6 +8965,7 @@
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.nationalreview.com
 0.0.0.0 ads.nationchannel.com
+0.0.0.0 ads.nbl.com.au
 0.0.0.0 ads.nc.cname.inmobi.com
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
@@ -9159,6 +9163,7 @@
 0.0.0.0 ads.publicidad.net
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.pubsqrd.com
+0.0.0.0 ads.pubventuresmedia.com
 0.0.0.0 ads.pushplay.com
 0.0.0.0 ads.pxlpartner.ch
 0.0.0.0 ads.q1media.com
@@ -9429,6 +9434,7 @@
 0.0.0.0 ads.tracfonewireless.com
 0.0.0.0 ads.track.net
 0.0.0.0 ads.tracking202.com
+0.0.0.0 ads.trackingtraffo.com
 0.0.0.0 ads.traderonline.com
 0.0.0.0 ads.traffichaus.com
 0.0.0.0 ads.traffichunt.com
@@ -9449,6 +9455,7 @@
 0.0.0.0 ads.tromaville.com
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.trutv.com
+0.0.0.0 ads.tso.ch
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.tucows.com
 0.0.0.0 ads.tunein.com
@@ -9475,6 +9482,7 @@
 0.0.0.0 ads.universia.com.br
 0.0.0.0 ads.univision.com
 0.0.0.0 ads.uol.com.ar
+0.0.0.0 ads.uol.com.br
 0.0.0.0 ads.uproar.com
 0.0.0.0 ads.urban-media.com
 0.0.0.0 ads.urbandictionary.com
@@ -10970,6 +10978,7 @@
 0.0.0.0 adv.anhsangvacuocsong.vn
 0.0.0.0 adv.aport.ru
 0.0.0.0 adv.autosurf.vn
+0.0.0.0 adv.autotrader.com
 0.0.0.0 adv.baotintuc.vn
 0.0.0.0 adv.baovemoitruong.org.vn
 0.0.0.0 adv.bbanner.it
@@ -11005,6 +11014,7 @@
 0.0.0.0 adv.neverbuy.com
 0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.p2pbg.com
+0.0.0.0 adv.presscommtech.com
 0.0.0.0 adv.publy.net
 0.0.0.0 adv.pushtimize.com
 0.0.0.0 adv.r7.com
@@ -11170,6 +11180,7 @@
 0.0.0.0 advertising.hiasys.com
 0.0.0.0 advertising.illinimedia.com
 0.0.0.0 advertising.jp.msn.com
+0.0.0.0 advertising.justusboys.net
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 advertising.online-media24.de
 0.0.0.0 advertising.oriel.io
@@ -14288,7 +14299,6 @@
 0.0.0.0 anguished-child.pro
 0.0.0.0 anguishexperimental.com
 0.0.0.0 anguishleague.com
-0.0.0.0 anguklaw.com
 0.0.0.0 angularconstitution.com
 0.0.0.0 anguloawezn.com
 0.0.0.0 anhaochem.com
@@ -19624,6 +19634,7 @@
 0.0.0.0 bigrint.live
 0.0.0.0 bigrourg.net
 0.0.0.0 bigs.bikershop.biz
+0.0.0.0 bigsale100.com
 0.0.0.0 bigsport.today
 0.0.0.0 bigtrading.ga
 0.0.0.0 bigust.cf
@@ -80461,6 +80472,7 @@
 0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 telemetry.transcend.io
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 telemetry.voxeet.com
