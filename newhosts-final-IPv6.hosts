@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/09/23~08:54:21 -~
+# ~- 01/09/23~09:39:50 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -115,7 +115,6 @@ ff02::2 ip6-allrouters
 :: 02aa19117f396e9.com
 :: 02asdf.com
 :: 02b57bb965.com
-:: 02coverlab.com
 :: 02ip.ru
 :: 02m830l.cn
 :: 033.com
@@ -10937,6 +10936,7 @@ ff02::2 ip6-allrouters
 :: ads.gazetaesportiva.net
 :: ads.geekswithblogs.net
 :: ads.gelbe-liste.de
+:: ads.gemini.media
 :: ads.gencgazete.net
 :: ads.genericlink.com
 :: ads.genieessp.com
@@ -10954,9 +10954,11 @@ ff02::2 ip6-allrouters
 :: ads.globo.com
 :: ads.gmodules.com
 :: ads.go2net.com.ua
+:: ads.go2perseo.com
 :: ads.go2reach.com
 :: ads.godlikeproductions.com
 :: ads.gofuckyourself.com
+:: ads.gogel.al
 :: ads.gogovest.com
 :: ads.gold
 :: ads.golem.de
@@ -11190,6 +11192,7 @@ ff02::2 ip6-allrouters
 :: ads.lzjl.com
 :: ads.ma7.tv
 :: ads.macsonuclari.mobi
+:: ads.madcheddar.net
 :: ads.madisonavenue.com
 :: ads.magnetic.is
 :: ads.mail.bg
@@ -11302,6 +11305,7 @@ ff02::2 ip6-allrouters
 :: ads.nationalgeographic.com
 :: ads.nationalreview.com
 :: ads.nationchannel.com
+:: ads.nbl.com.au
 :: ads.nc.cname.inmobi.com
 :: ads.nccwebs.com
 :: ads.ncm.com
@@ -11500,6 +11504,7 @@ ff02::2 ip6-allrouters
 :: ads.publicidad.net
 :: ads.pubmatic.com
 :: ads.pubsqrd.com
+:: ads.pubventuresmedia.com
 :: ads.pushplay.com
 :: ads.pxlpartner.ch
 :: ads.q1media.com
@@ -11771,6 +11776,7 @@ ff02::2 ip6-allrouters
 :: ads.tracfonewireless.com
 :: ads.track.net
 :: ads.tracking202.com
+:: ads.trackingtraffo.com
 :: ads.traderonline.com
 :: ads.traffichaus.com
 :: ads.traffichunt.com
@@ -11791,6 +11797,7 @@ ff02::2 ip6-allrouters
 :: ads.tromaville.com
 :: ads.truecaller.com
 :: ads.trutv.com
+:: ads.tso.ch
 :: ads.tso.dennisnet.co.uk
 :: ads.tucows.com
 :: ads.tunein.com
@@ -11818,6 +11825,7 @@ ff02::2 ip6-allrouters
 :: ads.universia.com.br
 :: ads.univision.com
 :: ads.uol.com.ar
+:: ads.uol.com.br
 :: ads.uproar.com
 :: ads.urban-media.com
 :: ads.urbandictionary.com
@@ -13399,6 +13407,7 @@ ff02::2 ip6-allrouters
 :: adv.anhsangvacuocsong.vn
 :: adv.aport.ru
 :: adv.autosurf.vn
+:: adv.autotrader.com
 :: adv.bandi.so
 :: adv.baotintuc.vn
 :: adv.baovemoitruong.org.vn
@@ -13436,6 +13445,7 @@ ff02::2 ip6-allrouters
 :: adv.nexthardware.com
 :: adv.p2pbg.com
 :: adv.pilseta24.lv
+:: adv.presscommtech.com
 :: adv.publy.net
 :: adv.pushtimize.com
 :: adv.r7.com
@@ -13631,6 +13641,7 @@ ff02::2 ip6-allrouters
 :: advertising.hiasys.com
 :: advertising.illinimedia.com
 :: advertising.jp.msn.com
+:: advertising.justusboys.net
 :: advertising.microsoft.com
 :: advertising.online-media24.de
 :: advertising.oriel.io
@@ -17733,7 +17744,6 @@ ff02::2 ip6-allrouters
 :: anguished-child.pro
 :: anguishexperimental.com
 :: anguishleague.com
-:: anguklaw.com
 :: angularconstitution.com
 :: anguloawezn.com
 :: anhaochem.com
@@ -24610,6 +24620,7 @@ ff02::2 ip6-allrouters
 :: bigrstr.com
 :: bigrxdiscountmedstore.com
 :: bigs.bikershop.biz
+:: bigsale100.com
 :: bigsauron.ru
 :: bigsex.gdn
 :: bigskytopguide.cn
@@ -112177,6 +112188,7 @@ ff02::2 ip6-allrouters
 :: telemetry.swiftkey.com
 :: telemetry.tableausoftware.com
 :: telemetry.tradingview.com
+:: telemetry.transcend.io
 :: telemetry.urs.microsoft.com
 :: telemetry.v.dropbox.com
 :: telemetry.voxeet.com
