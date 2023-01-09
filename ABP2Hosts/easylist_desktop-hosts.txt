@@ -1,4 +1,4 @@
-# Mon Jan  9 08:44:13 AM UTC 2023
+# Mon Jan  9 08:51:14 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -22345,6 +22345,7 @@
 0.0.0.0 kazigua.top
 0.0.0.0 kb5ke.xyz
 0.0.0.0 kba8i.icu
+0.0.0.0 kbbqwhf.cn
 0.0.0.0 kbkilog.cn
 0.0.0.0 kbneks00.online
 0.0.0.0 kbotrjug.xyz
@@ -45749,6 +45750,7 @@
 0.0.0.0 yuppyads.com
 0.0.0.0 yuqadu.xyz
 0.0.0.0 yuqhtlry.xyz
+0.0.0.0 yuqingby.fun
 0.0.0.0 yuquad.com
 0.0.0.0 yuretb.site
 0.0.0.0 yusnw.cc
