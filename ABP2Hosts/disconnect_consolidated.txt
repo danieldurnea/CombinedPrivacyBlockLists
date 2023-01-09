@@ -1,4 +1,4 @@
-# Fri Jan  6 09:29:05 AM UTC 2023
+# Mon Jan  9 08:44:36 AM UTC 2023
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -725,10 +725,10 @@
 0.0.0.0 ads7.gamecity.net
 0.0.0.0 ads8.com
 0.0.0.0 adsatt.abc.starwave.com
-0.0.0.0 adsatt.abcnews.starwave.com
+0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
-0.0.0.0 adsatt.go.starwave.com
+0.0.0.0 Adsatt.go.starwave.com
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adscale.de
 0.0.0.0 adscholar.com
