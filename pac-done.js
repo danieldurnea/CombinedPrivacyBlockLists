@@ -1,4 +1,4 @@
-// **** Tue Jan 10 08:17:43 AM UTC 2023
+// **** Tue Jan 10 11:50:38 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0-24bpautomentes.hu") ||
@@ -182,7 +182,6 @@ shExpMatch(host, "*.5thfinger.com") ||
 shExpMatch(host, "*.600z.com") ||
 shExpMatch(host, "*.6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app") ||
 shExpMatch(host, "*.60gp.ovh.net") ||
-shExpMatch(host, "*.61kx.uk-insolvencydirect.com") ||
 shExpMatch(host, "*.6491480h9-capi.taplytics.com") ||
 shExpMatch(host, "*.68cadzx.com") ||
 shExpMatch(host, "*.6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com") ||
@@ -3198,7 +3197,6 @@ shExpMatch(host, "*.bbn.img.com.ua") ||
 shExpMatch(host, "*.bbnp.com") ||
 shExpMatch(host, "*.bbnwl.cn") ||
 shExpMatch(host, "*.bbpama.com") ||
-shExpMatch(host, "*.bbs.bjchun.com") ||
 shExpMatch(host, "*.bbullard.com") ||
 shExpMatch(host, "*.bbumgames.pushwoosh.com") ||
 shExpMatch(host, "*.bbzassociates.com") ||
@@ -6154,7 +6152,6 @@ shExpMatch(host, "*.hdrart.co.uk") ||
 shExpMatch(host, "*.hdreceivermitfestplatte.com") ||
 shExpMatch(host, "*.hdscout.com") ||
 shExpMatch(host, "*.hdyj168.com.cn") ||
-shExpMatch(host, "*.headless.ebkfwd.com") ||
 shExpMatch(host, "*.healthisp.net") ||
 shExpMatch(host, "*.healthybloodpressure.info") ||
 shExpMatch(host, "*.heap.com") ||
@@ -11124,7 +11121,6 @@ shExpMatch(host, "*.ssitecat.eset.com") ||
 shExpMatch(host, "*.ssl-google-analytics.l.google.com") ||
 shExpMatch(host, "*.ssl-nrk.tns-cs.net") ||
 shExpMatch(host, "*.ssl-s.idio.co") ||
-shExpMatch(host, "*.ssl.o.auspost.com.au") ||
 shExpMatch(host, "*.ssl.o.emedicinehealth.com") ||
 shExpMatch(host, "*.ssl.o.mdedge.com") ||
 shExpMatch(host, "*.ssl.o.medhelp.org") ||
@@ -14040,7 +14036,6 @@ shExpMatch(host, "5thfinger.com") ||
 shExpMatch(host, "600z.com") ||
 shExpMatch(host, "6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app") ||
 shExpMatch(host, "60gp.ovh.net") ||
-shExpMatch(host, "61kx.uk-insolvencydirect.com") ||
 shExpMatch(host, "6491480h9-capi.taplytics.com") ||
 shExpMatch(host, "68cadzx.com") ||
 shExpMatch(host, "6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com") ||
@@ -17056,7 +17051,6 @@ shExpMatch(host, "bbn.img.com.ua") ||
 shExpMatch(host, "bbnp.com") ||
 shExpMatch(host, "bbnwl.cn") ||
 shExpMatch(host, "bbpama.com") ||
-shExpMatch(host, "bbs.bjchun.com") ||
 shExpMatch(host, "bbullard.com") ||
 shExpMatch(host, "bbumgames.pushwoosh.com") ||
 shExpMatch(host, "bbzassociates.com") ||
@@ -20012,7 +20006,6 @@ shExpMatch(host, "hdrart.co.uk") ||
 shExpMatch(host, "hdreceivermitfestplatte.com") ||
 shExpMatch(host, "hdscout.com") ||
 shExpMatch(host, "hdyj168.com.cn") ||
-shExpMatch(host, "headless.ebkfwd.com") ||
 shExpMatch(host, "healthisp.net") ||
 shExpMatch(host, "healthybloodpressure.info") ||
 shExpMatch(host, "heap.com") ||
@@ -24982,7 +24975,6 @@ shExpMatch(host, "ssitecat.eset.com") ||
 shExpMatch(host, "ssl-google-analytics.l.google.com") ||
 shExpMatch(host, "ssl-nrk.tns-cs.net") ||
 shExpMatch(host, "ssl-s.idio.co") ||
-shExpMatch(host, "ssl.o.auspost.com.au") ||
 shExpMatch(host, "ssl.o.emedicinehealth.com") ||
 shExpMatch(host, "ssl.o.mdedge.com") ||
 shExpMatch(host, "ssl.o.medhelp.org") ||
