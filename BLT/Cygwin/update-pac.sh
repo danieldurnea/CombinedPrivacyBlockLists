@@ -18,7 +18,7 @@ wget -nv -O 5.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyB
 wget -nv -O 6.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
 sed -i '$a\' *.pac
-sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/\t\+/ /g" | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/@/d" | sed "/ /d" | sed "/\[/d" | sed "/\]/d" | sed "/\//d" | sed -e "/^adserver\./d" -e "/^adservice\./d" -e "/^adserving\./d" -e "/^analytics\./d" -e "/^telemetry\./d" -e "/^tracking\./d" | sort -f | uniq -i > pac-uniq.txt
+sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/\t\+/ /g" | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/@/d" | sed "/ /d" | sed "/\[/d" | sed "/\]/d" | sed "/\//d" | sed -e "/^adserver\./d" -e "/^adserving\./d" -e "/^tracking\./d" | sort -f | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
