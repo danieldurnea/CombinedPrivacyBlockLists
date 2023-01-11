@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Jan 11 07:54:29 PM UTC 2023
+! Updated: Wed Jan 11 08:16:55 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -81987,6 +81987,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||aan.amazon.co.jp^$third-party
 ||aan.amazon.co.uk^$third-party
 ||aan.amazon.com^$third-party
+||accuradio.com/listener/track-adbreaks/
 ||accuradio.com/static/js/ltjs.js
 ||accuradio.com/sweeper/
 ||activity.windows.com^$domain=~windows.com,app=~MicrosoftEdge.exe|~MicrosoftEdgeCP.exe|~MicrosoftEdgeSH.exe|~com.microsoft.emmx|~com.microsoft.emmx.dev|~com.microsoft.emmx.beta|~com.microsoft.emmx.canary|~com.microsoft.msedge
