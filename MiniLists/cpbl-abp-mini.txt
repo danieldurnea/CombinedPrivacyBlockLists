@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Jan 11 12:04:55 AM UTC 2023
+! Updated: Wed Jan 11 07:54:29 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -81694,6 +81694,8 @@ amazon.com##.sparkle-content
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
 apptracker.indeed.com##.atw-IsHelpfulSurvey-initialState
+axios.com##[class^="Modal_paywallContainer"]
+axios.com##[data-vars-experiment="pro-paywall"]
 babylonbee.com##[aria-labelledby*="modal-headline"]
 babylonbee.com##[class*="sm:inset-0"]
 babylonbee.com##[class*="transition-opacity"]
@@ -81774,6 +81776,7 @@ exodus.com##.x__content
 exodus.com##div.x-newsletter-popup__right-content:nth-of-type(2)
 exodus.com##[class*="x__subscribe-popup"]
 fandom.com##[class*="article-featured-video"]
+fortune.com##+js(ra, class, .paywall)
 fxstreet.com##div[id*="brokersfooter"]
 fxstreet.com##div[id*="brokersspreads"]
 fxstreet.com##.fxs_alertText
@@ -81823,6 +81826,8 @@ instagram.com##.DCpAF
 instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
 joinhoney.com##[class*="cookieConsentBanner"]
 juicedb.com##.nicotine-warning
+just-watch.club##.show.fade.modal-backdrop
+just-watch.club##.show.modal-activate.fade.modal
 khou.com##[class*="header__tooltip"]
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
@@ -81850,6 +81855,7 @@ my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:
 myetherwallet.com##.footer-banner.footer-banner-container.full-width.text-center.align-center.justify-center.d-flex.white
 news.cnet.com###globalSocialPromo
 newsmax.com##.show.shown.android
+nypost.com##.ad__wrapper
 nytimes.com###credential_picker_container
 nytimes.com##+js(set, navigator.storage.estimate, undefined)
 nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
@@ -81861,6 +81867,7 @@ nytimes.com##div[data-testid="inline-message"]
 old.reddit.com###redesign-beta-optin-btn
 openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
+paradisehill.cc##.banner-universal
 pcworld.com###toaster
 phantasytour.com##.col3
 profellow.com###newsletter-popup-wrap
@@ -81911,6 +81918,7 @@ reddit.com##a[class="TopButton"][href*=".app.link/"]
 reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
+reuters.com##[class*="article-prompt"]
 sass-lang.com##.sl-c-alert--info.sl-c-alert
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
@@ -81982,6 +81990,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||accuradio.com/static/js/ltjs.js
 ||accuradio.com/sweeper/
 ||activity.windows.com^$domain=~windows.com,app=~MicrosoftEdge.exe|~MicrosoftEdgeCP.exe|~MicrosoftEdgeSH.exe|~com.microsoft.emmx|~com.microsoft.emmx.dev|~com.microsoft.emmx.beta|~com.microsoft.emmx.canary|~com.microsoft.msedge
+||aw1.accuradio.com^
+||axios.com/api/v1/licenses
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
 ||cdn.cnn.com/ads/
@@ -82038,6 +82048,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
 ||segment.com^$third-party
+||sendtonews.com^$third-party
 ||sentry.io^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||static.timesofisrael.com/dev/images/join_comunity_banner.svg$image
@@ -82124,6 +82135,7 @@ telegraph.co.uk##.tmg-amp-follow-platforms
 thinkprogress.org##.amp-wp-article-promo
 ! Exceptions for Un-Breaking Certain Sites
 accuradio.com###playerSkipButton:style(display:inline!important)
+axios.com##html:style(overflow:inherit!important)
 babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
@@ -82135,6 +82147,7 @@ reddit.com##body.scroll-disabled:style(overflow: visible!important; position: st
 stpetecatalyst.com##body,html:style(overflow: auto !important)
 uol.com.br##body:style(overflow: visible !important;)
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
+@@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
 @@||amazon-adsystem.com^$domain=weather.com
 @@||api.segment.io^$xhr,domain=reuters.com
 @@||cdn.segment.com^$script,domain=reuters.com
