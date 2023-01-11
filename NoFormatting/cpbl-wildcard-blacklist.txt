@@ -4,20 +4,20 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/11/23~00:21:20 -~
+# ~- 01/11/23~20:06:08 -~
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   _________________________________
-#  / PRIVACY IS THE MOST FUNDAMENTAL \
-#  \ COMPONENT OF A PEACEFUL SOCIETY /
-#   ---------------------------------
-#          \   N__N
-#           \  (oo)\_______
-#              (__)\       )\/\
-#                  ll----w |
-#                  ll     ll
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#  _________________________________
+# / PRIVACY IS THE MOST FUNDAMENTAL \
+# \ COMPONENT OF A PEACEFUL SOCIETY /
+#  ---------------------------------
+#         \   N__N
+#          \  (oo)\_______
+#             (__)\       )\/\
+#                 ll----w |
+#                 ll     ll
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
 # [Start of Wildcard Blacklist]
 *.0-000.store
@@ -16916,6 +16916,7 @@
 *.avxcore.com
 *.avxiytq.cn
 *.avz3.xyz
+*.aw1.accuradio.com
 *.aw6s.top
 *.awafthealer.com
 *.awaitbackseatprod.com
