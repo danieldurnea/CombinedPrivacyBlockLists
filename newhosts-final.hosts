@@ -18,20 +18,20 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/10/23~23:50:13 -~
+# ~- 01/11/23~21:15:02 -~
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   _________________________________
-#  / PRIVACY IS THE MOST FUNDAMENTAL \
-#  \ COMPONENT OF A PEACEFUL SOCIETY /
-#   ---------------------------------
-#          \   ^__^
-#           \  (oo)\_______
-#              (__)\       )\/\
-#                  ||----w |
-#                  ||     ||
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#  _________________________________
+# / PRIVACY IS THE MOST FUNDAMENTAL \
+# \ COMPONENT OF A PEACEFUL SOCIETY /
+#  ---------------------------------
+#         \   ^__^
+#          \  (oo)\_______
+#             (__)\       )\/\
+#                 ||----w |
+#                 ||     ||
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # [Start of automated entries]
 0.0.0.0 0-000.store
 0.0.0.0 0-24bpautomentes.hu
@@ -21479,6 +21479,7 @@
 0.0.0.0 aw.advertica-cdn.com
 0.0.0.0 aw.dw.impact-ad.jp
 0.0.0.0 aw.mic.mob.com
+0.0.0.0 aw1.accuradio.com
 0.0.0.0 aw6s.top
 0.0.0.0 awafthealer.com
 0.0.0.0 awaitbackseatprod.com

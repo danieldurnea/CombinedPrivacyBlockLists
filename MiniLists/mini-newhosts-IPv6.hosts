@@ -18,20 +18,20 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/11/23~00:02:03 -~
+# ~- 01/11/23~21:15:03 -~
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#   _________________________________
-#  / PRIVACY IS THE MOST FUNDAMENTAL \
-#  \ COMPONENT OF A PEACEFUL SOCIETY /
-#   ---------------------------------
-#          \   ^__^
-#           \  (oo)\_______
-#              (__)\       )\/\
-#                  ||----w |
-#                  ||     ||
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#  _________________________________
+# / PRIVACY IS THE MOST FUNDAMENTAL \
+# \ COMPONENT OF A PEACEFUL SOCIETY /
+#  ---------------------------------
+#         \   ^__^
+#          \  (oo)\_______
+#             (__)\       )\/\
+#                 ||----w |
+#                 ||     ||
 #
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # [Start of automated entries]
 :: 0-000.store
 :: 0-owazo4.net.zooplus.de
@@ -17139,6 +17139,7 @@ ff02::2 ip6-allrouters
 :: aw.advertica-cdn.com
 :: aw.dw.impact-ad.jp
 :: aw.mic.mob.com
+:: aw1.accuradio.com
 :: aw6s.top
 :: awafthealer.com
 :: awaitbackseatprod.com
