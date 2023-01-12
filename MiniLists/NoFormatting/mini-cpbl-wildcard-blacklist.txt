@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/12/23~03:19:14 -~
+# ~- 01/12/23~05:07:06 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -5751,6 +5751,7 @@
 *.adminspace.carte-gr.total.fr
 *.admintool.revenuetool.aatkit.com
 *.admirableviolinniece.com
+*.admiral.mgr.consensu.org
 *.admiralbrace.com
 *.admiredexcrete.com
 *.admiredexpansioncollege.com
@@ -6054,6 +6055,7 @@
 *.adrokt.com
 *.adrolays.de
 *.adroll.com
+*.adroll.mgr.consensu.org
 *.adrot.live
 *.adrotate.de
 *.adrotator.com
@@ -12332,6 +12334,7 @@
 *.api.zwizzarmyknife.com
 *.api2.amplitude.com
 *.api2.boclinkads.com
+*.api2.branch.io
 *.api2.okanjo.com
 *.api2.poperblocker.com
 *.api3.siftscience.com
@@ -14994,7 +14997,6 @@
 *.bbgtranst.com
 *.bbia.co.uk
 *.bbkac.com
-*.bblck.me
 *.bbn.by
 *.bbn.img.com.ua
 *.bbouble.xyz
@@ -17114,7 +17116,6 @@
 *.branch.carvana.com
 *.branch.chelseafc.com
 *.branch.connect.actionnetwork.com
-*.branch.io
 *.branch.livenation.com
 *.branch.pgatour-mail.com
 *.branch.xoxloveheart.com
@@ -18639,6 +18640,7 @@
 *.cdn.bigmining.com
 *.cdn.blisspointmedia.com
 *.cdn.bluecore.com
+*.cdn.branch.io
 *.cdn.brcdn.com
 *.cdn.brid.tv
 *.cdn.britepool.com
@@ -20480,6 +20482,7 @@
 *.cmp.pcwelt.de
 *.cmp.pcworld.pl
 *.cmp.playpilot.com
+*.cmp.smartadserver.mgr.consensu.org
 *.cmp.soundis.gr
 *.cmp.tech426.com
 *.cmp.tek.no
@@ -21185,6 +21188,7 @@
 *.concoursestrickenpuppy.com
 *.concurfickle.com
 *.condenast.demdex.net
+*.condenast.insight.omtrdc.net
 *.conditionchange.com
 *.conditioncrush.com
 *.conditioning1.space
@@ -21321,7 +21325,6 @@
 *.consciouscheese.com
 *.consciousdirt.com
 *.consensad.com
-*.consensu.org
 *.consensusarticles.com
 *.consent-wrapper.jameda.de
 *.consent.23g.io
@@ -28068,6 +28071,7 @@
 *.email-open.adtidy.org
 *.email-opn.adguard.com
 *.email-reflex.com
+*.email-sailthru.branch.io
 *.email-sendgrid-deep-linking.chewy.com
 *.email-staging.goodrx.com
 *.email-test.wirexapp.com
@@ -32427,6 +32431,7 @@
 *.geman.live
 *.gemfaxaha.com
 *.gemini.yahoo.com
+*.gemius.mgr.consensu.org
 *.gemius.pl
 *.gemlocomotivemid.com
 *.gemoroy-stop.biz
@@ -32492,6 +32497,7 @@
 *.geo.safelinktracker.com
 *.geo.settings-win.data.microsoft.com.akadns.net
 *.geo.settings.data.microsoft.com.akadns.net
+*.geo.smartadserver.mgr.consensu.org
 *.geo.thehindu.com
 *.geo.vortex.data.microsoft.com.akadns.net
 *.geo.xcel.io
@@ -34795,6 +34801,7 @@
 *.hb.adx1.com
 *.hb.afl.rakuten.co.jp
 *.hb.mynativeplatform.com
+*.hb.omtrdc.net
 *.hb.vhsrv.com
 *.hb8a.top
 *.hbaazk.bukalapak.com
@@ -43078,7 +43085,6 @@
 *.lithogsicket.com
 *.lithyphiomia.com
 *.litiumo.com
-*.litix.io
 *.littlecdn.com
 *.littlecutecats.com
 *.littlecutedogs.com
@@ -49059,6 +49065,7 @@
 *.nbclick.ir
 *.nbcots.demdex.net
 *.nbcu.demdex.net
+*.nbcume.hb-api.omtrdc.net
 *.nbd56.cn
 *.nbg.seagate.com
 *.nbgsintl.com
@@ -51445,7 +51452,6 @@
 *.omt.honda.com
 *.omt.shinobi.jp
 *.omtend.com
-*.omtrdc.net
 *.omzylhvhwp.com
 *.on-mobi.com
 *.onad.eu
@@ -56133,7 +56139,6 @@
 *.px3792.com
 *.pxc.otto.de
 *.pxerw.xyz
-*.pxf.io
 *.pxfeiws.cn
 *.pxfindone.com
 *.pxglreolb.com
@@ -56853,6 +56858,7 @@
 *.quant.jp
 *.quanta-wave.com
 *.quantcast.com
+*.quantcast.mgr.consensu.org
 *.quantcount.com
 *.quantserve.com
 *.quantum-advertising.com
@@ -60354,6 +60360,7 @@
 *.sc.nick.com
 *.sc.nickelodeon.ru
 *.sc.nickjr.com
+*.sc.omtrdc.net
 *.sc.pages03.net
 *.sc.paramountnetwork.com
 *.sc.rbs.co.uk
@@ -72614,6 +72621,7 @@
 *.tszhongtianshiji.com
 *.tt.biquge.la
 *.tt.natwest.com
+*.tt.omtrdc.net
 *.tt.pluralsight.com
 *.tt.rbs.co.uk
 *.tt.ubs.com
@@ -75651,6 +75659,7 @@
 *.vuksew10.com
 *.vuksew12.com
 *.vukticlataf.com
+*.vulcan.branch.io
 *.vulcan.wiki
 *.vulgartaivert.website
 *.vulguspyemic.com
