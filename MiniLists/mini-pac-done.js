@@ -1,4 +1,4 @@
-// **** Wed Jan 11 12:02:24 AM UTC 2023
+// **** Thu Jan 12 01:45:29 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0b4c3c9e-b712-410f-9e83-b20bef24b2f1.usrfiles.com") ||
@@ -1726,7 +1726,6 @@ shExpMatch(host, "*.annonser.dagbladet.no") ||
 shExpMatch(host, "*.annoyedairport.com") ||
 shExpMatch(host, "*.annoyingacoustics.com") ||
 shExpMatch(host, "*.anquan.org") ||
-shExpMatch(host, "*.anrdoezrs.net") ||
 shExpMatch(host, "*.anstrex.com") ||
 shExpMatch(host, "*.antenna-apse.ayads.co") ||
 shExpMatch(host, "*.antenna-us.ayads.co") ||
@@ -2050,7 +2049,6 @@ shExpMatch(host, "*.assets.emarsys.net") ||
 shExpMatch(host, "*.assets.iterable.com") ||
 shExpMatch(host, "*.assets.locuslabs.com") ||
 shExpMatch(host, "*.assets.loomia.com") ||
-shExpMatch(host, "*.assets.minutemediacdn.com") ||
 shExpMatch(host, "*.assets.narvar.com") ||
 shExpMatch(host, "*.assets.netizen.co") ||
 shExpMatch(host, "*.assets.purch.com") ||
@@ -4356,7 +4354,6 @@ shExpMatch(host, "*.images.informatm.com") ||
 shExpMatch(host, "*.images.outbrainimg.com") ||
 shExpMatch(host, "*.images.perf-serving.com") ||
 shExpMatch(host, "*.images.v3.com") ||
-shExpMatch(host, "*.images2.minutemediacdn.com") ||
 shExpMatch(host, "*.imapi-sg.isnssdk.com") ||
 shExpMatch(host, "*.imarketservices.com") ||
 shExpMatch(host, "*.imatmobile.com") ||
@@ -9838,7 +9835,6 @@ shExpMatch(host, "annonser.dagbladet.no") ||
 shExpMatch(host, "annoyedairport.com") ||
 shExpMatch(host, "annoyingacoustics.com") ||
 shExpMatch(host, "anquan.org") ||
-shExpMatch(host, "anrdoezrs.net") ||
 shExpMatch(host, "anstrex.com") ||
 shExpMatch(host, "antenna-apse.ayads.co") ||
 shExpMatch(host, "antenna-us.ayads.co") ||
@@ -10162,7 +10158,6 @@ shExpMatch(host, "assets.emarsys.net") ||
 shExpMatch(host, "assets.iterable.com") ||
 shExpMatch(host, "assets.locuslabs.com") ||
 shExpMatch(host, "assets.loomia.com") ||
-shExpMatch(host, "assets.minutemediacdn.com") ||
 shExpMatch(host, "assets.narvar.com") ||
 shExpMatch(host, "assets.netizen.co") ||
 shExpMatch(host, "assets.purch.com") ||
@@ -12468,7 +12463,6 @@ shExpMatch(host, "images.informatm.com") ||
 shExpMatch(host, "images.outbrainimg.com") ||
 shExpMatch(host, "images.perf-serving.com") ||
 shExpMatch(host, "images.v3.com") ||
-shExpMatch(host, "images2.minutemediacdn.com") ||
 shExpMatch(host, "imapi-sg.isnssdk.com") ||
 shExpMatch(host, "imarketservices.com") ||
 shExpMatch(host, "imatmobile.com") ||
