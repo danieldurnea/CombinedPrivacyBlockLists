@@ -1,4 +1,4 @@
-// **** Thu Jan 12 05:17:53 AM UTC 2023
+// **** Thu Jan 12 07:34:01 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0b4c3c9e-b712-410f-9e83-b20bef24b2f1.usrfiles.com") ||
@@ -20,13 +20,11 @@ shExpMatch(host, "*.1ecosolution.it") ||
 shExpMatch(host, "*.1link2020.com") ||
 shExpMatch(host, "*.1rx.io") ||
 shExpMatch(host, "*.1x1rank.com") ||
-shExpMatch(host, "*.207.net") ||
 shExpMatch(host, "*.247media.com") ||
 shExpMatch(host, "*.247realmedia.com") ||
 shExpMatch(host, "*.24log.com") ||
 shExpMatch(host, "*.24log.de") ||
 shExpMatch(host, "*.24pm-affiliation.com") ||
-shExpMatch(host, "*.2o7.net") ||
 shExpMatch(host, "*.2znp09oa.com") ||
 shExpMatch(host, "*.30ads.com") ||
 shExpMatch(host, "*.3337723.com") ||
@@ -8198,13 +8196,11 @@ shExpMatch(host, "1ecosolution.it") ||
 shExpMatch(host, "1link2020.com") ||
 shExpMatch(host, "1rx.io") ||
 shExpMatch(host, "1x1rank.com") ||
-shExpMatch(host, "207.net") ||
 shExpMatch(host, "247media.com") ||
 shExpMatch(host, "247realmedia.com") ||
 shExpMatch(host, "24log.com") ||
 shExpMatch(host, "24log.de") ||
 shExpMatch(host, "24pm-affiliation.com") ||
-shExpMatch(host, "2o7.net") ||
 shExpMatch(host, "2znp09oa.com") ||
 shExpMatch(host, "30ads.com") ||
 shExpMatch(host, "3337723.com") ||

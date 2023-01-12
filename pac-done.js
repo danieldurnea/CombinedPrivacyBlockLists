@@ -1,4 +1,4 @@
-// **** Thu Jan 12 05:17:40 AM UTC 2023
+// **** Thu Jan 12 07:33:43 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0-24bpautomentes.hu") ||
@@ -20,6 +20,7 @@ shExpMatch(host, "*.101com.com") ||
 shExpMatch(host, "*.101order.com") ||
 shExpMatch(host, "*.109-204-26-16.netconnexion.managedbroadband.co.uk") ||
 shExpMatch(host, "*.11.gddx1.crsky.com") ||
+shExpMatch(host, "*.1105governmentinformationgroup.122.2o7.net") ||
 shExpMatch(host, "*.113vod-adaptive.akamaized.net") ||
 shExpMatch(host, "*.114oldest.com") ||
 shExpMatch(host, "*.121-sex-toys.co.uk") ||
@@ -61,7 +62,6 @@ shExpMatch(host, "*.2011verygood.ru") ||
 shExpMatch(host, "*.2013-verygoods.ru") ||
 shExpMatch(host, "*.2013supas.ru") ||
 shExpMatch(host, "*.2014reltimes.ru") ||
-shExpMatch(host, "*.207.net") ||
 shExpMatch(host, "*.2112111.com") ||
 shExpMatch(host, "*.22.duote.org") ||
 shExpMatch(host, "*.230x.net") ||
@@ -84,7 +84,6 @@ shExpMatch(host, "*.2chicksathome.com") ||
 shExpMatch(host, "*.2d7d.co.cc") ||
 shExpMatch(host, "*.2domeinold.ru") ||
 shExpMatch(host, "*.2motor.ru") ||
-shExpMatch(host, "*.2o7.net") ||
 shExpMatch(host, "*.2seo8.com") ||
 shExpMatch(host, "*.2simple.ru") ||
 shExpMatch(host, "*.2xinfinito.com.br") ||
@@ -13938,6 +13937,7 @@ shExpMatch(host, "101com.com") ||
 shExpMatch(host, "101order.com") ||
 shExpMatch(host, "109-204-26-16.netconnexion.managedbroadband.co.uk") ||
 shExpMatch(host, "11.gddx1.crsky.com") ||
+shExpMatch(host, "1105governmentinformationgroup.122.2o7.net") ||
 shExpMatch(host, "113vod-adaptive.akamaized.net") ||
 shExpMatch(host, "114oldest.com") ||
 shExpMatch(host, "121-sex-toys.co.uk") ||
@@ -13979,7 +13979,6 @@ shExpMatch(host, "2011verygood.ru") ||
 shExpMatch(host, "2013-verygoods.ru") ||
 shExpMatch(host, "2013supas.ru") ||
 shExpMatch(host, "2014reltimes.ru") ||
-shExpMatch(host, "207.net") ||
 shExpMatch(host, "2112111.com") ||
 shExpMatch(host, "22.duote.org") ||
 shExpMatch(host, "230x.net") ||
@@ -14002,7 +14001,6 @@ shExpMatch(host, "2chicksathome.com") ||
 shExpMatch(host, "2d7d.co.cc") ||
 shExpMatch(host, "2domeinold.ru") ||
 shExpMatch(host, "2motor.ru") ||
-shExpMatch(host, "2o7.net") ||
 shExpMatch(host, "2seo8.com") ||
 shExpMatch(host, "2simple.ru") ||
 shExpMatch(host, "2xinfinito.com.br") ||
