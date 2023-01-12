@@ -1,4 +1,4 @@
-# Tue Jan 10 11:43:42 PM UTC 2023
+# Thu Jan 12 01:32:01 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1862,7 +1862,6 @@
 0.0.0.0 assets.locuslabs.com
 0.0.0.0 assets.mantisadnetwork.com
 0.0.0.0 assets.micpn.com
-0.0.0.0 assets.minutemediacdn.com
 0.0.0.0 assets.narvar.com
 0.0.0.0 assets.netizen.co
 0.0.0.0 assets.privy.com
@@ -3262,6 +3261,7 @@
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.sj.ijinshan.com
+0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dlx.addthis.com
@@ -4236,7 +4236,6 @@
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
-0.0.0.0 images2.minutemediacdn.com
 0.0.0.0 images2.zemanta.com
 0.0.0.0 images9.engageya.com
 0.0.0.0 imagesrv.adition.com
