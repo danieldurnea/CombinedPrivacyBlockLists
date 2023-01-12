@@ -46,6 +46,7 @@ analytics.archive.org
 ancestry.com
 android.clients.google.com
 angularjs.org
+anrdoezrs.net
 ap.spotify.com
 api-global.netflix.com
 api-staging.backup.signal.org
@@ -78,6 +79,7 @@ ask.com
 aspnetcdn.com
 assets.adobedtm.com
 assets.huluim.com
+assets.minutemediacdn.com
 assets.rbl.ms
 assets.rebelmouse.io
 assets.ubuntu.com
@@ -154,6 +156,7 @@ click.email.soundhound.com
 click.emails.creditonebank.com
 click.engage.xbox.com
 click.instacartemail.com
+click.justwatch.com
 click.official.nike.com
 click.oneplus.cn
 click.oneplus.com
@@ -209,6 +212,7 @@ dashboard.plex.tv
 data.nal.usda.gov
 db.tt
 det-ta-g7g.amazon.com
+detectportal.firefox.com
 dev-multiscreen.samsung.com
 dev.twitter.com
 dev.virtualearth.net
@@ -218,6 +222,7 @@ directvnow.com
 discovery.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+dns.msftncsi.com
 download.sonarr.tv
 download.winzip.com
 dpm.demdex.net
@@ -320,7 +325,9 @@ i1.ytimg.com
 icloud.com
 icscards.nl
 image.ibb.co
+images.ctfassets.net
 images.pluto.tv
+images2.minutemediacdn.com
 images3.imgbox.com
 img.purch.com
 img.transcoder.opera.com
@@ -350,6 +357,7 @@ lads.myspace.com
 lastfm-img2.akamaized.net
 letsencrypt.org
 licensing.xboxlive.com
+liffsdk.line-scdn.net
 lightboxcdn.com
 linkedin-learning.pxf.io
 live-nhl.stream
@@ -372,6 +380,9 @@ managemymove.usps.com
 mcssl.com
 medium.com
 movies.netflix.com
+mp.twitch.tv
+mparticle.weather.com
+mradx.net
 msa.akadns6.net
 msftncsi.com
 multiscreen.samsung.com
@@ -385,10 +396,12 @@ nextdns.io
 nexus.ensighten.com
 nitroflare.com
 nj.com
+nmcheck.gnome.org
 no-ip.com
 nocdnrlly.xyz
 notify.xboxlive.com
 nu.nl
+obs.line-scdn.net
 ocsp.rootg2.amazontrust.com
 office.com
 om.cbsi.com
@@ -421,6 +434,7 @@ pings.conviva.com
 pinpoint.us-east-1.amazonaws.com
 pixel.nymag.com
 platform.twitter.com
+play.app.goo.gl
 play.spotify.com
 players.brightcove.net
 players.pluto.tv
@@ -438,6 +452,8 @@ publish0x.com
 publishers.basicattentiontoken.org
 purch.com
 pushbullet.com
+query1.finance.yahoo.com
+query2.finance.yahoo.com
 rackcdn.com
 rapidgator.net
 ratas.sanoma.fi
@@ -489,6 +505,7 @@ shavar.services.mozilla.com
 shop.rewe-static.de
 shorl.com
 shortpixel.ai
+sift.com
 signal.art
 signal.org
 signalcaptchas.org
@@ -534,6 +551,7 @@ td.demdex.net
 telegraaf.nl
 telegraph.api.hbo.com
 tenforums.com
+termux.net
 teslathemes.com
 textsecure-service-staging.whispersystems.org
 theguardian.com
@@ -548,6 +566,7 @@ tn.com.ar
 todo-ta-g7g.amazon.com
 tomshardware.com
 travelzoo.com
+trust-provider.com
 tvaddons.ag
 tvpassport.com
 twimg.com
@@ -588,6 +607,7 @@ web.facebook.com
 webcache.googleusercontent.com
 webmd.com
 wellsfargobankna.demdex.net
+weworkremotely.com
 whispersystems.org
 widget-cdn.rpxnow.com
 winhelp2002.mvps.org
