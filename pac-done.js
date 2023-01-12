@@ -1,4 +1,4 @@
-// **** Tue Jan 10 11:50:38 PM UTC 2023
+// **** Thu Jan 12 01:39:22 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0-24bpautomentes.hu") ||
@@ -2455,7 +2455,6 @@ shExpMatch(host, "*.annoyedairport.com") ||
 shExpMatch(host, "*.annoyingacoustics.com") ||
 shExpMatch(host, "*.annuairemedicaloran.com") ||
 shExpMatch(host, "*.anquan.org") ||
-shExpMatch(host, "*.anrdoezrs.net") ||
 shExpMatch(host, "*.ans.milb.com") ||
 shExpMatch(host, "*.ans.mlb.com") ||
 shExpMatch(host, "*.anstrex.com") ||
@@ -2875,7 +2874,6 @@ shExpMatch(host, "*.assets.emarsys.net") ||
 shExpMatch(host, "*.assets.iterable.com") ||
 shExpMatch(host, "*.assets.locuslabs.com") ||
 shExpMatch(host, "*.assets.loomia.com") ||
-shExpMatch(host, "*.assets.minutemediacdn.com") ||
 shExpMatch(host, "*.assets.narvar.com") ||
 shExpMatch(host, "*.assets.netizen.co") ||
 shExpMatch(host, "*.assets.purch.com") ||
@@ -6489,7 +6487,6 @@ shExpMatch(host, "*.images.perf-serving.com") ||
 shExpMatch(host, "*.images.response.clubcar.com") ||
 shExpMatch(host, "*.images.topguncustomz.com") ||
 shExpMatch(host, "*.images.v3.com") ||
-shExpMatch(host, "*.images2.minutemediacdn.com") ||
 shExpMatch(host, "*.imarketservices.com") ||
 shExpMatch(host, "*.imasdk.googleapis.com") ||
 shExpMatch(host, "*.imatmobile.com") ||
@@ -16309,7 +16306,6 @@ shExpMatch(host, "annoyedairport.com") ||
 shExpMatch(host, "annoyingacoustics.com") ||
 shExpMatch(host, "annuairemedicaloran.com") ||
 shExpMatch(host, "anquan.org") ||
-shExpMatch(host, "anrdoezrs.net") ||
 shExpMatch(host, "ans.milb.com") ||
 shExpMatch(host, "ans.mlb.com") ||
 shExpMatch(host, "anstrex.com") ||
@@ -16729,7 +16725,6 @@ shExpMatch(host, "assets.emarsys.net") ||
 shExpMatch(host, "assets.iterable.com") ||
 shExpMatch(host, "assets.locuslabs.com") ||
 shExpMatch(host, "assets.loomia.com") ||
-shExpMatch(host, "assets.minutemediacdn.com") ||
 shExpMatch(host, "assets.narvar.com") ||
 shExpMatch(host, "assets.netizen.co") ||
 shExpMatch(host, "assets.purch.com") ||
@@ -20343,7 +20338,6 @@ shExpMatch(host, "images.perf-serving.com") ||
 shExpMatch(host, "images.response.clubcar.com") ||
 shExpMatch(host, "images.topguncustomz.com") ||
 shExpMatch(host, "images.v3.com") ||
-shExpMatch(host, "images2.minutemediacdn.com") ||
 shExpMatch(host, "imarketservices.com") ||
 shExpMatch(host, "imasdk.googleapis.com") ||
 shExpMatch(host, "imatmobile.com") ||
