@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Jan 12 03:06:31 AM UTC 2023
+! Updated: Thu Jan 12 04:48:56 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -1601,6 +1601,7 @@
 ||3lr67y45.com^
 ||3lucosy.com^
 ||3mfm7jef91.ru^
+||3minc.tt.hb-fa-stage.omtrdc.net^
 ||3mtr.ru^
 ||3myad.com^
 ||3naf.xyz^
@@ -7105,6 +7106,7 @@
 ||adminspace.carte-gr.total.fr^
 ||admintool.revenuetool.aatkit.com^
 ||admirableviolinniece.com^
+||admiral.mgr.consensu.org^
 ||admiralbrace.com^
 ||admiredexcrete.com^
 ||admiredexpansioncollege.com^
@@ -7540,6 +7542,7 @@
 ||adrokt.com^
 ||adrolays.de^
 ||adroll.com^
+||adroll.mgr.consensu.org^
 ||adrot.live^
 ||adrotate.de^
 ||adrotator.com^
@@ -14854,6 +14857,7 @@
 ||api.zwizzarmyknife.com^
 ||api2.amplitude.com^
 ||api2.boclinkads.com^
+||api2.branch.io^
 ||api2.clickaine.com^
 ||api2.poperblocker.com^
 ||api4.1mobile.com^
@@ -18420,7 +18424,6 @@
 ||bbk.pnc.com^
 ||bbk5921.yncjsc.cn^
 ||bbkac.com^
-||bblck.me^
 ||bbmonandroid.com^
 ||bbn.by^
 ||bbn.img.com.ua^
@@ -21410,7 +21413,6 @@
 ||branch.carvana.com^
 ||branch.chelseafc.com^
 ||branch.connect.actionnetwork.com^
-||branch.io^
 ||branch.livenation.com^
 ||branch.pgatour-mail.com^
 ||branch.xoxloveheart.com^
@@ -23544,6 +23546,7 @@
 ||cdn.bigcommerce.com^
 ||cdn.blisspointmedia.com^
 ||cdn.bluecore.com^
+||cdn.branch.io^
 ||cdn.brid.tv^
 ||cdn.buram.xyz^
 ||cdn.c-i.as^
@@ -26144,6 +26147,7 @@
 ||cmp.pcwelt.de^
 ||cmp.pcworld.pl^
 ||cmp.playpilot.com^
+||cmp.smartadserver.mgr.consensu.org^
 ||cmp.soundis.gr^
 ||cmp.tech426.com^
 ||cmp.tek.no^
@@ -27106,6 +27110,7 @@
 ||concoursestrickenpuppy.com^
 ||concurfickle.com^
 ||condenast.demdex.net^
+||condenast.insight.omtrdc.net^
 ||conditionchange.com^
 ||conditioncrush.com^
 ||conditioning1.space^
@@ -27304,7 +27309,6 @@
 ||consciouscheese.com^
 ||consciousdirt.com^
 ||consensad.com^
-||consensu.org^
 ||consensusarticles.com^
 ||consent-wrapper.jameda.de^
 ||consent.23g.io^
@@ -38254,6 +38258,7 @@
 ||email-open.adtidy.org^
 ||email-opn.adguard.com^
 ||email-reflex.com^
+||email-sailthru.branch.io^
 ||email-sendgrid-deep-linking.chewy.com^
 ||email-staging.goodrx.com^
 ||email-test.wirexapp.com^
@@ -45152,6 +45157,7 @@
 ||gemfaxaha.com^
 ||gemini.yahoo.com^
 ||geminigiveaway.club^
+||gemius.mgr.consensu.org^
 ||gemius.pl^
 ||gemlocomotivemid.com^
 ||gemoroy-stop.biz^
@@ -45272,6 +45278,7 @@
 ||geo.safelinktracker.com^
 ||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.settings.data.microsoft.com.akadns.net^
+||geo.smartadserver.mgr.consensu.org^
 ||geo.theawesomer.com^
 ||geo.thehindu.com^
 ||geo.vortex.data.microsoft.com.akadns.net^
@@ -49046,6 +49053,7 @@
 ||hb.adwmg.com^
 ||hb.afl.rakuten.co.jp^
 ||hb.mynativeplatform.com^
+||hb.omtrdc.net^
 ||hb.vhsrv.com^
 ||hb8a.top^
 ||hbaazk.bukalapak.com^
@@ -60414,7 +60422,6 @@
 ||lithogsicket.com^
 ||lithyphiomia.com^
 ||litiumo.com^
-||litix.io^
 ||litle.me^
 ||littel.net^
 ||littlecdn.com^
@@ -69146,6 +69153,7 @@
 ||nbclick.ir^
 ||nbcots.demdex.net^
 ||nbcu.demdex.net^
+||nbcume.hb-api.omtrdc.net^
 ||nbd56.cn^
 ||nbes.nu^
 ||nbg.seagate.com^
@@ -72377,7 +72385,6 @@
 ||omtend.com^
 ||omtr2.partners.salesforce.com^
 ||omtrdc.jobsdb.com^
-||omtrdc.net^
 ||omtvxcle.com^
 ||omynews.net^
 ||omzylhvhwp.com^
@@ -79164,7 +79171,6 @@
 ||pxbnou.ig.com.br^
 ||pxc.otto.de^
 ||pxerw.xyz^
-||pxf.io^
 ||pxfeiws.cn^
 ||pxfindone.com^
 ||pxfindtwo.com^
@@ -80052,6 +80058,7 @@
 ||quanta-wave.com^
 ||quanta.la^
 ||quantcast.com^
+||quantcast.mgr.consensu.org^
 ||quantcount.com^
 ||quantomcoding.com^
 ||quantserve.com^
@@ -84858,6 +84865,7 @@
 ||sc.nick.com.au^
 ||sc.nickelodeon.ru^
 ||sc.nickjr.com^
+||sc.omtrdc.net^
 ||sc.pages03.net^
 ||sc.paramountnetwork.com^
 ||sc.rbs.co.uk^
@@ -102596,6 +102604,7 @@
 ||tszhongtianshiji.com^
 ||tt.biquge.la^
 ||tt.natwest.com^
+||tt.omtrdc.net^
 ||tt.pluralsight.com^
 ||tt.rbs.co.uk^
 ||tt.sj.se^
@@ -106766,6 +106775,7 @@
 ||vukticlataf.com^
 ||vukxljtb.cz.cc^
 ||vulcan-bit.com^
+||vulcan.branch.io^
 ||vulcan.wiki^
 ||vulgartaivert.website^
 ||vulguspyemic.com^
