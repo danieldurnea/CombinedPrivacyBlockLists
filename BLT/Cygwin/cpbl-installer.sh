@@ -31,14 +31,18 @@ curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/parsing/newhosts-template.txt" -o newhosts-template.txt
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/parsing/newhosts-template-six.txt" -o newhosts-template-six.txt
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/parsing/pactemplate.txt" -o pactemplate.txt
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/parsing/wildcardwhitelist.dat" -o wildcardwhitelist.dat
 cd ~/"$file_dir"/readmes
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/readmes/README-btdat.md" -o README-btdat.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/readmes/README-btp2p.md" -o README-btp2p.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/readmes/README-hosts.md" -o README-hosts.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/readmes/README-pac.md" -o README-pac.md
+cd ~/"$file_dir"/pac
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/pac/cmprdmns.pl" -o cmprdmns.pl
 echo "..."
 echo "Ensuring that scripts are made executable..."
 echo "..."
+chmod +x cmprdmns.pl
 cd ~/"$file_dir"
 chmod +x update-btdat.sh update-btp2p.sh update-hosts-dual.sh update-hosts.sh update-hosts-six.sh update-pac.sh
 echo "Ensuring that scripts reflect your install directory..."

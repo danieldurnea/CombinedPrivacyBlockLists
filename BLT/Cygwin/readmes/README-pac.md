@@ -1,6 +1,8 @@
 The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-pac.sh) is a really simple bash script, which downloads various lists of malicious domains, does a little clean-up on them, merges, sorts, and de-dupes those lists, before combining them into one clean file. Optionally (via uncommenting the relevant lines), it then uploads the resultant PAC file to an FTP server of your choice (so you can easily utilize it on multiple devices).
 
 **Notes**:
+- Many thanks to [A. Manoussakis](https://savannah.gnu.org/users/amanou) for his solution to TLD-optimization / overlapping FQDN-reduction. My backend routine (using a slew of GNU utilities and `pcregrep`, often necessitating manual verification) was too unwieldy and inefficient to share. You are a scholar, a gentleman, and saved me hours of re-writing parsing routines.
+
 - You must have the dependencies mentioned on the main readme installed to utilize this script.
 
 - This script processes both **plain domain lists** and **hosts files**. Though the former is preferred, both types of lists should work just fine.
