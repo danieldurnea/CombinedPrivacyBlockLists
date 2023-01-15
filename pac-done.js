@@ -1,4 +1,4 @@
-// **** Fri Jan 13 08:18:36 AM UTC 2023
+// **** Sun Jan 15 06:36:38 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0-24bpautomentes.hu") ||
@@ -6487,6 +6487,7 @@ shExpMatch(host, "*.iloveeu.es") ||
 shExpMatch(host, "*.ilyf4amifh.com") ||
 shExpMatch(host, "*.ilyonanalytics.herokuapp.com") ||
 shExpMatch(host, "*.im.jiguang.cn") ||
+shExpMatch(host, "*.im.ov.yahoo.co.jp") ||
 shExpMatch(host, "*.im64.jpush.cn") ||
 shExpMatch(host, "*.ima3vpaid.appspot.com") ||
 shExpMatch(host, "*.image.cauly.co.kr") ||
@@ -9095,7 +9096,6 @@ shExpMatch(host, "*.plsderk.ddns.me.uk") ||
 shExpMatch(host, "*.pltechnews.biz") ||
 shExpMatch(host, "*.pltraffic8.com") ||
 shExpMatch(host, "*.pluckypocket.com") ||
-shExpMatch(host, "*.pluckytaste.com") ||
 shExpMatch(host, "*.plugin.mobopay.baidu.com") ||
 shExpMatch(host, "*.plugrush.com") ||
 shExpMatch(host, "*.plumfinders.com") ||
@@ -20405,6 +20405,7 @@ shExpMatch(host, "iloveeu.es") ||
 shExpMatch(host, "ilyf4amifh.com") ||
 shExpMatch(host, "ilyonanalytics.herokuapp.com") ||
 shExpMatch(host, "im.jiguang.cn") ||
+shExpMatch(host, "im.ov.yahoo.co.jp") ||
 shExpMatch(host, "im64.jpush.cn") ||
 shExpMatch(host, "ima3vpaid.appspot.com") ||
 shExpMatch(host, "image.cauly.co.kr") ||
@@ -23013,7 +23014,6 @@ shExpMatch(host, "plsderk.ddns.me.uk") ||
 shExpMatch(host, "pltechnews.biz") ||
 shExpMatch(host, "pltraffic8.com") ||
 shExpMatch(host, "pluckypocket.com") ||
-shExpMatch(host, "pluckytaste.com") ||
 shExpMatch(host, "plugin.mobopay.baidu.com") ||
 shExpMatch(host, "plugrush.com") ||
 shExpMatch(host, "plumfinders.com") ||
