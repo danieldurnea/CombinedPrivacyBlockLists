@@ -1,4 +1,4 @@
-// **** Fri Jan 13 08:24:09 AM UTC 2023
+// **** Sun Jan 15 06:42:56 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0b4c3c9e-b712-410f-9e83-b20bef24b2f1.usrfiles.com") ||
@@ -5872,7 +5872,6 @@ shExpMatch(host, "*.plotrabbit.com") ||
 shExpMatch(host, "*.ploy.batmobi.net") ||
 shExpMatch(host, "*.pltraffic8.com") ||
 shExpMatch(host, "*.pluckypocket.com") ||
-shExpMatch(host, "*.pluckytaste.com") ||
 shExpMatch(host, "*.plugrush.com") ||
 shExpMatch(host, "*.plus.tapsell.ir") ||
 shExpMatch(host, "*.pmc-com.videoplayerhub.com") ||
@@ -14050,7 +14049,6 @@ shExpMatch(host, "plotrabbit.com") ||
 shExpMatch(host, "ploy.batmobi.net") ||
 shExpMatch(host, "pltraffic8.com") ||
 shExpMatch(host, "pluckypocket.com") ||
-shExpMatch(host, "pluckytaste.com") ||
 shExpMatch(host, "plugrush.com") ||
 shExpMatch(host, "plus.tapsell.ir") ||
 shExpMatch(host, "pmc-com.videoplayerhub.com") ||
