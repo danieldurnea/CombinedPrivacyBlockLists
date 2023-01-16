@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sun Jan 15 09:16:59 AM UTC 2023
+! Updated: Mon Jan 16 12:13:58 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -82297,7 +82297,11 @@ cuevana3.video##iframe[style*="z-index: 2147483647"]
 decrypt.co##.egrgSy
 decrypt.co##[class*="adbutler"]
 democracynow.org###daily_digest_modal
+dextools.io##.ng-star-inserted.row-carousel.row
+dextools.io##.show.fade.modal-backdrop
 dextools.io##app-banner
+dextools.io##app-mobile-app-qr-modal
+dextools.io##ngb-modal-window.show.fade.modal
 divestos.org###bearprompt
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
@@ -82370,6 +82374,8 @@ juicedb.com##.nicotine-warning
 just-watch.club##.show.fade.modal-backdrop
 just-watch.club##.show.modal-activate.fade.modal
 khou.com##[class*="header__tooltip"]
+last.fm##.listening-report-brick--upsell
+last.fm##.nag-bar--new-feature.nag-bar
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
