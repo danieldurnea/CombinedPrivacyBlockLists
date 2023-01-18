@@ -82533,8 +82533,6 @@ website2.me##[id^="ws-side-banner-"]
 yidio.com##.more-info > .horz.question.provider.tt
 yidio.com##.vert.bullets.provider.tt
 zerohedge.com##.Banner_banner__2PJ1Y
-yidio.com##.more-info > .horz.question.provider.tt
-yidio.com##.vert.bullets.provider.tt
 ||20minutes.fr/*ak-ads-adblock.js
 ||22pixx.xyz/l/*
 ||aan.amazon.co.jp^$third-party

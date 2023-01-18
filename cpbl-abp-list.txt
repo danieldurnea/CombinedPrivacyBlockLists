@@ -115729,9 +115729,9 @@ vapordna.com##.top_header_banner > p
 washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
-zerohedge.com##.Banner_banner__2PJ1Y
 yidio.com##.more-info > .horz.question.provider.tt
 yidio.com##.vert.bullets.provider.tt
+zerohedge.com##.Banner_banner__2PJ1Y
 ||20minutes.fr/*ak-ads-adblock.js
 ||22pixx.xyz/l/*
 ||aan.amazon.co.jp^$third-party
