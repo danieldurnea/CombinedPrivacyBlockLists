@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Mon Jan 16 12:13:54 AM UTC 2023
+! Updated: Wed Jan 18 04:47:48 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -173,6 +173,7 @@ juicedb.com##.nicotine-warning
 just-watch.club##.show.fade.modal-backdrop
 just-watch.club##.show.modal-activate.fade.modal
 khou.com##[class*="header__tooltip"]
+last.fm##.auth-dropdown-pro-text.auth-dropdown-menu-item
 last.fm##.listening-report-brick--upsell
 last.fm##.nag-bar--new-feature.nag-bar
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
@@ -329,6 +330,8 @@ washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
 zerohedge.com##.Banner_banner__2PJ1Y
+yidio.com##.more-info > .horz.question.provider.tt
+yidio.com##.vert.bullets.provider.tt
 ||20minutes.fr/*ak-ads-adblock.js
 ||22pixx.xyz/l/*
 ||aan.amazon.co.jp^$third-party
