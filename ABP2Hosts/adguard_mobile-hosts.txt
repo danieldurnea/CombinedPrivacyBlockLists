@@ -1,4 +1,4 @@
-# Sun Jan 15 06:30:10 AM UTC 2023
+# Thu Jan 19 06:31:04 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3532,6 +3532,7 @@
 0.0.0.0 event.inner-active.mobi
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.spotxchange.com
+0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.outbrain.com
@@ -3565,6 +3566,7 @@
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mobile.optimizely.com
+0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.personali.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
@@ -4436,7 +4438,6 @@
 0.0.0.0 irs01.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
-0.0.0.0 isnssdk.com
 0.0.0.0 ispot.tv
 0.0.0.0 it-gmtdmp.mookie1.com
 0.0.0.0 iteratehq.com
@@ -5394,6 +5395,7 @@
 0.0.0.0 offers.propellerads.com
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 olc.yodo1api.com
+0.0.0.0 oldevent.togothermany.com
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omgmta.qq.com
 0.0.0.0 omni-ads.omni.news
@@ -6011,6 +6013,7 @@
 0.0.0.0 quickadsmedia.gotrackier.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
 0.0.0.0 r-ad.ne.jp
+0.0.0.0 r-log.dable.io
 0.0.0.0 r.3gl.net
 0.0.0.0 r.adrta.com
 0.0.0.0 r.browser.miui.com
@@ -6912,6 +6915,9 @@
 0.0.0.0 startapp.com
 0.0.0.0 startappexchange.com
 0.0.0.0 startappservice.com
+0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.oupeng.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.appsgeyser.com
@@ -8078,6 +8084,7 @@
 0.0.0.0 wbn.su
 0.0.0.0 wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 wd.adcolony.xyz
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0 weather-analytics-events.apple.com
