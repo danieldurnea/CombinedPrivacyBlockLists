@@ -1,4 +1,4 @@
-// **** Fri Jan 20 04:50:52 AM UTC 2023
+// **** Fri Jan 20 08:14:10 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.02coverlab.com") ||
