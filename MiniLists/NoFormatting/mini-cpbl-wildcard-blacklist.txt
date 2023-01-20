@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/20/23~05:04:00 -~
+# ~- 01/20/23~08:24:34 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -28478,6 +28478,7 @@
 *.emptyescort.com
 *.emptz.cyou
 *.emqx.anzuinfra.com
+*.emsisoft.bit
 *.emsservice.de
 *.emukentha.xyz
 *.emulatecereal.com
@@ -29112,6 +29113,7 @@
 *.esellerate.net
 *.eservices.lubetech.com
 *.esescvyjtqoda.xyz
+*.esetnod32.bit
 *.esetsupport.info
 *.eshaisib.net
 *.eshaurie.xyz
@@ -32471,6 +32473,7 @@
 *.gammaplatform.com
 *.gan-n.cloud-downloader.com
 *.gandalph3000.com
+*.gandcrab.bit
 *.gande.live
 *.gandrad.org
 *.ganef.live
@@ -42906,6 +42909,7 @@
 *.lentainform.com
 *.lentapronews.com
 *.leo1.leon-de-bruxelles.fr
+*.leomoon.bit
 *.leon-l-atkinson.club
 *.leonab.com
 *.leonbetvouum.com
@@ -44531,6 +44535,7 @@
 *.lookoutboccies.com
 *.lookper.eu
 *.lookrtb.com
+*.lookstat.bit
 *.looksthrilled.com
 *.looktt.xyz
 *.lookujie.net
@@ -50745,6 +50750,7 @@
 *.nomit.live
 *.nomnemtalions.com
 *.nomorepecans.com
+*.nomoreransom.bit
 *.nompakru.click
 *.nonabh.xyz
 *.nonbasekick.com
@@ -68523,6 +68529,7 @@
 *.sysal.cn
 *.sysdmt.com
 *.sysenvfiles.net
+*.sysmonitor.bit
 *.system-analyse.win
 *.system-check.services
 *.system-internals.com
@@ -76478,6 +76485,7 @@
 *.vole.amplenote.com
 *.volna2babla1dh1.com
 *.voloter.top
+*.volstat.bit
 *.volthamfondue.com
 *.voluim.com
 *.volumeearthquakedozen.com
@@ -80672,6 +80680,7 @@
 *.xonyst9.ml
 *.xonyst9.tk
 *.xoom-ads.com
+*.xoonday.bit
 *.xooplo.com
 *.xooseishoh.co.vu
 *.xoq.pmubrasil.com.br

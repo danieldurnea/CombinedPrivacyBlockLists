@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jan 20 04:54:17 AM UTC 2023
+! Updated: Fri Jan 20 08:16:03 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -38908,6 +38908,7 @@
 ||emrahkeskin.com^
 ||emrdnt.sumaity.com^
 ||ems.youku.com^
+||emsisoft.bit^
 ||emsservice.de^
 ||emu.andenglish.co^
 ||emu.blitzpower.com^
@@ -39755,6 +39756,7 @@
 ||eservices.lubetech.com^
 ||esescvyjtqoda.xyz^
 ||eset-affiliate.de^
+||esetnod32.bit^
 ||esetsupport.info^
 ||esfiles.com^
 ||eshaisib.net^
@@ -45384,6 +45386,7 @@
 ||gan-n.cloud-downloader.com^
 ||gandalph3000.com^
 ||gandawati.pw^
+||gandcrab.bit^
 ||gande.live^
 ||gandrad.org^
 ||ganef.live^
@@ -60367,6 +60370,7 @@
 ||leoban.ru^
 ||leoceran.pw^
 ||leokross.com^
+||leomoon.bit^
 ||leon-l-atkinson.club^
 ||leona2.mom^
 ||leonab.com^
@@ -62335,6 +62339,7 @@
 ||lookrtb.com^
 ||looks-picture.com^
 ||looksmart.com^
+||lookstat.bit^
 ||looksthrilled.com^
 ||lookszone.ru^
 ||looktt.xyz^
@@ -71552,6 +71557,7 @@
 ||nomit.live^
 ||nomnemtalions.com^
 ||nomorepecans.com^
+||nomoreransom.bit^
 ||nompakru.click^
 ||nonabh.xyz^
 ||nonamefiles-2sd.site^
@@ -96796,6 +96802,7 @@
 ||sysenvfiles.net^
 ||sysfiles.net^
 ||sysmon.kakaku.com^
+||sysmonitor.bit^
 ||sysomos.com^
 ||system-analyse.win^
 ||system-check.services^
@@ -107982,6 +107989,7 @@
 ||volna2babla1dh1.com^
 ||vologda-info.ru^
 ||voloter.top^
+||volstat.bit^
 ||volthamfondue.com^
 ||voluim.com^
 ||volumeearthquakedozen.com^
@@ -113580,6 +113588,7 @@
 ||xoom-ads.com^
 ||xoomer.alice.it^
 ||xoomer.virgilio.it^
+||xoonday.bit^
 ||xooplo.com^
 ||xoor.ru^
 ||xooseishoh.co.vu^
