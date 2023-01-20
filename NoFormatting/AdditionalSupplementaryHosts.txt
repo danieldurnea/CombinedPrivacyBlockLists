@@ -14906,6 +14906,7 @@
 0.0.0.0 emod.live
 0.0.0.0 empor.live
 0.0.0.0 emptyescort.com
+0.0.0.0 emsisoft.bit
 0.0.0.0 emxdgt.com
 0.0.0.0 en-linea.app
 0.0.0.0 en.ad-stir.com
@@ -15224,6 +15225,7 @@
 0.0.0.0 esdk.data.adobedc.net
 0.0.0.0 esellerate.net
 0.0.0.0 eset.122.2o7.net
+0.0.0.0 esetnod32.bit
 0.0.0.0 esetsupport.info
 0.0.0.0 esg.hitbox.com
 0.0.0.0 eskar.live
@@ -16812,6 +16814,7 @@
 0.0.0.0 gan-n.cloud-downloader.com
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 gandalph3000.com
+0.0.0.0 gandcrab.bit
 0.0.0.0 gande.live
 0.0.0.0 ganef.live
 0.0.0.0 ganer.live
@@ -21619,6 +21622,7 @@
 0.0.0.0 lenovoappssystemupdateprod.112.2o7.net
 0.0.0.0 lenovosimpletapdev.112.2o7.net
 0.0.0.0 lentaru.stat.eagleplatform.com
+0.0.0.0 leomoon.bit
 0.0.0.0 leon-l-atkinson.club
 0.0.0.0 leonab.com
 0.0.0.0 leoorr.cfd
@@ -22589,6 +22593,7 @@
 0.0.0.0 lookdesign.club
 0.0.0.0 looker.adthrive.com
 0.0.0.0 lookper.eu
+0.0.0.0 lookstat.bit
 0.0.0.0 lookup.hitbox.com
 0.0.0.0 loomberge.eu
 0.0.0.0 loon.analogjoe.com
@@ -25480,6 +25485,7 @@
 0.0.0.0 nomid.live
 0.0.0.0 nomis.live
 0.0.0.0 nomit.live
+0.0.0.0 nomoreransom.bit
 0.0.0.0 nonchalantnerve.com
 0.0.0.0 nondescriptcrowd.com
 0.0.0.0 nondescriptsmile.com
@@ -33323,6 +33329,7 @@
 0.0.0.0 syrebod.live
 0.0.0.0 syrian-martyrs.com
 0.0.0.0 syrite.online
+0.0.0.0 sysmonitor.bit
 0.0.0.0 system-analyse.win
 0.0.0.0 system-check.services
 0.0.0.0 system-internals.com
@@ -37321,6 +37328,7 @@
 0.0.0.0 volantix.com
 0.0.0.0 volkswagen.112.2o7.net
 0.0.0.0 volkswagen.122.2o7.net
+0.0.0.0 volstat.bit
 0.0.0.0 voluumtracker.com
 0.0.0.0 volvelle.tech
 0.0.0.0 vomid.live
@@ -40173,6 +40181,7 @@
 0.0.0.0 xonyst9.ml
 0.0.0.0 xonyst9.tk
 0.0.0.0 xoom-ads.com
+0.0.0.0 xoonday.bit
 0.0.0.0 xooseishoh.co.vu
 0.0.0.0 xovilumium.space
 0.0.0.0 xovq5nemr.com
