@@ -161,6 +161,7 @@
 0.0.0.0 138shenbosbo.com
 0.0.0.0 13tabs.com
 0.0.0.0 14b.info
+0.0.0.0 14f03.asset.tradingvein.xyz
 0.0.0.0 14teen.com
 0.0.0.0 15.taboola.com
 0.0.0.0 150601.fc2rs.com
@@ -197,7 +198,6 @@
 0.0.0.0 18teengirl.com
 0.0.0.0 18xtube.com
 0.0.0.0 1910mpa20.ru
-0.0.0.0 19168.asset.tradingvein.xyz
 0.0.0.0 192.168.112.2o7.net
 0.0.0.0 192.168.122.2o7.net
 0.0.0.0 19216801.usite.pro
@@ -206,7 +206,6 @@
 0.0.0.0 19891108.info
 0.0.0.0 19blog.com
 0.0.0.0 1adult.com
-0.0.0.0 1b3f9.asset.tradingvein.xyz
 0.0.0.0 1bet.com
 0.0.0.0 1ca.cqcounter.com
 0.0.0.0 1d9f0a85.ngrok.io
@@ -319,7 +318,6 @@
 0.0.0.0 273625612.netxi.in
 0.0.0.0 289931.com
 0.0.0.0 29730396.ranking.fc2.com
-0.0.0.0 2a136.asset.tradingvein.xyz
 0.0.0.0 2be431d7.ngrok.io
 0.0.0.0 2bunny.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
@@ -519,9 +517,12 @@
 0.0.0.0 55xjxj.com
 0.0.0.0 55xxaa.com
 0.0.0.0 55xxpp.com
+0.0.0.0 56b94.asset.tradingvein.xyz
 0.0.0.0 56ed6ae9.ngrok.io
 0.0.0.0 5754909.com
 0.0.0.0 57883.net
+0.0.0.0 58c94.asset.tradingvein.xyz
+0.0.0.0 5997b.asset.tradingvein.xyz
 0.0.0.0 59cn7.com
 0.0.0.0 5advertise.com
 0.0.0.0 5aef.pw
@@ -561,7 +562,6 @@
 0.0.0.0 66xjxj.com
 0.0.0.0 66xxaa.com
 0.0.0.0 66xxpp.com
-0.0.0.0 698a5.asset.tradingvein.xyz
 0.0.0.0 69boysex.com
 0.0.0.0 69chicks.site
 0.0.0.0 69er.de
@@ -633,7 +633,6 @@
 0.0.0.0 838495sd.duckdns.org
 0.0.0.0 8397396.fls.doubleclick.net
 0.0.0.0 83net.jp
-0.0.0.0 85392.asset.tradingvein.xyz
 0.0.0.0 87w.info
 0.0.0.0 883zy.com
 0.0.0.0 888-vip.net
@@ -9103,7 +9102,6 @@
 0.0.0.0 besuryf.life
 0.0.0.0 besut.live
 0.0.0.0 bet-club.ru
-0.0.0.0 bet-invest.com
 0.0.0.0 bet.122.2o7.net
 0.0.0.0 beta-news.org
 0.0.0.0 beta-one.net
@@ -9346,7 +9344,6 @@
 0.0.0.0 bihers.live
 0.0.0.0 bijers.live
 0.0.0.0 biked.live
-0.0.0.0 bikkviz.com
 0.0.0.0 bikton43.ru
 0.0.0.0 bilal1com.com
 0.0.0.0 bilan.live
@@ -9531,6 +9528,7 @@
 0.0.0.0 bmbux.ir
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
+0.0.0.0 bmn.lpmpbanten.id
 0.0.0.0 bmnr.pw
 0.0.0.0 bmpool.org
 0.0.0.0 bmst.pw
@@ -9608,6 +9606,7 @@
 0.0.0.0 bobyst9.gq
 0.0.0.0 bobyst9.ml
 0.0.0.0 bobyst9.tk
+0.0.0.0 bocasislandexpress.com
 0.0.0.0 bocent.live
 0.0.0.0 bodent.live
 0.0.0.0 boehrahnaprod.112.2o7.net
@@ -11919,7 +11918,6 @@
 0.0.0.0 colompna-youm.ga
 0.0.0.0 colonize.com
 0.0.0.0 colortm.click
-0.0.0.0 colos-software.com
 0.0.0.0 colossalchance.com
 0.0.0.0 colossusssp.com
 0.0.0.0 colovilla.top
@@ -13075,7 +13073,6 @@
 0.0.0.0 davidharvill.org
 0.0.0.0 davidich.life
 0.0.0.0 davidkujawa.com
-0.0.0.0 davidmcguinness.info
 0.0.0.0 dawer.live
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 dawumoe1.xyz
@@ -13651,7 +13648,6 @@
 0.0.0.0 diqp.top
 0.0.0.0 dirajrakhbhae.com
 0.0.0.0 direct-events-collector.spot.im
-0.0.0.0 direct-trojan.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directaclick.com
 0.0.0.0 directads.epom.com
@@ -15756,6 +15752,7 @@
 0.0.0.0 fasertshop.online
 0.0.0.0 fashes.live
 0.0.0.0 fashion4young.de
+0.0.0.0 fashionablylateboutiquellc.com
 0.0.0.0 fasin.live
 0.0.0.0 fast-adv.it
 0.0.0.0 fast-date.site
@@ -17045,6 +17042,7 @@
 0.0.0.0 getyourgiftnow3.blogspot.com
 0.0.0.0 geziyurdu.com
 0.0.0.0 gf.umenglog.com
+0.0.0.0 gfbags.co
 0.0.0.0 gg.net.co
 0.0.0.0 ggbet-login.pl
 0.0.0.0 gghacks.com
@@ -20024,6 +20022,7 @@
 0.0.0.0 jgkxjhx-shoes05.com
 0.0.0.0 jgkxjhx-shoes08.com
 0.0.0.0 jgkxjhx-shoes09.com
+0.0.0.0 jhayesconsulting.com
 0.0.0.0 jhuzw.pw
 0.0.0.0 jicyst.cf
 0.0.0.0 jicyst.gq
@@ -21720,7 +21719,6 @@
 0.0.0.0 licyst8.gq
 0.0.0.0 licyst8.ml
 0.0.0.0 lifamyminaylio.linkpc.net
-0.0.0.0 lifebotl.com
 0.0.0.0 lifeclick.ir
 0.0.0.0 lifeofbeer.ru
 0.0.0.0 lifesuporte.site
@@ -24563,6 +24561,7 @@
 0.0.0.0 multipool.us
 0.0.0.0 multiquicks.net
 0.0.0.0 multiview.122.2o7.net
+0.0.0.0 multivisionapps.com
 0.0.0.0 mumgee.co.za
 0.0.0.0 mun.122.2o7.net
 0.0.0.0 munesdon.top
@@ -26635,6 +26634,7 @@
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 paramountemporium.vip
 0.0.0.0 parcelcreature.com
+0.0.0.0 parcelinvoice.com
 0.0.0.0 parchedangle.com
 0.0.0.0 paret.live
 0.0.0.0 parfaype.xyz
@@ -28141,7 +28141,6 @@
 0.0.0.0 purchasebitcoin.co.uk
 0.0.0.0 purchasesuggestion.com
 0.0.0.0 purpleads.io
-0.0.0.0 purposedesigns.net
 0.0.0.0 pus.inter.cloudns.cc
 0.0.0.0 puserving.com
 0.0.0.0 push-ad.com
@@ -29647,6 +29646,7 @@
 0.0.0.0 royalbankofcanadahelp.com
 0.0.0.0 royalbankservicescheck.com
 0.0.0.0 royalgroup.ga
+0.0.0.0 royalrangerseurope.net
 0.0.0.0 royreid.co.uk
 0.0.0.0 royyu.sbs
 0.0.0.0 rozent.live
@@ -31227,7 +31227,6 @@
 0.0.0.0 skyht.cf
 0.0.0.0 skylink.vn
 0.0.0.0 skymods.net
-0.0.0.0 skynetx.com.br
 0.0.0.0 skyrisecities.com
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
 0.0.0.0 slack-in.advangelists.com
@@ -32918,7 +32917,6 @@
 0.0.0.0 stingtek.com
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 stmp.ad.daum.net
-0.0.0.0 stnicholaschurch.ca
 0.0.0.0 stockbook-ads.firebaseapp.com
 0.0.0.0 stockbook-ads.firebaseio.com
 0.0.0.0 stockingsneeze.com
@@ -36264,6 +36262,7 @@
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 union-tracking.duapps.com
 0.0.0.0 unionn.cfd
+0.0.0.0 unisoftcc.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unitedwebpay.co
 0.0.0.0 uniteti.net
@@ -38872,6 +38871,7 @@
 0.0.0.0 www.alloysteel.ru
 0.0.0.0 www.allpdfmags.net
 0.0.0.0 www.almoeqatar.com
+0.0.0.0 www.amanahfreight.com
 0.0.0.0 www.amateursconvert.com
 0.0.0.0 www.amateursexdvd.com
 0.0.0.0 www.amateursexplace.com
@@ -38973,6 +38973,7 @@
 0.0.0.0 www.besocial.online
 0.0.0.0 www.betcounter.com
 0.0.0.0 www.bioverlag-online.de
+0.0.0.0 www.blinc.ng
 0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blockchained.party
 0.0.0.0 www.blueadss.com
@@ -39212,7 +39213,6 @@
 0.0.0.0 www.getmyads24.com
 0.0.0.0 www.girlporn.ru
 0.0.0.0 www.girlz-high.com
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.globetrotting-culture.ru
 0.0.0.0 www.globusdate.com
 0.0.0.0 www.glopages.ru

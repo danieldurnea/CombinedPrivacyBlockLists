@@ -1,4 +1,4 @@
-# Thu Jan 19 06:54:18 PM UTC 2023
+# Fri Jan 20 04:41:37 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -502,6 +502,7 @@
 0.0.0.0 24newstech.com
 0.0.0.0 24s1b0et1.de
 0.0.0.0 24x7adservice.com
+0.0.0.0 24x7report.com
 0.0.0.0 250f0ma86.de
 0.0.0.0 2526game.com
 0.0.0.0 2534.notify.optimizesrv.com
@@ -2253,6 +2254,7 @@
 0.0.0.0 9c40a04e9732e6a6.com
 0.0.0.0 9c56fb6868.com
 0.0.0.0 9cd76b4462bb.com
+0.0.0.0 9cgms.xyz
 0.0.0.0 9content.com
 0.0.0.0 9d36cf3402.com
 0.0.0.0 9dmnv9z0gtoh.com
@@ -5694,6 +5696,7 @@
 0.0.0.0 affinity.com
 0.0.0.0 affiz.net
 0.0.0.0 afflat3a1.com
+0.0.0.0 afflat3e1.com
 0.0.0.0 affluencesoap.com
 0.0.0.0 affluentlathe.com
 0.0.0.0 affluentmirth.com
@@ -11030,6 +11033,7 @@
 0.0.0.0 cardinal.ensembleblock.com
 0.0.0.0 cardinal.iwgb.org.uk
 0.0.0.0 cardiwersg.com
+0.0.0.0 cardloomed.com
 0.0.0.0 care.stlukes-stl.com
 0.0.0.0 careerjournalonline.com
 0.0.0.0 careers.coniferhealth.com
@@ -11990,6 +11994,7 @@
 0.0.0.0 clearningseri.xyz
 0.0.0.0 clearonclick.com
 0.0.0.0 clementmeddling.com
+0.0.0.0 clentrk.com
 0.0.0.0 clergymanwonderful.com
 0.0.0.0 clerrrep.com
 0.0.0.0 cleverjump.org
@@ -12269,6 +12274,7 @@
 0.0.0.0 cloudcdn.ml
 0.0.0.0 cloudcnfare.com
 0.0.0.0 cloudconf.fengkongcloud.com
+0.0.0.0 clouddecrease.com
 0.0.0.0 clouddream.ltd
 0.0.0.0 cloudflare.solutions
 0.0.0.0 cloudfrale.com
@@ -14046,6 +14052,7 @@
 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net
 0.0.0.0 d1ybdlg8aoufn.cloudfront.net
 0.0.0.0 d1yt8zt4633tzi.cloudfront.net
+0.0.0.0 d1ytalcrl612d7.cloudfront.net
 0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
@@ -19312,6 +19319,7 @@
 0.0.0.0 enoughts.info
 0.0.0.0 enrilov.info
 0.0.0.0 enrobeddhuti.space
+0.0.0.0 enroes.com
 0.0.0.0 enrosr.cn
 0.0.0.0 ens-orlet.activate.ensighten.com
 0.0.0.0 ens.luzernerzeitung.ch
@@ -19600,6 +19608,7 @@
 0.0.0.0 ets.easybrain.com
 0.0.0.0 ets.ni.com
 0.0.0.0 ettilt.com
+0.0.0.0 ettjvrjujt.xyz
 0.0.0.0 ettlingnidana.com
 0.0.0.0 etxggi.cn
 0.0.0.0 etyequiremuk.work
@@ -19844,6 +19853,7 @@
 0.0.0.0 exceedinglydiscovered.com
 0.0.0.0 excellenceads.com
 0.0.0.0 excellernod.xyz
+0.0.0.0 exceph.com
 0.0.0.0 exceptexchange.com
 0.0.0.0 exchak.com
 0.0.0.0 exchange-traffic.com
@@ -20295,6 +20305,7 @@
 0.0.0.0 fd7c.com
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fdasew.top
+0.0.0.0 fdbskb.cn
 0.0.0.0 fdc.my0511.com
 0.0.0.0 fddf7d58ea.com
 0.0.0.0 fde1403147.com
@@ -20508,6 +20519,7 @@
 0.0.0.0 fiinann.com
 0.0.0.0 fijekone.com
 0.0.0.0 fikccnef.top
+0.0.0.0 filchimpossible.com
 0.0.0.0 filegrab.xyz
 0.0.0.0 filehosttds.ru
 0.0.0.0 fileqn.pw
@@ -22744,6 +22756,7 @@
 0.0.0.0 grudreeb.com
 0.0.0.0 grumblecrytopless.com
 0.0.0.0 grunoaph.net
+0.0.0.0 grupif.com
 0.0.0.0 gruponn.com
 0.0.0.0 gruschiwere.com
 0.0.0.0 grusifof.com
@@ -24001,6 +24014,7 @@
 0.0.0.0 hr.promo.skf.com
 0.0.0.0 hr44.com
 0.0.0.0 hrahdmon.com
+0.0.0.0 hreerfdfgourg.com.ua
 0.0.0.0 hrmationeng.xyz
 0.0.0.0 hrptaxegfly.com
 0.0.0.0 hrrbc.top
@@ -26311,6 +26325,7 @@
 0.0.0.0 jkvbiry.cn
 0.0.0.0 jkxtd77.com
 0.0.0.0 jkxty.mobi
+0.0.0.0 jkxvvv.xyz
 0.0.0.0 jl1130.com
 0.0.0.0 jldbnjghezv.com
 0.0.0.0 jldtlh.fashionnova.com
@@ -27456,6 +27471,7 @@
 0.0.0.0 kvhcc.com
 0.0.0.0 kvhfff.top
 0.0.0.0 kvhttt.top
+0.0.0.0 kvjkkwyomjrx.com
 0.0.0.0 kvkaa.com
 0.0.0.0 kvkddd.top
 0.0.0.0 kvkggg.top
@@ -27756,6 +27772,7 @@
 0.0.0.0 latvianswived.com
 0.0.0.0 latvik.com
 0.0.0.0 laufonie.net
+0.0.0.0 laugoust.com
 0.0.0.0 laugue.com
 0.0.0.0 lauhefoo.com
 0.0.0.0 lauhoosh.net
@@ -34172,6 +34189,7 @@
 0.0.0.0 oqsujyxbsl.xyz
 0.0.0.0 oqtusbgdeoshoc.com
 0.0.0.0 orahmaggi.xyz
+0.0.0.0 oralmaliciousmonday.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orangutan.equaliteam.com
@@ -34792,6 +34810,7 @@
 0.0.0.0 panyh123456.cn
 0.0.0.0 panyinadiin.xyz
 0.0.0.0 paohao.com
+0.0.0.0 paongfh.cn
 0.0.0.0 papaneecorche.com
 0.0.0.0 papathp.cn
 0.0.0.0 papawrefits.com
@@ -36716,6 +36735,7 @@
 0.0.0.0 protally.net
 0.0.0.0 protawe.com
 0.0.0.0 protect-your-privacy.net
+0.0.0.0 protectedpeat.com
 0.0.0.0 protectheader.com
 0.0.0.0 protecthumor.com
 0.0.0.0 protectionabate.com
@@ -37635,6 +37655,7 @@
 0.0.0.0 qvzrde.mensagenscomamor.com
 0.0.0.0 qwa3ldhn9u0t.com
 0.0.0.0 qwadakesy.cyou
+0.0.0.0 qwcqqw.xyz
 0.0.0.0 qwe0231141.bj.bcebos.com
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwertytracks.com
@@ -37642,6 +37663,7 @@
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 0.0.0.0 qwogldy.top
 0.0.0.0 qwqbms.connections.be
+0.0.0.0 qwrot.cyou
 0.0.0.0 qwsad.com
 0.0.0.0 qx0.xnxxtubevideos.com
 0.0.0.0 qx3g.top
@@ -40478,6 +40500,7 @@
 0.0.0.0 semirawbatter.com
 0.0.0.0 sempcxjajh.com
 0.0.0.0 semsicou.net
+0.0.0.0 semupgrjbnlhi.com
 0.0.0.0 send-news.net
 0.0.0.0 sendmepush.com
 0.0.0.0 sength.com
@@ -43542,6 +43565,7 @@
 0.0.0.0 speciadnessing.pro
 0.0.0.0 special-offers.online
 0.0.0.0 special-promotions.online
+0.0.0.0 special-trending-news.com
 0.0.0.0 special.kvetinyexpres.cz
 0.0.0.0 specialadves.com
 0.0.0.0 specialfox.cool
@@ -43585,6 +43609,7 @@
 0.0.0.0 spidersmerithenceforward.com
 0.0.0.0 spidersprimary.com
 0.0.0.0 spiegel.met.vgwort.de
+0.0.0.0 spikethat.xyz
 0.0.0.0 spikscabrin.com
 0.0.0.0 spinaleighth.com
 0.0.0.0 spinalmultiple.com
@@ -46259,6 +46284,7 @@
 0.0.0.0 t22g.icu
 0.0.0.0 t2lgo.com
 0.0.0.0 t34kk9.top
+0.0.0.0 t3p58.com
 0.0.0.0 t4sb9dq7.site
 0.0.0.0 t570.wiltonbulletin.com
 0.0.0.0 t5lxz7dtq4iz.com
@@ -49440,6 +49466,7 @@
 0.0.0.0 trafficinvest.com
 0.0.0.0 trafficlide.com
 0.0.0.0 trafficmagnates.com
+0.0.0.0 trafficmediaareus.com
 0.0.0.0 trafficmoon.com
 0.0.0.0 trafficmoose.com
 0.0.0.0 trafficportsrv.com
@@ -50624,6 +50651,7 @@
 0.0.0.0 uogqym.christopherandbanks.com
 0.0.0.0 uogrvci.cn
 0.0.0.0 uolwbz.heine.de
+0.0.0.0 uomsogicgi.com
 0.0.0.0 uongsona.uno
 0.0.0.0 uongsono.uno
 0.0.0.0 uorlsblg.cyou
@@ -51126,6 +51154,7 @@
 0.0.0.0 vertoz.com
 0.0.0.0 very010.com
 0.0.0.0 verycleaner.cn
+0.0.0.0 veryinterestvids.xyz
 0.0.0.0 veryn1ce.com
 0.0.0.0 verytransions.xyz
 0.0.0.0 vesdsp.com
@@ -52876,6 +52905,7 @@
 0.0.0.0 wr.yiyouliao.com
 0.0.0.0 wrathfultower.pro
 0.0.0.0 wreathabble.com
+0.0.0.0 wreckergaboon.com
 0.0.0.0 wreckgroupads.com
 0.0.0.0 wretchauraflirt.com
 0.0.0.0 wrfgenwgdfi.xyz
@@ -53885,6 +53915,7 @@
 0.0.0.0 xqgwymog.xyz
 0.0.0.0 xqmyebdrunebsh.xyz
 0.0.0.0 xqoekp.cn
+0.0.0.0 xqrykosuvwibnw.com
 0.0.0.0 xqtcur.kirklands.com
 0.0.0.0 xqzlgbbe.com
 0.0.0.0 xqzzl1l.cn
@@ -54267,6 +54298,7 @@
 0.0.0.0 yfunkgk.cn
 0.0.0.0 yfupfhqxmwvu.com
 0.0.0.0 yfygs.cn
+0.0.0.0 ygamey.com
 0.0.0.0 ygcn.ltd
 0.0.0.0 ygfjy.top
 0.0.0.0 yggkzs.cn
@@ -54286,6 +54318,7 @@
 0.0.0.0 yhhthemostb.xyz
 0.0.0.0 yhilnc.cn
 0.0.0.0 yhjccj.cn
+0.0.0.0 yhjh04.com
 0.0.0.0 yhkiain.cn
 0.0.0.0 yhkt.online
 0.0.0.0 yhp4an7.cn
@@ -54953,6 +54986,7 @@
 0.0.0.0 zeypreland.com
 0.0.0.0 zferral.com
 0.0.0.0 zfood029.com
+0.0.0.0 zfopakkt.com
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zgbtw.mobi
 0.0.0.0 zgchaye123.com
