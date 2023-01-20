@@ -13,13 +13,10 @@
 0.0.0.0 1-verygoods.ru
 0.0.0.0 100-escorts.com
 0.0.0.0 1001openingstijden.nl
-0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
-0.0.0.0 11.gddx1.crsky.com
 0.0.0.0 1105governmentinformationgroup.122.2o7.net
 0.0.0.0 114oldest.com
 0.0.0.0 121-sex-toys.co.uk
 0.0.0.0 123-jewelry-store.com
-0.0.0.0 123.8w8w8w.com.cn
 0.0.0.0 123mdw.com
 0.0.0.0 123sheying.com
 0.0.0.0 125jia.cn
@@ -250,7 +247,6 @@
 0.0.0.0 ahbazen.net
 0.0.0.0 ahbddp.com
 0.0.0.0 ahmedshow.com
-0.0.0.0 ahmkfi.best.volyn.ua
 0.0.0.0 ahtiagge.ru
 0.0.0.0 ahukyh.cn
 0.0.0.0 aikyu.ru
@@ -493,7 +489,6 @@
 0.0.0.0 before-this-life.ru
 0.0.0.0 beidzan.com
 0.0.0.0 belaruskabel.ru
-0.0.0.0 beldiplomcom.75.com1.ru
 0.0.0.0 bendelsa.com
 0.0.0.0 bengchivv.cn
 0.0.0.0 bengchizz.cn
@@ -735,7 +730,6 @@
 0.0.0.0 cg79wo20kl92doowfn01oqpo9mdieowv5tyj.com
 0.0.0.0 cgispy.com
 0.0.0.0 cgmdp.com
-0.0.0.0 cgtgwa.best.lt.ua
 0.0.0.0 cgwx.info
 0.0.0.0 chadon.nl
 0.0.0.0 cheapscannerprotectionxp.com
@@ -775,7 +769,6 @@
 0.0.0.0 click79.com
 0.0.0.0 clickideaonline.com
 0.0.0.0 clickmeter.ru
-0.0.0.0 clicksor-com.eastmoney.com.mobile-de.homesaleplus.ru
 0.0.0.0 clicksor.com
 0.0.0.0 cliqe.ru
 0.0.0.0 cltmusic.com
@@ -1049,7 +1042,6 @@
 0.0.0.0 dragosimport.com
 0.0.0.0 dreampics.biz
 0.0.0.0 drelshazly.com
-0.0.0.0 driver.ckbs.onestopfile.co.kr
 0.0.0.0 drjaykimacademy.com
 0.0.0.0 drmpeter.com
 0.0.0.0 drprikol.narod.ru
@@ -1642,7 +1634,6 @@
 0.0.0.0 hznverhong.com
 0.0.0.0 i-cooker.com
 0.0.0.0 i-leading.com
-0.0.0.0 iam.best.lt.ua
 0.0.0.0 iamagameaddict.com
 0.0.0.0 ibeap.ru
 0.0.0.0 ibookschool.co.kr
@@ -1714,8 +1705,6 @@
 0.0.0.0 investmentsforlifegroup.com
 0.0.0.0 invoice-myups.org
 0.0.0.0 invoicingcake.ru
-0.0.0.0 ip-182-50-129-164.ip.secureserver.net
-0.0.0.0 ip-182-50-129-181.ip.secureserver.net
 0.0.0.0 iphoneintroduce.com
 0.0.0.0 ipl.hk
 0.0.0.0 ipl.t-liga.ru
@@ -1818,7 +1807,6 @@
 0.0.0.0 juedische-kammerphilharmonie.de
 0.0.0.0 juicypussyclips.com
 0.0.0.0 julis-sb.de
-0.0.0.0 junggomania.nefficient.co.kr
 0.0.0.0 junsunlighting.com
 0.0.0.0 jureetse.ru
 0.0.0.0 just-for-style.omur71.ru
@@ -1871,7 +1859,6 @@
 0.0.0.0 kkokkoyaa.com
 0.0.0.0 kkxv.in
 0.0.0.0 klaratsetkin.info
-0.0.0.0 klwines.com.order.complete.prysmm.net
 0.0.0.0 kmqwe.in
 0.0.0.0 knittingnet.cn
 0.0.0.0 kntyisivtuitbuilde.brightfuture.biz
@@ -2317,7 +2304,6 @@
 0.0.0.0 nordavind.syzran.ru
 0.0.0.0 nordiccountry.cz
 0.0.0.0 nortonfire.co.uk
-0.0.0.0 notebookservisru.161.com1.ru
 0.0.0.0 notentop.com
 0.0.0.0 nottheskynews.com
 0.0.0.0 noveltyship.com
@@ -2382,7 +2368,6 @@
 0.0.0.0 okeanbg.com
 0.0.0.0 oknarai.ru
 0.0.0.0 oktatasicentrum.uw.hu
-0.0.0.0 old.yesmeskin.co.kr
 0.0.0.0 oldicbrnevents.com
 0.0.0.0 olivier.goetz.free.fr
 0.0.0.0 olo21.ovh.org
@@ -2424,7 +2409,6 @@
 0.0.0.0 oshoo.iptvdeals.com
 0.0.0.0 osmos-android.org
 0.0.0.0 osmuryf.ru
-0.0.0.0 ot.track.222odb.com
 0.0.0.0 otdacham.ru
 0.0.0.0 otylkaaotesanek.cz
 0.0.0.0 oufc.in
@@ -3153,9 +3137,7 @@
 0.0.0.0 szflw.com
 0.0.0.0 szftlaser.com
 0.0.0.0 szinhaz.hu
-0.0.0.0 sznaucer-figa.nd.e-wro.pl
 0.0.0.0 sznm.com.cn
-0.0.0.0 t5gwervwfewrferf.co.at.nr
 0.0.0.0 t6ryt56.info
 0.0.0.0 tabatti.com
 0.0.0.0 tabex.sopharma.bg
@@ -3428,7 +3410,6 @@
 0.0.0.0 uduoduo.com
 0.0.0.0 uebelacker.makemoneywithmegan.net
 0.0.0.0 uegnytqslcm.myfw.us
-0.0.0.0 ufudf8fjoidiosoi.co.at.nr
 0.0.0.0 uglyas.com
 0.0.0.0 ugnyspyr.ru
 0.0.0.0 uin1.cn
@@ -3452,8 +3433,6 @@
 0.0.0.0 up.mykings.pw
 0.0.0.0 updat120.clanteam.com
 0.0.0.0 update.51edm.net
-0.0.0.0 update.autocleaner.co.kr
-0.0.0.0 update.vaccinehelper.co.kr
 0.0.0.0 updatedate.cn
 0.0.0.0 updatenowpro.com
 0.0.0.0 updo.nl
@@ -3711,7 +3690,6 @@
 0.0.0.0 www.family-partners.fr
 0.0.0.0 www.fasadobygg.com
 0.0.0.0 www.feiyang163.com
-0.0.0.0 www.fiduciariobajio.com.mx
 0.0.0.0 www.flowtec.com.br
 0.0.0.0 www.fotoidea.com
 0.0.0.0 www.freemao.com
@@ -3780,7 +3758,6 @@
 0.0.0.0 www.perupuntocom.com
 0.0.0.0 www.petpleasers.ca
 0.0.0.0 www.pgathailand.com
-0.0.0.0 www.pieiron.co.uk
 0.0.0.0 www.poricaci.wz.cz
 0.0.0.0 www.professionalblackbook.com
 0.0.0.0 www.profill-smd.com
@@ -3813,7 +3790,6 @@
 0.0.0.0 www.sj88.com
 0.0.0.0 www.skycity.com.tw
 0.0.0.0 www.slimming21cn.com
-0.0.0.0 www.slivki.com.ua
 0.0.0.0 www.smartscan.ro
 0.0.0.0 www.solo-juegos.com
 0.0.0.0 www.sonnoli.com
@@ -3827,7 +3803,6 @@
 0.0.0.0 www.t-gas.co.uk
 0.0.0.0 www.taichang.co.kr
 0.0.0.0 www.tangibledownload.com
-0.0.0.0 www.tdms.saglik.gov.tr
 0.0.0.0 www.technix.it
 0.0.0.0 www.thereefrestaurant.com
 0.0.0.0 www.thesparkmachine.com
@@ -3843,7 +3818,6 @@
 0.0.0.0 www.uriyuri.com
 0.0.0.0 www.usaenterprise.com
 0.0.0.0 www.v3club.net
-0.0.0.0 www.valhallarisingthemovie.co.uk
 0.0.0.0 www.vertourmer.com
 0.0.0.0 www.victory.com.pl
 0.0.0.0 www.vinyljazzrecords.com
@@ -3891,7 +3865,6 @@
 0.0.0.0 xhdz.net
 0.0.0.0 xiamenoa.com
 0.0.0.0 xiaoyiwan.com
-0.0.0.0 xiazai.rilibiao.com.cn
 0.0.0.0 xifpnixy.cz.cc
 0.0.0.0 xindalawyer.com
 0.0.0.0 xinhuacybz.com
@@ -3979,7 +3952,6 @@
 0.0.0.0 yusungtech.co.kr
 0.0.0.0 ywzjvqssv.myfw.us
 0.0.0.0 yxkgtyqmz.myfw.us
-0.0.0.0 yxwnst.best.lt.ua
 0.0.0.0 z360.net
 0.0.0.0 zaefofin.ru
 0.0.0.0 zamhuxnh.cz.cc
