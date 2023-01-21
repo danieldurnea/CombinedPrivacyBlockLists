@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Jan 18 10:17:24 PM UTC 2023
+! Updated: Sat Jan 21 06:21:29 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -308,6 +308,7 @@ theblockcrypto.com##.modal-body
 theblockcrypto.com##.modal-body-content
 theblockcrypto.com##.modal-container
 theblockcrypto.com##.modal-retainer
+theregister.com##[src*="typeform.com"]
 thrillist.com##[class*="RecommendedVideostyles"]
 timesofisrael.com##.join-community-banner.join-community
 indiatimes.com##.react-draggable-dragged
@@ -417,6 +418,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/sw.js$script,domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
+||typeform.com$domain=theregister.com
 ||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ###ad-container
 ###ads_bottom
