@@ -1,4 +1,4 @@
-# Fri Jan 20 04:42:04 AM UTC 2023
+# Sat Jan 21 12:46:22 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -303,6 +303,7 @@
 0.0.0.0 1111supjavcom.xyz
 0.0.0.0 1118cctv.ltd
 0.0.0.0 111supjav.xyz
+0.0.0.0 1129555.com
 0.0.0.0 1133.cc
 0.0.0.0 1134555.com
 0.0.0.0 1138555.com
@@ -314,6 +315,7 @@
 0.0.0.0 118114.cn
 0.0.0.0 1188.com
 0.0.0.0 118bfe5b01.com
+0.0.0.0 1190555.com
 0.0.0.0 11959579.fun.joyrun.com
 0.0.0.0 1198194.com
 0.0.0.0 119xiazai.com
@@ -849,6 +851,7 @@
 0.0.0.0 360yield-basic.com
 0.0.0.0 362728tdg.com
 0.0.0.0 362b643a66026e.com
+0.0.0.0 3633a.com
 0.0.0.0 363lm.com
 0.0.0.0 364a426c46.com
 0.0.0.0 36500.net
@@ -1628,6 +1631,7 @@
 0.0.0.0 8429a46b31.com
 0.0.0.0 843acfbeb0.com
 0.0.0.0 8456.xyz
+0.0.0.0 8499136.com
 0.0.0.0 8499683.com
 0.0.0.0 84a196ebc5.com
 0.0.0.0 84d5acbe01.com
@@ -8712,6 +8716,7 @@
 0.0.0.0 bmcdn2.com
 0.0.0.0 bmcdn3.com
 0.0.0.0 bmcdn4.com
+0.0.0.0 bmcdn5.com
 0.0.0.0 bmcm.pw
 0.0.0.0 bme9usxpo.tech
 0.0.0.0 bmjs.xzw.com
@@ -8866,6 +8871,7 @@
 0.0.0.0 bookljlihooli.com
 0.0.0.0 bookmsg.com
 0.0.0.0 booknower.com
+0.0.0.0 bookodus.xyz
 0.0.0.0 booleanfalces.website
 0.0.0.0 boolff.com
 0.0.0.0 boom-boom-vroom.com
@@ -12590,6 +12596,7 @@
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
+0.0.0.0 d370hf5nfmhbjy.cloudfront.net
 0.0.0.0 d37aacdbcc.com
 0.0.0.0 d37abonb6ucrhx.cloudfront.net
 0.0.0.0 d37pempw0ijqri.cloudfront.net
@@ -14899,6 +14906,7 @@
 0.0.0.0 e5bbd2cdb0.com
 0.0.0.0 e5obq1v261.www.lurkit.com
 0.0.0.0 e5web.com.br
+0.0.0.0 e5z14.icu
 0.0.0.0 e62ndy5gz80q.bitdomain.biz
 0.0.0.0 e67df3f29d.com
 0.0.0.0 e67repidwnfu7gcha.com
@@ -17761,6 +17769,7 @@
 0.0.0.0 fz8g.top
 0.0.0.0 fzb5.laboratoire-giphar.fr
 0.0.0.0 fzbjzlwcnd.com
+0.0.0.0 fzbkgni.cn
 0.0.0.0 fzckwij.cn
 0.0.0.0 fzexkf.drogaraia.com.br
 0.0.0.0 fzgpzp.opodo.de
@@ -18334,6 +18343,7 @@
 0.0.0.0 giotlsi.cn
 0.0.0.0 giotyo.com
 0.0.0.0 gipostart-1.co
+0.0.0.0 gipozgcz.com
 0.0.0.0 girdlespittle.com
 0.0.0.0 girise.com
 0.0.0.0 girklr.cn
@@ -18361,6 +18371,7 @@
 0.0.0.0 gizzenaceric.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gjeonh.cn
+0.0.0.0 gjlywuwpsv.com
 0.0.0.0 gjohvhf.cn
 0.0.0.0 gjonfartyb.com
 0.0.0.0 gjr.ink
@@ -18629,6 +18640,7 @@
 0.0.0.0 go.unitusccu.com
 0.0.0.0 go.uscad.com
 0.0.0.0 go.ustruckbody.com
+0.0.0.0 go0gl3.pages.dev
 0.0.0.0 go2.global
 0.0.0.0 go2.ringcentral.com
 0.0.0.0 go2affise.com
@@ -19083,6 +19095,7 @@
 0.0.0.0 gueur.com
 0.0.0.0 gueurs.com
 0.0.0.0 guffawdecipher.com
+0.0.0.0 guge.red
 0.0.0.0 gugulm.net
 0.0.0.0 guidepointglobal.actonservice.com
 0.0.0.0 guigankj.cn
@@ -19323,6 +19336,7 @@
 0.0.0.0 hamletuponcontribute.com
 0.0.0.0 hamphlete.com
 0.0.0.0 hamply.com
+0.0.0.0 hamsterglobins.com
 0.0.0.0 hamusprecony.com
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 hanata.pp.ua
@@ -19514,6 +19528,7 @@
 0.0.0.0 hconsukulti.co
 0.0.0.0 hcowzr7dedquas.ru
 0.0.0.0 hcqsuqq.cn
+0.0.0.0 hcritiesec.xyz
 0.0.0.0 hcthguce.xyz
 0.0.0.0 hcwljy.com
 0.0.0.0 hd.pe.fr
@@ -19673,6 +19688,7 @@
 0.0.0.0 hentaibiz.com
 0.0.0.0 hentaionline.net
 0.0.0.0 heodeidsoanadthe.info
+0.0.0.0 hepare.com
 0.0.0.0 hepburn.net.cn
 0.0.0.0 heqishengcai1006.xyz
 0.0.0.0 heratheacle.com
@@ -20408,6 +20424,7 @@
 0.0.0.0 husuko.xyz
 0.0.0.0 hutabsolutionsubdivide.com
 0.0.0.0 hutati.com
+0.0.0.0 hutremindbond.com
 0.0.0.0 huuyluwjkyd.xyz
 0.0.0.0 huxnbnk.cn
 0.0.0.0 huyc.info
@@ -21054,6 +21071,7 @@
 0.0.0.0 indiamarriagebureau.in
 0.0.0.0 indianjewellery.art
 0.0.0.0 indianwomencinematographervijayasri.com
+0.0.0.0 indicatordevotedriver.com
 0.0.0.0 indictmentspan.com
 0.0.0.0 indictmentvehemently.com
 0.0.0.0 indictoutgain.com
@@ -22508,6 +22526,7 @@
 0.0.0.0 juxuyun.com
 0.0.0.0 juyiqiche.com.cn
 0.0.0.0 juyqiolna.cyou
+0.0.0.0 juzwrl.xyz
 0.0.0.0 jvpook.cn
 0.0.0.0 jvrwil.gabor.de
 0.0.0.0 jvvuwaksbdllfes.xyz
@@ -25114,6 +25133,7 @@
 0.0.0.0 mao1.jsnovel.com
 0.0.0.0 maobujie.com
 0.0.0.0 maodz.cn
+0.0.0.0 maonderndbeco.com.ua
 0.0.0.0 maoyumao.net
 0.0.0.0 mapaupotting.com
 0.0.0.0 mapekony.com
@@ -25905,6 +25925,7 @@
 0.0.0.0 memopilot.com
 0.0.0.0 memorandumdismissquietly.com
 0.0.0.0 memorycobweb.com
+0.0.0.0 memunjcvfv.xyz
 0.0.0.0 menato.ru
 0.0.0.0 mendir.ru
 0.0.0.0 mendoledresden.com
@@ -26497,6 +26518,7 @@
 0.0.0.0 mickeysdim.com
 0.0.0.0 micpn.com
 0.0.0.0 micreative-china.cn
+0.0.0.0 micrhfk.cn
 0.0.0.0 microad.net
 0.0.0.0 microadinc.com
 0.0.0.0 microads.ru
@@ -27740,6 +27762,7 @@
 0.0.0.0 nextstrategie.com
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 neyhdjwpumivpa.com
+0.0.0.0 nezuel.com
 0.0.0.0 nfcrxfkbhuwrnrt.xyz
 0.0.0.0 nffxqi.jorgebischoff.com.br
 0.0.0.0 nffyghbliml.xyz
@@ -29430,6 +29453,7 @@
 0.0.0.0 ozowis.ledger.com
 0.0.0.0 ozqae.xyz
 0.0.0.0 ozvlyz.justmusic.de
+0.0.0.0 ozwtasocx.com
 0.0.0.0 ozzkutkadaj.com
 0.0.0.0 p-analytics.life
 0.0.0.0 p-log.ykimg.com
@@ -29632,6 +29656,7 @@
 0.0.0.0 papunk.com
 0.0.0.0 paqpq.com
 0.0.0.0 parachuteeffectedotter.com
+0.0.0.0 paradisemall.net
 0.0.0.0 paradisetits.ru
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parallel.rockvideos.at
@@ -29994,6 +30019,7 @@
 0.0.0.0 persesgnetum.com
 0.0.0.0 persistentadequate.com
 0.0.0.0 perso.aws.arc.pub
+0.0.0.0 persprovath.xyz
 0.0.0.0 perstago.pro
 0.0.0.0 persuadesock.com
 0.0.0.0 persuadesupport.com
@@ -31791,6 +31817,7 @@
 0.0.0.0 qgbtd.com
 0.0.0.0 qgcbht.xyz
 0.0.0.0 qgdvyvd.cn
+0.0.0.0 qgermm.xyz
 0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qgfdqjf.cn
 0.0.0.0 qgfwets.cn
@@ -37505,6 +37532,7 @@
 0.0.0.0 ssite.johnlewis.com
 0.0.0.0 ssite.johnlewisfinance.com
 0.0.0.0 ssite.waitrose.com
+0.0.0.0 ssjiancai.com
 0.0.0.0 ssjy.shop
 0.0.0.0 sskmnews.pro
 0.0.0.0 ssl-services.com
@@ -39216,6 +39244,7 @@
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
 0.0.0.0 tag.goldenbees.fr
+0.0.0.0 tag.imagino.com
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
@@ -39550,6 +39579,7 @@
 0.0.0.0 teambetaffiliates.com
 0.0.0.0 teamsperilous.com
 0.0.0.0 tearingflickermeaning.com
+0.0.0.0 tearingreasoningempower.com
 0.0.0.0 tearpilotzoo.com
 0.0.0.0 teasacomsys.xyz
 0.0.0.0 teaser-goods.ru
@@ -40160,6 +40190,7 @@
 0.0.0.0 tjiaa.com
 0.0.0.0 tjisenap.com
 0.0.0.0 tjqonline.cn
+0.0.0.0 tjxafmo.cn
 0.0.0.0 tjyrup.templeandwebster.com.au
 0.0.0.0 tjys88.com
 0.0.0.0 tk.504pk.com
@@ -42074,6 +42105,7 @@
 0.0.0.0 twittad.com
 0.0.0.0 twiz.wizaly.fr
 0.0.0.0 twkbui.mansion-review.jp
+0.0.0.0 twlcyc.cn
 0.0.0.0 twn2e.cn
 0.0.0.0 twn36gx4109r.loveisblank.com
 0.0.0.0 twnb.xyz
@@ -42148,6 +42180,7 @@
 0.0.0.0 tzjovzs.cn
 0.0.0.0 tzlit.cn
 0.0.0.0 tzngisyi.xyz
+0.0.0.0 tzsvodu.cn
 0.0.0.0 tzwaw.pw
 0.0.0.0 u-q.net.cn
 0.0.0.0 u.63kc.com
@@ -44785,6 +44818,7 @@
 0.0.0.0 wreckvolcano.com
 0.0.0.0 wregf.biz
 0.0.0.0 wren.condenastdigital.com
+0.0.0.0 wrenchsound.store
 0.0.0.0 wretchauraflirt.com
 0.0.0.0 wrfgenwgdfi.xyz
 0.0.0.0 wrient.com
@@ -45427,6 +45461,7 @@
 0.0.0.0 wzngisye.xyz
 0.0.0.0 wzogiwfapo.com
 0.0.0.0 wzqbte.xyz
+0.0.0.0 wzrdbwf.cn
 0.0.0.0 wzsygdl.com
 0.0.0.0 wzuisptxzqbb.com
 0.0.0.0 x-adservice.com
