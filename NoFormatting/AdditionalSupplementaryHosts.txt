@@ -8035,6 +8035,7 @@
 0.0.0.0 asq.ezakus.net
 0.0.0.0 asset.adserver.vrizead.com
 0.0.0.0 asset.adxplay.com
+0.0.0.0 asset.tradingvein.xyz
 0.0.0.0 assetdtmamcom.112.2o7.net
 0.0.0.0 assetdtmewm.112.2o7.net
 0.0.0.0 assetknowledgeregret.com
