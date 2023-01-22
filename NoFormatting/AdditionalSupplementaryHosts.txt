@@ -35,6 +35,7 @@
 0.0.0.0 0azx1.com
 0.0.0.0 0b8a67f7.ngrok.io
 0.0.0.0 0dax.com
+0.0.0.0 0f891.asset.tradingvein.xyz
 0.0.0.0 0hh0.ru
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0lovespells0.blogspot.com
@@ -61,7 +62,6 @@
 0.0.0.0 1.153.cc
 0.0.0.0 1.cramssdeleviesor.co.cc
 0.0.0.0 10.afs.googleadservices.com
-0.0.0.0 10.rasif.xyz
 0.0.0.0 100008436.collect.igodigital.com
 0.0.0.0 10000hai.com
 0.0.0.0 10000verges.free.fr
@@ -160,7 +160,6 @@
 0.0.0.0 138shenbosbo.com
 0.0.0.0 13tabs.com
 0.0.0.0 14b.info
-0.0.0.0 14f03.asset.tradingvein.xyz
 0.0.0.0 14teen.com
 0.0.0.0 15.taboola.com
 0.0.0.0 150601.fc2rs.com
@@ -322,6 +321,7 @@
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
 0.0.0.0 2daytrendingnews.com
 0.0.0.0 2efs.pw
+0.0.0.0 2fgithub.com
 0.0.0.0 2gay.net
 0.0.0.0 2giga.download
 0.0.0.0 2girls1cumshot.com
@@ -515,12 +515,9 @@
 0.0.0.0 55xjxj.com
 0.0.0.0 55xxaa.com
 0.0.0.0 55xxpp.com
-0.0.0.0 56b94.asset.tradingvein.xyz
 0.0.0.0 56ed6ae9.ngrok.io
 0.0.0.0 5754909.com
 0.0.0.0 57883.net
-0.0.0.0 58c94.asset.tradingvein.xyz
-0.0.0.0 5997b.asset.tradingvein.xyz
 0.0.0.0 59cn7.com
 0.0.0.0 5advertise.com
 0.0.0.0 5aef.pw
@@ -560,6 +557,7 @@
 0.0.0.0 66xjxj.com
 0.0.0.0 66xxaa.com
 0.0.0.0 66xxpp.com
+0.0.0.0 68722.asset.tradingvein.xyz
 0.0.0.0 69boysex.com
 0.0.0.0 69chicks.site
 0.0.0.0 69er.de
@@ -719,13 +717,11 @@
 0.0.0.0 a-cl.xyz
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-d.me
-0.0.0.0 a-i-ad.com
 0.0.0.0 a-mobile.genieesspv.jp
 0.0.0.0 a-msedge.org
 0.0.0.0 a-p-c-t.fr
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a-ss.bitdoge.one
-0.0.0.0 a-static.com
 0.0.0.0 a-techsolutions.us
 0.0.0.0 a.20minutes.fr
 0.0.0.0 a.ad.gt
@@ -819,7 +815,6 @@
 0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 0.0.0.0 a3wella3a.club
 0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
-0.0.0.0 a4b-tracking.com
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 a50625ja.beget.tech
 0.0.0.0 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
@@ -882,7 +877,6 @@
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aanalytics.adelaide.edu.au
 0.0.0.0 aanqylta.com
-0.0.0.0 aapkasmmappksupport.tk
 0.0.0.0 aaplepglobal.112.2o7.net
 0.0.0.0 aapz.com
 0.0.0.0 aarbur.com
@@ -986,7 +980,6 @@
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abruptroad.com
 0.0.0.0 abs-glt.com
-0.0.0.0 abs-static.org
 0.0.0.0 absam.live
 0.0.0.0 absan.live
 0.0.0.0 abscete.info
@@ -1031,7 +1024,6 @@
 0.0.0.0 accelerategsprod.112.2o7.net
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 access-accounts1.com
-0.0.0.0 access-analyze.org
 0.0.0.0 accessheler.com
 0.0.0.0 accesso-cupo-de-tarjeta-cl.cf
 0.0.0.0 accesso-cupo-de-tarjeta-cl.gq
@@ -1068,7 +1060,6 @@
 0.0.0.0 acellr.co.uk
 0.0.0.0 acemetrics.aaa.com
 0.0.0.0 acenar.com
-0.0.0.0 acexedge.com
 0.0.0.0 ach-edi.xyz
 0.0.0.0 acheterviagrafr24.com
 0.0.0.0 achpanel.top
@@ -1098,7 +1089,6 @@
 0.0.0.0 acquireattention.com
 0.0.0.0 acrh.be
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrowiswhite.com
 0.0.0.0 acs.adtdp.com
 0.0.0.0 actance.net
@@ -1123,7 +1113,6 @@
 0.0.0.0 active-cupo-de-2-millones-avance-cl.gq
 0.0.0.0 active-cupo-de-avances-cl.cf
 0.0.0.0 active-cupo-de-avances-cl.gq
-0.0.0.0 active-tracking.de
 0.0.0.0 active.com.102.122.2o7.net
 0.0.0.0 activecampaignsubsdev.112.2o7.net
 0.0.0.0 activeideas.net
@@ -1190,13 +1179,11 @@
 0.0.0.0 ad-events.flashtalking.com
 0.0.0.0 ad-exchange.toast.com
 0.0.0.0 ad-experience.g2afse.com
-0.0.0.0 ad-fam.com
 0.0.0.0 ad-feed.com
 0.0.0.0 ad-feeds.com
 0.0.0.0 ad-flow.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-gbn.com
-0.0.0.0 ad-generation.jp
 0.0.0.0 ad-generator.net
 0.0.0.0 ad-hatena.com
 0.0.0.0 ad-house.mobi
@@ -1211,7 +1198,6 @@
 0.0.0.0 ad-link.jp
 0.0.0.0 ad-log.dable.io
 0.0.0.0 ad-log.wemakeprice.com
-0.0.0.0 ad-loupe.com
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-maven.xml-eu.ak-is2.net
@@ -1221,7 +1207,6 @@
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-mill.co
 0.0.0.0 ad-miner.com
-0.0.0.0 ad-mix.de
 0.0.0.0 ad-monitor.kargo.com
 0.0.0.0 ad-move.jp
 0.0.0.0 ad-ndtv.3s.com.vn
@@ -1229,7 +1214,6 @@
 0.0.0.0 ad-optima.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-plus.cn
-0.0.0.0 ad-plus.com.tr
 0.0.0.0 ad-proxy.spotify.com
 0.0.0.0 ad-pub.terra.com.br
 0.0.0.0 ad-push.ir
@@ -1251,7 +1235,6 @@
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-server.unlimapps.com
 0.0.0.0 ad-serverparc.nl
-0.0.0.0 ad-serving.de
 0.0.0.0 ad-shot.com
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-sp.biz
@@ -1264,17 +1247,13 @@
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-static.qanda.ai
 0.0.0.0 ad-stir.com
-0.0.0.0 ad-sun.de
 0.0.0.0 ad-switcher.com
 0.0.0.0 ad-sys.com
-0.0.0.0 ad-tag.biz
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-thd-east.tagdelivery.com
-0.0.0.0 ad-tool.com
 0.0.0.0 ad-track.adiiix.com
 0.0.0.0 ad-track.de
-0.0.0.0 ad-track.jp
 0.0.0.0 ad-u.com
 0.0.0.0 ad-up.com
 0.0.0.0 ad-us-west.ipredictive.com
@@ -1290,7 +1269,6 @@
 0.0.0.0 ad-x.co.uk
 0.0.0.0 ad.100.tbn.ru
 0.0.0.0 ad.103092804.com
-0.0.0.0 ad.1k3.com
 0.0.0.0 ad.1rx.io
 0.0.0.0 ad.20six.fr
 0.0.0.0 ad.22betpartners.com
@@ -1317,7 +1295,6 @@
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.aceplanet.co.kr
-0.0.0.0 ad.activetk.cf
 0.0.0.0 ad.ad-arata.com
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.ad-stir.com
@@ -1380,7 +1357,6 @@
 0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.arabxl.com
-0.0.0.0 ad.arklm.com
 0.0.0.0 ad.as.amanad.adtdp.com
 0.0.0.0 ad.askingpoint.com
 0.0.0.0 ad.aspm.jp
@@ -1700,13 +1676,10 @@
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.ohmynews.com
-0.0.0.0 ad.onliner.by
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.oujdacity.net
 0.0.0.0 ad.ourgame.com
 0.0.0.0 ad.outsidehub.com
-0.0.0.0 ad.outstream.today
-0.0.0.0 ad.oyy.ru
 0.0.0.0 ad.pandora.tv
 0.0.0.0 ad.parom.hu
 0.0.0.0 ad.particlenews.com
@@ -1732,7 +1705,6 @@
 0.0.0.0 ad.pravda.ru
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.premiumonlinemedia.com
-0.0.0.0 ad.presco.asia
 0.0.0.0 ad.primead.jp
 0.0.0.0 ad.prisma-ai.com
 0.0.0.0 ad.prismamediadigital.com
@@ -1777,7 +1749,6 @@
 0.0.0.0 ad.smartmediarep.com
 0.0.0.0 ad.smv.to
 0.0.0.0 ad.sp.mbga.jp
-0.0.0.0 ad.spreaker.com
 0.0.0.0 ad.ssp.d2c.ne.jp
 0.0.0.0 ad.stadtplan.net
 0.0.0.0 ad.style
@@ -1854,7 +1825,6 @@
 0.0.0.0 ad.zaman.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad.zfk.de
-0.0.0.0 ad.zima.kg
 0.0.0.0 ad.zing.vn
 0.0.0.0 ad.zinimedia.com
 0.0.0.0 ad.zodera.hu
@@ -2415,7 +2385,6 @@
 0.0.0.0 adminer.com
 0.0.0.0 adming.net
 0.0.0.0 adminht.top
-0.0.0.0 administrasi.utp.ac.id
 0.0.0.0 adminmabuk103.com
 0.0.0.0 adminsecurity101.com
 0.0.0.0 adminsecurity102.com
@@ -2482,7 +2451,6 @@
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adn1.adclerks.com
 0.0.0.0 adn2.adclerks.com
-0.0.0.0 adncdnend.azureedge.net
 0.0.0.0 adnection.com
 0.0.0.0 adnegah.ir
 0.0.0.0 adnegah.net
@@ -2708,16 +2676,13 @@
 0.0.0.0 ads-game-configuration.unityads.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-i2i.jp
-0.0.0.0 ads-im-netz.de
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-intl.everesttech.net
 0.0.0.0 ads-ios-sdk.ogury.co
 0.0.0.0 ads-ipm.adhese.com
 0.0.0.0 ads-jp.spotify.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
-0.0.0.0 ads-link.net
 0.0.0.0 ads-live.cmgdigital.com
-0.0.0.0 ads-lot.ru
 0.0.0.0 ads-mannenmedia.adhese.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-media-cdn.tenmax.io
@@ -2884,7 +2849,6 @@
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.al.com
 0.0.0.0 ads.al3ably.com
-0.0.0.0 ads.aland.com
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ads.alfasense.net
 0.0.0.0 ads.alibaba.com
@@ -2908,7 +2872,6 @@
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.amxrtb.com
 0.0.0.0 ads.androworks.org
-0.0.0.0 ads.annonsbladet.com
 0.0.0.0 ads.ants.vn
 0.0.0.0 ads.anura.io
 0.0.0.0 ads.aol.co.uk
@@ -3099,7 +3062,6 @@
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.complex.com
-0.0.0.0 ads.compro.se
 0.0.0.0 ads.connectedinteractive.com
 0.0.0.0 ads.contactmusic.com
 0.0.0.0 ads.contentabc.com
@@ -3155,7 +3117,6 @@
 0.0.0.0 ads.dkelseymedia.com
 0.0.0.0 ads.dobremedia.sk
 0.0.0.0 ads.doclix.com
-0.0.0.0 ads.docunordic.net
 0.0.0.0 ads.dogusdigital.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
@@ -3222,7 +3183,6 @@
 0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.expekt.com
-0.0.0.0 ads.expekt.se
 0.0.0.0 ads.facebook.com
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
@@ -3374,7 +3334,6 @@
 0.0.0.0 ads.incubu.com
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.indiatimes.com
-0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.indya.com
 0.0.0.0 ads.indystar.com
 0.0.0.0 ads.inegolonline.com
@@ -3386,7 +3345,6 @@
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.inq.com
 0.0.0.0 ads.inselradio.com
-0.0.0.0 ads.insikt24.se
 0.0.0.0 ads.instyledm.com
 0.0.0.0 ads.intellicast.com
 0.0.0.0 ads.intentiq.com
@@ -3433,7 +3391,6 @@
 0.0.0.0 ads.kaktuz.net
 0.0.0.0 ads.kbb.com
 0.0.0.0 ads.kelbymediagroup.com
-0.0.0.0 ads.kelkoo.com
 0.0.0.0 ads.keywordblocks.com
 0.0.0.0 ads.khoahocdoisong.vn
 0.0.0.0 ads.kiemsat.vn
@@ -3487,7 +3444,6 @@
 0.0.0.0 ads.magnetic.is
 0.0.0.0 ads.mail3x.com
 0.0.0.0 ads.mainadv.com
-0.0.0.0 ads.mainloop.net
 0.0.0.0 ads.mariuana.it
 0.0.0.0 ads.markettimes.vn
 0.0.0.0 ads.marry.vn
@@ -3550,14 +3506,12 @@
 0.0.0.0 ads.motor-forum.nl
 0.0.0.0 ads.motorgraph.com
 0.0.0.0 ads.motormedia.nl
-0.0.0.0 ads.motorvarlden.se
 0.0.0.0 ads.motosiklet.net
 0.0.0.0 ads.mountain.com
 0.0.0.0 ads.mouseplanet.com
 0.0.0.0 ads.movieweb.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
-0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.mtv.uol.com.br
 0.0.0.0 ads.mulan.cloud
@@ -3612,7 +3566,6 @@
 0.0.0.0 ads.nordcurrent.com
 0.0.0.0 ads.nordichardware.com
 0.0.0.0 ads.nordichardware.se
-0.0.0.0 ads.nordreportern.se
 0.0.0.0 ads.northjersey.com
 0.0.0.0 ads.novanet.vn
 0.0.0.0 ads.novem.pl
@@ -3620,7 +3573,6 @@
 0.0.0.0 ads.noxvo.com
 0.0.0.0 ads.ntadvice.com
 0.0.0.0 ads.nwsource.com
-0.0.0.0 ads.nyatider.nu
 0.0.0.0 ads.nyi.net
 0.0.0.0 ads.nyootv.com
 0.0.0.0 ads.nytimes.com
@@ -3827,9 +3779,6 @@
 0.0.0.0 ads.simtel.net
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.sixapart.com
-0.0.0.0 ads.skargarden.se
-0.0.0.0 ads.skidspar.se
-0.0.0.0 ads.skolvarlden.se
 0.0.0.0 ads.skorfikstur.com
 0.0.0.0 ads.sl.interpals.net
 0.0.0.0 ads.smaato.com
@@ -3903,7 +3852,6 @@
 0.0.0.0 ads.teenport.com
 0.0.0.0 ads.telecinco.es
 0.0.0.0 ads.telemedia.ch
-0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.tenmax.io
 0.0.0.0 ads.terra.es
 0.0.0.0 ads.test.netflix.com
@@ -3998,7 +3946,6 @@
 0.0.0.0 ads.v3exchange.com
 0.0.0.0 ads.vaildaily.com
 0.0.0.0 ads.valuead.com
-0.0.0.0 ads.varldenidag.se
 0.0.0.0 ads.vcnc.co.kr
 0.0.0.0 ads.vegas.com
 0.0.0.0 ads.veloxia.com
@@ -4047,7 +3994,6 @@
 0.0.0.0 ads.web.aol.com
 0.0.0.0 ads.web.cs.com
 0.0.0.0 ads.web.de
-0.0.0.0 ads.web.tr
 0.0.0.0 ads.web21.com
 0.0.0.0 ads.webfeat.com
 0.0.0.0 ads.webheat.com
@@ -4093,7 +4039,6 @@
 0.0.0.0 ads.yahoo.de
 0.0.0.0 ads.yandex.com
 0.0.0.0 ads.yap.yahoo.com
-0.0.0.0 ads.yenimedya.com.tr
 0.0.0.0 ads.yieldlove-ad-serving.net
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
@@ -4122,7 +4067,6 @@
 0.0.0.0 ads08.focalink.com
 0.0.0.0 ads09.focalink.com
 0.0.0.0 ads1-adnow.com
-0.0.0.0 ads1-adselo.com
 0.0.0.0 ads1-msn.com
 0.0.0.0 ads1-msn.net
 0.0.0.0 ads1.admedia.ro
@@ -4259,7 +4203,6 @@
 0.0.0.0 ads4.speedbit.com
 0.0.0.0 ads4.veloxia.com
 0.0.0.0 ads4.virtual-nights.com
-0.0.0.0 ads4allweb.de
 0.0.0.0 ads4c.com
 0.0.0.0 ads4cheap.com
 0.0.0.0 ads4g.pl
@@ -4310,7 +4253,6 @@
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
 0.0.0.0 adsatt.go.starwave.com
-0.0.0.0 adsb4trk.com
 0.0.0.0 adsbanner.game.zing.vn
 0.0.0.0 adsbb.dfiles.eu
 0.0.0.0 adsbid-ad-click.adsbid.ru
@@ -4319,9 +4261,6 @@
 0.0.0.0 adsbid-click.adsbid.ru
 0.0.0.0 adsbid-sh-click.adghndou0sdh.ru
 0.0.0.0 adsbid-sh-click.sing.adghndou0sdh.ru
-0.0.0.0 adsbingo.com
-0.0.0.0 adsblok.com
-0.0.0.0 adsbookie.com
 0.0.0.0 adsbridge.com
 0.0.0.0 adsbtc.org
 0.0.0.0 adsbtrk.com
@@ -4330,7 +4269,6 @@
 0.0.0.0 adsbydomain.fouanalytics.com
 0.0.0.0 adsbynimbus.com
 0.0.0.0 adsc.wasu.tv
-0.0.0.0 adscads.de
 0.0.0.0 adscale-emea.adnxs.com
 0.0.0.0 adscale.de
 0.0.0.0 adscale.movad.net
@@ -4352,7 +4290,6 @@
 0.0.0.0 adsconex.com
 0.0.0.0 adscore.com
 0.0.0.0 adscpm.com
-0.0.0.0 adscpm.net
 0.0.0.0 adscreator.net
 0.0.0.0 adscreendirect.com
 0.0.0.0 adscustsrv.com
@@ -4379,9 +4316,6 @@
 0.0.0.0 adsense.de
 0.0.0.0 adsensecamp.com
 0.0.0.0 adsensecustomsearchads.com
-0.0.0.0 adsensedetective.com
-0.0.0.0 adsenseguard.com
-0.0.0.0 adsentiz.ru
 0.0.0.0 adser.io
 0.0.0.0 adsertor.co.uk
 0.0.0.0 adsertor.mx
@@ -4425,7 +4359,6 @@
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.bongocdn.com
 0.0.0.0 adserve.city-ad.com
-0.0.0.0 adserve.com
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 adserve.ehpub.com
 0.0.0.0 adserve.fuse-ad.com
@@ -4574,7 +4507,6 @@
 0.0.0.0 adserver.imaginemedia.com
 0.0.0.0 adserver.impuls.cz
 0.0.0.0 adserver.infotiger.com
-0.0.0.0 adserver.infotorg.se
 0.0.0.0 adserver.intentiq.com
 0.0.0.0 adserver.interfree.it
 0.0.0.0 adserver.inwind.it
@@ -4667,7 +4599,6 @@
 0.0.0.0 adserver.smashtv.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adserver.snowball.com
-0.0.0.0 adserver.so-rummet.se
 0.0.0.0 adserver.softonic.com
 0.0.0.0 adserver.soloserver.com
 0.0.0.0 adserver.spankaway.com
@@ -4765,15 +4696,12 @@
 0.0.0.0 adserving.speedshiftmedia.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adserving.urekamedia.com
-0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingml.com
 0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 0.0.0.0 adservme.com
-0.0.0.0 adservone.com
 0.0.0.0 adserwer.xwords.pl
 0.0.0.0 adsessionserv.com
-0.0.0.0 adsettings.com
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
@@ -4782,9 +4710,7 @@
 0.0.0.0 adsfan.net
 0.0.0.0 adsfast.com
 0.0.0.0 adsfile.qq.com
-0.0.0.0 adsfirm.com
 0.0.0.0 adsflourish.vnative.net
-0.0.0.0 adsforallmedia.com
 0.0.0.0 adsforce.net
 0.0.0.0 adsforcomputercity.com
 0.0.0.0 adsforfaucets.com
@@ -4793,17 +4719,14 @@
 0.0.0.0 adsfundi.com
 0.0.0.0 adsfuse.com
 0.0.0.0 adsgard.aprod.scopely.io
-0.0.0.0 adsgid.com
 0.0.0.0 adsgig.com
 0.0.0.0 adsgo.nhipcaudautu.vn
 0.0.0.0 adsgozar.com
 0.0.0.0 adsgroup.qq.com
 0.0.0.0 adsgymleaden.com
 0.0.0.0 adshack.com
-0.0.0.0 adshares.net
 0.0.0.0 adshark.site
 0.0.0.0 adshexa.com
-0.0.0.0 adshim.com
 0.0.0.0 adshmct.qq.com
 0.0.0.0 adshmmsg.qq.com
 0.0.0.0 adshoper.com
@@ -4812,37 +4735,28 @@
 0.0.0.0 adshort.space
 0.0.0.0 adshost1.com
 0.0.0.0 adshost2.com
-0.0.0.0 adshot.de
 0.0.0.0 adshow.sc2tv.ru
 0.0.0.0 adshows.21cn.com
 0.0.0.0 adshufffle.com
-0.0.0.0 adshuffle.com
-0.0.0.0 adshunter.fra1.digitaloceanspaces.com
 0.0.0.0 adside.com
-0.0.0.0 adsiduous.com
 0.0.0.0 adsignals.com
 0.0.0.0 adsima.net
-0.0.0.0 adsimg.kompas.com
 0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
 0.0.0.0 adsino24.com
 0.0.0.0 adsinstant.com
 0.0.0.0 adsinter1.addealsnetwork.com
 0.0.0.0 adsinteractive-794b.kxcdn.com
-0.0.0.0 adsixmedia.fr
-0.0.0.0 adsjumbo.com
 0.0.0.0 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 0.0.0.0 adsk2.co
 0.0.0.0 adskape.ru
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
-0.0.0.0 adskom.com
 0.0.0.0 adskpak.com
 0.0.0.0 adskyo.com
 0.0.0.0 adslidango.com
 0.0.0.0 adslingers.com
-0.0.0.0 adslivecorp.com
 0.0.0.0 adsload.co
 0.0.0.0 adsloading.com
 0.0.0.0 adsloads.com
@@ -4864,18 +4778,12 @@
 0.0.0.0 adsmarket.com
 0.0.0.0 adsmart.co.uk
 0.0.0.0 adsmart.com
-0.0.0.0 adsmart.hk
 0.0.0.0 adsmart.net
-0.0.0.0 adsmatcher.com
-0.0.0.0 adsmeda.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmind.gdtimg.com
-0.0.0.0 adsmmgp.com
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmobi.com
-0.0.0.0 adsmobila.com
-0.0.0.0 adsmodern.com
 0.0.0.0 adsmodule-a6166.firebaseio.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsmogo.mobi
@@ -4886,7 +4794,6 @@
 0.0.0.0 adsnative.com
 0.0.0.0 adsnative123.com
 0.0.0.0 adsnet.se
-0.0.0.0 adsnetworkbr.ml
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsninja.ca
 0.0.0.0 adsniper.ru
@@ -4897,7 +4804,6 @@
 0.0.0.0 adsoftware.top
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolut.in
-0.0.0.0 adsolutions.nl
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsomega.com
 0.0.0.0 adsomenoise.cdn01.rambla.be
@@ -4908,7 +4814,6 @@
 0.0.0.0 adsoss.gzfingertip.cn
 0.0.0.0 adsoss.uqualities.com
 0.0.0.0 adsota.com
-0.0.0.0 adsozai.com
 0.0.0.0 adsp.ciner.com.tr
 0.0.0.0 adsp.com
 0.0.0.0 adsp.haberturk.com
@@ -4922,13 +4827,11 @@
 0.0.0.0 adsparking.inzhener-info.ru
 0.0.0.0 adspdbl.com
 0.0.0.0 adspecs.yahoo.com
-0.0.0.0 adspectacle.net
 0.0.0.0 adspeed.com
 0.0.0.0 adspeed.net
 0.0.0.0 adspending01.bwnet.com.tw
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
-0.0.0.0 adsplash.de
 0.0.0.0 adsplay.in
 0.0.0.0 adsplay.net
 0.0.0.0 adspleen.com
@@ -4941,7 +4844,6 @@
 0.0.0.0 adspot.tfgapps.com
 0.0.0.0 adspot.tfgco.com
 0.0.0.0 adspredictiv.com
-0.0.0.0 adspro.it
 0.0.0.0 adspro.live
 0.0.0.0 adspruce.com
 0.0.0.0 adspsp.com
@@ -4955,7 +4857,6 @@
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
 0.0.0.0 adsrick.com
-0.0.0.0 adsring.com
 0.0.0.0 adsrocket.net
 0.0.0.0 adsroute.com
 0.0.0.0 adsrv.deviantart.com
@@ -4973,13 +4874,10 @@
 0.0.0.0 adsrv2.wilmingtonstar.com
 0.0.0.0 adsrv4k.com
 0.0.0.0 adsrveys.com
-0.0.0.0 adsrvmedia.adk2.co
 0.0.0.0 adsrvmedia.adk2x.com
-0.0.0.0 adsrvmedia.com
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.com
 0.0.0.0 adsrvr.org
-0.0.0.0 adssend.net
 0.0.0.0 adsservice-external.v.fwmrm.net
 0.0.0.0 adsservices.urekamedia.com
 0.0.0.0 adssettings.365scores.com
@@ -4991,7 +4889,6 @@
 0.0.0.0 adsspace.net
 0.0.0.0 adsstat.com
 0.0.0.0 adsstatic.vivo.com.cn
-0.0.0.0 adssyscom.com
 0.0.0.0 adst.djaxadserver.com
 0.0.0.0 adstacks.gotrackier.com
 0.0.0.0 adstacksapi.fuse-ad.com
@@ -4999,9 +4896,7 @@
 0.0.0.0 adstage.io
 0.0.0.0 adstanding.com
 0.0.0.0 adstarget.net
-0.0.0.0 adstargeting.com
 0.0.0.0 adstargets.com
-0.0.0.0 adstarsmedia.co.id
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstatic.b-cdn.net
 0.0.0.0 adstatic.com
@@ -5021,13 +4916,9 @@
 0.0.0.0 adstest.weather.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adstil.indiatimes.com
-0.0.0.0 adstime.org
 0.0.0.0 adstmanger.djaxadserver.com
-0.0.0.0 adstock.pro
-0.0.0.0 adstock.ru
 0.0.0.0 adstogo.com
 0.0.0.0 adstome.com
-0.0.0.0 adstoo.com
 0.0.0.0 adstook.com
 0.0.0.0 adstore.jp
 0.0.0.0 adstory.gotrackier.com
@@ -5040,26 +4931,20 @@
 0.0.0.0 adstripod.lycos.co.uk
 0.0.0.0 adstudio-help.spotify.com
 0.0.0.0 adstudio.blueseed.tv
-0.0.0.0 adstudio.cloud
 0.0.0.0 adstudio.spotify.com
-0.0.0.0 adstuna.com
 0.0.0.0 adstune.com
-0.0.0.0 adsturn.com
 0.0.0.0 adstxt.adpone.com
 0.0.0.0 adstxt.firstimpression.io
 0.0.0.0 adsub.live
 0.0.0.0 adsuite.adsparc.net
 0.0.0.0 adsunflower.com
 0.0.0.0 adsup.togothermany.cn
-0.0.0.0 adsupermarket.com
-0.0.0.0 adsupp.network
 0.0.0.0 adsupply.com
 0.0.0.0 adsupply.dsp.wtf
 0.0.0.0 adsupplyads.com
 0.0.0.0 adsupplyads.net
 0.0.0.0 adsupplyssl.com
 0.0.0.0 adsurve.com
-0.0.0.0 adsushi.de
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsvcs.com
 0.0.0.0 adsverse.com
@@ -5080,20 +4965,16 @@
 0.0.0.0 adsweb.vn
 0.0.0.0 adswitcher.com
 0.0.0.0 adswizz.com
-0.0.0.0 adswrapme.click
 0.0.0.0 adsx.greystripe.com
 0.0.0.0 adsx.unityads.unity3d.com
 0.0.0.0 adsxyz.com
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsymptotic.com
-0.0.0.0 adsync.tech
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 adsynergy.com
-0.0.0.0 adsyou.pro
 0.0.0.0 adsys.adk2x.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsyst.biz
-0.0.0.0 adsyst.ru
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adszzzbizzx.com
 0.0.0.0 adt.xdrig.com
@@ -5257,40 +5138,30 @@
 0.0.0.0 adver.24h.com.vn
 0.0.0.0 adver.pengyou.com
 0.0.0.0 adverbwaist.com
-0.0.0.0 adverd.ru
-0.0.0.0 adverdata.net
 0.0.0.0 adverdirect.com
 0.0.0.0 adverdose-eg.com
 0.0.0.0 advergine.com
 0.0.0.0 advergine.ru
 0.0.0.0 advering.com
 0.0.0.0 adverpub.com
-0.0.0.0 advers.info
 0.0.0.0 adversal.com
 0.0.0.0 adversaldisplay.com
 0.0.0.0 adversalservers.com
 0.0.0.0 adverserve.net
 0.0.0.0 adversesuffering.com
-0.0.0.0 adversting.riamedia.com.ua
 0.0.0.0 advert-admin.vnay.vn
 0.0.0.0 advert-creatives.s3.amazonaws.com
-0.0.0.0 advert-layer.de
 0.0.0.0 advert-time.com
 0.0.0.0 advert-track.com
 0.0.0.0 advert.bayarea.com
 0.0.0.0 advert.beaverads.com
 0.0.0.0 advert.dyna.ultraweb.hu
 0.0.0.0 advert.heise.de
-0.0.0.0 advert.livesportmedia.eu
-0.0.0.0 advert.polonsil.ru
 0.0.0.0 advert.punyu.com
-0.0.0.0 advert.rabaldermedia.se
 0.0.0.0 advert.setno.ir
 0.0.0.0 advert.uloz.to
 0.0.0.0 advert.wiztube.xyz
 0.0.0.0 advert360.com
-0.0.0.0 advertag.in
-0.0.0.0 advertarium.com.ua
 0.0.0.0 advertatment.com
 0.0.0.0 advertbox.ru
 0.0.0.0 advertbox.us
@@ -5302,7 +5173,6 @@
 0.0.0.0 adverterenzeeland.nl
 0.0.0.0 adverti.io
 0.0.0.0 advertica-cdn.com
-0.0.0.0 advertica-cdn2.com
 0.0.0.0 advertica.ae
 0.0.0.0 advertica.eu
 0.0.0.0 adverticum.com
@@ -5312,7 +5182,6 @@
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertise.com
 0.0.0.0 advertise.ldplayer.net
-0.0.0.0 advertise.ru
 0.0.0.0 advertisebux.ir
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertisement-nhatanh.com
@@ -5360,7 +5229,6 @@
 0.0.0.0 advertising.wellpack.fr
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yandex.ru
-0.0.0.0 advertising365.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbay.com
 0.0.0.0 advertisingbox.com
@@ -5370,7 +5238,6 @@
 0.0.0.0 advertjunction.com
 0.0.0.0 advertlane.com
 0.0.0.0 advertlets.com
-0.0.0.0 advertlink.ru
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmarketing.com
 0.0.0.0 advertmedia.com
@@ -5378,23 +5245,17 @@
 0.0.0.0 advertmedias.com
 0.0.0.0 advertnative.com
 0.0.0.0 advertnetworks.com
-0.0.0.0 advertoly.com
 0.0.0.0 advertom.com
-0.0.0.0 advertone.ru
-0.0.0.0 advertop.ru
 0.0.0.0 advertpay.net
 0.0.0.0 advertpay.ru
 0.0.0.0 advertpro.com
 0.0.0.0 advertpro.investorvillage.com
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
-0.0.0.0 advertronic.io
 0.0.0.0 adverts.ecn.co.uk
 0.0.0.0 adverts.freeloader.com
 0.0.0.0 advertserve.com
-0.0.0.0 advertshot.ru
 0.0.0.0 advertsneak.com
-0.0.0.0 advertstar.ru
 0.0.0.0 advertstream.com
 0.0.0.0 advertur.ru
 0.0.0.0 advertwizard.com
@@ -5422,7 +5283,6 @@
 0.0.0.0 adviralmedia.com
 0.0.0.0 advis.live
 0.0.0.0 advision-adnw.genieesspv.jp
-0.0.0.0 advision-adnw.jp
 0.0.0.0 advisionapp.yicha.jp
 0.0.0.0 advisionclick.yicha.jp
 0.0.0.0 advisionsort.yicha.jp
@@ -5605,12 +5465,10 @@
 0.0.0.0 af-110.com
 0.0.0.0 af-ad.co.uk
 0.0.0.0 af-web.advertica-cdn.com
-0.0.0.0 af.analytics.elx.cloud
 0.0.0.0 af.moshimo.com
 0.0.0.0 af4a.adj.st
 0.0.0.0 af721e3a.ngrok.io
 0.0.0.0 afac.mopo.jp
-0.0.0.0 afavoritacouros.com.br
 0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 0.0.0.0 afeta.live
 0.0.0.0 aff-a.advertica-cdn.com
@@ -5643,8 +5501,6 @@
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliatecpctracker.online
-0.0.0.0 affiliateedge.com
-0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliatefuel.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliateone.jp
@@ -5673,7 +5529,6 @@
 0.0.0.0 afftrack001.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afilio.com.br
-0.0.0.0 afl-static-cdn.newbiz-prod.stroeerws.de
 0.0.0.0 afminer.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 africanmobilenetworks.com
@@ -5721,7 +5576,6 @@
 0.0.0.0 agrop.live
 0.0.0.0 agropergolati.it
 0.0.0.0 aguabias.com
-0.0.0.0 aguabrava.cv
 0.0.0.0 aguiws.com
 0.0.0.0 agur.live
 0.0.0.0 agwebshots.112.2o7.net
@@ -5868,7 +5722,6 @@
 0.0.0.0 aklianfa.com
 0.0.0.0 akn.analytics.autodesk.com
 0.0.0.0 aksao.com
-0.0.0.0 aksaraymanset.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aksconsulting.us
 0.0.0.0 aksdk-images.adikteev.com
@@ -5905,7 +5758,6 @@
 0.0.0.0 albanypowerexchange.com
 0.0.0.0 albanytimesunion.122.2o7.net
 0.0.0.0 albaphotos.free.fr
-0.0.0.0 albarrgroups.com
 0.0.0.0 albat.live
 0.0.0.0 alberguecasaanita.com
 0.0.0.0 albertsrun.xyz
@@ -6056,7 +5908,6 @@
 0.0.0.0 allpurplehandling.com
 0.0.0.0 allstate.122.2o7.net
 0.0.0.0 almanamatyping.com
-0.0.0.0 almohadasdkings.com
 0.0.0.0 alod.live
 0.0.0.0 alog-default.umeng.com
 0.0.0.0 alog.umeng.com
@@ -6081,7 +5932,6 @@
 0.0.0.0 alray.click
 0.0.0.0 alrayyanplastics.com
 0.0.0.0 alrazi-pharrna.com
-0.0.0.0 alruwayuh.com
 0.0.0.0 alsancakgaming.com
 0.0.0.0 alsblueshelpt.nl
 0.0.0.0 alspi.cf
@@ -6265,21 +6115,16 @@
 0.0.0.0 analdude.com
 0.0.0.0 anale-seks.nl
 0.0.0.0 anale-sex.nl
-0.0.0.0 analights.com
 0.0.0.0 analik.icu
 0.0.0.0 analiq.vip
 0.0.0.0 analisispredictivos.com
 0.0.0.0 analitica.webrpp.com
-0.0.0.0 analitits.com
-0.0.0.0 analitycs.net
 0.0.0.0 analog.cell.phone.service.sms13.de
 0.0.0.0 analog.sms13.de
-0.0.0.0 analoganalytics.com
 0.0.0.0 analogydid.com
 0.0.0.0 analpics.net
 0.0.0.0 analsexphoto.yourfreesites.com
 0.0.0.0 analy.qq.com
-0.0.0.0 analy1.dtnnetwork.be
 0.0.0.0 analys.live
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analysecrappy.com
@@ -6295,7 +6140,6 @@
 0.0.0.0 analysis2.chartboosts.com
 0.0.0.0 analysis2.ligatus.com
 0.0.0.0 analysys.cn
-0.0.0.0 analyti.io
 0.0.0.0 analytiall.com
 0.0.0.0 analytic-client.cuntempire.com
 0.0.0.0 analytic-client.playful-fairies.com
@@ -6306,9 +6150,7 @@
 0.0.0.0 analytic.press
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.vnanet.vn
-0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analytic20.detik.com
-0.0.0.0 analytically.net
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-ad-eyu9u2md.kgslb.com
@@ -6338,7 +6180,6 @@
 0.0.0.0 analytics-ext-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 analytics-gb-nfl.yinzcam.com
 0.0.0.0 analytics-gcp.tout.com
-0.0.0.0 analytics-helper.com
 0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingest.anypoint.mulesoft.com
 0.0.0.0 analytics-ingest.creative-mobile.com
@@ -6479,7 +6320,6 @@
 0.0.0.0 analytics.chita.ru
 0.0.0.0 analytics.churnzero.net
 0.0.0.0 analytics.chvnoticias.cl
-0.0.0.0 analytics.ci-360.se
 0.0.0.0 analytics.cibc.com
 0.0.0.0 analytics.cibcholidaysforheroes.com
 0.0.0.0 analytics.cibcrepitpournosheros.com
@@ -6488,7 +6328,6 @@
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 analytics.cinemax.tv
 0.0.0.0 analytics.cirroenergy.com
-0.0.0.0 analytics.ciseway.se
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.clickpathmedia.com
@@ -6518,7 +6357,6 @@
 0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.crea.ca
 0.0.0.0 analytics.cruncho.co
-0.0.0.0 analytics.daasrv.net
 0.0.0.0 analytics.dap-networks.de
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
@@ -6570,7 +6408,6 @@
 0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.ewz.ch
 0.0.0.0 analytics.example.com
-0.0.0.0 analytics.fabricators.ltd
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.fatmedia.io
@@ -6598,7 +6435,6 @@
 0.0.0.0 analytics.gate.co.id
 0.0.0.0 analytics.gavelz.com
 0.0.0.0 analytics.gaydemon.com
-0.0.0.0 analytics.gen.shield.monitoringservice.co
 0.0.0.0 analytics.generalmills.com
 0.0.0.0 analytics.getrocketforms.com
 0.0.0.0 analytics.getshogun.com
@@ -6613,7 +6449,6 @@
 0.0.0.0 analytics.grape.media
 0.0.0.0 analytics.greenmountain.com
 0.0.0.0 analytics.greenmountainenergy.com
-0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.growthphysics.com
 0.0.0.0 analytics.grupogodo.com-v1.edgekey.net
@@ -6629,12 +6464,10 @@
 0.0.0.0 analytics.host4me.top
 0.0.0.0 analytics.hostyour.video
 0.0.0.0 analytics.hotelclub.com
-0.0.0.0 analytics.hpscloud.se
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.hyll.com
-0.0.0.0 analytics.ica.se
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.idfnet.net
 0.0.0.0 analytics.ifood.tv
@@ -6666,7 +6499,6 @@
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kau.li
-0.0.0.0 analytics.kb.se
 0.0.0.0 analytics.keepstreams.com
 0.0.0.0 analytics.kemlu.go.id
 0.0.0.0 analytics.kidoz.net
@@ -6695,7 +6527,6 @@
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
-0.0.0.0 analytics.loop-cloud.de
 0.0.0.0 analytics.loopassets.net
 0.0.0.0 analytics.lucid.app
 0.0.0.0 analytics.m2.ai
@@ -6761,7 +6592,6 @@
 0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 analytics.nyltx.com
 0.0.0.0 analytics.octaglobal.com
-0.0.0.0 analytics.omniscientai.com
 0.0.0.0 analytics.onesearch.id
 0.0.0.0 analytics.onfluencer.net
 0.0.0.0 analytics.onlyonlinemarketing.com
@@ -6801,7 +6631,6 @@
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.portal.gov.bd
 0.0.0.0 analytics.posttv.com
-0.0.0.0 analytics.praetor.im
 0.0.0.0 analytics.prensaiberica.es
 0.0.0.0 analytics.prezly.com
 0.0.0.0 analytics.prod.mybuddy.ai
@@ -6821,7 +6650,6 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 analytics.rampant.tv
-0.0.0.0 analytics.ratopanda.com
 0.0.0.0 analytics.ravelz.com
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.rctiplus.com
@@ -6895,6 +6723,7 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.springboardvideo.com
+0.0.0.0 analytics.spun.com.br
 0.0.0.0 analytics.srchy.ai
 0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 analytics.stacker.com
@@ -6909,12 +6738,10 @@
 0.0.0.0 analytics.streamgaga.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
-0.0.0.0 analytics.sunet.se
 0.0.0.0 analytics.superstructure.ai
 0.0.0.0 analytics.supplyframe.akadns.net
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.surfline.com
-0.0.0.0 analytics.svt.se
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.sydney.edu.au
 0.0.0.0 analytics.sync.tv
@@ -6929,13 +6756,11 @@
 0.0.0.0 analytics.tebilisim.com
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.teko.vn
-0.0.0.0 analytics.teleclal.com
 0.0.0.0 analytics.test.cheggnet.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.thenest.com
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.threedeepmarketing.com
-0.0.0.0 analytics.tiendaenoferta.com
 0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tiltingpoint.io
@@ -7001,7 +6826,6 @@
 0.0.0.0 analytics.vnpt.vn
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 analytics.vodafone.co.uk
-0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 analytics.vrsmedia.de
 0.0.0.0 analytics.webads.eu
@@ -7047,9 +6871,7 @@
 0.0.0.0 analytics2.tvreport.co.kr
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 analyticsip.net
 0.0.0.0 analyticsnew.overwolf.com
-0.0.0.0 analyticson.com
 0.0.0.0 analyticsq.com
 0.0.0.0 analyticsq1.com
 0.0.0.0 analyticsresults.bildungsforum.datev.de
@@ -7060,14 +6882,11 @@
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyticsssl.forcepoint.com
 0.0.0.0 analyticssystems.net
-0.0.0.0 analyticswizard.com
-0.0.0.0 analytik.xyz
 0.0.0.0 analytix.org
 0.0.0.0 analytixarabia.com
 0.0.0.0 analytixbizcare.com
 0.0.0.0 analytixbss.com
 0.0.0.0 analytixdigital.com
-0.0.0.0 analytk.com
 0.0.0.0 analyze.accesstrade.net
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyze.urbanairship.com
@@ -7081,7 +6900,6 @@
 0.0.0.0 analyzer54.fc2.com
 0.0.0.0 analyzer55.fc2.com
 0.0.0.0 analyzingbigdata.com
-0.0.0.0 analyzz.com
 0.0.0.0 ananashotel.com
 0.0.0.0 anaplanglobal.112.2o7.net
 0.0.0.0 anary.live
@@ -7121,7 +6939,6 @@
 0.0.0.0 androidads4-7.adcolony.com
 0.0.0.0 androidads4-8.adcolony.com
 0.0.0.0 androidinja.ir
-0.0.0.0 androidiran.com
 0.0.0.0 androidlog.functionads.com
 0.0.0.0 androidnotice.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
@@ -7162,7 +6979,6 @@
 0.0.0.0 animal-drawings.com
 0.0.0.0 animal36.com
 0.0.0.0 animalcum.net
-0.0.0.0 animapet.it
 0.0.0.0 animelab.adspeed.net
 0.0.0.0 animis.live
 0.0.0.0 anine.live
@@ -7186,7 +7002,6 @@
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymoushookups.blogspot.com
 0.0.0.0 anopa.live
-0.0.0.0 anormal-tracker.de
 0.0.0.0 anotherparty.net
 0.0.0.0 anothertembr.cf
 0.0.0.0 anothertembr.ga
@@ -7544,11 +7359,9 @@
 0.0.0.0 api.adfurikun.jp
 0.0.0.0 api.adgrowth.jp
 0.0.0.0 api.adhaven.com
-0.0.0.0 api.adintext.net
 0.0.0.0 api.adlure.net
 0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.adnet.mob.com
-0.0.0.0 api.adnsafe.org
 0.0.0.0 api.adomik.com
 0.0.0.0 api.adpopcorn.com
 0.0.0.0 api.adrta.com
@@ -7594,7 +7407,6 @@
 0.0.0.0 api.data-monitor.info
 0.0.0.0 api.dev-com.sc
 0.0.0.0 api.donglogs.com
-0.0.0.0 api.filedriver.com
 0.0.0.0 api.flat-ads.com
 0.0.0.0 api.gameads.io
 0.0.0.0 api.gameanalytics.com
@@ -7849,7 +7661,6 @@
 0.0.0.0 aras.live
 0.0.0.0 arbalsafedager.tk
 0.0.0.0 arbistars.com
-0.0.0.0 arboretum-abracaral.com.ar
 0.0.0.0 arbos.live
 0.0.0.0 arc1.msn.com
 0.0.0.0 arcadebanners.com
@@ -7877,7 +7688,6 @@
 0.0.0.0 arid.live
 0.0.0.0 arier.live
 0.0.0.0 ariesbee.com
-0.0.0.0 ariesnetwork.co.uk
 0.0.0.0 arify.live
 0.0.0.0 aring.live
 0.0.0.0 arios.live
@@ -7903,6 +7713,7 @@
 0.0.0.0 aront.live
 0.0.0.0 arpen.live
 0.0.0.0 arrangemydate.site
+0.0.0.0 arriaza.net
 0.0.0.0 arsin.live
 0.0.0.0 arsinvest.it
 0.0.0.0 artdefensive.com
@@ -7913,7 +7724,6 @@
 0.0.0.0 arthyredir2.com
 0.0.0.0 arvidarena.com
 0.0.0.0 arya-foundation.de
-0.0.0.0 aryansinghdadiala.com
 0.0.0.0 as-popup.ir
 0.0.0.0 as-sec.casalemedia.com.edgekey.net
 0.0.0.0 as.a.bypass.jp
@@ -7955,7 +7765,6 @@
 0.0.0.0 as.rollingstone.de
 0.0.0.0 as.se.impact-ad.jp
 0.0.0.0 as.sp.impact-ad.jp
-0.0.0.0 as.stat.su
 0.0.0.0 as.stylebook.de
 0.0.0.0 as.techbook.de
 0.0.0.0 as.travelbook.de
@@ -8011,7 +7820,9 @@
 0.0.0.0 asiaxdate.com
 0.0.0.0 asing.live
 0.0.0.0 asins.live
+0.0.0.0 asitaliado.com
 0.0.0.0 ask.log.kuyun.com
+0.0.0.0 ask6.awt.com.pk
 0.0.0.0 askdrthomas.com
 0.0.0.0 askfm.adspirit.de
 0.0.0.0 asknetag.112.2o7.net
@@ -8077,7 +7888,6 @@
 0.0.0.0 associatedbnking.com
 0.0.0.0 associatedcontent.112.2o7.net
 0.0.0.0 associatednorthcliffedigital.122.2o7.net
-0.0.0.0 assura.jadecreative.co.nz
 0.0.0.0 assys01.fc2.com
 0.0.0.0 astatech-cn.com
 0.0.0.0 astel.live
@@ -8085,7 +7895,6 @@
 0.0.0.0 aster18cdn.nl
 0.0.0.0 asterixenergy.in
 0.0.0.0 astom.live
-0.0.0.0 astrogurusunilbarmola.com
 0.0.0.0 astrsk.net
 0.0.0.0 asu.com.vn
 0.0.0.0 asubo.live
@@ -8308,13 +8117,11 @@
 0.0.0.0 avances-cuotas-diferido-promo-cl.gq
 0.0.0.0 avances-online-asignado-cl.cf
 0.0.0.0 avances-online-asignado-cl.gq
-0.0.0.0 avasaller.com
 0.0.0.0 avased6.com
 0.0.0.0 avav99.com
 0.0.0.0 avaya.com.102.122.2o7.net
 0.0.0.0 avedof.com
 0.0.0.0 avenuea.com
-0.0.0.0 avenuesports.pk
 0.0.0.0 avera.live
 0.0.0.0 averagetry.com
 0.0.0.0 avers.live
@@ -8422,7 +8229,6 @@
 0.0.0.0 aygust7.gq
 0.0.0.0 aygust7.ml
 0.0.0.0 aygust7.tk
-0.0.0.0 aynalfahadboursa.com
 0.0.0.0 azadijobs.me
 0.0.0.0 azand.live
 0.0.0.0 azarbux.com
@@ -8864,12 +8670,10 @@
 0.0.0.0 bazons.live
 0.0.0.0 bb-delivery.icu
 0.0.0.0 bb.qc.to
-0.0.0.0 bbb.fredand.co
 0.0.0.0 bbc.112.2o7.net
 0.0.0.0 bbcdn-static-adserver.ibillboard.com
 0.0.0.0 bbcdn-static-mbrdsp.ibillboard.com
 0.0.0.0 bbelements.com
-0.0.0.0 bbg.az
 0.0.0.0 bbgbrukerbiospinprodesntls.112.2o7.net
 0.0.0.0 bbhwww.112.2o7.net
 0.0.0.0 bbia.co.uk
@@ -9069,7 +8873,6 @@
 0.0.0.0 bentleysystems.122.2o7.net
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 benzol.live
-0.0.0.0 beoauto.alexion.rs
 0.0.0.0 bepodi.live
 0.0.0.0 bepoha.live
 0.0.0.0 bepuf.live
@@ -9114,7 +8917,6 @@
 0.0.0.0 best.realydomain.info
 0.0.0.0 best2019-games-web4.com
 0.0.0.0 bestboundary.com
-0.0.0.0 bestbuidan.mn
 0.0.0.0 bestbut.com
 0.0.0.0 bestbuy.122.2o7.net
 0.0.0.0 bestbuywindow.com
@@ -9192,7 +8994,6 @@
 0.0.0.0 bhtaifvu.com
 0.0.0.0 bhtl.digital
 0.0.0.0 bhtsfs.com
-0.0.0.0 bhupeshtrivedi.com
 0.0.0.0 bia2click.ir
 0.0.0.0 bibers.live
 0.0.0.0 biberukalap.com
@@ -9384,6 +9185,7 @@
 0.0.0.0 bihers.live
 0.0.0.0 bijers.live
 0.0.0.0 biked.live
+0.0.0.0 bikkviz.com
 0.0.0.0 bikton43.ru
 0.0.0.0 bilal1com.com
 0.0.0.0 bilan.live
@@ -9497,6 +9299,8 @@
 0.0.0.0 bleepingcomputer.bit
 0.0.0.0 blender3d.es
 0.0.0.0 blender3d.fr
+0.0.0.0 blenderno.org
+0.0.0.0 blensder.org
 0.0.0.0 blethenmaine.112.2o7.net
 0.0.0.0 blismedia.com
 0.0.0.0 blissful-river-74383.pktriot.net
@@ -9516,7 +9320,6 @@
 0.0.0.0 blockskipad.com
 0.0.0.0 blog-livedorr.com
 0.0.0.0 blog-sokuhou.com
-0.0.0.0 blog-stat.com
 0.0.0.0 blog.addthis.com
 0.0.0.0 blog.aeromus.com
 0.0.0.0 blog.alivedoors.com
@@ -9553,7 +9356,6 @@
 0.0.0.0 bluegrasstoday.adspeed.net
 0.0.0.0 bluekai.com
 0.0.0.0 bluelithium.com
-0.0.0.0 bluerondo.net
 0.0.0.0 blueserving.com
 0.0.0.0 bluestacksdownloads.com
 0.0.0.0 bluestarpaymentsolutions.com
@@ -9574,7 +9376,6 @@
 0.0.0.0 bmnr.pw
 0.0.0.0 bmpool.org
 0.0.0.0 bmst.pw
-0.0.0.0 bmwchinhhang.vn
 0.0.0.0 bmwdevbaonline.112.2o7.net
 0.0.0.0 bmwmoter.122.2o7.net
 0.0.0.0 bmwmotor.122.2o7.net
@@ -9848,7 +9649,6 @@
 0.0.0.0 borlet.live
 0.0.0.0 bormed.live
 0.0.0.0 bormet.live
-0.0.0.0 bornagroup.ir
 0.0.0.0 borned.live
 0.0.0.0 bornet.live
 0.0.0.0 borntobefree.org.za
@@ -9876,7 +9676,6 @@
 0.0.0.0 botsphere.biz
 0.0.0.0 bottegaverde.it.102.122.2o7.net
 0.0.0.0 boudja.com
-0.0.0.0 bounce-ads.de
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 bovan.live
@@ -10015,7 +9814,6 @@
 0.0.0.0 brites.live
 0.0.0.0 british-banners.com
 0.0.0.0 british-shorthair.es
-0.0.0.0 brittknight.com
 0.0.0.0 britwind.tk
 0.0.0.0 brives.live
 0.0.0.0 briwes.live
@@ -10040,7 +9838,6 @@
 0.0.0.0 brownsite.click
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
-0.0.0.0 browser-statistik.de
 0.0.0.0 browsergames2018.com
 0.0.0.0 browsermine.com
 0.0.0.0 brsystem1000k33.com
@@ -10106,9 +9903,14 @@
 0.0.0.0 btstatic.com
 0.0.0.0 btta.xyz
 0.0.0.0 bttrack.com
+0.0.0.0 bubams.live
+0.0.0.0 bubans.live
 0.0.0.0 bubsware.com
+0.0.0.0 bucams.live
+0.0.0.0 bucans.live
 0.0.0.0 buchserix.com
 0.0.0.0 bucketbean.com
+0.0.0.0 budams.live
 0.0.0.0 budans.live
 0.0.0.0 buddygays.com
 0.0.0.0 buder.live
@@ -10117,9 +9919,21 @@
 0.0.0.0 budsinc.com
 0.0.0.0 budulay.online
 0.0.0.0 buf.lemonde.fr
+0.0.0.0 bufams.live
+0.0.0.0 bufans.live
 0.0.0.0 bug.spotify.com
+0.0.0.0 bugams.live
+0.0.0.0 bugans.live
+0.0.0.0 buhams.live
+0.0.0.0 buhans.live
 0.0.0.0 builderonlinecom.112.2o7.net
 0.0.0.0 buildyourownbotnet.com
+0.0.0.0 bujams.live
+0.0.0.0 bujans.live
+0.0.0.0 bukams.live
+0.0.0.0 bukans.live
+0.0.0.0 bulams.live
+0.0.0.0 bulans.live
 0.0.0.0 bulbbait.com
 0.0.0.0 bulehero2019.club
 0.0.0.0 bulet.live
@@ -10129,9 +9943,12 @@
 0.0.0.0 bullionvaultlogistics.com
 0.0.0.0 bullrunonline.info
 0.0.0.0 bullz-eye-ads.com
+0.0.0.0 bumams.live
 0.0.0.0 bumans.live
 0.0.0.0 bummerpost.com
 0.0.0.0 bumpberam.pro
+0.0.0.0 bunams.live
+0.0.0.0 bunans.live
 0.0.0.0 bunkhouseventure.com
 0.0.0.0 bunvatink.com
 0.0.0.0 bupachileagendaprod.112.2o7.net
@@ -10139,6 +9956,9 @@
 0.0.0.0 bupachilebupaqa.112.2o7.net
 0.0.0.0 bupachilecruzblancaprod.112.2o7.net
 0.0.0.0 bupachileintegramedica.112.2o7.net
+0.0.0.0 bupams.live
+0.0.0.0 bupans.live
+0.0.0.0 burams.live
 0.0.0.0 burandsale.com
 0.0.0.0 burans.live
 0.0.0.0 burc-groups.com
@@ -10153,6 +9973,8 @@
 0.0.0.0 burns.adtech.us
 0.0.0.0 bursakulis.com
 0.0.0.0 burstblade.com
+0.0.0.0 busams.live
+0.0.0.0 busans.live
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 business-in.ru
@@ -10161,15 +9983,23 @@
 0.0.0.0 businessweekpoc.112.2o7.net
 0.0.0.0 bustlinganimal.com
 0.0.0.0 bustvch.com
+0.0.0.0 butams.live
+0.0.0.0 butans.live
 0.0.0.0 butcalve.com
 0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
 0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 buvams.live
+0.0.0.0 buvans.live
+0.0.0.0 buwams.live
+0.0.0.0 buwans.live
 0.0.0.0 bux.arshaclick.ir
 0.0.0.0 bux1.ir
 0.0.0.0 bux14.net
 0.0.0.0 bux14.org
 0.0.0.0 bux521.ir
+0.0.0.0 buxams.live
+0.0.0.0 buxans.live
 0.0.0.0 buxbery.com
 0.0.0.0 buxi.ir
 0.0.0.0 buxirani.com
@@ -10192,11 +10022,14 @@
 0.0.0.0 buyseoblog.com
 0.0.0.0 buytowe.com
 0.0.0.0 buyviagraoverthecounterusabb.net
+0.0.0.0 buzams.live
+0.0.0.0 buzans.live
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 buzznet.112.2o7.net
 0.0.0.0 buzzonclick.com
 0.0.0.0 buzztrends.club
 0.0.0.0 bvjhsdvbfjsd.pw
+0.0.0.0 bvlender.org
 0.0.0.0 bvlgarijapan.com
 0.0.0.0 bwafduj.tk
 0.0.0.0 bwerida.live
@@ -10284,7 +10117,6 @@
 0.0.0.0 c-eu.adsymptotic.com
 0.0.0.0 c-evt.moatads.com
 0.0.0.0 c-hi.xyz
-0.0.0.0 c-stat.eu
 0.0.0.0 c-tl.xyz
 0.0.0.0 c.aaxads.com
 0.0.0.0 c.ad-srv.co
@@ -10422,8 +10254,6 @@
 0.0.0.0 cales.live
 0.0.0.0 calet.live
 0.0.0.0 calibre.it
-0.0.0.0 call-tracking.by
-0.0.0.0 call-tracking.co.uk
 0.0.0.0 calldorado.com
 0.0.0.0 callonenergy.com
 0.0.0.0 callousbrake.com
@@ -10438,7 +10268,6 @@
 0.0.0.0 cameforcameand33212.com
 0.0.0.0 camera-test.hi2.ro
 0.0.0.0 camin.live
-0.0.0.0 camp.learnwithsf.com
 0.0.0.0 campaign-tapad.s3.amazonaws.com
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaign.adobe.com
@@ -10495,7 +10324,6 @@
 0.0.0.0 capellaprod.112.2o7.net
 0.0.0.0 capeplcinc.com.ua
 0.0.0.0 capeturk.com
-0.0.0.0 caphyon-analytics.com
 0.0.0.0 capitalgroup.112.2o7.net
 0.0.0.0 capitaloneshooping.com
 0.0.0.0 capon.live
@@ -10550,7 +10378,6 @@
 0.0.0.0 carriagedrivingnordic.se
 0.0.0.0 carscannon.com
 0.0.0.0 carsitxal.tk
-0.0.0.0 carssparepartss.com
 0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 cartsrv.com
 0.0.0.0 carus.live
@@ -10631,7 +10458,6 @@
 0.0.0.0 cbola-ads-1-t3.us-east-1.elasticbeanstalk.com
 0.0.0.0 cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com
 0.0.0.0 cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
-0.0.0.0 cbrealestatecr.xyz
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 cbscom.112.2o7.net
 0.0.0.0 cbsdigitalmedia.112.2o7.net
@@ -10732,7 +10558,6 @@
 0.0.0.0 cdn.adblade.com
 0.0.0.0 cdn.adbro.me
 0.0.0.0 cdn.adclerks.com
-0.0.0.0 cdn.adfenix.com
 0.0.0.0 cdn.adflex.vn
 0.0.0.0 cdn.adgrx.com
 0.0.0.0 cdn.adhigh.net
@@ -10769,18 +10594,10 @@
 0.0.0.0 cdn.adsoptimal.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adspirit.net
-0.0.0.0 cdn.adsquirrel.ai
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adsymptotic.com
-0.0.0.0 cdn.adt356.com
-0.0.0.0 cdn.adt357.net
-0.0.0.0 cdn.adt361.com
-0.0.0.0 cdn.adt511.net
-0.0.0.0 cdn.adt523.net
-0.0.0.0 cdn.adt532.com
 0.0.0.0 cdn.adt567.net
-0.0.0.0 cdn.adt598.com
 0.0.0.0 cdn.adtechus.com
 0.0.0.0 cdn.adtheorent.com
 0.0.0.0 cdn.adtrace.org
@@ -10790,7 +10607,6 @@
 0.0.0.0 cdn.advertiserurl.com
 0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn.advgalaxy.com
-0.0.0.0 cdn.advisible.com
 0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn.alistcloud.com
 0.0.0.0 cdn.appads.com
@@ -10847,7 +10663,6 @@
 0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media-a.net
 0.0.0.0 cdn.minescripts.info
-0.0.0.0 cdn.mixx-ad.net
 0.0.0.0 cdn.mobengine.xyz
 0.0.0.0 cdn.mobiletop.cc
 0.0.0.0 cdn.monsido.com
@@ -10992,7 +10807,6 @@
 0.0.0.0 cegust7.tk
 0.0.0.0 cekmakasabasa.com
 0.0.0.0 celeb-ads.com
-0.0.0.0 celebros-analytics.com
 0.0.0.0 celestia.es
 0.0.0.0 celestia.fr
 0.0.0.0 celestialcomet.cc
@@ -11073,14 +10887,12 @@
 0.0.0.0 challenge.cityads.com
 0.0.0.0 chameleon.ad
 0.0.0.0 champcup.io
-0.0.0.0 championsfactorysampaios.com.br
 0.0.0.0 champse.click
 0.0.0.0 chanchandomain.club
 0.0.0.0 chaner.live
 0.0.0.0 changelog.freshmarketer.com
 0.0.0.0 chango.com
 0.0.0.0 channel-7-news.com
-0.0.0.0 channel-analysis-js.gmw.cn
 0.0.0.0 channel1vids.com
 0.0.0.0 channelinfo.pw
 0.0.0.0 channelintelligence.com
@@ -11174,7 +10986,6 @@
 0.0.0.0 choseoffhandsight.com
 0.0.0.0 chrandinc.com
 0.0.0.0 chris-gcp.logrocket.io
-0.0.0.0 christianbeltran.co
 0.0.0.0 christianbusinessadvertising.com
 0.0.0.0 christingel.com
 0.0.0.0 chrome-update-center.com
@@ -11338,7 +11149,6 @@
 0.0.0.0 cisel.live
 0.0.0.0 citgroup.112.2o7.net
 0.0.0.0 citum.live
-0.0.0.0 city-ads.de
 0.0.0.0 cityads.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 cityadstrack.com
@@ -11731,7 +11541,6 @@
 0.0.0.0 co.ltsmax.com
 0.0.0.0 coachh.click
 0.0.0.0 coadymarine.com
-0.0.0.0 coasttoocoastplumbing.com
 0.0.0.0 coatbig.info
 0.0.0.0 coatfood.com
 0.0.0.0 cobalten.com
@@ -11911,7 +11720,6 @@
 0.0.0.0 colegiojussaraferreira.com
 0.0.0.0 colem.live
 0.0.0.0 colent.live
-0.0.0.0 collect-metrics.aquro.com
 0.0.0.0 collect.adhacker.online
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.adsorb.com
@@ -11952,7 +11760,6 @@
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.effectivemeasure.net
 0.0.0.0 collector.githubapp.com
-0.0.0.0 collector.houston-analytics.com
 0.0.0.0 collector.hpn.cliqz.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.megaxh.com
@@ -12093,7 +11900,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consent.ivitrack.com
 0.0.0.0 console.adtarget.com.tr
-0.0.0.0 constructoravalleandino.cl
 0.0.0.0 construfuturo.com.mx
 0.0.0.0 construmac.com.mx
 0.0.0.0 consular-thpass.com
@@ -12103,7 +11909,6 @@
 0.0.0.0 consultant-online.ru
 0.0.0.0 consumerproductsusa.com
 0.0.0.0 consumertrack.adspeed.net
-0.0.0.0 contabilidadeplenus.com.br
 0.0.0.0 contackamazon1.com
 0.0.0.0 contactforms.53.com
 0.0.0.0 contactos-gay.com
@@ -12115,7 +11920,6 @@
 0.0.0.0 content.ad
 0.0.0.0 content.ad2iction.com
 0.0.0.0 content.adacado.com
-0.0.0.0 content.adriver.ru
 0.0.0.0 content.exoticads.com
 0.0.0.0 content.joinaxxess.com
 0.0.0.0 content.seerealgirls.com
@@ -12123,7 +11927,6 @@
 0.0.0.0 content.tapjoy.com
 0.0.0.0 content.yieldmanager.edgesuite.net
 0.0.0.0 contentabc.com
-0.0.0.0 contentality.com
 0.0.0.0 contentmakersbyakamai.ru
 0.0.0.0 contents-tracking.beop.io
 0.0.0.0 contents.7gogo.jp
@@ -12260,7 +12063,6 @@
 0.0.0.0 corin.live
 0.0.0.0 corinthiancolleges.112.2o7.net
 0.0.0.0 corncastt.net
-0.0.0.0 cornstarchsa.co.za
 0.0.0.0 coron.live
 0.0.0.0 corona-virus2019.us
 0.0.0.0 coronabreath.com
@@ -12323,7 +12125,6 @@
 0.0.0.0 counter.inetusa.com
 0.0.0.0 counter.kaspersky.com
 0.0.0.0 counter.letssingit.com
-0.0.0.0 counter.log24.ru
 0.0.0.0 counter.mgid.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
@@ -12472,7 +12273,6 @@
 0.0.0.0 covidsrc.com
 0.0.0.0 covidsvcrc.com
 0.0.0.0 covus.live
-0.0.0.0 cowana-adserver.de
 0.0.0.0 cowent.live
 0.0.0.0 cowis.live
 0.0.0.0 cowledges.com
@@ -12573,7 +12373,6 @@
 0.0.0.0 creatives.purpleads.io
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creativeteam.it
-0.0.0.0 creatopy-adtag-production.b-cdn.net
 0.0.0.0 crecerco.com
 0.0.0.0 credishe.com
 0.0.0.0 credit-card-application.now-cash.com
@@ -12596,8 +12395,6 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crm.roodraksh.co.in
-0.0.0.0 crm.techopesolutions.com
-0.0.0.0 crmroche.manivelasst.com
 0.0.0.0 crobanner.com
 0.0.0.0 croissed.info
 0.0.0.0 cromdownload.com
@@ -12684,7 +12481,6 @@
 0.0.0.0 csync.adsfactor.net
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 ct-fr.icu
-0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.popcash.net
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct1.ojaru.jp
@@ -12877,7 +12673,6 @@
 0.0.0.0 d-log.bs-asahi.tv
 0.0.0.0 d-log.tv-asahi.co.jp
 0.0.0.0 d-markets.net
-0.0.0.0 d-stats.com
 0.0.0.0 d-stuff.cfd
 0.0.0.0 d-track.send.microad.jp
 0.0.0.0 d-track.send.microadinc.com
@@ -13027,7 +12822,6 @@
 0.0.0.0 dapper.net
 0.0.0.0 dapxl.com
 0.0.0.0 daque.cn
-0.0.0.0 daralburoj.com
 0.0.0.0 daramadbux.ir
 0.0.0.0 darbl.icu
 0.0.0.0 darceybusselldirect.com
@@ -13047,7 +12841,6 @@
 0.0.0.0 darrylbi.com
 0.0.0.0 dart-apac.l.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
-0.0.0.0 darts-ads.telkom.co.id
 0.0.0.0 darvin-ec.ads.heytapmobi.com
 0.0.0.0 darwinistic.com
 0.0.0.0 dashboard.adcalls.nl
@@ -13056,7 +12849,6 @@
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingdrop.com
 0.0.0.0 dashingsweater.com
-0.0.0.0 data-analyst.biz
 0.0.0.0 data-failover.eroadvertising.com
 0.0.0.0 data-file-data-7.com
 0.0.0.0 data-fold.org
@@ -13089,7 +12881,6 @@
 0.0.0.0 datalogix.com
 0.0.0.0 dataprovider.biz
 0.0.0.0 datarcha.ga
-0.0.0.0 datarenty.com
 0.0.0.0 datascrambler.org
 0.0.0.0 dataserver.adhigh.net
 0.0.0.0 date4sex.pro
@@ -13117,7 +12908,6 @@
 0.0.0.0 datinappsever1.azurewebsites.net
 0.0.0.0 dating-herenow3.com
 0.0.0.0 dating.hdxvideos.ru
-0.0.0.0 dating.khokhas.co.za
 0.0.0.0 datingadvertising.com
 0.0.0.0 datingapp.live
 0.0.0.0 datingdeserving.com
@@ -13219,7 +13009,6 @@
 0.0.0.0 deckers.112.2o7.net
 0.0.0.0 decknetwork.net
 0.0.0.0 decoroustitle.com
-0.0.0.0 decosat.com
 0.0.0.0 decot.live
 0.0.0.0 decoycreation.com
 0.0.0.0 deders.live
@@ -13233,7 +13022,6 @@
 0.0.0.0 deeplink.mobileapptracking.com
 0.0.0.0 def.dev-nano.com
 0.0.0.0 def397.pw
-0.0.0.0 defacto-analytics.net
 0.0.0.0 defat.live
 0.0.0.0 default.xapads.com
 0.0.0.0 defaultdsp.admicro.vn
@@ -13583,7 +13371,6 @@
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 diff4.smartadserver.com
 0.0.0.0 differentdesk.com
-0.0.0.0 diffusion-tracker.com
 0.0.0.0 digen.live
 0.0.0.0 digens.live
 0.0.0.0 diger.live
@@ -13597,7 +13384,6 @@
 0.0.0.0 digistats.westjet.com
 0.0.0.0 digital-ads.s3.amazonaws.com
 0.0.0.0 digital-game.ru
-0.0.0.0 digital-metric.com
 0.0.0.0 digital-studio.org
 0.0.0.0 digitalcurrencyexchane.com
 0.0.0.0 digitalhomediscountptyltd.122.2o7.net
@@ -13795,7 +13581,6 @@
 0.0.0.0 divergentoffer.com
 0.0.0.0 divinestresser.com
 0.0.0.0 divinestresser.info
-0.0.0.0 divinitus.in
 0.0.0.0 divishka.ffox.site
 0.0.0.0 divol.info
 0.0.0.0 divx.112.2o7.net
@@ -13814,7 +13599,6 @@
 0.0.0.0 djaxadserver.com
 0.0.0.0 djfhwosjck.bid
 0.0.0.0 djin.site
-0.0.0.0 dk-chic.com
 0.0.0.0 dk.adserver.yahoo.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dl-microsoft.com
@@ -13967,7 +13751,6 @@
 0.0.0.0 dogist7.ml
 0.0.0.0 dogist7.tk
 0.0.0.0 dogsshoes.com
-0.0.0.0 dogus-ads-cdn.dygdigital.com
 0.0.0.0 dogware.pw
 0.0.0.0 dohers.live
 0.0.0.0 dojers.live
@@ -14020,7 +13803,6 @@
 0.0.0.0 donik.live
 0.0.0.0 donis.live
 0.0.0.0 donkixota.com
-0.0.0.0 donlucca.com.br
 0.0.0.0 donorr.cfd
 0.0.0.0 donorr.click
 0.0.0.0 donsinout.info
@@ -14073,7 +13855,6 @@
 0.0.0.0 dosers.live
 0.0.0.0 doshimotai.ru
 0.0.0.0 dosin.live
-0.0.0.0 dosman.pl
 0.0.0.0 dot-metrix.com
 0.0.0.0 dotcfmkc.cf
 0.0.0.0 dotchaudou.com
@@ -14098,7 +13879,6 @@
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
-0.0.0.0 doubleclicks.biz
 0.0.0.0 doublepimpads.com
 0.0.0.0 doubleverify.com
 0.0.0.0 doubtfulrainstorm.com
@@ -14193,7 +13973,6 @@
 0.0.0.0 dronml.ml
 0.0.0.0 dropbox-apps.com
 0.0.0.0 dropboxfiles.net
-0.0.0.0 drsudhanva.com
 0.0.0.0 drujbanu.pw
 0.0.0.0 drumcash.com
 0.0.0.0 drunk-ac.ru
@@ -14281,7 +14060,6 @@
 0.0.0.0 dtsedge.com
 0.0.0.0 dttmasterpropriv.ml
 0.0.0.0 dtvc.adsafeprotected.com
-0.0.0.0 du-wizards.com
 0.0.0.0 dual-it.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dub.mobileads.msn.com
@@ -14314,7 +14092,6 @@
 0.0.0.0 dunes.live
 0.0.0.0 dunker.live
 0.0.0.0 duoproc.ru
-0.0.0.0 duosmart.se
 0.0.0.0 dupers.live
 0.0.0.0 dupes.live
 0.0.0.0 duracom.ga
@@ -14381,7 +14158,6 @@
 0.0.0.0 dynacom.system-ns.org
 0.0.0.0 dynadserver.adotmob.com
 0.0.0.0 dynalyst.jp
-0.0.0.0 dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
 0.0.0.0 dynamic-ads.appier.net
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dynamic.rakuten.co.jp
@@ -14467,7 +14243,6 @@
 0.0.0.0 e-hemsire.net
 0.0.0.0 e-m.fr
 0.0.0.0 e-mailupgrade.com
-0.0.0.0 e-marketing-france.info
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
@@ -14531,7 +14306,6 @@
 0.0.0.0 ebiads.ebiuniverse.com
 0.0.0.0 ebocornac.com
 0.0.0.0 ebuzzing.com
-0.0.0.0 ec-track.com
 0.0.0.0 ec-uat.instapagemetrics.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 ec.adsymptotic.com
@@ -14544,7 +14318,6 @@
 0.0.0.0 echaintool.info
 0.0.0.0 echuhnova.digital
 0.0.0.0 ecircle-ag.com
-0.0.0.0 eclassroom.mtrschool.org
 0.0.0.0 eclick.vn
 0.0.0.0 eclipsagr.site
 0.0.0.0 eclkmpbn.com
@@ -14555,7 +14328,6 @@
 0.0.0.0 ecoaudio.cl
 0.0.0.0 ecomadserver.com
 0.0.0.0 economicpizzas.com
-0.0.0.0 ecoplastindia.in
 0.0.0.0 ecoshore.ga
 0.0.0.0 ecoupons.com
 0.0.0.0 ecowasloan.com
@@ -14568,9 +14340,7 @@
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.adobedc.net
 0.0.0.0 edge.ads.twitch.tv
-0.0.0.0 edge.atmtd.com
 0.0.0.0 edge.bnmla.com
-0.0.0.0 edge.bredg.com
 0.0.0.0 edge.mdcgate.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.safedk.com
@@ -14820,8 +14590,6 @@
 0.0.0.0 ejs.hitbox.com
 0.0.0.0 ejs.moatads.com
 0.0.0.0 ejyymghi.com
-0.0.0.0 ekamjewels.com
-0.0.0.0 ekamsatyam.org
 0.0.0.0 ekidos.bio
 0.0.0.0 ekkggr3.com
 0.0.0.0 ekohas.life
@@ -14834,9 +14602,7 @@
 0.0.0.0 elderlyinsect.com
 0.0.0.0 elderlyscissors.com
 0.0.0.0 elderlytown.com
-0.0.0.0 eldoretwagonhotel.co.ke
 0.0.0.0 elec-tb.com
-0.0.0.0 electricanlawrenceville.xyz
 0.0.0.0 electro1wallet.info
 0.0.0.0 electrodwallet.info
 0.0.0.0 electronicarts.112.2o7.net
@@ -14940,7 +14706,6 @@
 0.0.0.0 eloqua.122.2o7.net
 0.0.0.0 eloqua.com
 0.0.0.0 eloqua.pearsonvue.com
-0.0.0.0 elperronoticias.com
 0.0.0.0 elq.ansible.com
 0.0.0.0 elq.keysight.com
 0.0.0.0 elq.macu.com
@@ -14995,10 +14760,8 @@
 0.0.0.0 emptyescort.com
 0.0.0.0 emsisoft.bit
 0.0.0.0 emxdgt.com
-0.0.0.0 en-linea.app
 0.0.0.0 en.ad-stir.com
 0.0.0.0 en25.com
-0.0.0.0 en2minutos.tv
 0.0.0.0 enable.pw
 0.0.0.0 enat.live
 0.0.0.0 enc-tech.com
@@ -15054,7 +14817,6 @@
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 ensinger964.site
-0.0.0.0 ent.draftserver.com
 0.0.0.0 entercasino.com
 0.0.0.0 enterprise.djaxadserver.com
 0.0.0.0 enterprise.hitbox.com
@@ -15217,7 +14979,6 @@
 0.0.0.0 epodil.live
 0.0.0.0 epom.com
 0.0.0.0 epomads2.4shared.com
-0.0.0.0 eps-analyzer.de
 0.0.0.0 epyorke.edu.bz
 0.0.0.0 eq97f-1j0az.ads.tremorhub.com
 0.0.0.0 eq97f-3ak3i.ads.tremorhub.com
@@ -15359,7 +15120,6 @@
 0.0.0.0 ethclick.live
 0.0.0.0 ethclicks.live
 0.0.0.0 ethcrypto.live
-0.0.0.0 ethdesign.nl
 0.0.0.0 etherbonus.net
 0.0.0.0 ethereum-cashcard.com
 0.0.0.0 ethereum-cashcard.de
@@ -15597,12 +15357,12 @@
 0.0.0.0 experteerads.com
 0.0.0.0 expertsexchange.112.2o7.net
 0.0.0.0 expertsjourney.com
+0.0.0.0 expertstraders.com
 0.0.0.0 expertswebservices.com
 0.0.0.0 exploits.pro
 0.0.0.0 explorads.com
 0.0.0.0 explorads.xml.ak-is2.net
 0.0.0.0 expmediadirect1.com
-0.0.0.0 expo.ads.ramsalt.com
 0.0.0.0 exponea.com
 0.0.0.0 exponential.com
 0.0.0.0 exportdocs.biz
@@ -15845,7 +15605,6 @@
 0.0.0.0 fasertshop.online
 0.0.0.0 fashes.live
 0.0.0.0 fashion4young.de
-0.0.0.0 fashionablylateboutiquellc.com
 0.0.0.0 fasin.live
 0.0.0.0 fast-adv.it
 0.0.0.0 fast-date.site
@@ -15986,6 +15745,8 @@
 0.0.0.0 felod.live
 0.0.0.0 fem-staffservice.ssl-lolipop.jp
 0.0.0.0 femin.live
+0.0.0.0 femoms.live
+0.0.0.0 femons.live
 0.0.0.0 fenit.live
 0.0.0.0 fenite.live
 0.0.0.0 fenranutc0x24ai-11.com
@@ -16020,12 +15781,15 @@
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 ffxitrack.com
 0.0.0.0 fg8dgt.com
-0.0.0.0 fhdllp.com
 0.0.0.0 fhm.degearwom.de
 0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fiana.live
 0.0.0.0 fibare.com
+0.0.0.0 fibems.live
+0.0.0.0 fibens.live
 0.0.0.0 fibun.live
+0.0.0.0 ficems.live
+0.0.0.0 ficens.live
 0.0.0.0 fictiongroin.com
 0.0.0.0 ficyst2.tk
 0.0.0.0 ficyst3.cf
@@ -16039,10 +15803,13 @@
 0.0.0.0 fid.hognoob.se
 0.0.0.0 fidelity-media-ssp.rtb.adx1.com
 0.0.0.0 fidems.live
+0.0.0.0 fidens.live
 0.0.0.0 fidom.live
 0.0.0.0 fieldhover.com
+0.0.0.0 fifems.live
 0.0.0.0 fifens.live
 0.0.0.0 fifthborder.com
+0.0.0.0 figems.live
 0.0.0.0 figens.live
 0.0.0.0 figer.live
 0.0.0.0 figlobal.112.2o7.net
@@ -16110,7 +15877,12 @@
 0.0.0.0 figyst7.gq
 0.0.0.0 figyst7.ml
 0.0.0.0 figyst7.tk
+0.0.0.0 fihems.live
 0.0.0.0 fihens.live
+0.0.0.0 fijems.live
+0.0.0.0 fijens.live
+0.0.0.0 fikems.live
+0.0.0.0 fikens.live
 0.0.0.0 filabella.ga
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 file-cdn.beeketing.com
@@ -16123,6 +15895,8 @@
 0.0.0.0 file.ziyu.net
 0.0.0.0 filebase.duckdns.org
 0.0.0.0 fileisready.com
+0.0.0.0 filems.live
+0.0.0.0 filens.live
 0.0.0.0 files-downloads.com
 0.0.0.0 files-quotecheck.xyz
 0.0.0.0 files.2zzz.ru
@@ -16161,6 +15935,8 @@
 0.0.0.0 filter1.adop.co
 0.0.0.0 filteradkernel.adsimilate.com
 0.0.0.0 fim.122.2o7.net
+0.0.0.0 fimems.live
+0.0.0.0 fimens.live
 0.0.0.0 fimers.live
 0.0.0.0 fimserve.com
 0.0.0.0 fin-plcukltd.com
@@ -16173,7 +15949,6 @@
 0.0.0.0 financesmanager.tk
 0.0.0.0 financialtrending.com
 0.0.0.0 fincert.it
-0.0.0.0 find-ip-address.org
 0.0.0.0 find-me-now.com
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
@@ -16190,6 +15965,8 @@
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 finec.live
 0.0.0.0 fineiksus.com
+0.0.0.0 finems.live
+0.0.0.0 finens.live
 0.0.0.0 fineptc.com
 0.0.0.0 fingahvf.top
 0.0.0.0 fingerprint.admicro.vn
@@ -16197,12 +15974,16 @@
 0.0.0.0 finker.live
 0.0.0.0 fionades.com
 0.0.0.0 fioricet-online.blogspot.com
+0.0.0.0 fipems.live
+0.0.0.0 fipens.live
 0.0.0.0 fireads.org
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firec.live
 0.0.0.0 firedron.top
 0.0.0.0 fireeyee.com
 0.0.0.0 firefox-addons.com
+0.0.0.0 firems.live
+0.0.0.0 firens.live
 0.0.0.0 firenzelavori.lt
 0.0.0.0 firly.life
 0.0.0.0 first.nova.cz
@@ -16213,13 +15994,24 @@
 0.0.0.0 firsttus.com
 0.0.0.0 firstviewfeeds.com
 0.0.0.0 fiscalia.ga
-0.0.0.0 fisioterapiaweb.com.br
+0.0.0.0 fisems.live
+0.0.0.0 fisens.live
 0.0.0.0 fit-logistic.com
 0.0.0.0 fitemop.live
+0.0.0.0 fitems.live
 0.0.0.0 fiten.live
+0.0.0.0 fitens.live
 0.0.0.0 fiter.live
 0.0.0.0 fivecdm.com
+0.0.0.0 fivems.live
+0.0.0.0 fivens.live
 0.0.0.0 fiveyear3.club
+0.0.0.0 fiwems.live
+0.0.0.0 fiwens.live
+0.0.0.0 fixems.live
+0.0.0.0 fixens.live
+0.0.0.0 fizems.live
+0.0.0.0 fizens.live
 0.0.0.0 fjetsam.com
 0.0.0.0 fjlryd.com
 0.0.0.0 fkd.derpcity.ru
@@ -16276,7 +16068,6 @@
 0.0.0.0 flonty.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flophous.cf
-0.0.0.0 florafawnamusic.com
 0.0.0.0 flori.live
 0.0.0.0 florid.live
 0.0.0.0 flowerstick.net
@@ -16441,7 +16232,6 @@
 0.0.0.0 fomid.live
 0.0.0.0 fomin.live
 0.0.0.0 fomit.live
-0.0.0.0 fomobaby.app
 0.0.0.0 fomoportugal.com
 0.0.0.0 fomub.online
 0.0.0.0 fonat.live
@@ -16600,7 +16390,6 @@
 0.0.0.0 frame.deployads.com
 0.0.0.0 frameupds.info
 0.0.0.0 francehayon.fr
-0.0.0.0 franciscosobrado.com
 0.0.0.0 fransceysse.ac.ug
 0.0.0.0 fredfiber.no
 0.0.0.0 fredkcdekj.me
@@ -16613,7 +16402,6 @@
 0.0.0.0 free-hairy-pussy.net
 0.0.0.0 free-progs.net
 0.0.0.0 free-video-movie.com
-0.0.0.0 free-website-statistics.com
 0.0.0.0 free.internetspeedtracker.com
 0.0.0.0 free.stat.tk
 0.0.0.0 free.xxxcounter.com
@@ -16626,7 +16414,6 @@
 0.0.0.0 freedomart.cz
 0.0.0.0 freedomate.ga
 0.0.0.0 freedownloadfiles.org
-0.0.0.0 freedrive.greepie.com
 0.0.0.0 freefilesync.com
 0.0.0.0 freegayporn.biz
 0.0.0.0 freehanbam.net
@@ -16682,7 +16469,6 @@
 0.0.0.0 frostite.biz
 0.0.0.0 frostycitadel.xyz
 0.0.0.0 frould.com
-0.0.0.0 frplaw.id
 0.0.0.0 frtyhyyttrtrreee.xyz
 0.0.0.0 frtyj.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -16844,7 +16630,6 @@
 0.0.0.0 g8.adspeed.net
 0.0.0.0 g8ads.com
 0.0.0.0 ga-ads.com
-0.0.0.0 ga-analytics.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gabet.live
@@ -17001,7 +16786,6 @@
 0.0.0.0 gdrfa.online
 0.0.0.0 gdrintl.com
 0.0.0.0 gds786bomyc.com
-0.0.0.0 gdt-tech.fr
 0.0.0.0 geaviation.112.2o7.net
 0.0.0.0 geconsumerfinance.112.2o7.net
 0.0.0.0 gedebey-tvradio.info
@@ -17041,7 +16825,6 @@
 0.0.0.0 gegust7.ml
 0.0.0.0 gegust7.tk
 0.0.0.0 geid.wbtrk.net
-0.0.0.0 geiger.si
 0.0.0.0 gelat.live
 0.0.0.0 geludin.com
 0.0.0.0 geman.live
@@ -17056,7 +16839,6 @@
 0.0.0.0 genil.live
 0.0.0.0 genis.live
 0.0.0.0 geniusdexchange.com
-0.0.0.0 geniusonclick.com
 0.0.0.0 genori.life
 0.0.0.0 genry.live
 0.0.0.0 genshincc.com
@@ -17065,7 +16847,6 @@
 0.0.0.0 geo-tracker.smadex.com
 0.0.0.0 geo-weather.adsafety.net
 0.0.0.0 geo.adobe.com
-0.0.0.0 geo.ads.audio.thisisdax.com
 0.0.0.0 geo.cityads.com
 0.0.0.0 geo.crtracklink.com
 0.0.0.0 geo.digitalpoint.com
@@ -17078,7 +16859,6 @@
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geocounter.net
 0.0.0.0 geoedge.be
-0.0.0.0 geoffcasson.com
 0.0.0.0 geoflix.me
 0.0.0.0 geoip5m1y07.admix.in
 0.0.0.0 geolocation-sys.com
@@ -17097,7 +16877,6 @@
 0.0.0.0 gesic.live
 0.0.0.0 gessal.es
 0.0.0.0 geswid.site
-0.0.0.0 get-ads.ru
 0.0.0.0 get-cracked.com
 0.0.0.0 get-downloads.com
 0.0.0.0 get-europe-group.bar
@@ -17151,7 +16930,6 @@
 0.0.0.0 getyourgiftnow3.blogspot.com
 0.0.0.0 geziyurdu.com
 0.0.0.0 gf.umenglog.com
-0.0.0.0 gfbags.co
 0.0.0.0 gg.net.co
 0.0.0.0 ggbet-login.pl
 0.0.0.0 gghacks.com
@@ -17159,7 +16937,6 @@
 0.0.0.0 gglcash4u.info
 0.0.0.0 ggomes.adv.br
 0.0.0.0 ggtraff.ru
-0.0.0.0 ghaddrug.com
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 ghb.unoadsrv.com
 0.0.0.0 ghb1.adtelligent.com
@@ -17228,7 +17005,6 @@
 0.0.0.0 gifttori.com
 0.0.0.0 gifttory.com
 0.0.0.0 giftyrootpour.site
-0.0.0.0 gigantech.org
 0.0.0.0 gigaonclick.com
 0.0.0.0 gigust.cf
 0.0.0.0 gigust.gq
@@ -17338,7 +17114,6 @@
 0.0.0.0 gklfs-ktn14.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 gl-adsrv.rtbsuperhub.com
-0.0.0.0 gla.ge
 0.0.0.0 glacis.live
 0.0.0.0 glam.com
 0.0.0.0 glamorousfeeds.com
@@ -17608,7 +17383,6 @@
 0.0.0.0 goldstats.com
 0.0.0.0 golims.live
 0.0.0.0 gomans.live
-0.0.0.0 gomax.mv
 0.0.0.0 gomen.ninja
 0.0.0.0 gomid.live
 0.0.0.0 gomims.live
@@ -17828,7 +17602,6 @@
 0.0.0.0 greenadblocker.com
 0.0.0.0 greenbux.ir
 0.0.0.0 greenbux.org
-0.0.0.0 greenf.alexion.rs
 0.0.0.0 greengoplatform.com
 0.0.0.0 greenlizard.co.za
 0.0.0.0 greenshot.fr
@@ -17877,9 +17650,7 @@
 0.0.0.0 gssprt.jp
 0.0.0.0 gstatic.kz
 0.0.0.0 gstestat.com
-0.0.0.0 gta.devsrm.com
 0.0.0.0 gtcc1.acecounter.com
-0.0.0.0 gtn.cl
 0.0.0.0 gtneifnsyrf.tk
 0.0.0.0 gtop100.com
 0.0.0.0 gts-ads.twistbox.com
@@ -18031,8 +17802,6 @@
 0.0.0.0 haits.sbs
 0.0.0.0 hakela.live
 0.0.0.0 hakid.live
-0.0.0.0 halal.ad
-0.0.0.0 halalgoats.com
 0.0.0.0 halanis21yi84alycia.top
 0.0.0.0 hales.live
 0.0.0.0 halev.live
@@ -18117,10 +17886,8 @@
 0.0.0.0 hatefulrequest.com
 0.0.0.0 haters.live
 0.0.0.0 hatin.live
-0.0.0.0 hatipogluhali.com
 0.0.0.0 hatires.bio
 0.0.0.0 hatox.live
-0.0.0.0 hausgemachtes.ch
 0.0.0.0 hausseeblickscheidegg.de
 0.0.0.0 havamedia.net
 0.0.0.0 havasedge.com
@@ -18204,7 +17971,6 @@
 0.0.0.0 heatmap.emma.tools
 0.0.0.0 heatmaps.monsido.com
 0.0.0.0 heavenlybike.com
-0.0.0.0 heaventechnologies.com.pk
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heavyplayground.com
 0.0.0.0 hectorcalle.com
@@ -18488,7 +18254,6 @@
 0.0.0.0 hitcounter.ru
 0.0.0.0 hitcounters.miarroba.com
 0.0.0.0 hitcpm.com
-0.0.0.0 hitechscientific.in
 0.0.0.0 hitfarm.com
 0.0.0.0 hitgraph.jp
 0.0.0.0 hitiz.com
@@ -18962,7 +18727,6 @@
 0.0.0.0 i-dating.info
 0.0.0.0 i-dots.com
 0.0.0.0 i-generation.jp
-0.0.0.0 i-helpyou.it
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-mzenjdfu.pl
 0.0.0.0 i.adfurikun.jp
@@ -19040,7 +18804,6 @@
 0.0.0.0 iblservicosonline.com
 0.0.0.0 ibonecare.info
 0.0.0.0 ibsmoney.ru
-0.0.0.0 ibuy.com.mm
 0.0.0.0 ibv.stat-rock.com
 0.0.0.0 ican3e.club
 0.0.0.0 icbegypt.com
@@ -19065,7 +18828,6 @@
 0.0.0.0 ics.hitbox.com
 0.0.0.0 id-19190249012904912904190249129490219049129419.pro
 0.0.0.0 id-929734532482.com
-0.0.0.0 id-tiara.com
 0.0.0.0 id.adsplay.net
 0.0.0.0 id.analytics.glance.inmobi.com
 0.0.0.0 id.halo.ad.gt
@@ -19127,7 +18889,6 @@
 0.0.0.0 iegust7.tk
 0.0.0.0 iegust8.ml
 0.0.0.0 ielassocier.icu
-0.0.0.0 ielts-world.trimion.org
 0.0.0.0 ieltsonlinetest.com
 0.0.0.0 iemnnyanmar.com
 0.0.0.0 iemqualifiers.com
@@ -19372,11 +19133,16 @@
 0.0.0.0 inaccused.com
 0.0.0.0 inahoos.cfd
 0.0.0.0 inationnetwork.xyz
+0.0.0.0 inbeks.live
+0.0.0.0 inbems.live
+0.0.0.0 inbers.live
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inboxdollars.com
 0.0.0.0 inc.adblade.com
+0.0.0.0 incems.live
 0.0.0.0 incentaclick.com
 0.0.0.0 incer.live
+0.0.0.0 incers.live
 0.0.0.0 incis.live
 0.0.0.0 incisivemedia.112.2o7.net
 0.0.0.0 incit.live
@@ -19392,6 +19158,9 @@
 0.0.0.0 incremento-avance-en-tarjeta-cl.cf
 0.0.0.0 incremento-avance-en-tarjeta-cl.gq
 0.0.0.0 indar.live
+0.0.0.0 indeks.live
+0.0.0.0 indems.live
+0.0.0.0 inders.live
 0.0.0.0 indetiske.ya.ru
 0.0.0.0 index-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
@@ -19410,21 +19179,22 @@
 0.0.0.0 individualkipitera24.site
 0.0.0.0 indo.autoads.asia
 0.0.0.0 indoleads.com
-0.0.0.0 indrani-therapy.com
+0.0.0.0 indonesias.me
 0.0.0.0 indta.co.id
 0.0.0.0 industrybrains.com
-0.0.0.0 induvit.tlaxcala.gob.mx
 0.0.0.0 ineediscounts.com
 0.0.0.0 inessa-sweet.ru
 0.0.0.0 inetlog.ru
 0.0.0.0 infamousstream.com
 0.0.0.0 infeed-adroute.focas.jp
+0.0.0.0 infeks.live
+0.0.0.0 infems.live
+0.0.0.0 infers.live
 0.0.0.0 infet.live
 0.0.0.0 infikuje.freevnn.com
 0.0.0.0 infinite-ads.com
 0.0.0.0 infiniteloop.co.in
 0.0.0.0 infiniti.cityads.com
-0.0.0.0 infinity-tracking.net
 0.0.0.0 infinityads.com
 0.0.0.0 info-ideale2018.com
 0.0.0.0 info.ad.daum.net
@@ -19461,7 +19231,9 @@
 0.0.0.0 ingameads2.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingar.live
-0.0.0.0 ingelagos.cl
+0.0.0.0 ingeks.live
+0.0.0.0 ingems.live
+0.0.0.0 ingers.live
 0.0.0.0 inginternetprod.112.2o7.net
 0.0.0.0 ingreso-cupo-de-tarjeta-cl.cf
 0.0.0.0 ingreso-para-avance-cl.cf
@@ -19472,19 +19244,30 @@
 0.0.0.0 ingreso-verificacion-de-avance-cl.gq
 0.0.0.0 ingress.unityads.unity3d.com
 0.0.0.0 ingtobepu.online
+0.0.0.0 inheks.live
+0.0.0.0 inhems.live
 0.0.0.0 inheritedgeneralrailroad.com
+0.0.0.0 inhers.live
 0.0.0.0 inhonedgean.com
 0.0.0.0 ininmacerad.pro
 0.0.0.0 init.supersonicads.com
 0.0.0.0 injected.cc
+0.0.0.0 injeks.live
+0.0.0.0 injems.live
+0.0.0.0 injers.live
 0.0.0.0 injuredworkersadvocates.com
 0.0.0.0 ink1001.com
+0.0.0.0 inkeks.live
+0.0.0.0 inkems.live
+0.0.0.0 inkers.live
 0.0.0.0 inkscape.es
 0.0.0.0 inkscape.fr
 0.0.0.0 inkscape.it
 0.0.0.0 inl.adbureau.net
 0.0.0.0 inleadership.co.nz
+0.0.0.0 inlems.live
 0.0.0.0 inler.live
+0.0.0.0 inlers.live
 0.0.0.0 inline.admedia.com
 0.0.0.0 inma.live
 0.0.0.0 inmailadmin.cf
@@ -19492,11 +19275,12 @@
 0.0.0.0 inmailadmin.gq
 0.0.0.0 inmailadmin.ml
 0.0.0.0 inmailadmin.tk
+0.0.0.0 inmeks.live
+0.0.0.0 inmems.live
 0.0.0.0 inmobi-jp.com
 0.0.0.0 inmobi.com
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inmotionframework.com
-0.0.0.0 innertrends.com
 0.0.0.0 inno-metrics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 innocentinvention.com
@@ -19506,11 +19290,20 @@
 0.0.0.0 innovid.com
 0.0.0.0 inpage-feed.trackpush.com
 0.0.0.0 inpar.live
+0.0.0.0 inpeks.live
+0.0.0.0 inpems.live
+0.0.0.0 inpers.live
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inread-experience.teads.tv
+0.0.0.0 inreks.live
+0.0.0.0 inrems.live
+0.0.0.0 inrers.live
 0.0.0.0 inringtone.com
 0.0.0.0 inrol.live
 0.0.0.0 inscname.net
+0.0.0.0 inseks.live
+0.0.0.0 insems.live
+0.0.0.0 insers.live
 0.0.0.0 inside.adpushup.com
 0.0.0.0 inside.bitcomet.com
 0.0.0.0 insiderpagescom.122.2o7.net
@@ -19541,7 +19334,6 @@
 0.0.0.0 installer892.site
 0.0.0.0 installlcube.ru
 0.0.0.0 installsilver.com
-0.0.0.0 instankc.beget.tech
 0.0.0.0 instant-payments.ru
 0.0.0.0 instantmadness.com
 0.0.0.0 instapagemetrics.com
@@ -19555,6 +19347,7 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intecwi.org
+0.0.0.0 inteks.live
 0.0.0.0 intelcorpchan.112.2o7.net
 0.0.0.0 intelcorperror.112.2o7.net
 0.0.0.0 intelcorpsg.com
@@ -19564,18 +19357,17 @@
 0.0.0.0 intelligentscissors.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intelserviceupdate.com
+0.0.0.0 intems.live
 0.0.0.0 intensedigital.adk2x.com
 0.0.0.0 intentiq.com
 0.0.0.0 intentmedia.com
 0.0.0.0 intentmedia.net
 0.0.0.0 inter1ads.com
-0.0.0.0 interact-analytics.com
 0.0.0.0 interacti3ve.xyz
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 intercambiobanner.com
 0.0.0.0 interchangecorporation.122.2o7.net
 0.0.0.0 interclick.com
-0.0.0.0 intercrono.es
 0.0.0.0 interestsmoke.com
 0.0.0.0 interfax-globalnews.com
 0.0.0.0 intergi.com
@@ -19606,13 +19398,13 @@
 0.0.0.0 interpremier1998.ru
 0.0.0.0 interreklame.de
 0.0.0.0 interruption.ru
+0.0.0.0 inters.live
 0.0.0.0 interstat.hu
 0.0.0.0 interstitial.fyber.com
 0.0.0.0 intertakekuhy.info
 0.0.0.0 intes.live
 0.0.0.0 intesa-sanpaola.ml
 0.0.0.0 intimateimagery.com
-0.0.0.0 intimefiling.com
 0.0.0.0 intimorg.xyz
 0.0.0.0 intouch.adinfuse.com
 0.0.0.0 intouchsolutions.112.2o7.net
@@ -19628,7 +19420,10 @@
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 invasivespecies.us
 0.0.0.0 invcloud.info
+0.0.0.0 inveks.live
+0.0.0.0 invems.live
 0.0.0.0 inventionpassenger.com
+0.0.0.0 invers.live
 0.0.0.0 invest-alliance.ru
 0.0.0.0 invest-digest.com
 0.0.0.0 investigatepin.com
@@ -19642,6 +19437,12 @@
 0.0.0.0 invoice-accounts.org
 0.0.0.0 invoice7mukszq9nbpa7online.ru
 0.0.0.0 invoice9kat5ggmml0c6online.ru
+0.0.0.0 inweks.live
+0.0.0.0 inwems.live
+0.0.0.0 inwers.live
+0.0.0.0 inzeks.live
+0.0.0.0 inzems.live
+0.0.0.0 inzers.live
 0.0.0.0 io.innertrends.com
 0.0.0.0 ioabc.wif.com.br
 0.0.0.0 ioadhost.2zzz.ru
@@ -19819,7 +19620,6 @@
 0.0.0.0 ipv6.adm.admixer.com
 0.0.0.0 ipv6.adrta.com
 0.0.0.0 ipverifier.additionalmedia.com
-0.0.0.0 ipvisions.net
 0.0.0.0 iq001.adtech.fr
 0.0.0.0 iq001.adtech.us
 0.0.0.0 iqbuddys.com
@@ -19871,7 +19671,6 @@
 0.0.0.0 isower.life
 0.0.0.0 ispot.tv
 0.0.0.0 istanbulside.net
-0.0.0.0 istanbulyazilim.net
 0.0.0.0 istglobal.net
 0.0.0.0 isurtum.live
 0.0.0.0 iswhy3z.xyz
@@ -20043,7 +19842,6 @@
 0.0.0.0 janavenanciomakeup.com.br
 0.0.0.0 jand.live
 0.0.0.0 janiking.xyz
-0.0.0.0 jansenaccountancy.nl
 0.0.0.0 janut.live
 0.0.0.0 janyuos.click
 0.0.0.0 japan.inmobi.com
@@ -20456,7 +20254,6 @@
 0.0.0.0 jp1-bid.adsrvr.org
 0.0.0.0 jp3adv-cdn.goldspotmedia.com
 0.0.0.0 jpassport.jp
-0.0.0.0 jpcleaningservices2.davaohorizon.com
 0.0.0.0 jpfftapr.fun
 0.0.0.0 jplymell.com
 0.0.0.0 jpmpartnersites.112.2o7.net
@@ -20568,7 +20365,6 @@
 0.0.0.0 jtracking.lulusoft.com
 0.0.0.0 juatubatransparente.org
 0.0.0.0 judax.live
-0.0.0.0 judgebryantweekes.com
 0.0.0.0 jufar.online
 0.0.0.0 juger.live
 0.0.0.0 juicyads.com
@@ -20579,7 +20375,6 @@
 0.0.0.0 jumpinghouse.org
 0.0.0.0 jumpingjetz.net
 0.0.0.0 jumptap.com
-0.0.0.0 junbi-tracker.com
 0.0.0.0 junc.live
 0.0.0.0 junk-cleaner.org
 0.0.0.0 junki.live
@@ -20750,14 +20545,12 @@
 0.0.0.0 katigoroshko.live
 0.0.0.0 katoms.live
 0.0.0.0 katons.live
-0.0.0.0 katrin-meinrenken.de
 0.0.0.0 katu.adbureau.net
 0.0.0.0 kau.li
 0.0.0.0 kavoms.live
 0.0.0.0 kavons.live
 0.0.0.0 kawoms.live
 0.0.0.0 kawons.live
-0.0.0.0 kazirafiq.com
 0.0.0.0 kazoms.live
 0.0.0.0 kazons.live
 0.0.0.0 kb.display.ad.daum.net
@@ -20832,7 +20625,6 @@
 0.0.0.0 kemes.live
 0.0.0.0 kemin.live
 0.0.0.0 kemons.live
-0.0.0.0 kenaridjaja.com
 0.0.0.0 kenasit.life
 0.0.0.0 kenatipurecehkali-xt12.com
 0.0.0.0 kenatipurecehkali-xt13.com
@@ -20881,7 +20673,6 @@
 0.0.0.0 keyesforsteuben.com
 0.0.0.0 keymedia.hu
 0.0.0.0 keys.dmtracker.com
-0.0.0.0 keysolutionsandservices.com
 0.0.0.0 keywee.co
 0.0.0.0 keyword.ad.daum.net
 0.0.0.0 keywordlink3.xlisting.jp
@@ -21128,7 +20919,6 @@
 0.0.0.0 kobyst9.tk
 0.0.0.0 kocent.live
 0.0.0.0 kochava.com
-0.0.0.0 kodebmnkemhan.com
 0.0.0.0 kodent.live
 0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kofent.live
@@ -21211,7 +21001,6 @@
 0.0.0.0 kohlermetricssecure.kohler.com
 0.0.0.0 koitushinterneinnehmen.s3.eu-central-1.amazonaws.com
 0.0.0.0 kojent.live
-0.0.0.0 koji-analytics.com
 0.0.0.0 kok.eroterest.net
 0.0.0.0 kokent.live
 0.0.0.0 kokoshi.website
@@ -21352,6 +21141,7 @@
 0.0.0.0 ksergyale.xyz
 0.0.0.0 ksmxnerqs.com
 0.0.0.0 kstaty.bio
+0.0.0.0 ksuinvclub.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 ktai.pw
 0.0.0.0 ktis.club
@@ -21375,6 +21165,7 @@
 0.0.0.0 kushyma.com
 0.0.0.0 kustens.com
 0.0.0.0 kutas.live
+0.0.0.0 kutegiagoc.com
 0.0.0.0 kv-analytics.kiotviet.vn
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvkaa.com
@@ -21487,7 +21278,6 @@
 0.0.0.0 ladsblue.com
 0.0.0.0 ladsp.com
 0.0.0.0 ladsp.jp
-0.0.0.0 lady-melia.com
 0.0.0.0 lafer.live
 0.0.0.0 laffaire-du-jour.com
 0.0.0.0 lafit.live
@@ -21506,7 +21296,6 @@
 0.0.0.0 lamegaoffre.fr
 0.0.0.0 lameguard.ru
 0.0.0.0 lameletters.com
-0.0.0.0 lamicherustique.com
 0.0.0.0 lamid.live
 0.0.0.0 lamis.live
 0.0.0.0 lamp-shade.net
@@ -21534,7 +21323,6 @@
 0.0.0.0 landing.raman.tel
 0.0.0.0 landing.symaart.com
 0.0.0.0 landinget.com
-0.0.0.0 landingpageis.com
 0.0.0.0 landings.frekaans.ir
 0.0.0.0 landings.goosheh-mob.ir
 0.0.0.0 landings.hashiiyeh.com
@@ -21576,7 +21364,6 @@
 0.0.0.0 laptopreportcard.com
 0.0.0.0 laptopscreen.jp
 0.0.0.0 lara.amiyon.com
-0.0.0.0 lararforbundet.analytics.ozzi.io
 0.0.0.0 larden.live
 0.0.0.0 lardin.live
 0.0.0.0 laren.live
@@ -21602,7 +21389,6 @@
 0.0.0.0 lates.live
 0.0.0.0 latesolas.com
 0.0.0.0 latig.live
-0.0.0.0 latinointegratedcontractors.com
 0.0.0.0 latis.live
 0.0.0.0 latox.ro
 0.0.0.0 lattempted.pw
@@ -21619,7 +21405,6 @@
 0.0.0.0 laveshka.life
 0.0.0.0 lavishsupplystore.com
 0.0.0.0 lawet.live
-0.0.0.0 lawyeryouwant.com
 0.0.0.0 lax007.hawkhost.com
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lax1.ib.adnxs.com
@@ -21655,7 +21440,6 @@
 0.0.0.0 ldserv02.adtech.fr
 0.0.0.0 ldserv02.adtech.us
 0.0.0.0 le-journal-de-france.fr
-0.0.0.0 lead-analytics.biz
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadbolt.com
 0.0.0.0 leadboltads.net
@@ -21741,7 +21525,6 @@
 0.0.0.0 lehig.live
 0.0.0.0 lehin.live
 0.0.0.0 lehit.live
-0.0.0.0 leiki-doubleclick-proxy.appspot.com
 0.0.0.0 lejig.live
 0.0.0.0 lejin.live
 0.0.0.0 lekagew.live
@@ -21754,7 +21537,6 @@
 0.0.0.0 lemig.live
 0.0.0.0 lemit.live
 0.0.0.0 lemmatechnologies.com
-0.0.0.0 lemondedulivre.com
 0.0.0.0 lemos.live
 0.0.0.0 lemotgraph.com
 0.0.0.0 lendliz.bio
@@ -21783,7 +21565,6 @@
 0.0.0.0 lerit.live
 0.0.0.0 lerone.live
 0.0.0.0 leroymerlin.112.2o7.net
-0.0.0.0 leserservice-tracking.de
 0.0.0.0 lesiba.live
 0.0.0.0 lesig.live
 0.0.0.0 lesin.live
@@ -21836,7 +21617,6 @@
 0.0.0.0 lianyebo1.com
 0.0.0.0 lib.adnxs.com
 0.0.0.0 lib2.biz
-0.0.0.0 libertastechsolutions.com
 0.0.0.0 liberty.gedads.com
 0.0.0.0 libes.live
 0.0.0.0 library.arihantmbainstitute.ac.in
@@ -22018,7 +21798,6 @@
 0.0.0.0 lisads.d2c.ne.jp
 0.0.0.0 liser.live
 0.0.0.0 lisob.live
-0.0.0.0 lista33rivera.uy
 0.0.0.0 listen-heres.com
 0.0.0.0 listrak.com
 0.0.0.0 listrakbi.com
@@ -22112,7 +21891,6 @@
 0.0.0.0 lofent.live
 0.0.0.0 lofhick.info
 0.0.0.0 log-api.aillis.net
-0.0.0.0 log-api.newrelic.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-collector.svctr.zynga.com
@@ -22388,9 +22166,7 @@
 0.0.0.0 log2.adsplay.net
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.radiko.jp
-0.0.0.0 log2.ru
 0.0.0.0 log2.spotify.com
-0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 log3.adsplay.net
 0.0.0.0 log3.optimizely.com
 0.0.0.0 log4.adsplay.net
@@ -22400,13 +22176,11 @@
 0.0.0.0 loga.xiti.com
 0.0.0.0 loga2.doubleverify.com
 0.0.0.0 logagent-wf.centurygame.com
-0.0.0.0 logaholic.com
 0.0.0.0 logall.doubleverify.com
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logapi.tv.naver.com
 0.0.0.0 logapi.zhipin.com
 0.0.0.0 logbak.hicloud.com
-0.0.0.0 logbor.com
 0.0.0.0 logc1.xiti.com
 0.0.0.0 logc146.xiti.com
 0.0.0.0 logc22.xiti.com
@@ -22414,8 +22188,6 @@
 0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollect.totalcms.ncloud.or.kr
 0.0.0.0 logconfig.polarisoffice.com
-0.0.0.0 logcounter.com
-0.0.0.0 logdy.com
 0.0.0.0 logen.vietnamplus.vn
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logent.live
@@ -22432,7 +22204,6 @@
 0.0.0.0 logger.catch.gift
 0.0.0.0 logger.cbs.co.kr
 0.0.0.0 logger.cloudmobi.net
-0.0.0.0 logger.co.kr
 0.0.0.0 logger.eigene.io
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.goeuro.com
@@ -22442,7 +22213,6 @@
 0.0.0.0 logger.moviead55.ru
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.ntracecloud.com
-0.0.0.0 logger.pw
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.rtb.dealer.com
 0.0.0.0 logger.snackly.co
@@ -22476,7 +22246,6 @@
 0.0.0.0 logicanalytics.io
 0.0.0.0 logicplus.com.do
 0.0.0.0 logicplus.do
-0.0.0.0 logicsfort.com
 0.0.0.0 logilyavie.digital
 0.0.0.0 logim.live
 0.0.0.0 login-avance-incremento-web-cl.cf
@@ -22484,7 +22253,6 @@
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 login-hulu.com
 0.0.0.0 login-joker123.org
-0.0.0.0 login-megafon.ru
 0.0.0.0 login-staging.logrocket.com
 0.0.0.0 login-web-avances-cl.cf
 0.0.0.0 login-web-avances-cl.gq
@@ -22526,10 +22294,7 @@
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 loglaupt.com
 0.0.0.0 logly.co.jp
-0.0.0.0 logmatic.io
 0.0.0.0 logniz.com
-0.0.0.0 lognormal.net
-0.0.0.0 logo-net.co.uk
 0.0.0.0 logocrescent.com
 0.0.0.0 logodesignslab.com
 0.0.0.0 logodesignsmaker.com
@@ -22606,7 +22371,6 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logservices.ipass.com
 0.0.0.0 logsink.zedge.net
-0.0.0.0 logsoc.ru
 0.0.0.0 logsss.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 logstore.co.ke
@@ -22627,7 +22391,6 @@
 0.0.0.0 logv32.xiti.com
 0.0.0.0 logv4.xiti.com
 0.0.0.0 logx.optimizely.com
-0.0.0.0 logxp.ru
 0.0.0.0 logydoci.com
 0.0.0.0 logysist.com
 0.0.0.0 logyst.cf
@@ -22664,7 +22427,6 @@
 0.0.0.0 logyst7.tk
 0.0.0.0 logystowtencon.info
 0.0.0.0 logytec.com.pe
-0.0.0.0 logz.ru
 0.0.0.0 logzh.dantocmiennui.vn
 0.0.0.0 logzh.vietnamplus.vn
 0.0.0.0 loh-tech.com
@@ -22944,7 +22706,6 @@
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.trb.com
 0.0.0.0 m0bile.net
-0.0.0.0 m1.analytics.sitevision-cloud.se
 0.0.0.0 m1700.com
 0.0.0.0 m2.impactserving.com
 0.0.0.0 m234.xyz
@@ -22960,7 +22721,6 @@
 0.0.0.0 ma-collection-de-pubs.com
 0.0.0.0 ma-i2i.jp
 0.0.0.0 ma-selection-exclusive.com
-0.0.0.0 ma-static.ru
 0.0.0.0 ma.logsss.com
 0.0.0.0 ma1169-r.analytics.edgekey.net
 0.0.0.0 ma1275-r.analytics.edgekey.net
@@ -22986,7 +22746,6 @@
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 macliure.cfd
 0.0.0.0 macor.live
-0.0.0.0 mad-adz.com
 0.0.0.0 mad.xapads.com
 0.0.0.0 madadsmedia.com
 0.0.0.0 madarjaaatresearchers.blogspot.com
@@ -23049,8 +22808,6 @@
 0.0.0.0 mail-bounce.com
 0.0.0.0 mail-paypay.secure-onamae.com
 0.0.0.0 mail-tools.info
-0.0.0.0 mail.emilyanncain.com
-0.0.0.0 mail.skgevents.com
 0.0.0.0 mail.supporttechwin.net
 0.0.0.0 mailadvert19.world
 0.0.0.0 mailadvert917dx.world
@@ -23203,7 +22960,6 @@
 0.0.0.0 masabikpanel.top
 0.0.0.0 masari.miner.rocks
 0.0.0.0 masbian.com
-0.0.0.0 masboni.com
 0.0.0.0 maschinen.be
 0.0.0.0 masdpanalytics.azureedge.net
 0.0.0.0 masee.info
@@ -23281,7 +23037,6 @@
 0.0.0.0 maxads.ruralpress.com
 0.0.0.0 maxadserver.corusradionetwork.com
 0.0.0.0 maxhacks.pro
-0.0.0.0 maxi-ad.de
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maximumcash.com
 0.0.0.0 maximumpcads.imaginemedia.com
@@ -23307,13 +23062,11 @@
 0.0.0.0 mb.taboola.com
 0.0.0.0 mb9eo-7w62j.ads.tremorhub.com
 0.0.0.0 mb9eo-nkrlx.ads.tremorhub.com
-0.0.0.0 mbahauddin.com
 0.0.0.0 mbgrm.com
 0.0.0.0 mbmb55.com
 0.0.0.0 mbmb99.com
 0.0.0.0 mbox.wegmans.com
 0.0.0.0 mbplc.xyz
-0.0.0.0 mbrp.pk
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mc-hypixel.store
@@ -23454,7 +23207,6 @@
 0.0.0.0 mediba.jp
 0.0.0.0 medibaad.com
 0.0.0.0 medicosempresa.com
-0.0.0.0 medino.co.in
 0.0.0.0 mediosone.com
 0.0.0.0 mediouno.com
 0.0.0.0 medleyads.com
@@ -23471,11 +23223,8 @@
 0.0.0.0 meetka2.name
 0.0.0.0 meetupdev.122.2o7.net
 0.0.0.0 meeweb.com
-0.0.0.0 mega-ad.de
-0.0.0.0 mega-stats.com
 0.0.0.0 megacash.de
 0.0.0.0 megaclick.com
-0.0.0.0 megacriacoes.com
 0.0.0.0 megaklik.top
 0.0.0.0 megalandings.com
 0.0.0.0 megapopads.com
@@ -23532,7 +23281,6 @@
 0.0.0.0 melting-potes.com
 0.0.0.0 member.ad.org.vn
 0.0.0.0 member.adnetwork.vn
-0.0.0.0 member.digipreneur.site
 0.0.0.0 members.popcash.net
 0.0.0.0 members.sexroulette.com
 0.0.0.0 memberservicesinc.122.2o7.net
@@ -24041,7 +23789,6 @@
 0.0.0.0 min2rarllsknfoeihe.ru
 0.0.0.0 mincare.vn
 0.0.0.0 mincoindia.com
-0.0.0.0 mincure-ad.com
 0.0.0.0 mindenegybenblog.hu
 0.0.0.0 mindenegybenblog.net
 0.0.0.0 mindlessmark.com
@@ -24122,6 +23869,7 @@
 0.0.0.0 miningrigrentals.com
 0.0.0.0 minishop.in
 0.0.0.0 ministere-elshaddai.org
+0.0.0.0 ministerioagape.net
 0.0.0.0 minmindough.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minr.browsermine.com
@@ -24173,7 +23921,6 @@
 0.0.0.0 mkt10.122.2o7.net
 0.0.0.0 mkzd.ru
 0.0.0.0 ml314.com
-0.0.0.0 mladtehnik.com
 0.0.0.0 mlarmani.122.2o7.net
 0.0.0.0 mlbam.112.2o7.net
 0.0.0.0 mlbatlanta.112.2o7.net
@@ -24563,11 +24310,8 @@
 0.0.0.0 mormonorg.112.2o7.net
 0.0.0.0 morningfresh.ga
 0.0.0.0 morningnewsonline.112.2o7.net
-0.0.0.0 morrysbagels.com
 0.0.0.0 mortchiropractic.com
 0.0.0.0 mortgage-rates.now-cash.com
-0.0.0.0 mortster.net
-0.0.0.0 mosbiresources.com
 0.0.0.0 mosims.live
 0.0.0.0 mosins.live
 0.0.0.0 moskaumoskau.com
@@ -24583,7 +24327,6 @@
 0.0.0.0 motiondev.com.br
 0.0.0.0 motionlessbag.com
 0.0.0.0 motionlessbelief.com
-0.0.0.0 motorpresse-statistik.de
 0.0.0.0 mouni11.xyz
 0.0.0.0 mountainhigh.at
 0.0.0.0 mountainouspear.com
@@ -24608,7 +24351,6 @@
 0.0.0.0 moxims.live
 0.0.0.0 moxins.live
 0.0.0.0 moy-mayner.ru
-0.0.0.0 moynan.com
 0.0.0.0 mozense.xyz
 0.0.0.0 mozims.live
 0.0.0.0 mozins.live
@@ -24626,7 +24368,6 @@
 0.0.0.0 mqdownload.com
 0.0.0.0 mr-rank.de
 0.0.0.0 mr.media-bucket.com
-0.0.0.0 mr2h.net
 0.0.0.0 mr4evmd0r1.s.ad6media.fr
 0.0.0.0 mraker.life
 0.0.0.0 mreco0.jp
@@ -24731,6 +24472,7 @@
 0.0.0.0 multichannelmktg.com
 0.0.0.0 multiflings.com
 0.0.0.0 multimilltrackz2.com
+0.0.0.0 multiplace.com.ar
 0.0.0.0 multiply.112.2o7.net
 0.0.0.0 multipool.us
 0.0.0.0 multiquicks.net
@@ -24774,11 +24516,9 @@
 0.0.0.0 mxs02.cityads.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
-0.0.0.0 my-adv.ru
 0.0.0.0 my-hookup-clubs1.com
 0.0.0.0 my-softbank-jp.com
 0.0.0.0 my-stats.com
-0.0.0.0 my-stats.info
 0.0.0.0 my.adright.co
 0.0.0.0 my.blueadvertise.com
 0.0.0.0 my.mobfox.com
@@ -24928,7 +24668,6 @@
 0.0.0.0 myrilullimolullilomotmoti.blogspot.com
 0.0.0.0 mysammdedicated.com
 0.0.0.0 mysangstroke.site
-0.0.0.0 myscoop-tracking.googlecode.com
 0.0.0.0 myscs.ca
 0.0.0.0 mysearchflow.com
 0.0.0.0 mysecrethope.com
@@ -25201,11 +24940,9 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 nesin.live
 0.0.0.0 nespe.life
-0.0.0.0 nestbest.in
 0.0.0.0 nestibufecomsoft.cf
 0.0.0.0 nestp11.com
 0.0.0.0 net-filter.com
-0.0.0.0 net-tracker.notolytix.com
 0.0.0.0 netads.hotwired.com
 0.0.0.0 netaffiliation.com
 0.0.0.0 netagent.cz
@@ -25234,7 +24971,6 @@
 0.0.0.0 nettubex.top
 0.0.0.0 netund.com
 0.0.0.0 network-tracking.kwizzad.com
-0.0.0.0 network.ad.nu
 0.0.0.0 network.adclickmedia.com
 0.0.0.0 networkads.net
 0.0.0.0 networksara.com
@@ -25246,7 +24982,6 @@
 0.0.0.0 neverbasrmm.com
 0.0.0.0 nevernews.club
 0.0.0.0 neverstdywalkachinese2loneinlifekstfnp.ydns.eu
-0.0.0.0 new-adtest.pages.dev
 0.0.0.0 new-lady-for-your.com
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 new-year-packages.com
@@ -25311,10 +25046,8 @@
 0.0.0.0 newsurprizeforyou.com
 0.0.0.0 newt1.adultadworld.com
 0.0.0.0 newt1.adultworld.com
-0.0.0.0 newtechco.com.vn
 0.0.0.0 newthuads.com
 0.0.0.0 newtopsites.com
-0.0.0.0 newwebsk.com
 0.0.0.0 newyearddnsaddressupdatelink.duckdns.org
 0.0.0.0 newyorkandcompany.112.2o7.net
 0.0.0.0 newyorkmagazine.112.2o7.net
@@ -25340,9 +25073,9 @@
 0.0.0.0 ng.mybc.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 ngads.smartage.com
+0.0.0.0 ngaous.com
 0.0.0.0 ngazi.co.tz
 0.0.0.0 ngex.com
-0.0.0.0 nhadattyhung.com
 0.0.0.0 nhatbao.chatpacific.com
 0.0.0.0 nhl.112.2o7.net
 0.0.0.0 nhorangtreem.com
@@ -25461,7 +25194,6 @@
 0.0.0.0 nim.sh
 0.0.0.0 nim3.xyz
 0.0.0.0 nimanavidclix.com
-0.0.0.0 nimble-learners.com
 0.0.0.0 nimers.live
 0.0.0.0 nimiq.icemining.ca
 0.0.0.0 nimiq.terorie.com
@@ -25485,9 +25217,9 @@
 0.0.0.0 nitro-malwrhunterteams.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 nitrokod.com
+0.0.0.0 nitrosoftwares.shop
 0.0.0.0 niulzo.com
 0.0.0.0 nived.live
-0.0.0.0 nivezainvestments.com
 0.0.0.0 nixtin.us
 0.0.0.0 njmvc.112.2o7.net
 0.0.0.0 nk125srv.000webhostapp.com
@@ -25655,7 +25387,6 @@
 0.0.0.0 nogyst9.gq
 0.0.0.0 nogyst9.ml
 0.0.0.0 nogyst9.tk
-0.0.0.0 nohaymp3.com
 0.0.0.0 noipppl-online.com
 0.0.0.0 noiselessplough.com
 0.0.0.0 noithathoanggiatn.com
@@ -25772,7 +25503,6 @@
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 nphhu.com
 0.0.0.0 npi.adpopcorn.com
-0.0.0.0 npnoticiasonline.com
 0.0.0.0 npp-mehzavod.ru
 0.0.0.0 nr-data.net
 0.0.0.0 nr-events.taboola.com
@@ -25815,7 +25545,6 @@
 0.0.0.0 nsads4.us.publicus.com
 0.0.0.0 nsb.adxadserv.com
 0.0.0.0 nsdldlese.112.2o7.net
-0.0.0.0 nseph2.org
 0.0.0.0 nsewyainc.ml
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 nspmotion.com
@@ -25831,32 +25560,89 @@
 0.0.0.0 ntvk1.ru
 0.0.0.0 ntvpevnts.com
 0.0.0.0 nu9k.adj.st
+0.0.0.0 nubams.live
+0.0.0.0 nubans.live
+0.0.0.0 nubars.live
+0.0.0.0 nucams.live
+0.0.0.0 nucans.live
+0.0.0.0 nucars.live
 0.0.0.0 nuclearads.com
 0.0.0.0 nucleolus980.site
+0.0.0.0 nudams.live
+0.0.0.0 nudans.live
+0.0.0.0 nudars.live
 0.0.0.0 nude-photo.giize.com
 0.0.0.0 nude-photos.casacam.net
 0.0.0.0 nuder.live
+0.0.0.0 nufams.live
+0.0.0.0 nufans.live
+0.0.0.0 nufars.live
 0.0.0.0 nuffnang.com.my
+0.0.0.0 nugams.live
+0.0.0.0 nugans.live
 0.0.0.0 nugar.live
+0.0.0.0 nugars.live
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
+0.0.0.0 nuhams.live
+0.0.0.0 nuhans.live
+0.0.0.0 nuhars.live
+0.0.0.0 nujams.live
+0.0.0.0 nujans.live
+0.0.0.0 nujars.live
+0.0.0.0 nukams.live
+0.0.0.0 nukans.live
+0.0.0.0 nukars.live
+0.0.0.0 nulams.live
+0.0.0.0 nulans.live
+0.0.0.0 nulars.live
 0.0.0.0 nullnorth.com
 0.0.0.0 numah.live
+0.0.0.0 numams.live
+0.0.0.0 numans.live
+0.0.0.0 numars.live
 0.0.0.0 numax.nu-1.com
+0.0.0.0 nunams.live
+0.0.0.0 nunans.live
+0.0.0.0 nunars.live
 0.0.0.0 nuovilod.icu
+0.0.0.0 nupams.live
+0.0.0.0 nupans.live
+0.0.0.0 nupars.live
 0.0.0.0 nupir.live
+0.0.0.0 nurams.live
+0.0.0.0 nurans.live
+0.0.0.0 nurars.live
+0.0.0.0 nusams.live
+0.0.0.0 nusans.live
+0.0.0.0 nusars.live
 0.0.0.0 nuseek.com
 0.0.0.0 nusiren.live
 0.0.0.0 nusumu.ga
 0.0.0.0 nusumu.wtf
+0.0.0.0 nutams.live
 0.0.0.0 nutanixprod.112.2o7.net
+0.0.0.0 nutans.live
 0.0.0.0 nutar.live
+0.0.0.0 nutars.live
 0.0.0.0 nuter.live
 0.0.0.0 nutnet.ir
 0.0.0.0 nutrientassumptionclaims.com
 0.0.0.0 nutrired.org
 0.0.0.0 nuttyorganization.com
+0.0.0.0 nuvams.live
+0.0.0.0 nuvans.live
+0.0.0.0 nuvars.live
+0.0.0.0 nuwams.live
+0.0.0.0 nuwans.live
+0.0.0.0 nuwars.live
+0.0.0.0 nuxams.live
+0.0.0.0 nuxans.live
+0.0.0.0 nuxars.live
 0.0.0.0 nuxues.com
+0.0.0.0 nuzams.live
+0.0.0.0 nuzans.live
+0.0.0.0 nuzars.live
 0.0.0.0 nv-ad.24hstatic.com
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvidsame.com
@@ -26090,7 +25876,6 @@
 0.0.0.0 office-service-tech.info
 0.0.0.0 office-services-sec.com
 0.0.0.0 office-supply.top
-0.0.0.0 office.ad1.ru
 0.0.0.0 office.com.kz
 0.0.0.0 office.webxpo.us
 0.0.0.0 office2010.000webhostapp.com
@@ -26213,6 +25998,7 @@
 0.0.0.0 olivebrandresponse.com
 0.0.0.0 oliver-khan.tk
 0.0.0.0 oltaeazas.mobi
+0.0.0.0 olugun.co.za
 0.0.0.0 olwmbhrp.122.2o7.net
 0.0.0.0 om.familysearch.org
 0.0.0.0 omaky.online
@@ -26227,7 +26013,6 @@
 0.0.0.0 omgtnc.com
 0.0.0.0 omit.live
 0.0.0.0 ommunite.top
-0.0.0.0 omni-ad-blocket.herokuapp.com
 0.0.0.0 omni-ads.com
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 omnis.basspro.com
@@ -26344,7 +26129,6 @@
 0.0.0.0 onlineads.magicvalley.com
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
-0.0.0.0 onlinechemicalandpillss.com
 0.0.0.0 onlinecollenging.fun
 0.0.0.0 onlinecraig.fun
 0.0.0.0 onlineda1aserver6.azurewebsites.net
@@ -26546,7 +26330,6 @@
 0.0.0.0 osrsport.com
 0.0.0.0 osxmacservice.com
 0.0.0.0 ota.cartrawler.com
-0.0.0.0 otclick-adv.ru
 0.0.0.0 oteam.io
 0.0.0.0 other.xxxcounter.com
 0.0.0.0 otpercpiheno.blogspot.com
@@ -26560,7 +26343,6 @@
 0.0.0.0 ourfirm.com
 0.0.0.0 ourhypewords.com
 0.0.0.0 ourmazdcompany.net
-0.0.0.0 ournet-analytics.com
 0.0.0.0 ournewsafte.biz
 0.0.0.0 ourseajobs.com
 0.0.0.0 oursupersk.com
@@ -26692,7 +26474,6 @@
 0.0.0.0 ozon.122.2o7.net
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 ozz.su
-0.0.0.0 p-advg.com
 0.0.0.0 p-analytics.life
 0.0.0.0 p-at.club
 0.0.0.0 p-awse-ebs.adsymptotic.com
@@ -26741,12 +26522,18 @@
 0.0.0.0 p6.k1ristri.ru
 0.0.0.0 pa-ksa.com
 0.0.0.0 paas-push-api-log.immomo.com
+0.0.0.0 pabems.live
+0.0.0.0 pabens.live
 0.0.0.0 pablobreijo.es
 0.0.0.0 pablobrothel.com.ar
+0.0.0.0 pacems.live
+0.0.0.0 pacens.live
 0.0.0.0 pache22.com
 0.0.0.0 pacieinco.com
 0.0.0.0 pacificlifereprod.112.2o7.net
 0.0.0.0 paddleangle.com
+0.0.0.0 padems.live
+0.0.0.0 padens.live
 0.0.0.0 padin.live
 0.0.0.0 padis.live
 0.0.0.0 padit.live
@@ -26754,6 +26541,8 @@
 0.0.0.0 padsdelivery.com
 0.0.0.0 padsims.com
 0.0.0.0 padstm.com
+0.0.0.0 pafems.live
+0.0.0.0 pafens.live
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagead.googleadservices.com
@@ -26768,6 +26557,8 @@
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
+0.0.0.0 pagems.live
+0.0.0.0 pagens.live
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank4you.com
@@ -26778,14 +26569,22 @@
 0.0.0.0 pagin.live
 0.0.0.0 pagus.live
 0.0.0.0 pahag.live
+0.0.0.0 pahems.live
+0.0.0.0 pahens.live
 0.0.0.0 paintnet.es
 0.0.0.0 paintnet.fr
 0.0.0.0 paintnet.it
 0.0.0.0 paintplantation.com
+0.0.0.0 pajems.live
+0.0.0.0 pajens.live
+0.0.0.0 pakems.live
+0.0.0.0 pakens.live
 0.0.0.0 pakin.live
 0.0.0.0 palauone.com
 0.0.0.0 palazzogrimani.org
 0.0.0.0 paleleaf.com
+0.0.0.0 palems.live
+0.0.0.0 palens.live
 0.0.0.0 pales.live
 0.0.0.0 paletoxyz.com
 0.0.0.0 palex.live
@@ -26794,6 +26593,8 @@
 0.0.0.0 palundrus.com
 0.0.0.0 pamar.live
 0.0.0.0 pamelarandom.com
+0.0.0.0 pamems.live
+0.0.0.0 pamens.live
 0.0.0.0 pamho.click
 0.0.0.0 pamthasion.pw
 0.0.0.0 pandasoftware.112.2o7.net
@@ -26801,6 +26602,8 @@
 0.0.0.0 panel222.info
 0.0.0.0 panellogs.ml
 0.0.0.0 panelsave.com
+0.0.0.0 panems.live
+0.0.0.0 panens.live
 0.0.0.0 paneri.live
 0.0.0.0 panful.live
 0.0.0.0 pangolinminer.com
@@ -26808,6 +26611,8 @@
 0.0.0.0 panir.live
 0.0.0.0 panteg.live
 0.0.0.0 panum.live
+0.0.0.0 papems.live
+0.0.0.0 papens.live
 0.0.0.0 papertm.click
 0.0.0.0 papoo.pw
 0.0.0.0 papoto.com
@@ -26822,6 +26627,8 @@
 0.0.0.0 parcelcreature.com
 0.0.0.0 parcelinvoice.com
 0.0.0.0 parchedangle.com
+0.0.0.0 parems.live
+0.0.0.0 parens.live
 0.0.0.0 paret.live
 0.0.0.0 parfaype.xyz
 0.0.0.0 parig.live
@@ -26860,8 +26667,9 @@
 0.0.0.0 partygaming.122.2o7.net
 0.0.0.0 partygamingglobal.122.2o7.net
 0.0.0.0 parustaxi.ru
-0.0.0.0 pasaranliga.com
 0.0.0.0 pasder.site
+0.0.0.0 pasems.live
+0.0.0.0 pasens.live
 0.0.0.0 paser.live
 0.0.0.0 pasios.info
 0.0.0.0 pasker.site
@@ -26879,12 +26687,19 @@
 0.0.0.0 patchtm.cfd
 0.0.0.0 patef.live
 0.0.0.0 patelsamatovalaw.com
+0.0.0.0 patems.live
 0.0.0.0 pates.live
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 pator.live
 0.0.0.0 patrickhillery.112.2o7.net
 0.0.0.0 patrickreeves.com
 0.0.0.0 patyuos.cfd
+0.0.0.0 pavems.live
+0.0.0.0 pavens.live
+0.0.0.0 pawems.live
+0.0.0.0 pawens.live
+0.0.0.0 paxems.live
+0.0.0.0 paxens.live
 0.0.0.0 paxon.live
 0.0.0.0 pay-ads.com
 0.0.0.0 pay-testing.spotify.com
@@ -26930,6 +26745,8 @@
 0.0.0.0 paysell.org
 0.0.0.0 payza.click
 0.0.0.0 pazelpop.com
+0.0.0.0 pazems.live
+0.0.0.0 pazens.live
 0.0.0.0 pazpus.com
 0.0.0.0 pb.adsparc.net
 0.0.0.0 pb.xapads.com
@@ -27049,7 +26866,6 @@
 0.0.0.0 pearno.com
 0.0.0.0 pears.contractorcalculator.co.uk
 0.0.0.0 peazip.com
-0.0.0.0 peb.co.il
 0.0.0.0 pecar.live
 0.0.0.0 pecur.live
 0.0.0.0 pedropanther.com
@@ -27193,7 +27009,6 @@
 0.0.0.0 pharmacy-news.blogspot.com
 0.0.0.0 pheedo.com
 0.0.0.0 phg.hitbox.com
-0.0.0.0 philipdattilo.com
 0.0.0.0 philips.112.2o7.net
 0.0.0.0 phillipsvanheusen.122.2o7.net
 0.0.0.0 phillyburbscom.112.2o7.net
@@ -27226,13 +27041,11 @@
 0.0.0.0 phumyhunggiatot.com
 0.0.0.0 phygical-questall.icu
 0.0.0.0 physical309.site
-0.0.0.0 pi-stats.com
 0.0.0.0 pi.adflex.vn
 0.0.0.0 pi.mobengine.xyz
 0.0.0.0 piads.vn
 0.0.0.0 piano.io
 0.0.0.0 pianomedia.eu
-0.0.0.0 pibita.net
 0.0.0.0 pic.ak.mangatoon.akamaized.net.domain.name
 0.0.0.0 picadmedia.com
 0.0.0.0 picaro.live
@@ -27326,7 +27139,6 @@
 0.0.0.0 pilarrakyat.com
 0.0.0.0 pilatylu.com
 0.0.0.0 pilen.live
-0.0.0.0 pilesfistulasurgery.com
 0.0.0.0 pilkics.com
 0.0.0.0 pillscrew.info
 0.0.0.0 pimers.live
@@ -27391,7 +27203,6 @@
 0.0.0.0 pixel-tracker.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
 0.0.0.0 pixel-useast.adsymptotic.com
-0.0.0.0 pixel.ad
 0.0.0.0 pixel.adacado.com
 0.0.0.0 pixel.adasiaholdings.com
 0.0.0.0 pixel.adblade.com
@@ -27878,7 +27689,6 @@
 0.0.0.0 portal-para-avance-activado-cl.gq
 0.0.0.0 portal.adbro.me
 0.0.0.0 portal.adthrive.com
-0.0.0.0 portal.kebbissb.org
 0.0.0.0 portermedicals.com
 0.0.0.0 portfos.org
 0.0.0.0 portofino.ug
@@ -27948,7 +27758,6 @@
 0.0.0.0 pr-star.de
 0.0.0.0 pr.adxxx.com
 0.0.0.0 pr0gram.org
-0.0.0.0 prabin.me
 0.0.0.0 practiceartist.com
 0.0.0.0 practicetoothpaste.com
 0.0.0.0 praddpro.de
@@ -28010,12 +27819,10 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 presho.site
 0.0.0.0 presssensor.com
-0.0.0.0 prestashop01.aftershipdemo.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 prestoris.com
 0.0.0.0 pretendwag.info
 0.0.0.0 prettylikeher.com
-0.0.0.0 preventive.condolife.my
 0.0.0.0 preview-msn.org
 0.0.0.0 preview.ad.daum.net
 0.0.0.0 preview.smartadserver.com
@@ -28064,7 +27871,6 @@
 0.0.0.0 pro-advert.de
 0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
-0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 proadscdn.com
 0.0.0.0 proapp.icu
 0.0.0.0 probityjrat5.duckdns.org
@@ -28184,7 +27990,6 @@
 0.0.0.0 protectyourself.cyou
 0.0.0.0 protectyourself.name
 0.0.0.0 protectyourself.space
-0.0.0.0 protekta.pk
 0.0.0.0 protest-01262505.ga
 0.0.0.0 protest22.ru
 0.0.0.0 protocolgroupgroups.com
@@ -28228,7 +28033,6 @@
 0.0.0.0 psix.tk
 0.0.0.0 psnm4n1.multiservers.com
 0.0.0.0 pson.logging.admicro.vn
-0.0.0.0 psq-alabror-indramayu.com
 0.0.0.0 pswec.com
 0.0.0.0 psxcvb.com
 0.0.0.0 psychologistsindia.net
@@ -28328,7 +28132,6 @@
 0.0.0.0 puma.112.2o7.net
 0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 punneli.com
-0.0.0.0 puntamimarlik.com.tr
 0.0.0.0 punyu01.shard.jp
 0.0.0.0 pupok.link
 0.0.0.0 puppyandcats.online
@@ -28336,6 +28139,7 @@
 0.0.0.0 purchasebitcoin.co.uk
 0.0.0.0 purchasesuggestion.com
 0.0.0.0 purpleads.io
+0.0.0.0 purposedesigns.net
 0.0.0.0 pus.inter.cloudns.cc
 0.0.0.0 puserving.com
 0.0.0.0 push-ad.com
@@ -28477,7 +28281,6 @@
 0.0.0.0 pygyst7.tk
 0.0.0.0 pyrd5.xyz
 0.0.0.0 pytopm.pw
-0.0.0.0 q-stats.nl
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 q.azcentral.com
@@ -28747,7 +28550,6 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
-0.0.0.0 quantum-advertising.com
 0.0.0.0 quantummetric.com
 0.0.0.0 quarterbean.com
 0.0.0.0 quarterserver.de
@@ -28865,7 +28667,6 @@
 0.0.0.0 r-log.dable.io
 0.0.0.0 r-scale-fb.static.go3.tv
 0.0.0.0 r.ad-stir.com
-0.0.0.0 r.ad1.ru
 0.0.0.0 r.adrta.com
 0.0.0.0 r.ads.zynga.com
 0.0.0.0 r.casalemedia.com.edgekey.net
@@ -28910,7 +28711,6 @@
 0.0.0.0 radens.live
 0.0.0.0 radiantneetacademy.in
 0.0.0.0 radiate.com
-0.0.0.0 radio-jerusalem.com
 0.0.0.0 radrile.xyz
 0.0.0.0 rads.msn.com
 0.0.0.0 rads.stackoverflow.com
@@ -28991,7 +28791,6 @@
 0.0.0.0 rat.bitdoge.one
 0.0.0.0 ratchetmining.com
 0.0.0.0 rate.ru
-0.0.0.0 ratel-ad.com
 0.0.0.0 ratems.live
 0.0.0.0 raten.live
 0.0.0.0 ratens.live
@@ -29014,7 +28813,6 @@
 0.0.0.0 rb.adnxs-simple.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rb1.design.ru
-0.0.0.0 rbmimport.com
 0.0.0.0 rbstobovaw.narod.ru
 0.0.0.0 rc.i2i.jp
 0.0.0.0 rc.wl.webads.nl
@@ -29126,7 +28924,9 @@
 0.0.0.0 redge.inmobicdn.net
 0.0.0.0 redidfe.ru
 0.0.0.0 redim.live
+0.0.0.0 redims.live
 0.0.0.0 redinqtongvlftadf.xyz
+0.0.0.0 redins.live
 0.0.0.0 redir-metaservices.com
 0.0.0.0 redir-metaservices.org
 0.0.0.0 redir.adap.tv
@@ -29164,6 +28964,8 @@
 0.0.0.0 refererads.com
 0.0.0.0 referralware.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 refims.live
+0.0.0.0 refins.live
 0.0.0.0 reflectivereward.com
 0.0.0.0 refopa.life
 0.0.0.0 refpagdcmr.top
@@ -29174,7 +28976,9 @@
 0.0.0.0 regems.live
 0.0.0.0 regens.live
 0.0.0.0 regiedepub.com
+0.0.0.0 regims.live
 0.0.0.0 regin.live
+0.0.0.0 regins.live
 0.0.0.0 regio.adlink.de
 0.0.0.0 regio.adup-tech.com
 0.0.0.0 regiobank.klanthelpdesk.live
@@ -29225,6 +29029,8 @@
 0.0.0.0 rehem.live
 0.0.0.0 rehems.live
 0.0.0.0 rehens.live
+0.0.0.0 rehims.live
+0.0.0.0 rehins.live
 0.0.0.0 reifenquick.de
 0.0.0.0 reimageplus.com
 0.0.0.0 reimageplusminus.me
@@ -29232,9 +29038,13 @@
 0.0.0.0 rejectfairies.com
 0.0.0.0 rejems.live
 0.0.0.0 rejens.live
+0.0.0.0 rejims.live
+0.0.0.0 rejins.live
 0.0.0.0 rekapu.life
 0.0.0.0 rekems.live
 0.0.0.0 rekens.live
+0.0.0.0 rekims.live
+0.0.0.0 rekins.live
 0.0.0.0 reklam.rfsl.se
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklama.reflektor.cz
@@ -29253,6 +29063,8 @@
 0.0.0.0 reliabilityassist.monster
 0.0.0.0 reliablebanners.com
 0.0.0.0 religonclothes.com
+0.0.0.0 relims.live
+0.0.0.0 relins.live
 0.0.0.0 relmaxtop.com
 0.0.0.0 relogotd.com
 0.0.0.0 relok.live
@@ -29265,7 +29077,9 @@
 0.0.0.0 remenelectricals.com
 0.0.0.0 remens.live
 0.0.0.0 remic.live
+0.0.0.0 remims.live
 0.0.0.0 reminews.com
+0.0.0.0 remins.live
 0.0.0.0 remistrainew.club
 0.0.0.0 remodelingonlinecom.112.2o7.net
 0.0.0.0 remoraimage.xlisting.jp
@@ -29281,6 +29095,8 @@
 0.0.0.0 renewingfaces.com
 0.0.0.0 renfeprod.112.2o7.net
 0.0.0.0 renhertfo.com
+0.0.0.0 renims.live
+0.0.0.0 renins.live
 0.0.0.0 renogip.live
 0.0.0.0 renom.live
 0.0.0.0 rentcom.112.2o7.net
@@ -29292,6 +29108,8 @@
 0.0.0.0 repeatsweater.com
 0.0.0.0 repems.live
 0.0.0.0 repens.live
+0.0.0.0 repims.live
+0.0.0.0 repins.live
 0.0.0.0 replaceroute.com
 0.0.0.0 reporo.net
 0.0.0.0 report-1.appmetrica.webvisor.com
@@ -29375,6 +29193,7 @@
 0.0.0.0 resens.live
 0.0.0.0 reservedoffers.club
 0.0.0.0 resif.live
+0.0.0.0 resims.live
 0.0.0.0 resjid.site
 0.0.0.0 resjit.site
 0.0.0.0 resnid.site
@@ -29401,7 +29220,6 @@
 0.0.0.0 rest.content.ad
 0.0.0.0 restaurantela73.com
 0.0.0.0 restoredchurchofgod.112.2o7.net
-0.0.0.0 restructionhrroom.com
 0.0.0.0 resultplus.jp
 0.0.0.0 resvid.site
 0.0.0.0 reswid.site
@@ -29416,6 +29234,8 @@
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 reticulumlyn.com
 0.0.0.0 retil.live
+0.0.0.0 retims.live
+0.0.0.0 retins.live
 0.0.0.0 retoda.life
 0.0.0.0 retro-cinema.ru
 0.0.0.0 retubeserver3.azurewebsites.net
@@ -29434,12 +29254,12 @@
 0.0.0.0 revercecaptcha.com
 0.0.0.0 reverse-zonev1.3utilities.com
 0.0.0.0 reverso.refr.adgtw.orangeads.fr
+0.0.0.0 revims.live
 0.0.0.0 revision-cupo-tarjeta.cf
 0.0.0.0 revision-cupo-tarjeta.gq
 0.0.0.0 revive-adserver.com
 0.0.0.0 revive.agenda.ge
 0.0.0.0 revive.bdnews24.com
-0.0.0.0 revive.edgeflyfishing.com
 0.0.0.0 revive.saechsische-schweiz.de
 0.0.0.0 revive.theaterkrant.nl
 0.0.0.0 revive.thebusinessjournal.com
@@ -29455,13 +29275,19 @@
 0.0.0.0 reway.live
 0.0.0.0 rewems.live
 0.0.0.0 rewens.live
+0.0.0.0 rewims.live
+0.0.0.0 rewins.live
 0.0.0.0 rewok.live
 0.0.0.0 rexems.live
 0.0.0.0 rexens.live
+0.0.0.0 rexims.live
+0.0.0.0 rexins.live
 0.0.0.0 reyasko.live
 0.0.0.0 rezabook.rozblog.com
 0.0.0.0 rezems.live
 0.0.0.0 rezens.live
+0.0.0.0 rezims.live
+0.0.0.0 rezins.live
 0.0.0.0 rezync.com
 0.0.0.0 rfa.stoanews.com
 0.0.0.0 rfetch.yektanet.com
@@ -29847,10 +29673,8 @@
 0.0.0.0 royal-adhesives.com
 0.0.0.0 royalbankofcanadahelp.com
 0.0.0.0 royalbankservicescheck.com
-0.0.0.0 royalcityplumbing.ca
 0.0.0.0 royalgroup.ga
 0.0.0.0 royalrangerseurope.net
-0.0.0.0 royaltpita.com
 0.0.0.0 royreid.co.uk
 0.0.0.0 royyu.sbs
 0.0.0.0 rozent.live
@@ -29860,7 +29684,6 @@
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpi-staging.adpopcorn.com
 0.0.0.0 rpi.adpopcorn.com
-0.0.0.0 rpsconstrucao.com.br
 0.0.0.0 rqtrk.eu
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rr2.xxxcounter.com
@@ -30247,7 +30070,6 @@
 0.0.0.0 s4.addthis.com
 0.0.0.0 s4f.net
 0.0.0.0 s5.addthis.com
-0.0.0.0 s5engenharia.com.br
 0.0.0.0 s6.yovoads.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s7flyradar.com
@@ -30452,10 +30274,8 @@
 0.0.0.0 sapon.live
 0.0.0.0 saprefx.com
 0.0.0.0 sarahelizabethjewelry.com
-0.0.0.0 saraswatiitc.org
 0.0.0.0 sarus.live
 0.0.0.0 sasa96.s3.fr-par.scw.cloud
-0.0.0.0 sashapieterse.net
 0.0.0.0 sasill.com
 0.0.0.0 sasker.site
 0.0.0.0 sass2.authcaptcha.com
@@ -30469,7 +30289,6 @@
 0.0.0.0 saturn.appads.com
 0.0.0.0 saudicool.org
 0.0.0.0 sauronn.host
-0.0.0.0 saurustechnology.com
 0.0.0.0 savedbyangelsworg.ru
 0.0.0.0 savemax.store
 0.0.0.0 saven.live
@@ -30499,13 +30318,11 @@
 0.0.0.0 sb-stat1.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
-0.0.0.0 sbaunited.com
 0.0.0.0 sbcglobal.net
 0.0.0.0 sbireto.live
 0.0.0.0 sbm.xinmoshiwang.com
 0.0.0.0 sbplus.hr
 0.0.0.0 sbs-ad.com
-0.0.0.0 sbs.deliveryengine.adswizz.com
 0.0.0.0 sbsblukgov.112.2o7.net
 0.0.0.0 sbss.com.pk
 0.0.0.0 sbx.pagesjaunes.fr
@@ -30536,7 +30353,6 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredstream.com
 0.0.0.0 scdn.cxense.com
-0.0.0.0 sceh.net
 0.0.0.0 scei.co.jp
 0.0.0.0 scglobal.co.th
 0.0.0.0 schaeffers.112.2o7.net
@@ -30594,7 +30410,6 @@
 0.0.0.0 scripts.donglogs.com
 0.0.0.0 scripts.ivstracker.net
 0.0.0.0 scripts.kiosked.com
-0.0.0.0 scripts.static-od.com
 0.0.0.0 scrollservice.com
 0.0.0.0 scrsrch.com
 0.0.0.0 scrubsky.com
@@ -30648,7 +30463,6 @@
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sdscdn.userreport.com
 0.0.0.0 sdtagging.azureedge.net
-0.0.0.0 se-ads-microservice.ads.allermedia.io
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 sea.advertising.yahoo.com
 0.0.0.0 sea2.authcaptcha.com
@@ -30673,7 +30487,6 @@
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 searshomeservices.112.2o7.net
 0.0.0.0 searskmartcom.112.2o7.net
-0.0.0.0 seasidesolutions.com
 0.0.0.0 seatsmoke.com
 0.0.0.0 sebbeninternational.ml
 0.0.0.0 sec-doc-w.com
@@ -30928,8 +30741,6 @@
 0.0.0.0 selly.duckdns.org
 0.0.0.0 sellychukwu.ru
 0.0.0.0 selornews.com
-0.0.0.0 selvafac.com
-0.0.0.0 selvafood.com
 0.0.0.0 sem.searchteria.co.jp
 0.0.0.0 semantrus.pw
 0.0.0.0 semasio.net
@@ -30947,7 +30758,6 @@
 0.0.0.0 senit.live
 0.0.0.0 sense-eng.ml
 0.0.0.0 senshukai.122.2o7.net
-0.0.0.0 sensible-ads.com
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 sento.122.2o7.net
 0.0.0.0 sentrinonline.com
@@ -30992,7 +30802,6 @@
 0.0.0.0 servedby.adcombination.com
 0.0.0.0 servedby.adxpose.com
 0.0.0.0 servedby.aqua-adserver.com
-0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 server.adform.net
@@ -31054,7 +30863,6 @@
 0.0.0.0 services1.adtech.fr
 0.0.0.0 services1.adtech.us
 0.0.0.0 servicess.online
-0.0.0.0 servicevirtualization.net
 0.0.0.0 servicio-de-avance-cl.cf
 0.0.0.0 servicio-de-avance-cl.gq
 0.0.0.0 servicio-web-activacion-avance-cl.cf
@@ -31151,7 +30959,6 @@
 0.0.0.0 shallowschool.com
 0.0.0.0 shallowsmile.com
 0.0.0.0 shamanic-extracts.biz
-0.0.0.0 shamsibd.com
 0.0.0.0 shannai.us
 0.0.0.0 shapetm.click
 0.0.0.0 shapez.gameads.io
@@ -31245,11 +31052,9 @@
 0.0.0.0 showelritetrak.site
 0.0.0.0 showsteel.com
 0.0.0.0 shrak.live
-0.0.0.0 shreelaxmigroup.in
 0.0.0.0 shubhinfoways.com
 0.0.0.0 shutseashore.com
 0.0.0.0 shyseed.com
-0.0.0.0 siakad.feb.umpp.ac.id
 0.0.0.0 siamining.com
 0.0.0.0 sic-akamai.33across.com
 0.0.0.0 siccash.com
@@ -31260,7 +31065,6 @@
 0.0.0.0 sideshow.directtrack.com
 0.0.0.0 sidom.online
 0.0.0.0 sierraagrolime.com
-0.0.0.0 sieuthiphutungxenang.com
 0.0.0.0 sifed.live
 0.0.0.0 sifenews.com
 0.0.0.0 sig.ig.com
@@ -31491,7 +31295,6 @@
 0.0.0.0 smaledirabol.com
 0.0.0.0 small-business-solutions.biz
 0.0.0.0 smallbeginner.com
-0.0.0.0 smallfriendsnantucket.org
 0.0.0.0 smart-ad.sakura.ne.jp
 0.0.0.0 smart-c.jp
 0.0.0.0 smart-net.rocks
@@ -32169,9 +31972,9 @@
 0.0.0.0 social-turnips.xyz
 0.0.0.0 socialadsonline.com
 0.0.0.0 socialloginplus-apps.haravan.com
+0.0.0.0 sociallysavvyseo.com
 0.0.0.0 socialspark.com
 0.0.0.0 socil.live
-0.0.0.0 sociofans.com
 0.0.0.0 socios20199.webcindario.com
 0.0.0.0 socrates-1.adtarget.me
 0.0.0.0 socrates-6-1.adtarget.me
@@ -32224,7 +32027,6 @@
 0.0.0.0 sogist7.gq
 0.0.0.0 sogist7.ml
 0.0.0.0 sogist7.tk
-0.0.0.0 soidglobal.com
 0.0.0.0 sojern.com
 0.0.0.0 sokmil-ad.com
 0.0.0.0 sokrates.adtech.fr
@@ -32233,12 +32035,10 @@
 0.0.0.0 sol-images.adbureau.net
 0.0.0.0 sol.adbureau.net
 0.0.0.0 solar.olympe.in
-0.0.0.0 solar4africa.co.za
 0.0.0.0 solarray.club
 0.0.0.0 solarwindsglobalreportingsuite.112.2o7.net
 0.0.0.0 soldi.duckdns.org
 0.0.0.0 solenica.com
-0.0.0.0 solest-environnement.fr
 0.0.0.0 solex.duckdns.org
 0.0.0.0 soliads.net
 0.0.0.0 solicitud-avance-cupo-en-linea-cl.cf
@@ -32392,7 +32192,6 @@
 0.0.0.0 soshake.com
 0.0.0.0 sottb.com
 0.0.0.0 souffity.com
-0.0.0.0 source.advisible.com
 0.0.0.0 southblood.net
 0.0.0.0 southcoasttodaycom.112.2o7.net
 0.0.0.0 sovit.live
@@ -32549,7 +32348,6 @@
 0.0.0.0 srafi.life
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
-0.0.0.0 sreedevidigitals.com
 0.0.0.0 sreex.info
 0.0.0.0 sreport.mitsubishicars.com
 0.0.0.0 sretuad.life
@@ -32755,7 +32553,6 @@
 0.0.0.0 startdigitaal.nl
 0.0.0.0 startex3download.com
 0.0.0.0 startpageb.com
-0.0.0.0 startstv.com
 0.0.0.0 startupmart.bar
 0.0.0.0 starz.122.2o7.net
 0.0.0.0 stat-analytics.mediavitrina.ru
@@ -32793,7 +32590,6 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.yellowtracker.com
 0.0.0.0 stat.zenon.net
-0.0.0.0 stat03.stat.cliche.se
 0.0.0.0 stat1.z-stat.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
@@ -32917,7 +32713,6 @@
 0.0.0.0 static.share-videos.se
 0.0.0.0 static.sp-adroute.focas.jp
 0.0.0.0 static.sparechange.io
-0.0.0.0 static.stat.truthlyanalytics.com
 0.0.0.0 static.tidiochat.com
 0.0.0.0 static.trackedweb.net
 0.0.0.0 static.trackuity.com
@@ -33279,7 +33074,6 @@
 0.0.0.0 suitesmart.com
 0.0.0.0 sulainul.com
 0.0.0.0 sulkybutter.com
-0.0.0.0 sulpack.com.br
 0.0.0.0 sulphurrnills.com
 0.0.0.0 sumapo.org
 0.0.0.0 summerhamster.com
@@ -33313,7 +33107,6 @@
 0.0.0.0 super-boost.ru
 0.0.0.0 superbmatch.site
 0.0.0.0 superbmatch.xyz
-0.0.0.0 supercenturion.com
 0.0.0.0 supercounters.com
 0.0.0.0 superdatenow3.com
 0.0.0.0 superficialsink.com
@@ -33437,7 +33230,6 @@
 0.0.0.0 swebmetrics.zebra.com
 0.0.0.0 swebreports.nature.org
 0.0.0.0 swebstats.imf.org
-0.0.0.0 swedishpropertyinvestors.com
 0.0.0.0 sweepsheep.com
 0.0.0.0 sweepstakesalerts.com
 0.0.0.0 sweetgirls.date
@@ -33685,11 +33477,12 @@
 0.0.0.0 tabligheirani.com
 0.0.0.0 taboola-supply-partners.tremorhub.com
 0.0.0.0 taboola.com
-0.0.0.0 taboola.com.cn
 0.0.0.0 taboola.com.edgekey.net
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tacoda.net
 0.0.0.0 tadador.fr
+0.0.0.0 tadens.live
+0.0.0.0 tafens.live
 0.0.0.0 tag.adaraanalytics.com
 0.0.0.0 tag.adbro.me
 0.0.0.0 tag.adincube.com
@@ -33792,6 +33585,7 @@
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
 0.0.0.0 taiwtp1.com
+0.0.0.0 tajems.live
 0.0.0.0 takemefiles.ru
 0.0.0.0 takru.com
 0.0.0.0 talabux.ir
@@ -33800,7 +33594,6 @@
 0.0.0.0 talentedsteel.com
 0.0.0.0 talhanterbutres.top
 0.0.0.0 taluk.live
-0.0.0.0 tamayaservicios.com
 0.0.0.0 tamin.live
 0.0.0.0 tamus.live
 0.0.0.0 tanach.live
@@ -33961,7 +33754,6 @@
 0.0.0.0 teddyni.com
 0.0.0.0 tedgenet.com
 0.0.0.0 tedioustooth.com
-0.0.0.0 tedo-stats.de
 0.0.0.0 teelam9.com
 0.0.0.0 teens2fcuk.net
 0.0.0.0 teenyreligious.com
@@ -34028,7 +33820,6 @@
 0.0.0.0 telegrambillionaire.top
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemac.com.br
-0.0.0.0 telemetric.dk
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry-akadns.org
@@ -34036,7 +33827,6 @@
 0.0.0.0 telemetry.acronis.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.art19.com
-0.0.0.0 telemetry.bambuser.io
 0.0.0.0 telemetry.battle.net
 0.0.0.0 telemetry.consumersentinel.gov
 0.0.0.0 telemetry.dev.touchbasepro.app
@@ -34114,7 +33904,6 @@
 0.0.0.0 tessera.ad.daum.net
 0.0.0.0 test-adserver.adtech.de
 0.0.0.0 test-offer.best
-0.0.0.0 test.hackberrydrycleaners.com
 0.0.0.0 test.minr.pw
 0.0.0.0 test.pagez.kr
 0.0.0.0 test.typoten.com
@@ -34202,7 +33991,6 @@
 0.0.0.0 thestardev.122.2o7.net
 0.0.0.0 thetechdevelopers.com
 0.0.0.0 thetrafficstat.net
-0.0.0.0 thewarriorinc.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -34355,7 +34143,6 @@
 0.0.0.0 timeew.122.2o7.net
 0.0.0.0 timefoodandwine.122.2o7.net
 0.0.0.0 timefortune.112.2o7.net
-0.0.0.0 timegonebuy.com
 0.0.0.0 timehealthtips.122.2o7.net
 0.0.0.0 timehop.adsbynimbus.com
 0.0.0.0 timeinc.122.2o7.net
@@ -34376,7 +34163,6 @@
 0.0.0.0 tinkoff.llc
 0.0.0.0 tinybar.com
 0.0.0.0 tiodmw.com
-0.0.0.0 tip-ads.de
 0.0.0.0 tiqany.net
 0.0.0.0 tiqcdn.com
 0.0.0.0 tiredu.life
@@ -34648,7 +34434,6 @@
 0.0.0.0 toothpasterabbits.com
 0.0.0.0 top-advertise.com
 0.0.0.0 top-casting-termine.de
-0.0.0.0 top-js-metrics.top.my.ua
 0.0.0.0 top-kopi.net
 0.0.0.0 top-official-app.com
 0.0.0.0 top-site-list.com
@@ -34792,16 +34577,12 @@
 0.0.0.0 track-enable.com
 0.0.0.0 track-eu.adform.net
 0.0.0.0 track-ipv4.earnify.com
-0.0.0.0 track-mixer.ru
 0.0.0.0 track-my-vpn.com
-0.0.0.0 track-re01.com
 0.0.0.0 track-sdk.customer.io
-0.0.0.0 track-server-100.com
 0.0.0.0 track-sjc.mobileadtrading.com
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-us.adform.net
 0.0.0.0 track-victoriadates.com
-0.0.0.0 track-web.net
 0.0.0.0 track-west.mobileadtrading.com
 0.0.0.0 track.10bet.com
 0.0.0.0 track.52zxzh.com
@@ -34841,14 +34622,11 @@
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.andbeyond.media
 0.0.0.0 track.aniview.com
-0.0.0.0 track.aplaut.io
 0.0.0.0 track.appier.net
 0.0.0.0 track.appservestar.com
 0.0.0.0 track.appsflyer.com
-0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.aso1.net
 0.0.0.0 track.atdnetwork.com
-0.0.0.0 track.atgstores.com
 0.0.0.0 track.atom-data.io
 0.0.0.0 track.attributionapp.com
 0.0.0.0 track.auckland.ac.nz
@@ -34868,7 +34646,6 @@
 0.0.0.0 track.brucelead.com
 0.0.0.0 track.buybox.click
 0.0.0.0 track.bx-cloud.com
-0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.cam4tracking.com
 0.0.0.0 track.catalogs.com
 0.0.0.0 track.cbdatatracker.com
@@ -34893,14 +34670,12 @@
 0.0.0.0 track.cordial.io
 0.0.0.0 track.couponinu.net
 0.0.0.0 track.cpamatica.com
-0.0.0.0 track.cpatool.net
 0.0.0.0 track.cpitraffic.com
 0.0.0.0 track.crumobiapps.com
 0.0.0.0 track.customer.io
 0.0.0.0 track.custora.com
 0.0.0.0 track.datescan.info
 0.0.0.0 track.datetrck.com
-0.0.0.0 track.ddmanager.ru
 0.0.0.0 track.decidata.tv
 0.0.0.0 track.design
 0.0.0.0 track.dictionary.com
@@ -35101,7 +34876,6 @@
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.pnicnik.live
 0.0.0.0 track.pnj.com.vn
-0.0.0.0 track.postkodlotteriet.se
 0.0.0.0 track.pplnk.com
 0.0.0.0 track.price.ru
 0.0.0.0 track.pricespider.com
@@ -35210,7 +34984,6 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.youniversalmedia.com
 0.0.0.0 track.zappos.com
-0.0.0.0 track.zerofriend.com
 0.0.0.0 track.zipalerts.com
 0.0.0.0 track.ziprecruiter.com
 0.0.0.0 track.zoomd.com
@@ -35223,7 +34996,6 @@
 0.0.0.0 track12.offersbymail.com
 0.0.0.0 track2.cliplister.com
 0.0.0.0 track2.dulingo.com
-0.0.0.0 track2.me
 0.0.0.0 track2.mycliplister.com
 0.0.0.0 track2.trbo.com
 0.0.0.0 track2cash.com
@@ -35233,22 +35005,16 @@
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackapi.net
 0.0.0.0 trackbar.navigator-lxa.mail.com
-0.0.0.0 trackboxx.info
 0.0.0.0 trackbusiness.cl
 0.0.0.0 trackbyfast.com
 0.0.0.0 trackcapitalvane.com
 0.0.0.0 trackcargopackers.in
-0.0.0.0 trackcb.com
 0.0.0.0 trackclick.mobaffili.com
 0.0.0.0 trackcmp.net
 0.0.0.0 trackcommon.hujiang.com
-0.0.0.0 trackconsole.com
-0.0.0.0 trackcorner.com
 0.0.0.0 trackdat.pinsightmedia.com
 0.0.0.0 trackdb.go3.tv
-0.0.0.0 trackdiscovery.net
 0.0.0.0 trackdownload.startappservice.com
-0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
 0.0.0.0 trackeoz.fr
@@ -35262,7 +35028,6 @@
 0.0.0.0 tracker-tds.info
 0.0.0.0 tracker-tds.site
 0.0.0.0 tracker-us.adsmoloco.com
-0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker-zlivestream.zapps.vn
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.77player.xyz
@@ -35419,19 +35184,16 @@
 0.0.0.0 tracker.zummycloud.com
 0.0.0.0 tracker1.leadiya.com
 0.0.0.0 trackerapi.truste.com
-0.0.0.0 trackerhqu.com
 0.0.0.0 trackermap.evidon.com
 0.0.0.0 trackers.adtarget.me
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
-0.0.0.0 trackertest.org
 0.0.0.0 trackertracker.com
 0.0.0.0 trackertrak.com
 0.0.0.0 trackeverything.co
 0.0.0.0 trackfeed.com
 0.0.0.0 trackhere.pl
-0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 trackifyx.redretarget.com
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-1611167402.us-east-1.elb.amazonaws.com
@@ -35497,7 +35259,6 @@
 0.0.0.0 tracking.adxadserv.com
 0.0.0.0 tracking.adxoo.com
 0.0.0.0 tracking.aegpresents.com
-0.0.0.0 tracking.affiliateclub.cz
 0.0.0.0 tracking.aimediagroup.com
 0.0.0.0 tracking.aita.gov.vn
 0.0.0.0 tracking.aldi-international.com
@@ -35561,8 +35322,6 @@
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.directservices.it
-0.0.0.0 tracking.ditv.di.se
-0.0.0.0 tracking.dn.se
 0.0.0.0 tracking.drsfostersmith.com
 0.0.0.0 tracking.drum.io
 0.0.0.0 tracking.dsmmadvantage.com
@@ -35625,13 +35384,11 @@
 0.0.0.0 tracking.ilinkmd.com
 0.0.0.0 tracking.imagewebdesign.fr
 0.0.0.0 tracking.immobilienscout24.de
-0.0.0.0 tracking.inboxads.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.info.methodisthealthsystem.org
 0.0.0.0 tracking.insperity.com
 0.0.0.0 tracking.intentsify.io
 0.0.0.0 tracking.internetstores.de
-0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.italiamobilesrl.it
 0.0.0.0 tracking.jampp.com
@@ -35697,7 +35454,6 @@
 0.0.0.0 tracking.oldnational.com
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omnitagjs.com
-0.0.0.0 tracking.omniture.nt.se
 0.0.0.0 tracking.onap.io
 0.0.0.0 tracking.onefeed.co.uk
 0.0.0.0 tracking.onfluencer.net
@@ -35716,11 +35472,9 @@
 0.0.0.0 tracking.perfecttoolmedia.com
 0.0.0.0 tracking.performancerevenues.com
 0.0.0.0 tracking.phunuadong.vn
-0.0.0.0 tracking.plattformad.com
 0.0.0.0 tracking.playzing.g6.zing.vn
 0.0.0.0 tracking.plinga.de
 0.0.0.0 tracking.powrmedia.com
-0.0.0.0 tracking.practicefusion.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.prepr.io
 0.0.0.0 tracking.prmtracking.com
@@ -35789,7 +35543,6 @@
 0.0.0.0 tracking.ticketingbox.com
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 tracking.tinxe.vn
-0.0.0.0 tracking.to
 0.0.0.0 tracking.tomshardware.co.uk
 0.0.0.0 tracking.trackcb.com
 0.0.0.0 tracking.trafficjunky.net
@@ -35822,7 +35575,6 @@
 0.0.0.0 tracking.vietnamnetad.vn
 0.0.0.0 tracking.vindicosuite.com
 0.0.0.0 tracking.visitdubai.com
-0.0.0.0 tracking.visitorsvoice.com
 0.0.0.0 tracking.visma.com
 0.0.0.0 tracking.vivareal.com
 0.0.0.0 tracking.vnncdn.net
@@ -35843,7 +35595,6 @@
 0.0.0.0 tracking.yieldlove-ad-serving.net
 0.0.0.0 tracking.yohoads.com
 0.0.0.0 tracking.yomedia.vn
-0.0.0.0 tracking02.adweb.co.kr
 0.0.0.0 tracking1.brandmentions.com
 0.0.0.0 tracking1.firstimpression.io
 0.0.0.0 tracking1.pandoiq.com
@@ -35857,10 +35608,7 @@
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 trackingboost.com
-0.0.0.0 trackingca.com
-0.0.0.0 trackingclick.net
 0.0.0.0 trackingflaregames.net
-0.0.0.0 trackinglabs.com
 0.0.0.0 trackingmms.accenture.com
 0.0.0.0 trackingpro.pro
 0.0.0.0 trackingsoft.com
@@ -35868,47 +35616,31 @@
 0.0.0.0 trackit.vicotech.com
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 trackjs.com
-0.0.0.0 trackkas.com
 0.0.0.0 trackla.stackla.com
 0.0.0.0 tracklog.58.com
 0.0.0.0 tracklyfast.com
-0.0.0.0 trackmethod.com
-0.0.0.0 trackmstr.com
 0.0.0.0 trackmundo.com
 0.0.0.0 trackmysales.com
 0.0.0.0 trackmytarget.com
-0.0.0.0 trackmyweb.net
-0.0.0.0 tracknet.twyn.com
-0.0.0.0 trackocean.com
 0.0.0.0 trackonomics.net
 0.0.0.0 trackor.net
 0.0.0.0 trackout.business
 0.0.0.0 trackpanda.io
-0.0.0.0 trackpath.biz
 0.0.0.0 trackpush.com
 0.0.0.0 trackrc.com
 0.0.0.0 tracks.aniview.com
 0.0.0.0 tracks.arubamediamarketing.it
 0.0.0.0 tracks20.com
-0.0.0.0 trackset.com
-0.0.0.0 trackset.it
-0.0.0.0 tracksmart.se
 0.0.0.0 trackspecialdomain.com
 0.0.0.0 trackspeeder.com
 0.0.0.0 tracksrv.zdf.de
-0.0.0.0 trackstarsengland.net
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracksystem.online
-0.0.0.0 trackthatad.com
 0.0.0.0 tracktraf.com
-0.0.0.0 trackuity.com
 0.0.0.0 trackv.esearchvision.com
 0.0.0.0 trackvoluum.com
 0.0.0.0 trackwin.net
-0.0.0.0 trackword.biz
 0.0.0.0 trackword.net
-0.0.0.0 trackyourlinks.com
-0.0.0.0 trackyourstats.com
 0.0.0.0 trackytrack02.com
 0.0.0.0 trackzapper.com
 0.0.0.0 tradeadexchange.com
@@ -35917,7 +35649,6 @@
 0.0.0.0 tradespecialistgroup.com
 0.0.0.0 tradestarintl.com
 0.0.0.0 tradetracker.net
-0.0.0.0 trading-ad.net
 0.0.0.0 trading-secrets.ru
 0.0.0.0 trading-secrets1.ru
 0.0.0.0 traf.quest
@@ -36021,7 +35752,6 @@
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
 0.0.0.0 trendads.reactivebetting.com
-0.0.0.0 trendbreaker.co
 0.0.0.0 trendcounter.com
 0.0.0.0 trenddigital.vn
 0.0.0.0 trending-analytics.com
@@ -36129,7 +35859,6 @@
 0.0.0.0 try2swipe.ws
 0.0.0.0 tryfast-v52.cf
 0.0.0.0 trynda.xyz
-0.0.0.0 ts-ads.icu
 0.0.0.0 ts-ads.info
 0.0.0.0 ts-group.com
 0.0.0.0 ts.popsugar.com
@@ -36181,7 +35910,6 @@
 0.0.0.0 tutorthing.com
 0.0.0.0 tuval.live
 0.0.0.0 tuyngsdnfwefwef.com
-0.0.0.0 tv-facility.com
 0.0.0.0 tvads.alphonso.tv
 0.0.0.0 tvbcnnjv.lmyiwaakn.com
 0.0.0.0 tvguide.112.2o7.net
@@ -36325,6 +36053,7 @@
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 uaalgee33.com
 0.0.0.0 uac.advertising.com
+0.0.0.0 uaery.top
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uapi.ads.oppomobile.com
 0.0.0.0 uarating.com
@@ -36448,7 +36177,6 @@
 0.0.0.0 ullmarnold.club
 0.0.0.0 uloab.com
 0.0.0.0 uloego.info
-0.0.0.0 ulogin-stats.ru
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulteral.com
@@ -36930,7 +36658,6 @@
 0.0.0.0 uygyst7.gq
 0.0.0.0 uygyst7.ml
 0.0.0.0 uygyst7.tk
-0.0.0.0 uylab.org
 0.0.0.0 uz-analysis.akamaized.net
 0.0.0.0 uzoclouds.eu
 0.0.0.0 uzocoms.eu
@@ -37043,7 +36770,6 @@
 0.0.0.0 vatiho.live
 0.0.0.0 vaxeiayas.mobi
 0.0.0.0 vazid.online
-0.0.0.0 vazir.me
 0.0.0.0 vbtz.cf
 0.0.0.0 vbux.ir
 0.0.0.0 vcdn.adnxs-simple.com
@@ -37370,7 +37096,6 @@
 0.0.0.0 vigyst7.gq
 0.0.0.0 vigyst7.ml
 0.0.0.0 vigyst7.tk
-0.0.0.0 vihtori-analytics.fi
 0.0.0.0 vik-analytics-gke.moonactive.net
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 vilaghelyzete.blogspot.com
@@ -37404,7 +37129,6 @@
 0.0.0.0 virtualbox.es
 0.0.0.0 virtualbox.greengoblin.net
 0.0.0.0 virtualbox.pl
-0.0.0.0 visibility-stats.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visiohelp.ru
 0.0.0.0 vision2030.cf
@@ -37416,10 +37140,6 @@
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 visitbox.de
 0.0.0.0 visitor-analytics.io
-0.0.0.0 visitor-analytics.net
-0.0.0.0 visitor-metrics.com
-0.0.0.0 visitor-stats.de
-0.0.0.0 visitor-track.com
 0.0.0.0 visitors.winecountrygiftbaskets.com
 0.0.0.0 visitpath.com
 0.0.0.0 vison.live
@@ -37562,7 +37282,6 @@
 0.0.0.0 voicefive.com
 0.0.0.0 voicevegetable.com
 0.0.0.0 void.nfd.com.tr
-0.0.0.0 voiptoestellen.shop
 0.0.0.0 vokehap.life
 0.0.0.0 volantix.com
 0.0.0.0 volkswagen.112.2o7.net
@@ -37795,7 +37514,6 @@
 0.0.0.0 walmarat.com
 0.0.0.0 walmart.112.2o7.net
 0.0.0.0 wanderlust.rocks
-0.0.0.0 wanderlustphtravel.com
 0.0.0.0 wanir.live
 0.0.0.0 wanmeishua.com
 0.0.0.0 wantmobi.bid
@@ -37832,7 +37550,6 @@
 0.0.0.0 watchadsfree.com
 0.0.0.0 watchingthat.com
 0.0.0.0 waterfrontmedia.112.2o7.net
-0.0.0.0 watertecindia.com
 0.0.0.0 wateryvan.com
 0.0.0.0 watson-microsoft.org
 0.0.0.0 watson.telemetry.microsoft.com
@@ -37869,7 +37586,6 @@
 0.0.0.0 weatherplllatform.com
 0.0.0.0 web-analytic.ghtk.vn
 0.0.0.0 web-analytics.engagio.com
-0.0.0.0 web-analytics.ica.se
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 web-avance-de-tarjeta-cl.cf
 0.0.0.0 web-avance-en-linea-cl.cf
@@ -37878,8 +37594,6 @@
 0.0.0.0 web-avance-para-personas-scotia-cl.gq
 0.0.0.0 web-bancadigitalbod.com
 0.0.0.0 web-stat.com
-0.0.0.0 web-stat.fr
-0.0.0.0 web-stat.net
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web.advertica-cdn.com
@@ -37931,10 +37645,8 @@
 0.0.0.0 webgozar.ir
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webid.ad.daum.net
-0.0.0.0 webleads-tracker.com
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 webmail-premierpr.com
-0.0.0.0 webmail.agenciademarketingypublicidad.com
 0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
@@ -37974,7 +37686,6 @@
 0.0.0.0 webtransferorder.xyz
 0.0.0.0 webtraxx.de
 0.0.0.0 webtrekk.net
-0.0.0.0 webtrends-optimize.com
 0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webtrends.thisis.co.uk
 0.0.0.0 webtrendslive.com
@@ -37985,7 +37696,6 @@
 0.0.0.0 webxmr.com
 0.0.0.0 webxpo.us
 0.0.0.0 weclick.ir
-0.0.0.0 wedgeac.com
 0.0.0.0 week-tale.xyz
 0.0.0.0 weeklylive.info
 0.0.0.0 wegcash.com
@@ -38072,7 +37782,6 @@
 0.0.0.0 wheredidmarkmakehismoney.com
 0.0.0.0 wheresharrison.com
 0.0.0.0 wheressharon.xyz
-0.0.0.0 whetstonetrainingcompany.com
 0.0.0.0 whilockmi.com
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
@@ -38112,7 +37821,6 @@
 0.0.0.0 widgets.amung.us
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.takhfifan.com
-0.0.0.0 widjet.analnoe.tv
 0.0.0.0 wifiads.cleverads.vn
 0.0.0.0 wigglygeese.com
 0.0.0.0 wigglyindustry.com
@@ -38239,7 +37947,6 @@
 0.0.0.0 windowsupdates.bit
 0.0.0.0 winecom.112.2o7.net
 0.0.0.0 wineenthusiastcom.112.2o7.net
-0.0.0.0 wingrup.ro
 0.0.0.0 winhelp.25u.com
 0.0.0.0 winluckychance.com
 0.0.0.0 winmpmain.112.2o7.net
@@ -38279,7 +37986,6 @@
 0.0.0.0 wixclwardwual-updates9.com
 0.0.0.0 wizaly.com
 0.0.0.0 wizardside.club
-0.0.0.0 wkitservices.com
 0.0.0.0 wl-analytics.tsp.li
 0.0.0.0 wl.aniview.com.edgekey.net
 0.0.0.0 wlaptoplogic.122.2o7.net
@@ -38457,14 +38163,6 @@
 0.0.0.0 woopra.com
 0.0.0.0 wopent.live
 0.0.0.0 wordc.ga
-0.0.0.0 wordpress02.aftershipdemo.com
-0.0.0.0 wordpress03.aftershipdemo.com
-0.0.0.0 wordpress08.aftershipdemo.com
-0.0.0.0 wordpress11.aftershipdemo.com
-0.0.0.0 wordpress12.aftershipdemo.com
-0.0.0.0 wordpress13.aftershipdemo.com
-0.0.0.0 wordpress14.aftershipdemo.com
-0.0.0.0 wordpress15.aftershipdemo.com
 0.0.0.0 worent.live
 0.0.0.0 work-desk.aysinturpoglucelik.com
 0.0.0.0 work.chukzenter.tk
@@ -38487,7 +38185,6 @@
 0.0.0.0 workerz1.com
 0.0.0.0 workoperation.com
 0.0.0.0 workshop002.duckdns.org
-0.0.0.0 world-ad.jp
 0.0.0.0 world-news-filter.info
 0.0.0.0 world.popadscdn.net
 0.0.0.0 worldactualstories.com
@@ -38522,7 +38219,6 @@
 0.0.0.0 wrapper-vast.adsafeprotected.com
 0.0.0.0 wrapstretch.com
 0.0.0.0 wreckvolcano.com
-0.0.0.0 wrh.eaglepgi.com
 0.0.0.0 wrigley.122.2o7.net
 0.0.0.0 wrigleychicago.org
 0.0.0.0 writewealth.com
@@ -38845,7 +38541,6 @@
 0.0.0.0 www.abdicted.com
 0.0.0.0 www.abdl-adult-baby-phone-sex.info
 0.0.0.0 www.abdlphone.com
-0.0.0.0 www.abelcare.co.uk
 0.0.0.0 www.abetran.com
 0.0.0.0 www.abetting.net
 0.0.0.0 www.ablefull.com
@@ -39072,10 +38767,8 @@
 0.0.0.0 www.af-mark.jp
 0.0.0.0 www.affiliate-b.com
 0.0.0.0 www.afi-b.com
-0.0.0.0 www.agentofficetest.com
 0.0.0.0 www.agies.org
 0.0.0.0 www.agkn.com
-0.0.0.0 www.ahan.org.pk
 0.0.0.0 www.ahasex.de
 0.0.0.0 www.aid-ad.jp
 0.0.0.0 www.airmore.co
@@ -39192,7 +38885,6 @@
 0.0.0.0 www.apepix.com
 0.0.0.0 www.api.taboola.com
 0.0.0.0 www.appads.in
-0.0.0.0 www.aptour.com.ar
 0.0.0.0 www.aptracking1.com
 0.0.0.0 www.apxadtracking.net
 0.0.0.0 www.aqua-adserver.com
@@ -39201,7 +38893,6 @@
 0.0.0.0 www.artrsllc.com
 0.0.0.0 www.ashlynnbrookevideos.com
 0.0.0.0 www.assoc-amazon.jp
-0.0.0.0 www.atara.com.tr
 0.0.0.0 www.ateam-ad.jp
 0.0.0.0 www.audio2.spotify.com
 0.0.0.0 www.authedwebmine.cz
@@ -39359,7 +39050,6 @@
 0.0.0.0 www.counterguide.com
 0.0.0.0 www.cpm-ad.com
 0.0.0.0 www.cpmadvisors.com
-0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.creativemindhacks.com
 0.0.0.0 www.crispads.com
 0.0.0.0 www.crsspxl.com
@@ -39390,7 +39080,6 @@
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.drumcorpsplanet.com
 0.0.0.0 www.dt1blog.com
-0.0.0.0 www.e-xim.pl
 0.0.0.0 www.e-zeitung.de
 0.0.0.0 www.easyadservice.com
 0.0.0.0 www.easycounter.com
@@ -39444,7 +39133,6 @@
 0.0.0.0 www.fincert.it
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.flagcounter.com
-0.0.0.0 www.floresguitarinstruction.com
 0.0.0.0 www.foone.com.br
 0.0.0.0 www.foxcounter.com
 0.0.0.0 www.free-gay.de
@@ -39517,7 +39205,6 @@
 0.0.0.0 www.greatpussies.com
 0.0.0.0 www.greatsexcontent.dk
 0.0.0.0 www.greatsimplicity.com
-0.0.0.0 www.greenvalleyschool.com
 0.0.0.0 www.gustomagro.it
 0.0.0.0 www.h-villamotel.com
 0.0.0.0 www.habanerotaqueria.it
@@ -39526,7 +39213,6 @@
 0.0.0.0 www.hebgb.top
 0.0.0.0 www.hellojohnwebb.com
 0.0.0.0 www.hightrafficads.com
-0.0.0.0 www.hihisea.com
 0.0.0.0 www.hitbox.com
 0.0.0.0 www.hmuana.com
 0.0.0.0 www.hostcontent.live
@@ -39613,7 +39299,6 @@
 0.0.0.0 www.jads.co
 0.0.0.0 www.jadspro.live
 0.0.0.0 www.jellycounter.com
-0.0.0.0 www.jpvnegocios.com
 0.0.0.0 www.jqassets.download
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jqrcdn.download
@@ -39636,29 +39321,24 @@
 0.0.0.0 www.jshosting.win
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.kartlab.it
-0.0.0.0 www.kathrynpaige.com
 0.0.0.0 www.ks.cn
 0.0.0.0 www.laanchoa.it
 0.0.0.0 www.lacasadialicedesenzano.it
 0.0.0.0 www.ladsblue.com
-0.0.0.0 www.laporanmasyarakat.com
 0.0.0.0 www.laptopreportcard.com
 0.0.0.0 www.leadboltads.net
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.linkcounter.com
-0.0.0.0 www.littleplanetclass.com
 0.0.0.0 www.live1powerlife.com
 0.0.0.0 www.logly.co.jp
 0.0.0.0 www.logrocket.com
 0.0.0.0 www.logrocket.io
-0.0.0.0 www.lovenstad.no
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.maincert.com
 0.0.0.0 www.manchesterot.co.uk
 0.0.0.0 www.manga-news.com
 0.0.0.0 www.manufacta-italia.it
-0.0.0.0 www.marcoantonioguerrerafitness.com
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.maxonclick.com
 0.0.0.0 www.maxtek.it
@@ -39684,7 +39364,6 @@
 0.0.0.0 www.nctracking.com
 0.0.0.0 www.needadvertising.com
 0.0.0.0 www.neptuneads.com
-0.0.0.0 www.nera-lift.cz
 0.0.0.0 www.nerodavolasicilia.it
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.nipunpharmaskill.com
@@ -39714,7 +39393,6 @@
 0.0.0.0 www.picura.it
 0.0.0.0 www.pipenv.org
 0.0.0.0 www.pivata.net
-0.0.0.0 www.plug2field.com
 0.0.0.0 www.pointclicktrack.com
 0.0.0.0 www.popads.net
 0.0.0.0 www.popadscdn.net
@@ -39732,9 +39410,7 @@
 0.0.0.0 www.progettazione-integrata.it
 0.0.0.0 www.publicgood.com
 0.0.0.0 www.purpleads.io
-0.0.0.0 www.quadrantmeasurements.com
 0.0.0.0 www.quantserve.com
-0.0.0.0 www.quartier-midi.be
 0.0.0.0 www.queen-casino.info
 0.0.0.0 www.rcommunications.com
 0.0.0.0 www.reacredit.com.br
@@ -39750,15 +39426,12 @@
 0.0.0.0 www.ristoranteilmedioevo.it
 0.0.0.0 www.roofing.galacticleads.com
 0.0.0.0 www.roosterfirework.com
-0.0.0.0 www.rorymartindemo4.com
 0.0.0.0 www.rosafondente.it
 0.0.0.0 www.rss141.com
-0.0.0.0 www.ryoucraft.top
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.searchadv.com
-0.0.0.0 www.semetambelaj.com
 0.0.0.0 www.seri-net.com.ar
 0.0.0.0 www.sexadvertentiesite.nl
 0.0.0.0 www.sexpixbox.com
@@ -39830,8 +39503,6 @@
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.ucchari.com
 0.0.0.0 www.ultimatecounter.com
-0.0.0.0 www.uniengrisb.com
-0.0.0.0 www.universalcustomdesigns.com
 0.0.0.0 www.usekahuna.com
 0.0.0.0 www.usertrack.net
 0.0.0.0 www.utopia-privacy.com
@@ -40014,12 +39685,9 @@
 0.0.0.0 wygyst8.gq
 0.0.0.0 wyideegb.city
 0.0.0.0 wyyjacky.club
-0.0.0.0 wz-adserver.de
 0.0.0.0 x-adservice.com
 0.0.0.0 x-lift.jp
 0.0.0.0 x-soft.club
-0.0.0.0 x-soft.re
-0.0.0.0 x-stat.de
 0.0.0.0 x-storage-a1.cir.io
 0.0.0.0 x.233sy.cn
 0.0.0.0 x.dlx.addthis.com
@@ -40552,7 +40220,6 @@
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 xzhch.ml
 0.0.0.0 xzshadows13.icu
-0.0.0.0 y-track.com
 0.0.0.0 y.analytics.app-adforce.jp
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.ibsys.com
@@ -40754,7 +40421,6 @@
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.moatads.com
 0.0.0.0 yj.p.adnxs.com
-0.0.0.0 ykhandler.com
 0.0.0.0 yldbt.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ylog.huya.com
@@ -40879,7 +40545,6 @@
 0.0.0.0 younglybae.tk
 0.0.0.0 youngmarble.com
 0.0.0.0 youotube.com
-0.0.0.0 your-analytics.org
 0.0.0.0 your-dates-tonight.com
 0.0.0.0 yourdocument.biz
 0.0.0.0 yourfuturewin.online
@@ -40918,7 +40583,6 @@
 0.0.0.0 yuxinproteins.com
 0.0.0.0 yuyhmi.pw
 0.0.0.0 yvyqyr.com
-0.0.0.0 yx-ads6.com
 0.0.0.0 yxpwly.com
 0.0.0.0 yyhhwt.com
 0.0.0.0 yzbobdl.space
@@ -40936,7 +40600,6 @@
 0.0.0.0 z.zz.ht
 0.0.0.0 z1.adserver.com
 0.0.0.0 z5x.net
-0.0.0.0 za-ads.de
 0.0.0.0 zabenkot.top
 0.0.0.0 zaczvk.pl
 0.0.0.0 zads.zedo.com
@@ -41057,7 +40720,6 @@
 0.0.0.0 zicyst9.gq
 0.0.0.0 zidako.online
 0.0.0.0 zidedge.com
-0.0.0.0 ziengineeringco.com
 0.0.0.0 ziffdavisdesktoplinux.112.2o7.net
 0.0.0.0 ziffdavisenterprise.112.2o7.net
 0.0.0.0 ziffdavisenterpriseglobal.112.2o7.net
@@ -41308,7 +40970,6 @@
 0.0.0.0 zuxjp.pw
 0.0.0.0 zvb.us
 0.0.0.0 zvideo-live.com
-0.0.0.0 zx-adnet.com
 0.0.0.0 zxciuniqhweizsds.com
 0.0.0.0 zxcsaxb-good10.com
 0.0.0.0 zxcsaxb-good3.com
