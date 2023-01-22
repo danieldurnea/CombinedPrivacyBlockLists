@@ -21294,7 +21294,6 @@
 0.0.0.0 lalitmumbai.net
 0.0.0.0 laman.live
 0.0.0.0 lamegaoffre.fr
-0.0.0.0 lameguard.ru
 0.0.0.0 lameletters.com
 0.0.0.0 lamid.live
 0.0.0.0 lamis.live
