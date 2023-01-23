@@ -1,4 +1,4 @@
-// **** Mon Jan 23 09:18:40 PM UTC 2023
+// **** Mon Jan 23 09:33:12 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -3872,18 +3872,6 @@ shExpMatch(host, "*.adsentiz.ru") ||
 shExpMatch(host, "*.adser.io") ||
 shExpMatch(host, "*.adsertor.co.uk") ||
 shExpMatch(host, "*.adsertor.mx") ||
-shExpMatch(host, "*.adserv.altomedia.net") ||
-shExpMatch(host, "*.adserv.bravenet.com") ||
-shExpMatch(host, "*.adserv.emh.ch") ||
-shExpMatch(host, "*.adserv.gamezone.de") ||
-shExpMatch(host, "*.adserv.lwmn.net") ||
-shExpMatch(host, "*.adserv.maineguide.com") ||
-shExpMatch(host, "*.adserv.mako.co.il") ||
-shExpMatch(host, "*.adserv.mywebtimes.com") ||
-shExpMatch(host, "*.adserv.newcentury.net") ||
-shExpMatch(host, "*.adserv.postbulletin.com") ||
-shExpMatch(host, "*.adserv.quality-channel.de") ||
-shExpMatch(host, "*.adserv.usps.com") ||
 shExpMatch(host, "*.adserv001.adtech.fr") ||
 shExpMatch(host, "*.adserv001.adtech.us") ||
 shExpMatch(host, "*.adserv002.adtech.fr") ||
@@ -40922,18 +40910,6 @@ shExpMatch(host, "adsentiz.ru") ||
 shExpMatch(host, "adser.io") ||
 shExpMatch(host, "adsertor.co.uk") ||
 shExpMatch(host, "adsertor.mx") ||
-shExpMatch(host, "adserv.altomedia.net") ||
-shExpMatch(host, "adserv.bravenet.com") ||
-shExpMatch(host, "adserv.emh.ch") ||
-shExpMatch(host, "adserv.gamezone.de") ||
-shExpMatch(host, "adserv.lwmn.net") ||
-shExpMatch(host, "adserv.maineguide.com") ||
-shExpMatch(host, "adserv.mako.co.il") ||
-shExpMatch(host, "adserv.mywebtimes.com") ||
-shExpMatch(host, "adserv.newcentury.net") ||
-shExpMatch(host, "adserv.postbulletin.com") ||
-shExpMatch(host, "adserv.quality-channel.de") ||
-shExpMatch(host, "adserv.usps.com") ||
 shExpMatch(host, "adserv001.adtech.fr") ||
 shExpMatch(host, "adserv001.adtech.us") ||
 shExpMatch(host, "adserv002.adtech.fr") ||
@@ -74101,6 +74077,7 @@ shExpMatch(host, "zynga2-a.akamaihd.net") ||
 shExpMatch(host, "zytrox.tk") ||
 shExpMatch(host, "zywuqcxtmqtz.000webhostapp.com") ||
 shExpMatch(host, "zzhengre.com") ||
+shExpMatch(host, "adserv.*") ||
 shExpMatch(host, "adserver.*") ||
 shExpMatch(host, "adserving.*")
        ) {
