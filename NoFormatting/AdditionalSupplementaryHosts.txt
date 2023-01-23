@@ -9511,6 +9511,7 @@
 0.0.0.0 blenderno.org
 0.0.0.0 blensder.org
 0.0.0.0 blethenmaine.112.2o7.net
+0.0.0.0 blinc.ng
 0.0.0.0 blismedia.com
 0.0.0.0 blissful-river-74383.pktriot.net
 0.0.0.0 blisspoint.us-east-1.stinger-ad.bidr.io
@@ -33060,6 +33061,7 @@
 0.0.0.0 static.clix.ir
 0.0.0.0 static.criteo.net
 0.0.0.0 static.cz01.cn
+0.0.0.0 static.danbo.org
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.googleadsserving.cn
