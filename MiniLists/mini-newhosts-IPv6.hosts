@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/22/23~23:31:28 -~
+# ~- 01/23/23~00:08:47 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -20152,6 +20152,7 @@ ff02::2 ip6-allrouters
 :: blethenmaine.112.2o7.net
 :: blewtheleledm.one
 :: blfkmp.fti.de
+:: blinc.ng
 :: blindlydutra.com
 :: blindlyidle.com
 :: blindlytinsel.com
@@ -78087,6 +78088,7 @@ ff02::2 ip6-allrouters
 :: static.cz01.cn
 :: static.da1.vip.prod.criteo.net
 :: static.dable.io
+:: static.danbo.org
 :: static.doubleclick.net
 :: static.dynad.net
 :: static.dynamicyield.com

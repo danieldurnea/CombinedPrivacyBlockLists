@@ -20117,6 +20117,7 @@ blesspaleron.website
 blethenmaine.112.2o7.net
 blewtheleledm.one
 blfkmp.fti.de
+blinc.ng
 blindlydutra.com
 blindlyidle.com
 blindlytinsel.com
@@ -78052,6 +78053,7 @@ static.criteo.net
 static.cz01.cn
 static.da1.vip.prod.criteo.net
 static.dable.io
+static.danbo.org
 static.doubleclick.net
 static.dynad.net
 static.dynamicyield.com
