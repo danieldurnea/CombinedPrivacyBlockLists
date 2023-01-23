@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Jan 22 11:36:29 PM UTC 2023
+! Updated: Mon Jan 23 12:11:18 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -20530,6 +20530,7 @@
 ||blfoddifghcmeyc.com^
 ||bliink.io^
 ||bliman.com^
+||blinc.ng^
 ||blindlydutra.com^
 ||blindlyidle.com^
 ||blindlytinsel.com^
@@ -93898,6 +93899,7 @@
 ||static.clickmenia.com^
 ||static.cloud.coveo.com^
 ||static.cz01.cn^
+||static.danbo.org^
 ||static.directrankcl.com^
 ||static.displayio.cloud^
 ||static.dynamicyield.com^
@@ -111070,7 +111072,6 @@
 ||www.bigpenisguide.com^
 ||www.bioverlag-online.de^
 ||www.bis-dic15.com^
-||www.blinc.ng^
 ||www.blockchained.party^
 ||www.blocwhite7.com^
 ||www.blogcatalog.com^

@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/22/23~23:52:04 -~
+# ~- 01/23/23~00:22:37 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -16449,6 +16449,7 @@
 *.blesspaleron.website
 *.blewtheleledm.one
 *.blfkmp.fti.de
+*.blinc.ng
 *.blindlydutra.com
 *.blindlyidle.com
 *.blindlytinsel.com
@@ -66423,6 +66424,7 @@
 *.static.clicktripz.com
 *.static.cloud.coveo.com
 *.static.cz01.cn
+*.static.danbo.org
 *.static.dynad.net
 *.static.dynamicyield.com
 *.static.ecorebates.com
@@ -78513,7 +78515,6 @@
 *.www.bigpenisguide.com
 *.www.bioverlag-online.de
 *.www.bis-dic15.com
-*.www.blinc.ng
 *.www.blockchained.party
 *.www.blocwhite7.com
 *.www.blogcatalog.com
