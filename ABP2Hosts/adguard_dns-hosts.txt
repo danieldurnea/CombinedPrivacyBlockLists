@@ -1,4 +1,4 @@
-# Tue Jan 24 06:17:48 AM UTC 2023
+# Tue Jan 24 07:48:06 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -12267,7 +12267,6 @@
 0.0.0.0 creative-serving.com
 0.0.0.0 creative-thought.pro
 0.0.0.0 creative.leojmp.com
-0.0.0.0 creative.live.missav.com
 0.0.0.0 creative.live7mm.tv
 0.0.0.0 creative.prf.hn
 0.0.0.0 creative.sphdigital.com
