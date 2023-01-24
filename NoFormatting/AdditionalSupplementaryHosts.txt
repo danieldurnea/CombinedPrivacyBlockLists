@@ -2058,6 +2058,7 @@
 0.0.0.0 adbrix-cpn-was-prod.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 adbrix-cvr-was-prod.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com
+0.0.0.0 adbrix.io
 0.0.0.0 adbrn.com
 0.0.0.0 adbro.me
 0.0.0.0 adbro.rtbid.me
@@ -2095,11 +2096,13 @@
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adcel.vrvm.com
+0.0.0.0 adcell.com
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.mdf.se
 0.0.0.0 adcenter.net
 0.0.0.0 adcentriconline.com
 0.0.0.0 adcept.net
+0.0.0.0 adchimp.com
 0.0.0.0 adchina.com
 0.0.0.0 adchoice.com
 0.0.0.0 adchoices.com
@@ -2113,6 +2116,7 @@
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclicki.ir
+0.0.0.0 adclickmedia.com
 0.0.0.0 adclickthru.net
 0.0.0.0 adclient-af.shopping.uol.com.br
 0.0.0.0 adclient.uimserv.net
@@ -2183,6 +2187,7 @@
 0.0.0.0 adevents.msn.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adexchange.djaxadserver.com
+0.0.0.0 adexchangecloud.com
 0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeguru.com
 0.0.0.0 adexchangeprediction.com
@@ -2210,6 +2215,7 @@
 0.0.0.0 adflow.co.uk
 0.0.0.0 adflow.org
 0.0.0.0 adflownetworks.com
+0.0.0.0 adfly.vn
 0.0.0.0 adfonic.net
 0.0.0.0 adforce.adtech.fr
 0.0.0.0 adforce.adtech.us
@@ -2232,7 +2238,9 @@
 0.0.0.0 adfu.blockstackers.com
 0.0.0.0 adfun.ru
 0.0.0.0 adfunky.com
+0.0.0.0 adfunkyserver.com
 0.0.0.0 adfurikun.jp
+0.0.0.0 adfusion.com
 0.0.0.0 adfuture.cn
 0.0.0.0 adg.d2c.ne.jp
 0.0.0.0 adgardener.com
@@ -2399,6 +2407,7 @@
 0.0.0.0 admanagerplus.flurry.com
 0.0.0.0 admantx.com
 0.0.0.0 admarket.admicro.vn
+0.0.0.0 admarket.network
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admarketplace.com
 0.0.0.0 admarketplace.net
@@ -2428,8 +2437,10 @@
 0.0.0.0 admerize.be
 0.0.0.0 admeta.com
 0.0.0.0 admex.com
+0.0.0.0 admicro.vn
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admicro6.vcmedia.vn
+0.0.0.0 admidainsight.com
 0.0.0.0 admin-578472.serveo.net
 0.0.0.0 admin.adnation.com
 0.0.0.0 admin.adsplay.net
@@ -2494,6 +2505,7 @@
 0.0.0.0 admonitor.com
 0.0.0.0 admost.com
 0.0.0.0 admotion.com.ar
+0.0.0.0 admozartxml.com
 0.0.0.0 admp-tc-bauer.adtlgc.com
 0.0.0.0 admp-tc-delfilt.adtlgc.com
 0.0.0.0 admp-tc-eluniversal.adtlgc.com
@@ -2521,6 +2533,7 @@
 0.0.0.0 adnet-media.net
 0.0.0.0 adnet.asahi.com
 0.0.0.0 adnet.biz
+0.0.0.0 adnet.com
 0.0.0.0 adnet.de
 0.0.0.0 adnet.ru
 0.0.0.0 adnet.worldreviewer.com
@@ -2595,6 +2608,7 @@
 0.0.0.0 adogut.live
 0.0.0.0 adolymp.g2afse.com
 0.0.0.0 adomesticworld.com
+0.0.0.0 adomik.com
 0.0.0.0 adone.com
 0.0.0.0 adone.yicha.jp
 0.0.0.0 adonic.live
@@ -2639,13 +2653,16 @@
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
 0.0.0.0 adplexmedia.adk2x.com
+0.0.0.0 adplugg.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplusplus.fr
 0.0.0.0 adplxmd.com
 0.0.0.0 adpmbtj.com
 0.0.0.0 adpon.net
+0.0.0.0 adpone.com
 0.0.0.0 adpop.xyz
 0.0.0.0 adpopblocker.com
+0.0.0.0 adpopcorn.com
 0.0.0.0 adpower.de
 0.0.0.0 adpowerzone.com
 0.0.0.0 adpredictive.com
@@ -2674,8 +2691,10 @@
 0.0.0.0 adqwozlzb.info
 0.0.0.0 adrakwalichae.com
 0.0.0.0 adrazzi.com
+0.0.0.0 adrcdn.com
 0.0.0.0 adrcf.com
 0.0.0.0 adreactor.com
+0.0.0.0 adrealclick.com
 0.0.0.0 adreclaim.com
 0.0.0.0 adrecover.com
 0.0.0.0 adrecreate.com
@@ -5156,6 +5175,7 @@
 0.0.0.0 adsystem.simplemachines.org
 0.0.0.0 adszooks.com
 0.0.0.0 adszzzbizzx.com
+0.0.0.0 adt.com.vn
 0.0.0.0 adt.xdrig.com
 0.0.0.0 adtag.ad.smaato.net
 0.0.0.0 adtag.admarketplace.net
@@ -5164,6 +5184,7 @@
 0.0.0.0 adtaily.com
 0.0.0.0 adtaily.pl
 0.0.0.0 adtarget.fcbarcelona.com
+0.0.0.0 adtarget.me
 0.0.0.0 adtaxinetworks.com
 0.0.0.0 adtcomprod.112.2o7.net
 0.0.0.0 adtdp.com
@@ -5174,6 +5195,7 @@
 0.0.0.0 adtech.us
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
+0.0.0.0 adtegrity.com
 0.0.0.0 adtegrity.net
 0.0.0.0 adtheorent.com
 0.0.0.0 adthis.com
@@ -5216,6 +5238,7 @@
 0.0.0.0 adtrading.de
 0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
+0.0.0.0 adtrix.com
 0.0.0.0 adtrue.com
 0.0.0.0 adtruth.com
 0.0.0.0 adtube.ir
@@ -5223,6 +5246,7 @@
 0.0.0.0 adtuitive.com
 0.0.0.0 adturtle.biz
 0.0.0.0 adulariagk.com
+0.0.0.0 adult-top-list.com
 0.0.0.0 adult.foxcounter.com
 0.0.0.0 adult.likevideo.jp
 0.0.0.0 adultadvertising.com
@@ -5236,6 +5260,7 @@
 0.0.0.0 adultswim.com.102.122.2o7.net
 0.0.0.0 adulttdates.com
 0.0.0.0 adunit.chango.ca
+0.0.0.0 adup-tech.com
 0.0.0.0 adups.com
 0.0.0.0 aduska.life
 0.0.0.0 aduu.cn
@@ -5594,15 +5619,20 @@
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
 0.0.0.0 adxadserv.com
+0.0.0.0 adxcorp.kr
 0.0.0.0 adxhand.icu
 0.0.0.0 adxlog.vivo.com.cn
 0.0.0.0 adxmi.com
+0.0.0.0 adxoo.com
 0.0.0.0 adxpansion.com
+0.0.0.0 adxplay.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxpower.com
+0.0.0.0 adxpremium.services
 0.0.0.0 adxprts.com
 0.0.0.0 adxserve.com
 0.0.0.0 adxvalue.com
+0.0.0.0 adxxx.com
 0.0.0.0 adxxx.info
 0.0.0.0 adxxx.me
 0.0.0.0 adxxx.org
@@ -8491,6 +8521,7 @@
 0.0.0.0 axoncoho.tk
 0.0.0.0 axoneday.xyz
 0.0.0.0 ay8ou8ohth.com
+0.0.0.0 ayads.co
 0.0.0.0 ayadsaws.ayads.co
 0.0.0.0 ayakkokulari.com
 0.0.0.0 ayehosting.online
@@ -10290,6 +10321,7 @@
 0.0.0.0 bulehero2019.club
 0.0.0.0 bulet.live
 0.0.0.0 bulid.live
+0.0.0.0 bulletads.com
 0.0.0.0 bulletin-covid-19-21.gr8.com
 0.0.0.0 bullguard09.wm01.to
 0.0.0.0 bullrunonline.info
@@ -12302,6 +12334,7 @@
 0.0.0.0 contents.adingo.jp.eimg.jp
 0.0.0.0 contents.purelovers.com
 0.0.0.0 contentsquare.net
+0.0.0.0 contextuads.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextualyield.com
 0.0.0.0 contextweb.com
@@ -13983,7 +14016,6 @@
 0.0.0.0 dk.adserver.yahoo.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dl-microsoft.com
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 dl.browsermine.com
 0.0.0.0 dl.logging.admicro.vn
@@ -19617,6 +19649,7 @@
 0.0.0.0 indexhu.adocean.pl
 0.0.0.0 indexstats.com
 0.0.0.0 indexww.com
+0.0.0.0 indiads.com
 0.0.0.0 indiangirlsnude.com
 0.0.0.0 indicasativas.com
 0.0.0.0 indieclick.com
@@ -25437,6 +25470,7 @@
 0.0.0.0 neppe.studio
 0.0.0.0 neptunclicks.com
 0.0.0.0 neptune.appads.com
+0.0.0.0 neptuneads.com
 0.0.0.0 nerdcommunity.top
 0.0.0.0 neref.112.2o7.net
 0.0.0.0 nerido.live
@@ -25515,6 +25549,7 @@
 0.0.0.0 newerrorforwindows405.club
 0.0.0.0 newfield-us.info
 0.0.0.0 newfind.cloudns.cl
+0.0.0.0 newgoplus.com
 0.0.0.0 newhomescville.com
 0.0.0.0 newlanding.boomrang-app.ir
 0.0.0.0 newlanding.ostaadbozorg.com
@@ -25546,7 +25581,6 @@
 0.0.0.0 newsinteractive.112.2o7.net
 0.0.0.0 newsinternational.122.2o7.net
 0.0.0.0 newska-uanews.biz
-0.0.0.0 newsmax.sc.omtrdc.net
 0.0.0.0 newsmaxfeednetwork.com
 0.0.0.0 newsok.112.2o7.net
 0.0.0.0 newsquestdigitalmedia.122.2o7.net
@@ -28248,6 +28282,7 @@
 0.0.0.0 posteitalianedecreto.top
 0.0.0.0 posteitalianesicurezzadecreto.info
 0.0.0.0 posterminalworld.la
+0.0.0.0 postnewsads.com
 0.0.0.0 postrelease.com
 0.0.0.0 postroller.com
 0.0.0.0 postsupport.net
@@ -29516,6 +29551,7 @@
 0.0.0.0 regional.ads.tremorhub.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 registercom.122.2o7.net
+0.0.0.0 registrarads.com
 0.0.0.0 registro-de-avance-cl.cf
 0.0.0.0 registro-de-avance-cl.gq
 0.0.0.0 regnal.live
@@ -31596,7 +31632,6 @@
 0.0.0.0 sideshow.directtrack.com
 0.0.0.0 sidom.online
 0.0.0.0 sierraagrolime.com
-0.0.0.0 sieuthiphutungxenang.com
 0.0.0.0 sifed.live
 0.0.0.0 sifenews.com
 0.0.0.0 sig.ig.com
@@ -37155,6 +37190,7 @@
 0.0.0.0 useast.rtb.adkernel.com
 0.0.0.0 usedexample.com
 0.0.0.0 usedirect.adsrvr.org
+0.0.0.0 usefomo.com
 0.0.0.0 usemax.de
 0.0.0.0 usenpita.122.2o7.net
 0.0.0.0 user-agent-tracker.herokuapp.com
@@ -38395,6 +38431,7 @@
 0.0.0.0 wgeise4.com
 0.0.0.0 wh890850.ispot.cc
 0.0.0.0 whaleads.com
+0.0.0.0 whalecashads.com
 0.0.0.0 wharfehealthcare.org
 0.0.0.0 whatandwhyeh.com
 0.0.0.0 whatelles.nl
