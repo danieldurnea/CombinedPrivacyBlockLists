@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/24/23~06:49:37 -~
+# ~- 01/24/23~08:34:24 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -412,7 +412,6 @@
 *.1111oe.com
 *.1111sale.us
 *.1111supjavcom.xyz
-*.11164531-19021001.c2.adprotect.net
 *.1118cctv.ltd
 *.111orion.xyz
 *.111supjav.xyz
@@ -3493,7 +3492,6 @@
 *.abieaoa.cn
 *.abins.live
 *.abissnet.net
-*.abitamart.com
 *.abjectionblame.com
 *.abjectionremarksdisarm.com
 *.abjjsc.cn
@@ -4161,6 +4159,7 @@
 *.ad-gbn.com
 *.ad-generation.jp
 *.ad-generator.net
+*.ad-groups.com
 *.ad-hatena.com
 *.ad-house.mobi
 *.ad-im-cmg.streamguys1.com
@@ -4186,6 +4185,7 @@
 *.ad-mix.de
 *.ad-move.jp
 *.ad-ndtv.3s.com.vn
+*.ad-net.co.uk
 *.ad-nex.com
 *.ad-optima.com
 *.ad-pay.de
@@ -4779,6 +4779,7 @@
 *.ad26.atlas.cz
 *.ad27.atlas.cz
 *.ad28.atlas.cz
+*.ad287.com
 *.ad29.atlas.cz
 *.ad2ad.ir
 *.ad2flash.com
@@ -4827,6 +4828,7 @@
 *.ad4mat.de
 *.ad4mat.net
 *.ad4push.com
+*.ad4screen.com
 *.ad5.atlas.cz
 *.ad5.bbmedia.cz
 *.ad5.bigmir.net
@@ -4869,6 +4871,7 @@
 *.adalgard-wol.com
 *.adalliance.io
 *.adalyser.com
+*.adamsfilms.com
 *.adanging.blog
 *.adaog.com
 *.adaos-ads.net
@@ -4911,6 +4914,7 @@
 *.adbasket.net
 *.adbd.liuxue86.com
 *.adbee.com.ua
+*.adbert.com.tw
 *.adbidgo.com
 *.adbigline.network
 *.adbilty.me
@@ -4956,6 +4960,7 @@
 *.adbmi.com
 *.adbn.ru
 *.adbomb.ru
+*.adbonus.com
 *.adboost.de.vu
 *.adboost.finalid.com
 *.adboost.net
@@ -4975,6 +4980,7 @@
 *.adbrix-cpn-was-prod.ap-northeast-1.elasticbeanstalk.com
 *.adbrix-cvr-was-prod.ap-northeast-1.elasticbeanstalk.com
 *.adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com
+*.adbrix.io
 *.adbrn.com
 *.adbro.me
 *.adbro.rtbid.me
@@ -5016,6 +5022,7 @@
 *.adcache.nymag.com
 *.adcamp.ru
 *.adcampo.com
+*.adcanadian.com
 *.adcannyads.com
 *.adcannyxml.com
 *.adcash.com
@@ -5028,6 +5035,7 @@
 *.adcdnx.com
 *.adcel.co
 *.adcel.vrvm.com
+*.adcell.com
 *.adcell.de
 *.adcenter.mdf.se
 *.adcenter.net
@@ -5052,6 +5060,7 @@
 *.adclicki.ir
 *.adclickmedia.com
 *.adclicks.io
+*.adclickthru.net
 *.adclient-af.shopping.uol.com.br
 *.adclient1.tucows.com
 *.adclix.org
@@ -5061,6 +5070,7 @@
 *.adclr.jp
 *.adclub.net
 *.adcode.rontar.com
+*.adcode.ws
 *.adcolo.com
 *.adcolony.com
 *.adcolony.xyz
@@ -5095,6 +5105,7 @@
 *.addeluxe.jp
 *.addesktop.com
 *.addflow.ru
+*.addfreecounter.com
 *.addfreestats.com
 *.addictedsweetness.com
 *.addigy-mdm-prod.us-east-1.elasticbeanstalk.com
@@ -5103,6 +5114,7 @@
 *.addinto.com
 *.addiply.com
 *.addisp.com
+*.additcinggames.com
 *.additionalcasualcabinet.com
 *.additionalmedia.com
 *.additionant.com
@@ -5247,6 +5259,7 @@
 *.adflow.org
 *.adflownetworks.com
 *.adfly-bot.online
+*.adfly.vn
 *.adfoc.us
 *.adfonic.net
 *.adfooe.hofsilk.com
@@ -5283,7 +5296,9 @@
 *.adgear.com
 *.adgebra.co.in
 *.adget.cn
+*.adgger.jp
 *.adgila.com
+*.adgjl13.com
 *.adglare.net
 *.adglare.org
 *.adglaze.com
@@ -5296,6 +5311,7 @@
 *.adgrx.com.tech.akadns.net
 *.adgrx.com
 *.adgsdchh.xyz
+*.adgtracker.com
 *.adguru.guruji.com
 *.adhak.live
 *.adhall.com
@@ -5309,10 +5325,12 @@
 *.adherencestated.com
 *.adhese.be
 *.adhese.com
+*.adhexa.com
 *.adhigh.net
 *.adhimunc.com
 *.adhitzads.com
 *.adhoc4.net
+*.adhome.icu
 *.adhood.com
 *.adhostingsolutions.com
 *.adhub.digital
@@ -5330,6 +5348,7 @@
 *.adimage.asiaone.com.sg
 *.adimage.blm.net
 *.adimage.guardian.co.uk
+*.adimages.beeb.com
 *.adimages.been.com
 *.adimages.carsoup.com
 *.adimages.criticalmass.com
@@ -5368,6 +5387,7 @@
 *.adinterax.cnet.com.edgesuite.net
 *.adinterax.com
 *.adiode.com
+*.adipics.com
 *.adiquity.com
 *.adisfy.com
 *.adisnet.com
@@ -5388,6 +5408,7 @@
 *.adjb.5nd.com
 *.adjectivedollaralmost.com
 *.adjix.com
+*.adjmps.com
 *.adjoincomprise.com
 *.adjoiningfoolish.com
 *.adjoiningrolesuspicious.com
@@ -5428,6 +5449,7 @@
 *.adlabs.ru
 *.adland.ru
 *.adlanding.admarketplace.net.akadns.net
+*.adlandpro.com
 *.adlane.info
 *.adlantic.nl
 *.adlantis.jp
@@ -5447,6 +5469,8 @@
 *.adlink.deh.de
 *.adlink.de
 *.adlink.net
+*.adloader.com
+*.adlock.in
 *.adlockscreen.goforandroid.com
 *.adlog.cbsi.com
 *.adlog.foxitcloud.com
@@ -5455,6 +5479,7 @@
 *.adlog.spotify.com
 *.adlog.vivo.com.cn
 *.adlogists.com
+*.adlogix.com
 *.adlogs.ad2iction.com
 *.adlook.net
 *.adloox.com
@@ -5500,6 +5525,7 @@
 *.admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com
 *.admantx.com
 *.admarket.entireweb.com
+*.admarket.network
 *.admarketing.yahoo.net
 *.admarketplace.com
 *.admarketplace.net
@@ -5520,6 +5546,7 @@
 *.admeasure.hh-online.jp
 *.admeasurement.com
 *.admedia.com
+*.admedia.network
 *.admedia.ro
 *.admedit.net
 *.admedo.com
@@ -5788,6 +5815,7 @@
 *.admixer.co.kr
 *.admixer.com
 *.admixer.net
+*.admixxer.com
 *.admized.com
 *.admngronline.com
 *.admntrk.com
@@ -5818,6 +5846,7 @@
 *.admob.tw
 *.admob.vn
 *.admob.xiaomi.com
+*.admobclick.com
 *.admobe.com
 *.admobi.ru
 *.admobile.com
@@ -5825,6 +5854,7 @@
 *.admonitor.com
 *.admost.com
 *.admotion.com.ar
+*.admozartxml.com
 *.admp-tc.delfi.ee
 *.adms.physorg.com
 *.admsapi.businessweekly.com.tw
@@ -5846,6 +5876,7 @@
 *.adnet.asahi.com
 *.adnet.biz
 *.adnet.com.ua
+*.adnet.com
 *.adnet.de
 *.adnet.pravda.com.ua
 *.adnet.ru
@@ -5859,6 +5890,7 @@
 *.adnetwork.vn
 *.adnetworkme.com
 *.adnetworkperformance.com
+*.adnetworktech.com
 *.adneutralads.com
 *.adnews.maddog2000.de
 *.adnext.co
@@ -5873,6 +5905,7 @@
 *.adnl.bk.mufg.jp
 *.adnmya.tk
 *.adnotch.com
+*.adnow.cc
 *.adntokyo.gunosy.com
 *.adnxs-simple.com
 *.adnxs.com
@@ -5931,6 +5964,7 @@
 *.adobeanalytics.populusgroup.com
 *.adobeanalytics.serveone.co.kr
 *.adobeanalytics.teksystems.com
+*.adobee.com
 *.adobeedge.my.gov.au
 *.adobeflashplaayer.com
 *.adobeflashplayernew.com
@@ -5953,6 +5987,7 @@
 *.adolf.tv
 *.adomesticworld.com
 *.adomic.com
+*.adomik.com
 *.adomv.com
 *.adone.com
 *.adonic.live
@@ -6002,7 +6037,9 @@
 *.adpersia.com
 *.adpia.vn
 *.adpicker.net
+*.adpicmedia.net
 *.adpies.com
+*.adpinfo.com
 *.adping.qq.com
 *.adpinion.com
 *.adpionier.de
@@ -6015,16 +6052,20 @@
 *.adplatform.vrtcal.com
 *.adplex.co.kr
 *.adplexo.com
+*.adplugg.com
 *.adplus.co.id
 *.adplusplus.fr
 *.adplxmd.com
 *.adpmbglobal.com
+*.adpmbtj.com
 *.adpod.in
 *.adpon.net
+*.adpone.com
 *.adpop.xyz
 *.adpopblocker.com
 *.adpopcorn.com
 *.adpower.de
+*.adpowerzone.com
 *.adpredictive.com
 *.adprimemedia.com
 *.adpriv.nikkei.com
@@ -6034,6 +6075,7 @@
 *.adprojekt.pl
 *.adpromo.peppynet.com
 *.adprosrv.com
+*.adprotect.net
 *.adprotected.com
 *.adprotraffic.com
 *.adprovider.maru.jp
@@ -6047,19 +6089,23 @@
 *.adpv.com
 *.adpxl.co
 *.adq.nextag.com
+*.adquest3d.com
 *.adquota.com
 *.adqwozlzb.info
 *.adr.alltorrents.net
 *.adrakwalichae.com
 *.adrates.theglobeandmail.com
 *.adrazzi.com
+*.adrcdn.com
 *.adrcf.com
 *.adreactor.com
 *.adreadytractions.com
 *.adreal.cn
+*.adrealclick.com
 *.adreclaim.com
 *.adrecover.com
 *.adrecreate.com
+*.adregistry.com
 *.adremedy.com
 *.adrenalpop.com
 *.adrenovate.com
@@ -6073,6 +6119,7 @@
 *.adrevenuerescue.com
 *.adrevolver.com
 *.adrian.net.cn
+*.adrianwaldock.plus.com
 *.adright.com
 *.adright.co
 *.adriver.ru
@@ -6085,6 +6132,7 @@
 *.adroll.mgr.consensu.org
 *.adrot.live
 *.adrotate.de
+*.adrotate.net
 *.adrotator.com
 *.adrotator.se
 *.adrotic.girlonthenet.com
@@ -6171,7 +6219,6 @@
 *.ads-trk.vidible.tv
 *.ads-twitter.com
 *.ads-union.jd.com
-*.ads-us.adtarget.me
 *.ads-us.spotify.com
 *.ads-v-darwin.hulu.com
 *.ads-verify.yap.yahoo.com
@@ -6241,14 +6288,12 @@
 *.ads.administrator.de
 *.ads.adnet.am
 *.ads.adnuntius.delivery
-*.ads.adpone.com
 *.ads.adred.de
 *.ads.adrise.tv
 *.ads.adroar.com
 *.ads.adsag.com
 *.ads.adshareware.net
 *.ads.adstream.com.ro
-*.ads.adtarget.me
 *.ads.adtrustmedia.com
 *.ads.adual.net
 *.ads.adultshop.de
@@ -7834,6 +7879,7 @@
 *.adsc.wasu.tv
 *.adscads.de
 *.adscale.de
+*.adscampaign.com
 *.adscampaign.net
 *.adscan.yelabapp.com
 *.adscare.myad.vn
@@ -7869,6 +7915,7 @@
 *.adsearch.adkontekst.pl
 *.adsearch.pl
 *.adsearch.wp.pl
+*.adsedo.com
 *.adsee.jp
 *.adselector.ru
 *.adsellers.net
@@ -7885,7 +7932,6 @@
 *.adser.io
 *.adsertor.co.uk
 *.adsertor.mx
-*.adserv.adbonus.com
 *.adserv.altomedia.net
 *.adserv.bravenet.com
 *.adserv.emh.ch
@@ -8277,6 +8323,7 @@
 *.adservr.de
 *.adservrs.com.edgekey.net
 *.adservrs.com
+*.adservtech.com
 *.adserwer.xwords.pl
 *.adsessionserv.com
 *.adsettings.com
@@ -8434,6 +8481,7 @@
 *.adspeed.com
 *.adspeed.net
 *.adspending01.bwnet.com.tw
+*.adspics.com
 *.adspirit.de
 *.adspirit.net
 *.adsplash.de
@@ -8552,7 +8600,6 @@
 *.adstuna.com
 *.adstune.com
 *.adsturn.com
-*.adstxt.adpone.com
 *.adsub.live
 *.adsunflower.com
 *.adsup.togothermany.cn
@@ -8595,7 +8642,9 @@
 *.adsyst.biz
 *.adsyst.ru
 *.adsystem.simplemachines.org
+*.adszooks.com
 *.adszzzbizzx.com
+*.adt.com.vn
 *.adt.m7z.net
 *.adt100.com
 *.adt328.com
@@ -8614,6 +8663,7 @@
 *.adtarget.fcbarcelona.com
 *.adtarget.fcbarcelona.es
 *.adtarget.fcbarcelona.fr
+*.adtarget.me
 *.adtaxinetworks.com
 *.adtd.douglas.at
 *.adtd.douglas.be
@@ -8669,8 +8719,6 @@
 *.adtorio.com
 *.adtorque.in
 *.adtotal.pl
-*.adtouch-qa.adbrix.io
-*.adtouch.adbrix.io
 *.adtpix.com
 *.adtr1.com
 *.adtrace.io
@@ -8691,6 +8739,7 @@
 *.adtrackingflow.pro
 *.adtraction.com
 *.adtrade.net
+*.adtrader.com
 *.adtrading.de
 *.adtradradservices.com
 *.adtraff.ru
@@ -8698,6 +8747,7 @@
 *.adtrgt.com
 *.adtrieval.com
 *.adtriplex.com
+*.adtrix.com
 *.adtrk18.com
 *.adtrue.com
 *.adtrue.top
@@ -8713,6 +8763,7 @@
 *.aduic.com
 *.adulariagk.com
 *.adulatorydigestionmanicure.com
+*.adult-top-list.com
 *.adult.likevideo.jp
 *.adultadvertising.com
 *.adultadvertising.net
@@ -8747,6 +8798,7 @@
 *.adunioncode.com
 *.adunit.chango.ca
 *.adunite.com
+*.adup-tech.com
 *.adups.com
 *.aduska.life
 *.adutp.com
@@ -8828,14 +8880,18 @@
 *.adv9.net
 *.advack.net
 *.advaction.ru
+*.advaliant.com
 *.advanced-ms.ml
 *.advanced-web-analytics.com
+*.advancedcleaner.com
 *.advancedreefaquarium.com
 *.advancedtracker.appspot.com
 *.advancelocal-adapter-image-uploads.s3.amazonaws.com
 *.advancementaccrue.com
+*.advancesrl.eu
 *.advancets.org
 *.advangelists.com
+*.advanpromo.com
 *.advantage.rsabroker.ca
 *.advantageglobalmarketing.com
 *.advantageoutlayreeds.com
@@ -8996,6 +9052,7 @@
 *.advertronic.io
 *.adverts.carltononline.com
 *.adverts.creativemark.co.uk
+*.adverts.dcthomson.co.uk
 *.adverts.ecn.co.uk
 *.adverts.freeloader.com
 *.advertserve.com
@@ -9070,6 +9127,7 @@
 *.adwalte.info
 *.adward.ru
 *.adwareremovergold.com
+*.adwarespy.com
 *.adwave.com
 *.adway.org
 *.adweblink.com
@@ -9077,9 +9135,11 @@
 *.adweek-sales.s3.amazonaws.com
 *.adwerx-marketing-assets.s3.amazonaws.com
 *.adwhirl.com
+*.adwidecenter.com
 *.adwile.com
 *.adwired.mobi
 *.adwitserver.com
+*.adwmg.com
 *.adwo.com
 *.adwods.com
 *.adwokatlodz.club
@@ -9143,12 +9203,14 @@
 *.adxchg.com
 *.adxcore.com
 *.adxcorp.kr
+*.adxhand.icu
 *.adxiaozi.com
 *.adxion.com
 *.adxite.com
 *.adxlog.vivo.com.cn
 *.adxmi.com
 *.adxnexus.com
+*.adxoo.com
 *.adxpansion.com
 *.adxpartner.com
 *.adxplay.com
@@ -9158,8 +9220,10 @@
 *.adxprts.com
 *.adxprtz.com
 *.adxscope.com
+*.adxserve.com
 *.adxvalue.com
 *.adxxx.com
+*.adxxx.info
 *.adxxx.me
 *.adxxx.org
 *.adxzju.penti.com
@@ -9172,6 +9236,7 @@
 *.adz.mobi
 *.adz.rashflash.com
 *.adz2you.com
+*.adz2you.net
 *.adzbazar.com
 *.adzerk.com
 *.adzerk.net
@@ -9345,7 +9410,6 @@
 *.affiliate.2mdn.net
 *.affiliate.7host.com
 *.affiliate.a4dtracker.com
-*.affiliate.adgtracker.com
 *.affiliate.affdirect.com
 *.affiliate.bfashion.com
 *.affiliate.blucigs.com
@@ -10104,7 +10168,6 @@
 *.alertnoticealertlockedwellsaccessblockedacconholdwf.host
 *.alertnoticealertwellsaccblockedacconholdcheckwf.host
 *.alertonlinebankaccesswellsblockedacconholdwf.host
-*.alerts.adpone.com
 *.alerts.steadyapp.com
 *.alertsecurities.in
 *.alertsecuritybrokenaccesswellsblockedacconholdwf.host
@@ -12192,12 +12255,10 @@
 *.api.ad-locus.com
 *.api.adcalls.nl
 *.api.addnow.com
-*.api.adfly.vn
 *.api.adgrowth.jp
 *.api.adintext.net
 *.api.adnet.mob.com
 *.api.adnsafe.org
-*.api.adomik.com
 *.api.adrenalads.com
 *.api.ads.watchabc.go.com
 *.api.adtrade.com
@@ -12608,7 +12669,6 @@
 *.applift.com
 *.applink.getbambu.com
 *.applink.mob.com
-*.applinks.adbrix.io
 *.applipromotion.com
 *.applog.camera360.com
 *.applog.matrix.easebar.com
@@ -15314,7 +15374,6 @@
 *.beap.adx.yahoo.com
 *.bearagriculture.com
 *.bearbigger.top
-*.bearcatpumps.com.cn
 *.bearerassistance.com
 *.beargrizzler.win
 *.bearingpreoccupationadmonish.com
@@ -15981,7 +16040,6 @@
 *.bicyst9.ml
 *.bicyst9.tk
 *.bid-engine.com
-*.bid.adpicmedia.net
 *.bid.atmtd.com
 *.bid.essrtb.com
 *.bid.fadb.xyz
@@ -16031,7 +16089,6 @@
 *.big-partynew.ru
 *.bigads.guj.de
 *.bigappboi.com
-*.bigapple.contextuads.com
 *.bigassbabyart.com
 *.bigbangads.go2cloud.org
 *.bigbangmedia.com
@@ -16150,7 +16207,6 @@
 *.bijwawr.com
 *.biked.live
 *.bikeforumsnet.skimlinks.com
-*.bikkviz.com
 *.bikrurda.net
 *.bikton43.ru
 *.bilahh.feuvert.fr
@@ -17712,12 +17768,12 @@
 *.bull3t.co
 *.bullads.net
 *.bulldogironworksllc.com
+*.bulletads.com
 *.bulletin-covid-19-21.gr8.com
 *.bulletprofitads.com
 *.bulletprofitpop.com
 *.bulletproxy.ch
 *.bullguard09.wm01.to
-*.bullionvaultlogistics.com
 *.bullionyield.com
 *.bullnunname.com
 *.bullrunonline.info
@@ -18034,7 +18090,6 @@
 *.c-tl.xyz
 *.c.28rv.com
 *.c.91wan.com
-*.c.adclickthru.net
 *.c.amazinglybrilliant.com.au
 *.c.bannerflow.net
 *.c.bazo.io
@@ -18123,8 +18178,6 @@
 *.c2c738.r.axf8.net
 *.c2e6bd3f02.com
 *.c2fbd5c6ba.com
-*.c2i.startappnetwork.com
-*.c2s.startappnetwork.com
 *.c3.myapkcdn.in
 *.c3.outster.com
 *.c3113b90b1.com
@@ -18527,7 +18580,6 @@
 *.caser.live
 *.casernbeings.com
 *.cash-ads.com
-*.cash-advance.now-cash.com
 *.cash-duck.com
 *.cash-for-clicks.de
 *.cash-program.com
@@ -18696,6 +18748,7 @@
 *.ccc01.opinionlab.com
 *.cccccd.com
 *.cccf.store
+*.ccemqe.cn
 *.ccexperimentsstatic.oracleoutsourcing.com
 *.ccgateway.net
 *.ccio6rope.cyou
@@ -18791,7 +18844,6 @@
 *.cdn.admatic.com.tr
 *.cdn.adnuntius.com
 *.cdn.adnwif.smt.docomo.ne.jp
-*.cdn.adplugg.com
 *.cdn.adquantix.com
 *.cdn.adsbtrack.com
 *.cdn.adserve.video
@@ -20693,7 +20745,6 @@
 *.cmvrclicks000.com
 *.cmyx.xyz
 *.cn-rtb.com
-*.cn.adpinfo.com
 *.cn.bidushe.com
 *.cn.clickable.net
 *.cn1.stadiumgoods.com
@@ -21273,7 +21324,6 @@
 *.communicate.choicelogistics.com
 *.communicate.gimbal.com
 *.communicatie.vub.be
-*.communication.adpinfo.com
 *.communication.futuresummits.com
 *.communication.imechyperspectral.com
 *.communication.ricoh.fr
@@ -21285,7 +21335,6 @@
 *.communications.rillion.com
 *.communications.ypo.org
 *.communisave.co.za
-*.community.adlandpro.com
 *.community.allhiphop.com
 *.community.hackersclub.net
 *.community.service.signalr.net
@@ -21663,6 +21712,7 @@
 *.contextbar.ru
 *.contextendless.com
 *.contextrtb.com
+*.contextuads.com
 *.contextualyield.com
 *.contextweb.com
 *.contineljs.com
@@ -22051,28 +22101,19 @@
 *.counter.zerohedge.com
 *.counter1.bravenet.com
 *.counter1.fc2.com
-*.counter1.sextracker.be
 *.counter10.bravenet.com
-*.counter10.sextracker.be
 *.counter11.bravenet.com
-*.counter11.sextracker.be
 *.counter12.bravenet.com
-*.counter12.sextracker.be
 *.counter13.bravenet.com
-*.counter13.sextracker.be
 *.counter14.bravenet.com
-*.counter14.sextracker.be
 *.counter15.bravenet.com
-*.counter15.sextracker.be
 *.counter16.bravenet.com
-*.counter16.sextracker.be
 *.counter17.bravenet.com
 *.counter18.bravenet.com
 *.counter19.bravenet.com
 *.counter2.blog.livedoor.com
 *.counter2.bravenet.com
 *.counter2.freeware.de
-*.counter2.sextracker.be
 *.counter20.bravenet.com
 *.counter21.bravenet.com
 *.counter22.bravenet.com
@@ -22084,7 +22125,6 @@
 *.counter28.bravenet.com
 *.counter29.bravenet.com
 *.counter3.bravenet.com
-*.counter3.sextracker.be
 *.counter30.bravenet.com
 *.counter31.bravenet.com
 *.counter32.bravenet.com
@@ -22096,7 +22136,6 @@
 *.counter38.bravenet.com
 *.counter39.bravenet.com
 *.counter4.bravenet.com
-*.counter4.sextracker.be
 *.counter40.bravenet.com
 *.counter41.bravenet.com
 *.counter42.bravenet.com
@@ -22110,16 +22149,11 @@
 *.counter4all.dk
 *.counter4u.de
 *.counter5.bravenet.com
-*.counter5.sextracker.be
 *.counter50.bravenet.com
 *.counter6.bravenet.com
-*.counter6.sextracker.be
 *.counter7.bravenet.com
-*.counter7.sextracker.be
 *.counter8.bravenet.com
-*.counter8.sextracker.be
 *.counter9.bravenet.com
-*.counter9.sextracker.be
 *.counterbot.com
 *.countercentral.com
 *.countercrazy.com
@@ -22173,7 +22207,6 @@
 *.covidsvcrc.com
 *.covus.live
 *.cowana-adserver.de
-*.cowboy.contextuads.com
 *.cowbumply.com
 *.cowent.live
 *.cowerarmament.com
@@ -22208,7 +22241,6 @@
 *.cpagoods.ru
 *.cpalabtracking.com
 *.cpalead.com
-*.cpanel.adnetworktech.com
 *.cpanel.nativeads.com
 *.cpaoffers.network
 *.cpasbintfr.com
@@ -22371,6 +22403,7 @@
 *.creamssicsite.com
 *.crearechile.cl
 *.creasoft.me
+*.create-tracking.com
 *.create.leadid.com
 *.create2fear.com
 *.createruler.com
@@ -22420,11 +22453,9 @@
 *.credentialdeploycable.com
 *.credentialssagwoo.com
 *.credishe.com
-*.credit-card-application.now-cash.com
 *.creditcollectionglobal.co
 *.creditorapido.xyz
 *.creditsoffer.blogspot.com
-*.credrewards.in
 *.creds.live
 *.creedaileenboiler.com
 *.creepingbrings.com
@@ -22843,7 +22874,6 @@
 *.customermgmt.net
 *.customers.kameleoon.com
 *.customfingerprints.bablosoft.com
-*.customgoodiebag.com
 *.customize.dtiserv.com
 *.cuteasiangirl.net
 *.cutecalculator.com
@@ -23115,7 +23145,6 @@
 *.d.8181zx.com
 *.d.ab126.com
 *.d.adtriba.com
-*.d.adup-tech.com
 *.d.adx.io
 *.d.ants.vn
 *.d.audienceiq.com
@@ -26260,7 +26289,6 @@
 *.domet.live
 *.domicileperil.com
 *.domid.live
-*.domifybot.com
 *.dominantcodes.com
 *.dominantroute.com
 *.dominas.femdomina.ru
@@ -26950,7 +26978,6 @@
 *.duzers.live
 *.duzlwewk2uk96.cloudfront.net
 *.duzt6rhr7wo8p.cloudfront.net
-*.dv.adnow.cc
 *.dv.chemie.de
 *.dv59b.montecarlomeeting.com
 *.dv7t7qyvgyrt5.cloudfront.net
@@ -29196,7 +29223,6 @@
 *.etx.indiatimes.com
 *.etxggi.cn
 *.eu-adcenter.net
-*.eu-ads.adpone.com
 *.eu-adsrv-cached.rtbsuperhub.com
 *.eu-adsrv.rtbsuperhub.com
 *.eu-cookie-law.info
@@ -29205,7 +29231,6 @@
 *.eu-track.inside-graph.com
 *.eu-v10.events.data.microsoft.com
 *.eu-v20.events.data.microsoft.com
-*.eu.adpicmedia.net
 *.eu.cfcdist.loan
 *.eu.cfcnet.top
 *.eu.groupondata.com
@@ -29321,12 +29346,10 @@
 *.event-listener.air.tv
 *.event-logger.tagboard.com.herokudns.com
 *.event-logger.tagboard.com
-*.event-qa.adbrix.io
 *.event-search.jorte.com
 *.event-service.letslinc.com
 *.event-stream.spot.im
 *.event-tracking.com
-*.event.adbrix.io
 *.event.allnews.uodoo.com
 *.event.api.drift.com
 *.event.csdn.net
@@ -29363,7 +29386,6 @@
 *.events-tracker.deliveroo.net
 *.events-us.freshsuccess.com
 *.events.adjust.com
-*.events.adwidecenter.com
 *.events.air.tv
 *.events.anzuinfra.com
 *.events.apester.com
@@ -31750,6 +31772,7 @@
 *.freebiesurveys.com
 *.freebooter.pro
 *.freebuy.top
+*.freecamdollars.com
 *.freecharge.demdex.net
 *.freecontent.date
 *.freecontent.stream
@@ -31946,6 +31969,7 @@
 *.fublkelpi.com
 *.fubsoucm.com
 *.fubuy60w.email
+*.fuckbookdating.com
 *.fuckchriscollingsworth.com
 *.fuckfreenow10.azurewebsites.net
 *.fuckfreenow13.azurewebsites.net
@@ -32611,8 +32635,6 @@
 *.gdmdigital.com
 *.gdmgsecure.com
 *.gdn.bigfishgames.com
-*.gdpr-qa.adbrix.io
-*.gdpr.adbrix.io
 *.gdpr.internetbrands.com
 *.gdpr.laxd.com
 *.gdres.tk
@@ -32788,7 +32810,6 @@
 *.geobar.ziffdavisinternational.com
 *.geobeacon.ign.com
 *.geobug.net
-*.geocode.usefomo.com
 *.geocounter.net
 *.geodaljoyless.com
 *.geoedge.be
@@ -33854,7 +33875,7 @@
 *.goldenlee.cn
 *.goldenshoponline.us
 *.goldfishkapartners.com
-*.goldislandgame.com
+*.goldmovie-trailer.com
 *.goldnostree.live
 *.goldoffer.online
 *.goldoverseas.in
@@ -34157,7 +34178,6 @@
 *.gpylmwtjiy.com
 *.gpzhcc.lapeyre.fr
 *.gqdfgyz.cn
-*.gqgqgqgqgqgqgqgqgqgqgqgq.gq
 *.gqhfjr.sizeofficial.es
 *.gqjppj.rentcafe.com
 *.gqjrfv.autodoc.fi
@@ -35115,10 +35135,7 @@
 *.hazelnutshighs.com
 *.hazydespise.com
 *.hb-247.com
-*.hb.adomik.com
-*.hb.adpone.com
 *.hb.adtelligent.com
-*.hb.adwmg.com
 *.hb.adx1.com
 *.hb.afl.rakuten.co.jp
 *.hb.mynativeplatform.com
@@ -35782,7 +35799,6 @@
 *.hiq.fotolog.com
 *.hir44.blogspot.com
 *.hirfolyam24.blogspot.hu
-*.hirosguide.hu
 *.hirszabadsag.blogspot.com
 *.hirturi.blogspot.hu
 *.histats.com
@@ -37875,6 +37891,7 @@
 *.indexexchange.com
 *.indexstats.com
 *.indfor.com
+*.indiads.com
 *.indiamarriagebureau.in
 *.indiangirlsnude.com
 *.indianjewellery.art
@@ -38477,7 +38494,6 @@
 *.intowow.com
 *.intoxic.biz
 *.intrack.pl
-*.intranet.adomik.com
 *.intro4ads.com
 *.introductioel.xyz
 *.introfykeeler.tech
@@ -42316,6 +42332,7 @@
 *.landings.telecup.com
 *.landitmounttheworld.com
 *.landkemoty.click
+*.landmarkworldwide.com
 *.landnewseasy.com
 *.landoftools.ru
 *.landscapedeputyirreparable.com
@@ -43497,6 +43514,7 @@
 *.liutt.online
 *.liuxiangxiang.top
 *.liuyangyang.cn
+*.liuye.club
 *.liuzhen.love
 *.liuziqiu.cn
 *.liuzishen.com
@@ -43513,6 +43531,7 @@
 *.live1powerlife.com
 *.livea.ru
 *.livead.jp
+*.liveadclicks.com
 *.liveadexchanger.com
 *.liveads.jp
 *.liveappgirl.net
@@ -44067,6 +44086,7 @@
 *.logger.uol.com.br
 *.logger.virgul.com
 *.logger.yp.ca
+*.loggerx.com
 *.loggerz.xyz
 *.logging.api.intuit.com
 *.logging.cmp-resources.link
@@ -44867,7 +44887,6 @@
 *.m.2mdn.net
 *.m.acmgloballab.com
 *.m.adbridge.de
-*.m.adup-tech.com
 *.m.anyfiles.ovh
 *.m.aty.sohu.com
 *.m.delltechnologies.com
@@ -46174,9 +46193,7 @@
 *.media-router-flurry7.prod.media.wg1.b.yahoo.com
 *.media-sapiens.com
 *.media-servers.net
-*.media.adrcdn.com
 *.media.adrime.com
-*.media.adup-tech.com
 *.media.alphaload.com
 *.media.appspot.com
 *.media.datahc.com
@@ -48500,7 +48517,6 @@
 *.mors22.com
 *.morsinsaner.uno
 *.mortchiropractic.com
-*.mortgage-rates.now-cash.com
 *.mortypush.com
 *.mosa86.com
 *.mosbiresources.com
@@ -48681,7 +48697,6 @@
 *.ms-dll-service.site
 *.ms-mvp.org
 *.ms-trackingapi.phenompeople.com
-*.ms.adup-tech.com
 *.ms.cmcm.com
 *.ms.cnbanbao.com
 *.ms.topschooljobs.org
@@ -49255,7 +49270,6 @@
 *.n-ad.work
 *.n-analytics.io
 *.n-trip.com
-*.n.adxxx.info
 *.n.afnet.jp
 *.n.baminw.com.cn
 *.n.betus.com
@@ -49455,7 +49469,6 @@
 *.native-ad.net
 *.native-adserver.com
 *.native-track.com
-*.native-vpaid.adxoo.com
 *.native.cli.bz
 *.nativead.s3.amazonaws.com
 *.nativeadmatch.com
@@ -49702,6 +49715,7 @@
 *.neppa-adsv.com
 *.neppe.studio
 *.neptunclicks.com
+*.neptuneads.com
 *.neralcapicha.website
 *.nerdcommunity.top
 *.nereserv.com
@@ -49777,7 +49791,6 @@
 *.netseer.com
 *.netsetgo.gotrackier.com
 *.netshare.ltd
-*.netshelter.adtrix.com
 *.netshelter.net
 *.netstam.com
 *.nettube.top
@@ -49962,6 +49975,7 @@
 *.newtvboxes.com
 *.newvideoapp.pro
 *.newyearddnsaddressupdatelink.duckdns.org
+*.newzgames.com
 *.newzia.jp
 *.nex.163.com
 *.nex8.net
@@ -50726,6 +50740,7 @@
 *.novocontador.club
 *.novostimira.biz
 *.novostisporta.info
+*.now-cash.com
 *.now.eloqua.com
 *.nowhereunbox.com
 *.nowlooking.net
@@ -51789,6 +51804,7 @@
 *.om.dowjoneson.com
 *.om.expedia.com
 *.om.familysearch.org
+*.om.instituteofom.com
 *.om.lds.org
 *.om.lonelyplanet.com
 *.om.metacrawler.com
@@ -53505,7 +53521,6 @@
 *.paybrides.org
 *.paycards.xyz
 *.paycounter.com
-*.payday-loans.now-cash.com
 *.payeer-coin.icu
 *.payeermine.com
 *.paygooloffice.cf
@@ -53975,6 +53990,7 @@
 *.petas.live
 *.petasusawber.com
 *.petchesa.net
+*.peter-3fc7-4f84-94a3-eddddaff3884.s3.pl-waw.scw.cloud
 *.peter-north-cum-shot.blogspot.com
 *.peterfarley.net
 *.peterjfarley.info
@@ -54339,7 +54355,6 @@
 *.pilaryhurrah.com
 *.pilatylu.com
 *.pilen.live
-*.pilesfistulasurgery.com
 *.pilkics.com
 *.pillarvolcano.com
 *.pillowcomedyvarieties.com
@@ -54491,7 +54506,6 @@
 *.pixel.adcrowd.com
 *.pixel.adensemble.com
 *.pixel.admaxium.com
-*.pixel.admobclick.com
 *.pixel.adssafeprotected.com
 *.pixel.adtelligent.com
 *.pixel.advanseads.com
@@ -54634,7 +54648,6 @@
 *.pjsxebh.com
 *.pjuulzj.cn
 *.pjx1ky4xhwip.com
-*.pk.adlandpro.com
 *.pk1u.melanielyne.com
 *.pk331.cn
 *.pk8n57.fnac.com
@@ -55268,7 +55281,6 @@
 *.pop-blogs.com
 *.pop-blogz.com
 *.pop-under.ru
-*.pop.adrcdn.com
 *.pop.dojo.cc
 *.pop.redirect.adsjudo.com
 *.pop.spy4.in
@@ -55455,6 +55467,7 @@
 *.postitial.com
 *.postlnk.com
 *.postmedia.demdex.net
+*.postnewsads.com
 *.postponeacademic.com
 *.postrelease.com
 *.postroller.com
@@ -56045,7 +56058,6 @@
 *.proteaser.com
 *.protechasia.com
 *.protect-x.com
-*.protect.advancedcleaner.com
 *.protectcrev.com
 *.protectedpeat.com
 *.protectheader.com
@@ -56338,7 +56350,6 @@
 *.pub1.co
 *.pub2srv.com
 *.pubacca5mc.com
-*.pubadmin.adpone.com
 *.pubaka5.com
 *.pubasks.com
 *.pubbers.ru
@@ -56347,7 +56358,6 @@
 *.pubfeed.linkby.com
 *.pubhotmax.com
 *.publiads.com
-*.public.adgger.jp
 *.public.fam-8.com
 *.public.screenhost.ru
 *.publicgood.com
@@ -56361,7 +56371,6 @@
 *.publicsparedpen.com
 *.publicwiki.me
 *.publisher-east.mobileadtrading.com
-*.publishers.adpone.com
 *.publishers.domainadvertising.com
 *.publishxpress.com
 *.publited.com
@@ -58302,7 +58311,6 @@
 *.reginasfreyr.com
 *.regink.com
 *.regins.live
-*.regio.adup-tech.com
 *.regionalwhippedpoetry.com
 *.regioncolonel.com
 *.regionconfig.amplitude.com
@@ -58311,6 +58319,7 @@
 *.register.xmpush.xiaomi.com
 *.registeredbabbledrive.com
 *.registeredsethey.com
+*.registrarads.com
 *.registration.gimbal.com
 *.registration.tiltingpoint.io
 *.registro-de-avance-cl.cf
@@ -58546,7 +58555,6 @@
 *.report-1.appmetrica.webvisor.com
 *.report-2.appmetrica.webvisor.com
 *.report-ps.meettech.net
-*.report-scripts.adrcdn.com
 *.report.appmetrica.webvisor.com
 *.report.mediahub.vn
 *.report.mediaz.vn
@@ -58598,7 +58606,6 @@
 *.repurikakamire.com
 *.reputedaytrade.com
 *.requentlyfths.club
-*.request.adrcdn.com
 *.requestedfeedback.com
 *.requiresfamoushometown.com
 *.requismucuta.com
@@ -59766,8 +59773,6 @@
 *.rtb-useast.adzgame.com
 *.rtb-uswest.adxfactory.com
 *.rtb-uswest.adzgame.com
-*.rtb.adpone.com
-*.rtb.adwmg.com
 *.rtb.adx1.com
 *.rtb.appbid.com
 *.rtb.kds.media
@@ -60864,7 +60869,6 @@
 *.sartolutus.com
 *.sarus.live
 *.sas.nsm-corp.com
-*.sasa96.s3.fr-par.scw.cloud
 *.sasc.solidworks.com
 *.sascentral.com
 *.sasill.com
@@ -61179,7 +61183,6 @@
 *.scriptcc.cc
 *.scriptcdn.net
 *.scripte-monster.de
-*.scripts.adrcdn.com
 *.scripts.agilone.com
 *.scripts.mofos.com
 *.scripts.mycounter.com.ua
@@ -61476,7 +61479,6 @@
 *.secure-za.imrworldwide.com
 *.secure.1-cl0ud.com
 *.secure.acor1sign.com
-*.secure.adup-tech.com
 *.secure.adwebster.com
 *.secure.agile-company-247.com
 *.secure.agiledata7.com
@@ -62210,7 +62212,6 @@
 *.service-account-764246.com
 *.service-account-8457845.com
 *.service-ad-impression-proxy.clusters.pluto.tv
-*.service.adxoo.com
 *.service.easytrace.mn
 *.service.frankwatching.com
 *.service.kingoapp.com
@@ -62287,7 +62288,6 @@
 *.settingsfd-geo.trafficmanager.net
 *.settlecohort.com
 *.settrogens.com
-*.setup.advancedcleaner.com
 *.setupdnsbase.cc
 *.setupstronghighlyinfo-file.info
 *.sev4ifmxa.com
@@ -62323,6 +62323,7 @@
 *.sexshop4ik.ru.swtest.ru
 *.sexshop4ik.ru
 *.sexshops.site
+*.sextracker.be
 *.sextracker.com
 *.sextubeweb.com
 *.sexualpitfall.com
@@ -64960,8 +64961,6 @@
 *.socketboredomdigital.com
 *.socketbuild.com
 *.socketlidoperative.com
-*.socrates-1.adtarget.me
-*.socrates-6-1.adtarget.me
 *.socssite.ru
 *.sodallay.com
 *.sodamash.com
@@ -66078,7 +66077,6 @@
 *.st-rdirect.com
 *.st.adelement.com
 *.st.adnow.com
-*.st.adxxx.info
 *.st.azcardinals.com
 *.st.bahn.de
 *.st.bahnhof.de
@@ -66120,7 +66118,6 @@
 *.stagetortoiseinfatuated.com
 *.stagezomation.carte-gr.total.fr
 *.staggerconstructionface.com
-*.staging-ads.adtarget.me
 *.stagingjobshq.com
 *.staglion.pro
 *.stagroam.net
@@ -66193,6 +66190,7 @@
 *.start3dd0wnload.com
 *.startapp.com
 *.startappexchange.com
+*.startappnetwork.com
 *.startappservice.com
 *.startbux.ir
 *.startdigitaal.nl
@@ -66355,7 +66353,6 @@
 *.stathat.com
 *.static-201-163-99-83.alestra.net.mx
 *.static-addtoany-com.cdn.ampproject.org
-*.static-ads.adtarget.me
 *.static-ads.akamaized.net
 *.static-ads.zaloapp.com
 *.static-analytics.nativeads.com
@@ -66368,8 +66365,6 @@
 *.static-rtb.adksrv.com
 *.static-shareaholic.s3.amazonaws.com
 *.static-ssp.yidianzixun.com
-*.static-system.adtarget.me
-*.static-trackers.adtarget.me
 *.static-tracking.klaviyo.com
 *.static-uk.addynamo.net
 *.static.2mdn.net
@@ -66377,16 +66372,13 @@
 *.static.accesstrade.vn
 *.static.ad-lancers.jp
 *.static.adbite.com
-*.static.adbrix.io
 *.static.adbutter.net
 *.static.adconnect.vn
 *.static.additionaldisplay.com
 *.static.addynamo.net
 *.static.adfclick1.com
 *.static.adflydsp.com
-*.static.adgger.jp
 *.static.admozartppc.com
-*.static.admozartxml.com
 *.static.adokutcontextual.com
 *.static.adtelligent.com
 *.static.adwooo.com
@@ -66522,7 +66514,6 @@
 *.stats.adlice.com
 *.stats.administrarweb.es
 *.stats.adobe.com
-*.stats.adrealclick.com
 *.stats.adultswim.com
 *.stats.aerotime.aero
 *.stats.agentinteractive.com
@@ -67416,7 +67407,6 @@
 *.strawpoll.ga
 *.strawpolll.ga
 *.stream-all.com
-*.stream.adbrix.io
 *.stream1.livefyre.com
 *.stream4fun.com
 *.streamate.com
@@ -68175,7 +68165,6 @@
 *.synconnector.com
 *.syncwowsails.com
 *.syndicate.payloadz.com
-*.syndication.adxoo.com
 *.syndication.jsadapi.com
 *.syndication.streamads.yahoo.com
 *.syndication.trafficreps.com
@@ -68214,7 +68203,6 @@
 *.system-notify.art
 *.system-update-new-2021.com
 *.system-update.info
-*.system.adtarget.me
 *.system.litaheart.com
 *.systembooster.info
 *.systemgooglegooglegooglegooglegooglegoole.warzonedns.com
@@ -68274,7 +68262,6 @@
 *.t.ac.pandora.com
 *.t.acxiom-online.com
 *.t.adbr.io
-*.t.adcell.com
 *.t.adx.opera.com
 *.t.afi-b.com
 *.t.allmodern.com
@@ -69033,7 +69020,6 @@
 *.tdxio.com
 *.tdzvm.pw
 *.te.ackermann.ch
-*.te.adlandpro.com
 *.te.advance.net
 *.te.ambria.de
 *.te.astrology.com
@@ -69363,7 +69349,6 @@
 *.teraful.net
 *.teralog.techhub.co.kr
 *.terapou.com
-*.teratronix.com
 *.terbaru.cyou
 *.tercabilis.info
 *.terciogouge.com
@@ -70600,7 +70585,6 @@
 *.toolbar.legacy-priv.testbed-mgmtmo.managementapi-docsrepository.net.zooplus.de
 *.toolce.cn
 *.tools.3g.qq.com
-*.tools.ad-net.co.uk
 *.tools.clicktx.jp
 *.tools.gikotena.net
 *.tools.naughtyamerica.com
@@ -72167,7 +72151,6 @@
 *.trackerapi.truste.com
 *.trackerhqu.com
 *.trackermap.evidon.com
-*.trackers.adtarget.me
 *.trackersdk.bdash-cloud.com
 *.trackersimulator.org
 *.trackertest.org
@@ -72231,7 +72214,6 @@
 *.tracking.adsrv.io
 *.tracking.adultsense.com
 *.tracking.adweb.co.kr
-*.tracking.adxoo.com
 *.tracking.aegpresents.com
 *.tracking.affiliateclub.cz
 *.tracking.aimediagroup.com
@@ -72771,7 +72753,6 @@
 *.trafficads.net
 *.trafficartspace.com
 *.trafficdok.com
-*.trafficex.adlandpro.com
 *.trafficfactory.biz
 *.trafficfactory.com
 *.trafficforce.com
@@ -74752,6 +74733,7 @@
 *.use.convertglobal.com
 *.usedexample.com
 *.usedunderstood.com
+*.usefomo.com
 *.usefulcreatebid.com
 *.useg.nextdigital.com.hk
 *.usegzydswt.com
@@ -74791,7 +74773,6 @@
 *.users.maxcluster.net
 *.users.quantumgraph.com
 *.usersegment.wpdigital.net
-*.usersync.adpone.com
 *.usertrack.appcpi.net
 *.usertrack.net
 *.usewof.life
@@ -75000,7 +74981,6 @@
 *.v-links.net
 *.v-vlog.cn
 *.v-wrd.com
-*.v.adup-tech.com
 *.v.bsvideos.com
 *.v.center
 *.v.jwpcdn.com
@@ -75187,12 +75167,10 @@
 *.vaspo36.com
 *.vassspot.com
 *.vasstycom.com
-*.vast.adxoo.com
 *.vast.alloha.tv
 *.vast.bazonserver.site
 *.vast.videocdn.tv
 *.vastatecuissen.com
-*.vastb.adwmg.com
 *.vastroll.ru
 *.vastserved.com
 *.vatanclick.ir
@@ -77254,6 +77232,7 @@
 *.whaiweel.com
 *.whale123.com
 *.whaleads.com
+*.whalecashads.com
 *.whalepp.com
 *.whalso.com
 *.whamimepso.pro
@@ -78358,92 +78337,20 @@
 *.www.acmexxx.com
 *.www.acor1sign.com
 *.www.actuabd.com
-*.www.ad-groups.com
-*.www.ad-net.co.uk
-*.www.ad287.com
-*.www.ad4screen.com
-*.www.adamsfilms.com
 *.www.adanald.icu
-*.www.adbert.com.tw
-*.www.adbonus.com
-*.www.adbrix.io
-*.www.adcanadian.com
-*.www.adcell.com
-*.www.adclickthru.net
-*.www.adcode.ws
-*.www.addfreecounter.com
-*.www.additcinggames.com
 *.www.addwish.com
 *.www.adelixir.com
-*.www.adfly.vn
-*.www.adgger.jp
 *.www.adgitize.com
-*.www.adgjl13.com
-*.www.adgtracker.com
-*.www.adhexa.com
-*.www.adhome.icu
-*.www.adimages.beeb.com
-*.www.adipics.com
-*.www.adjmps.com
-*.www.adlandpro.com
-*.www.adloader.com
-*.www.adlock.in
-*.www.adlogix.com
-*.www.admarket.network
-*.www.admedia.network
-*.www.admixxer.com
-*.www.admobclick.com
-*.www.admozartxml.com
-*.www.adnet.com
-*.www.adnetworktech.com
-*.www.adnow.cc
-*.www.adobee.com
 *.www.adobetag.com
-*.www.adomik.com
 *.www.adoptim.com
 *.www.adpeepshosted.com
-*.www.adpicmedia.net
-*.www.adplugg.com
-*.www.adpmbtj.com
-*.www.adpone.com
-*.www.adpowerzone.com
-*.www.adprotect.net
-*.www.adquest3d.com
-*.www.adrcdn.com
-*.www.adrealclick.com
-*.www.adregistry.com
-*.www.adrianwaldock.plus.com
-*.www.adrotate.net
-*.www.adscampaign.com
-*.www.adsedo.com
-*.www.adservtech.com
-*.www.adspics.com
-*.www.adszooks.com
-*.www.adt.com.vn
-*.www.adtarget.me
-*.www.adtrader.com
-*.www.adtrix.com
-*.www.adult-top-list.com
 *.www.adultadbroker.com
 *.www.adultcash.com
 *.www.adultcommercial.net
 *.www.adultdatelink.com
-*.www.adup-tech.com
-*.www.advaliant.com
-*.www.advancedcleaner.com
-*.www.advanpromo.com
-*.www.adverts.dcthomson.co.uk
-*.www.adwarespy.com
-*.www.adwidecenter.com
-*.www.adwmg.com
 *.www.adworkmedia.com
 *.www.adworldmedia.com
-*.www.adxhand.icu
-*.www.adxoo.com
-*.www.adxserve.com
-*.www.adxxx.info
 *.www.adylalahb.ru
-*.www.adz2you.net
 *.www.af-mark.jp
 *.www.affiliate-b.com
 *.www.afi-b.com
@@ -78512,7 +78419,6 @@
 *.www.brie5jiff.com
 *.www.bt.emsecure.net
 *.www.buildtraffic.com
-*.www.bulletads.com
 *.www.burn5tilt.com
 *.www.business-path-55.com
 *.www.buy404s.com
@@ -78576,7 +78482,6 @@
 *.www.connct-9.com
 *.www.consulting.ramboll.com
 *.www.contaxe.com
-*.www.contextuads.com
 *.www.cool-downloads.com
 *.www.cool-downloads.net
 *.www.coolfreehost.com
@@ -78594,7 +78499,6 @@
 *.www.crackserver.com
 *.www.crazyprotocol.com
 *.www.crb-frm-71.com
-*.www.create-tracking.com
 *.www.cryptonoter.com
 *.www.cten10010.com
 *.www.cuba7tilt.com
@@ -78688,7 +78592,6 @@
 *.www.fpcclicks.com
 *.www.fpcpopunder.com
 *.www.free-counters.net
-*.www.freecamdollars.com
 *.www.freecontent.bid
 *.www.freecontent.download
 *.www.freecontent.faith
@@ -78710,7 +78613,6 @@
 *.www.freo-stats.nl
 *.www.frog9alea.com
 *.www.frontpage.controlapplication-legacying.net.zooplus.de
-*.www.fuckbookdating.com
 *.www.fxcounters.com
 *.www.g-af.com
 *.www.game9time.com
@@ -78802,7 +78704,6 @@
 *.www.immobilier-marseille.net.zooplus.it
 *.www.incentivenetworks2.com
 *.www.incline9edge.com
-*.www.indiads.com
 *.www.indpcr1.com
 *.www.ineedhits.com
 *.www.infotelsrl.com
@@ -78885,10 +78786,8 @@
 *.www.liqwid.net
 *.www.list1holp.com
 *.www.little-help.com
-*.www.liveadclicks.com
 *.www.livestat.com
 *.www.lmknjb1.com
-*.www.loggerx.com
 *.www.loki8lave.com
 *.www.lonelycheatingwives.com
 *.www.loom3otto.com
@@ -78952,7 +78851,6 @@
 *.www.navy9gear.com
 *.www.neck6bake.com
 *.www.needmorehits.com
-*.www.neptuneads.com
 *.www.netmaxx.com
 *.www.netpoll.nl
 *.www.network-handle.com
@@ -79019,7 +78917,6 @@
 *.www.pornsponsors.com
 *.www.porovname.cz
 *.www.postads24.com
-*.www.postnewsads.com
 *.www.prdirectory.biz
 *.www.premieropinion.com
 *.www.pri12mel.com
@@ -79049,7 +78946,6 @@
 *.www.reelcentric.com
 *.www.refl3alea.com
 *.www.regdefense.com
-*.www.registrarads.com
 *.www.rentracks.jp
 *.www.rep0pkgr.com
 *.www.req12pkgb.com
@@ -79215,7 +79111,6 @@
 *.www.ultimatetopsites.com
 *.www.universal-traffic.com
 *.www.upsellit.com
-*.www.usefomo.com
 *.www.usenetjunction.com
 *.www.usersonlinecounter.com
 *.www.validview.com
@@ -79245,7 +79140,6 @@
 *.www.webtrends.net
 *.www.wescam.info
 *.www.westreclameadvies.nl
-*.www.whalecashads.com
 *.www.whitesmoke.com
 *.www.whitesmoke.us
 *.www.whizstats.com
@@ -79279,7 +79173,6 @@
 *.www1.pollg.com
 *.www1.tec-tec-boom.com
 *.www1.wxnmh.com
-*.www10.indiads.com
 *.www15.jedora.com
 *.www15.jtv.com
 *.www18.officedepot.com
@@ -79994,11 +79887,9 @@
 *.xml.adkmbc.com
 *.xml.adkrivmedia.com
 *.xml.admozartppc.com
-*.xml.admozartxml.com
 *.xml.adokutcontextual.com
 *.xml.adoptim.com
 *.xml.adpalladium.com
-*.xml.adpicmedia.net
 *.xml.adsailor.com
 *.xml.adscompute.com
 *.xml.adsfloow.net
@@ -80265,7 +80156,6 @@
 *.xpdjsd.cn
 *.xpdyqax.cn
 *.xpectthatmy.shop
-*.xperterp.net
 *.xpig-dev.directservices.it
 *.xpizjd4.cn
 *.xpj08.oss-cn-beijing.aliyuncs.com
@@ -81378,7 +81268,6 @@
 *.ytsmoda3jcne.ru
 *.yttompthree.com
 *.yttz113.com
-*.ytvpaid.adxoo.com
 *.ytwrf4a.win
 *.ytyug.com
 *.ytzihf.com
