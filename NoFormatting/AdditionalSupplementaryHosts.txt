@@ -952,6 +952,7 @@
 0.0.0.0 abdicted.com
 0.0.0.0 abdl-adult-baby-phone-sex.info
 0.0.0.0 abdlphone.com
+0.0.0.0 abema-adx.ameba.jp
 0.0.0.0 abetran.com
 0.0.0.0 abetting.net
 0.0.0.0 abhicoupon.com
@@ -1277,6 +1278,7 @@
 0.0.0.0 ad-verification.a8.net
 0.0.0.0 ad-vice.biz
 0.0.0.0 ad-vortex.com
+0.0.0.0 ad-web-ad.com
 0.0.0.0 ad-wisteria.excite.co.jp
 0.0.0.0 ad-words.ru
 0.0.0.0 ad-x.co.uk
@@ -1289,6 +1291,7 @@
 0.0.0.0 ad.22betpartners.com
 0.0.0.0 ad.23blogs.com
 0.0.0.0 ad.24h.com.vn
+0.0.0.0 ad.2ch.live
 0.0.0.0 ad.360in.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad.3dnews.ru
@@ -1509,6 +1512,7 @@
 0.0.0.0 ad.go.affec.tv
 0.0.0.0 ad.go.com
 0.0.0.0 ad.goo.ne.jp
+0.0.0.0 ad.goodad.jp
 0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.graciamediaweb.com
 0.0.0.0 ad.grafika.cz
@@ -1570,6 +1574,7 @@
 0.0.0.0 ad.jeune-independant.net
 0.0.0.0 ad.jia.360.cn
 0.0.0.0 ad.jiguang.cn
+0.0.0.0 ad.jognote.com
 0.0.0.0 ad.jokeroo.com
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.jorudan.co.jp
@@ -3566,6 +3571,7 @@
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.mtv.uol.com.br
+0.0.0.0 ads.mulan.cloud
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.museum.or.jp
 0.0.0.0 ads.mustangworks.com
@@ -18250,6 +18256,7 @@
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 harristeavn.com
+0.0.0.0 harshotz.com
 0.0.0.0 hartowpe.click
 0.0.0.0 harvest.adgardener.com
 0.0.0.0 harvest176.adgardener.com
@@ -19413,6 +19420,7 @@
 0.0.0.0 img.e-nls.com
 0.0.0.0 img.fluct.jp
 0.0.0.0 img.fluct.jp.eimg.jp
+0.0.0.0 img.gs-ad.jp
 0.0.0.0 img.i2i.jp
 0.0.0.0 img.img-taboola.com
 0.0.0.0 img.layer-ads.de
@@ -25368,6 +25376,7 @@
 0.0.0.0 nephef.com
 0.0.0.0 nepis.live
 0.0.0.0 neponsetflagfootballleague.com
+0.0.0.0 neppa-adsv.com
 0.0.0.0 neppe.studio
 0.0.0.0 neptunclicks.com
 0.0.0.0 neptune.appads.com
@@ -36596,6 +36605,7 @@
 0.0.0.0 ua.zenadservices.net
 0.0.0.0 uaalgee33.com
 0.0.0.0 uac.advertising.com
+0.0.0.0 uaery.top
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 uapi.ads.oppomobile.com
 0.0.0.0 uarating.com
