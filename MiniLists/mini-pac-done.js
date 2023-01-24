@@ -1,4 +1,4 @@
-// **** Tue Jan 24 06:25:22 AM UTC 2023
+// **** Tue Jan 24 06:34:49 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -5678,6 +5678,7 @@ shExpMatch(host, "*.analytics.ns1.ff.avast.com") ||
 shExpMatch(host, "*.analytics.nyltx.com") ||
 shExpMatch(host, "*.analytics.octaglobal.com") ||
 shExpMatch(host, "*.analytics.omniscientai.com") ||
+shExpMatch(host, "*.analytics.oneplus.cn") ||
 shExpMatch(host, "*.analytics.onesearch.id") ||
 shExpMatch(host, "*.analytics.onfluencer.net") ||
 shExpMatch(host, "*.analytics.onlyonlinemarketing.com") ||
@@ -41951,6 +41952,7 @@ shExpMatch(host, "analytics.ns1.ff.avast.com") ||
 shExpMatch(host, "analytics.nyltx.com") ||
 shExpMatch(host, "analytics.octaglobal.com") ||
 shExpMatch(host, "analytics.omniscientai.com") ||
+shExpMatch(host, "analytics.oneplus.cn") ||
 shExpMatch(host, "analytics.onesearch.id") ||
 shExpMatch(host, "analytics.onfluencer.net") ||
 shExpMatch(host, "analytics.onlyonlinemarketing.com") ||
