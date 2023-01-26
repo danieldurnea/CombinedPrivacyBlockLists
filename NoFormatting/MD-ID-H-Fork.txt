@@ -584,6 +584,7 @@
 0.0.0.0 blank-record.com
 0.0.0.0 bldked98f5.com
 0.0.0.0 bleachkon.net
+0.0.0.0 bleepingcomputer.bit
 0.0.0.0 bliman.com
 0.0.0.0 blog-salopes.com
 0.0.0.0 blog.3kingsclothing.com
@@ -1122,6 +1123,7 @@
 0.0.0.0 embrari-1.cn
 0.0.0.0 emits.iptvdeals.com
 0.0.0.0 emrahkeskin.com
+0.0.0.0 emsisoft.bit
 0.0.0.0 enabler-actris.ru
 0.0.0.0 enackhlks.epac.to
 0.0.0.0 enakinukia.ru
@@ -1150,6 +1152,7 @@
 0.0.0.0 ertyu.com
 0.0.0.0 esassociacao.org
 0.0.0.0 escribaniaquinterno.com.ar
+0.0.0.0 esetnod32.bit
 0.0.0.0 eskuvoiszalon.hu
 0.0.0.0 esoad.frost-electric-supply.com
 0.0.0.0 esscer47emonyno.rr.nu
@@ -1346,6 +1349,7 @@
 0.0.0.0 gamedata.box.sk
 0.0.0.0 gamegoldonline.in
 0.0.0.0 gamejil.com
+0.0.0.0 gandcrab.bit
 0.0.0.0 gang.dothome.co.kr
 0.0.0.0 gaoanalitics.info
 0.0.0.0 garantiinsaat.net
@@ -1921,6 +1925,7 @@
 0.0.0.0 legendsdtv.com
 0.0.0.0 lemonadiom.ru
 0.0.0.0 lensesorganization.ru
+0.0.0.0 leomoon.bit
 0.0.0.0 leonarderickson.chez.com
 0.0.0.0 lessthansmoothmasculine.com
 0.0.0.0 lessthenaminutehandle.com
@@ -1970,6 +1975,7 @@
 0.0.0.0 lonelyzero.ru
 0.0.0.0 longbeierfs.cn
 0.0.0.0 longixsoft.com
+0.0.0.0 lookstat.bit
 0.0.0.0 loserjoker.com
 0.0.0.0 losotrana.com
 0.0.0.0 lotante.cn
@@ -2026,6 +2032,7 @@
 0.0.0.0 malepad.ru
 0.0.0.0 malermeister-papen.de
 0.0.0.0 malest.com
+0.0.0.0 malwarehunterteam.bit
 0.0.0.0 mamj.ru
 0.0.0.0 mampoks.ru
 0.0.0.0 manafnet.com
@@ -2096,6 +2103,7 @@
 0.0.0.0 mgfd1b.petrix.net
 0.0.0.0 mh-hundesport.de
 0.0.0.0 microsearchstat.com
+0.0.0.0 microsoft-update-server.bit
 0.0.0.0 microsotf.cn
 0.0.0.0 middlemanether.ru
 0.0.0.0 midsacmi.ikebanaclitor.ru
@@ -2283,6 +2291,7 @@
 0.0.0.0 nobodyspeakstruth.narod.ru
 0.0.0.0 nobrain.dk
 0.0.0.0 nollywoodpicturestv.co
+0.0.0.0 nomoreransom.bit
 0.0.0.0 nonamjin.com
 0.0.0.0 nonepersonal.com
 0.0.0.0 nonfatcarbest.cn
@@ -2349,6 +2358,7 @@
 0.0.0.0 oeooea.com
 0.0.0.0 oeopi.ru
 0.0.0.0 office-settlement.ru
+0.0.0.0 office365.bit
 0.0.0.0 officeon.ch.ma
 0.0.0.0 offiget.ru
 0.0.0.0 ogedlayc.ru
@@ -3121,6 +3131,7 @@
 0.0.0.0 sykazt.com.cn
 0.0.0.0 sync911.com
 0.0.0.0 syscodec.com
+0.0.0.0 sysmonitor.bit
 0.0.0.0 systemtds.net
 0.0.0.0 syxinhaiyang.com
 0.0.0.0 szbangjie.cn
@@ -3504,6 +3515,7 @@
 0.0.0.0 vmpp.comule.com
 0.0.0.0 vod.dgcaili.com
 0.0.0.0 volgo-marun.cn
+0.0.0.0 volstat.bit
 0.0.0.0 voxinghelt.com
 0.0.0.0 voxyqjyc.ru
 0.0.0.0 vra4.com
@@ -3583,6 +3595,7 @@
 0.0.0.0 wikaba.com
 0.0.0.0 wildbounce.com
 0.0.0.0 windowshopworld.com
+0.0.0.0 windowsupdates.bit
 0.0.0.0 windspotter.net
 0.0.0.0 winesamile.cn
 0.0.0.0 winlock.usa.cc
@@ -3835,6 +3848,7 @@
 0.0.0.0 xnat.pt
 0.0.0.0 xoomer.alice.it
 0.0.0.0 xoomer.virgilio.it
+0.0.0.0 xoonday.bit
 0.0.0.0 xorgwebs.webs.com
 0.0.0.0 xotsa.frenchgerlemanelectric.com
 0.0.0.0 xpornstarsckc.ddns.name
@@ -3948,6 +3962,7 @@
 0.0.0.0 zogaguj.eu
 0.0.0.0 zogjolga.ru
 0.0.0.0 zoid.in
+0.0.0.0 zonealarm.bit
 0.0.0.0 zonement.com
 0.0.0.0 zotasinc.com
 0.0.0.0 zous.szm.sk
