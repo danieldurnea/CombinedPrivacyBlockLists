@@ -1,4 +1,4 @@
-# Wed Jan 25 12:02:46 AM UTC 2023
+# Thu Jan 26 09:00:34 PM UTC 2023
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2680,7 +2680,6 @@
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.photo-ads.co.uk
-0.0.0.0 www.stat.su
 0.0.0.0 www1.gto-media.com
 0.0.0.0 www8.glam.com
 0.0.0.0 x-traceur.com
