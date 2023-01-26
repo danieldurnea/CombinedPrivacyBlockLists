@@ -17451,7 +17451,6 @@
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geo.ertya.com
 0.0.0.0 geo.moatads.com
-0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.smartadserver.mgr.consensu.org
 0.0.0.0 geoads.com
 0.0.0.0 geoads.osdn.com
@@ -32206,7 +32205,6 @@
 0.0.0.0 smetrics.claris.com
 0.0.0.0 smetrics.cloudera.com
 0.0.0.0 smetrics.cluballiance.aaa.com
-0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.columbia.com
 0.0.0.0 smetrics.comenity.net
 0.0.0.0 smetrics.consumerreports.org
