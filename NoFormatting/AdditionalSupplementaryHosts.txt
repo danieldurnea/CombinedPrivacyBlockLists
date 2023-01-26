@@ -1258,6 +1258,7 @@
 0.0.0.0 ad-sponsor.com
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
+0.0.0.0 ad-stat-network.net
 0.0.0.0 ad-static.qanda.ai
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-sun.de
@@ -1303,6 +1304,7 @@
 0.0.0.0 ad.886644.com
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.980x.com
+0.0.0.0 ad.9tv.co.il
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.a8.net
 0.0.0.0 ad.abcnews.com
@@ -1508,6 +1510,7 @@
 0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.genybet.fr
+0.0.0.0 ad.getfond.info
 0.0.0.0 ad.ghfusion.com
 0.0.0.0 ad.globalinteractive.com
 0.0.0.0 ad.gmw.cn
@@ -2238,6 +2241,7 @@
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfp.send.microad.jp
 0.0.0.0 adfraud.adoptimize.info
+0.0.0.0 adfrut.cl
 0.0.0.0 adfu.blockstackers.com
 0.0.0.0 adfun.ru
 0.0.0.0 adfunky.com
@@ -2398,6 +2402,7 @@
 0.0.0.0 adm3.autoimg.cn
 0.0.0.0 admagnet.com
 0.0.0.0 admagnet.net
+0.0.0.0 admagnet1.com
 0.0.0.0 admail.admicro.vn
 0.0.0.0 admailtiser.com
 0.0.0.0 adman.gr
@@ -2420,6 +2425,7 @@
 0.0.0.0 admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
+0.0.0.0 admarvelco5.com
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.net
 0.0.0.0 admatch-syndication.mochila.com
@@ -3726,6 +3732,7 @@
 0.0.0.0 ads.open.pl
 0.0.0.0 ads.opensubtitles.org
 0.0.0.0 ads.openx.net
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.optad360.com
 0.0.0.0 ads.optimizesrv.com
 0.0.0.0 ads.optusnet.com.au
@@ -4430,6 +4437,7 @@
 0.0.0.0 adsclick.qq.com
 0.0.0.0 adsclick.ru
 0.0.0.0 adsco.re
+0.0.0.0 adscomplete.info
 0.0.0.0 adscompute.xml.ak-is2.net
 0.0.0.0 adsconex.com
 0.0.0.0 adscore.com
@@ -4460,6 +4468,7 @@
 0.0.0.0 adsemirate.com
 0.0.0.0 adsemo.com
 0.0.0.0 adsend.de
+0.0.0.0 adsense-google.ru
 0.0.0.0 adsense.com
 0.0.0.0 adsense.de
 0.0.0.0 adsensecamp.com
@@ -4473,6 +4482,7 @@
 0.0.0.0 adserv.altomedia.net
 0.0.0.0 adserv.bravenet.com
 0.0.0.0 adserv.c.appier.net
+0.0.0.0 adserv.cn
 0.0.0.0 adserv.emh.ch
 0.0.0.0 adserv.gamezone.de
 0.0.0.0 adserv.lwmn.net
@@ -4847,6 +4857,7 @@
 0.0.0.0 adservices.brandcdn.com
 0.0.0.0 adservices.google.com
 0.0.0.0 adserving.aan.speedshiftmedia.com
+0.0.0.0 adserving.favorit-network.com
 0.0.0.0 adserving.speedshiftmedia.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adserving.urekamedia.com
@@ -5242,6 +5253,7 @@
 0.0.0.0 adtrack.ucweb.com
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 adtracker.inmobi.com
+0.0.0.0 adtracker101.com
 0.0.0.0 adtrackers.net
 0.0.0.0 adtracking.vinden.nl
 0.0.0.0 adtrackingflow.pro
@@ -5326,6 +5338,7 @@
 0.0.0.0 adv.publy.net
 0.0.0.0 adv.pushtimize.com
 0.0.0.0 adv.r7.com
+0.0.0.0 adv.riza.it
 0.0.0.0 adv.rtbuzz.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -5341,6 +5354,7 @@
 0.0.0.0 adv.yo.cz
 0.0.0.0 adv.zarabotkipro.ru
 0.0.0.0 adv2.grupopreferente.com
+0.0.0.0 advabnr.com
 0.0.0.0 advack.net
 0.0.0.0 advaction.ru
 0.0.0.0 advaliant.com
@@ -17437,6 +17451,7 @@
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geo.ertya.com
 0.0.0.0 geo.moatads.com
+0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.smartadserver.mgr.consensu.org
 0.0.0.0 geoads.com
 0.0.0.0 geoads.osdn.com
@@ -32191,6 +32206,7 @@
 0.0.0.0 smetrics.claris.com
 0.0.0.0 smetrics.cloudera.com
 0.0.0.0 smetrics.cluballiance.aaa.com
+0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.columbia.com
 0.0.0.0 smetrics.comenity.net
 0.0.0.0 smetrics.consumerreports.org
