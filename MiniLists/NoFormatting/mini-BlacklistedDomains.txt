@@ -5581,6 +5581,7 @@ ad-spire.genieesspv.jp
 ad-sponsor.com
 ad-srv.co
 ad-srv.net
+ad-stat-network.net
 ad-static.qanda.ai
 ad-stir.com
 ad-sun.de
@@ -5629,6 +5630,7 @@ ad.71i.de
 ad.886644.com
 ad.8live.com
 ad.980x.com
+ad.9tv.co.il
 ad.a-ads.com
 ad.a8.net
 ad.abcnews.com
@@ -5858,6 +5860,7 @@ ad.garenanow.com
 ad.gate24.ch
 ad.gazeta.pl
 ad.genybet.fr
+ad.getfond.info
 ad.ghfusion.com
 ad.globalinteractive.com
 ad.globe7.com
@@ -6937,6 +6940,7 @@ adfpoint.com
 adframesrc.com
 adfraud.adoptimize.info
 adfrontiers.com
+adfrut.cl
 adfs.senacrs.com.br
 adfu.blockstackers.com
 adfun.ru
@@ -7185,6 +7189,7 @@ adm.vrtzads.com
 adm3.autoimg.cn
 admagnet.com
 admagnet.net
+admagnet1.com
 admail.admicro.vn
 admailtiser.com
 adman.gr
@@ -7212,6 +7217,7 @@ admartshops.com
 admarvel.com
 admarvel.s3.amazonaws.com
 admarvel.top
+admarvelco5.com
 admaster.com.cn
 admaster.net
 admatch-syndication.mochila.com
@@ -9136,6 +9142,7 @@ ads.ookla.com
 ads.open.pl
 ads.opensubtitles.org
 ads.openx.net
+ads.oppomobile.com
 ads.optad360.com
 ads.optimizesrv.com
 ads.optusnet.com.au
@@ -9997,6 +10004,7 @@ adsclick.qq.com
 adsclick.ru
 adsclick.yx.js.cn
 adsco.re
+adscomplete.info
 adscompute.xml.ak-is2.net
 adsconex.com
 adscore.com
@@ -10028,6 +10036,7 @@ adsellers.net
 adsemirate.com
 adsemo.com
 adsend.de
+adsense-google.ru
 adsense.com
 adsense.de
 adsensecamp.com
@@ -10042,6 +10051,7 @@ adserv.adbonus.com
 adserv.altomedia.net
 adserv.bravenet.com
 adserv.c.appier.net
+adserv.cn
 adserv.emh.ch
 adserv.evo-x.de
 adserv.gamezone.de
@@ -10497,6 +10507,7 @@ adservices.brandcdn.com
 adservices.google.com
 adserving.aan.speedshiftmedia.com
 adserving.autotrader.com
+adserving.favorit-network.com
 adserving.fyi-marketing.com
 adserving.speedshiftmedia.com
 adserving.unibet.com
@@ -10977,6 +10988,7 @@ adtracker.inmobi.com
 adtracker.jpchd.veraxen.com
 adtracker.mkjigsaw.com
 adtracker.oilpainting.colorbynumber.veraxen.com
+adtracker101.com
 adtrackers.net
 adtracking.vinden.nl
 adtrackingflow.pro
@@ -11121,6 +11133,7 @@ adv.presscommtech.com
 adv.publy.net
 adv.pushtimize.com
 adv.r7.com
+adv.riza.it
 adv.rtbuzz.net
 adv.sec.intl.miui.com
 adv.sec.miui.com
@@ -11142,6 +11155,7 @@ adv.zarabotkipro.ru
 adv2.expres.ua
 adv2.grupopreferente.com
 adv9.net
+advabnr.com
 advack.net
 advaction.ru
 advaliant.com

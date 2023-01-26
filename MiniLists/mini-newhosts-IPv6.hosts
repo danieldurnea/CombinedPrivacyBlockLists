@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/26/23~21:17:04 -~
+# ~- 01/26/23~23:05:31 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -5616,6 +5616,7 @@ ff02::2 ip6-allrouters
 :: ad-sponsor.com
 :: ad-srv.co
 :: ad-srv.net
+:: ad-stat-network.net
 :: ad-static.qanda.ai
 :: ad-stir.com
 :: ad-sun.de
@@ -5664,6 +5665,7 @@ ff02::2 ip6-allrouters
 :: ad.886644.com
 :: ad.8live.com
 :: ad.980x.com
+:: ad.9tv.co.il
 :: ad.a-ads.com
 :: ad.a8.net
 :: ad.abcnews.com
@@ -5893,6 +5895,7 @@ ff02::2 ip6-allrouters
 :: ad.gate24.ch
 :: ad.gazeta.pl
 :: ad.genybet.fr
+:: ad.getfond.info
 :: ad.ghfusion.com
 :: ad.globalinteractive.com
 :: ad.globe7.com
@@ -6972,6 +6975,7 @@ ff02::2 ip6-allrouters
 :: adframesrc.com
 :: adfraud.adoptimize.info
 :: adfrontiers.com
+:: adfrut.cl
 :: adfs.senacrs.com.br
 :: adfu.blockstackers.com
 :: adfun.ru
@@ -7220,6 +7224,7 @@ ff02::2 ip6-allrouters
 :: adm3.autoimg.cn
 :: admagnet.com
 :: admagnet.net
+:: admagnet1.com
 :: admail.admicro.vn
 :: admailtiser.com
 :: adman.gr
@@ -7247,6 +7252,7 @@ ff02::2 ip6-allrouters
 :: admarvel.com
 :: admarvel.s3.amazonaws.com
 :: admarvel.top
+:: admarvelco5.com
 :: admaster.com.cn
 :: admaster.net
 :: admatch-syndication.mochila.com
@@ -9171,6 +9177,7 @@ ff02::2 ip6-allrouters
 :: ads.open.pl
 :: ads.opensubtitles.org
 :: ads.openx.net
+:: ads.oppomobile.com
 :: ads.optad360.com
 :: ads.optimizesrv.com
 :: ads.optusnet.com.au
@@ -10032,6 +10039,7 @@ ff02::2 ip6-allrouters
 :: adsclick.ru
 :: adsclick.yx.js.cn
 :: adsco.re
+:: adscomplete.info
 :: adscompute.xml.ak-is2.net
 :: adsconex.com
 :: adscore.com
@@ -10063,6 +10071,7 @@ ff02::2 ip6-allrouters
 :: adsemirate.com
 :: adsemo.com
 :: adsend.de
+:: adsense-google.ru
 :: adsense.com
 :: adsense.de
 :: adsensecamp.com
@@ -10077,6 +10086,7 @@ ff02::2 ip6-allrouters
 :: adserv.altomedia.net
 :: adserv.bravenet.com
 :: adserv.c.appier.net
+:: adserv.cn
 :: adserv.emh.ch
 :: adserv.evo-x.de
 :: adserv.gamezone.de
@@ -10532,6 +10542,7 @@ ff02::2 ip6-allrouters
 :: adservices.google.com
 :: adserving.aan.speedshiftmedia.com
 :: adserving.autotrader.com
+:: adserving.favorit-network.com
 :: adserving.fyi-marketing.com
 :: adserving.speedshiftmedia.com
 :: adserving.unibet.com
@@ -11012,6 +11023,7 @@ ff02::2 ip6-allrouters
 :: adtracker.jpchd.veraxen.com
 :: adtracker.mkjigsaw.com
 :: adtracker.oilpainting.colorbynumber.veraxen.com
+:: adtracker101.com
 :: adtrackers.net
 :: adtracking.vinden.nl
 :: adtrackingflow.pro
@@ -11156,6 +11168,7 @@ ff02::2 ip6-allrouters
 :: adv.publy.net
 :: adv.pushtimize.com
 :: adv.r7.com
+:: adv.riza.it
 :: adv.rtbuzz.net
 :: adv.sec.intl.miui.com
 :: adv.sec.miui.com
@@ -11177,6 +11190,7 @@ ff02::2 ip6-allrouters
 :: adv2.expres.ua
 :: adv2.grupopreferente.com
 :: adv9.net
+:: advabnr.com
 :: advack.net
 :: advaction.ru
 :: advaliant.com
