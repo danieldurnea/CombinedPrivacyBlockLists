@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/26/23~21:33:45 -~
+# ~- 01/26/23~23:19:26 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -4249,6 +4249,7 @@
 *.ad-sponsor.com
 *.ad-srv.co
 *.ad-srv.net
+*.ad-stat-network.net
 *.ad-static.qanda.ai
 *.ad-stir.com
 *.ad-sun.de
@@ -4288,6 +4289,7 @@
 *.ad.886644.com
 *.ad.8live.com
 *.ad.980x.com
+*.ad.9tv.co.il
 *.ad.abcnews.com
 *.ad.abctv.com
 *.ad.abema.io
@@ -4433,6 +4435,7 @@
 *.ad.gate24.ch
 *.ad.gazeta.pl
 *.ad.genybet.fr
+*.ad.getfond.info
 *.ad.ghfusion.com
 *.ad.gmw.cn
 *.ad.go.com
@@ -5310,6 +5313,7 @@
 *.adframesrc.com
 *.adfraud.adoptimize.info
 *.adfrontiers.com
+*.adfrut.cl
 *.adfs.senacrs.com.br
 *.adfu.blockstackers.com
 *.adfun.ru
@@ -5539,6 +5543,7 @@
 *.adm3.autoimg.cn
 *.admagnet.com
 *.admagnet.net
+*.admagnet1.com
 *.admailtiser.com
 *.adman.gr
 *.adman.in.gr
@@ -5563,6 +5568,7 @@
 *.admarvel.com
 *.admarvel.s3.amazonaws.com
 *.admarvel.top
+*.admarvelco5.com
 *.admaster.com.cn
 *.admaster.net
 *.admatch-syndication.mochila.com
@@ -7195,6 +7201,7 @@
 *.ads.ookla.com
 *.ads.open.pl
 *.ads.opensubtitles.org
+*.ads.oppomobile.com
 *.ads.optad360.com
 *.ads.optusnet.com.au
 *.ads.opus-static.net
@@ -7930,6 +7937,7 @@
 *.adsclick.ru
 *.adsclick.yx.js.cn
 *.adsco.re
+*.adscomplete.info
 *.adscompute.xml.ak-is2.net
 *.adsconex.com
 *.adscore.com
@@ -7956,6 +7964,7 @@
 *.adsemirate.com
 *.adsemo.com
 *.adsend.de
+*.adsense-google.ru
 *.adsense.com
 *.adsense.de
 *.adsensecamp.com
@@ -7968,6 +7977,7 @@
 *.adsertor.mx
 *.adserv.altomedia.net
 *.adserv.bravenet.com
+*.adserv.cn
 *.adserv.emh.ch
 *.adserv.evo-x.de
 *.adserv.gamezone.de
@@ -8342,6 +8352,7 @@
 *.adservices.brandcdn.com
 *.adservices.google.com
 *.adserving.autotrader.com
+*.adserving.favorit-network.com
 *.adserving.fyi-marketing.com
 *.adserving.unibet.com
 *.adserving.urekamedia.com
@@ -8770,6 +8781,7 @@
 *.adtracker.jpchd.veraxen.com
 *.adtracker.mkjigsaw.com
 *.adtracker.oilpainting.colorbynumber.veraxen.com
+*.adtracker101.com
 *.adtrackers.net
 *.adtracking.vinden.nl
 *.adtrackingflow.pro
@@ -8900,6 +8912,7 @@
 *.adv.publy.net
 *.adv.pushtimize.com
 *.adv.r7.com
+*.adv.riza.it
 *.adv.rtbuzz.net
 *.adv.sec.intl.miui.com
 *.adv.sec.miui.com
@@ -8918,6 +8931,7 @@
 *.adv2.expres.ua
 *.adv2.grupopreferente.com
 *.adv9.net
+*.advabnr.com
 *.advack.net
 *.advaction.ru
 *.advaliant.com
@@ -9202,10 +9216,8 @@
 *.adx-asia.aarki.net
 *.adx-dre.op.hicloud.com
 *.adx-exchange.toast.com
-*.adx-id.ads.oppomobile.com
 *.adx-west-imp.aarki.net
 *.adx.3sfmedia.com
-*.adx.ads.oppomobile.com
 *.adx.allstar.cz
 *.adx.atnext.com
 *.adx.chip.de
@@ -15287,7 +15299,6 @@
 *.bda1.ayule.net
 *.bdad.gaotie.net
 *.bdapi-in-ads.realmemobile.com
-*.bdapi.ads.oppomobile.com
 *.bdasd.chdbook.cn
 *.bdasd.chinabig.com.cn
 *.bdasd.wmxa.cn
@@ -16475,7 +16486,6 @@
 *.bjbdlt.com.cn
 *.bjc.hrm.healthgrades.com
 *.bjcwwsc.xyz
-*.bjdata.ads.oppomobile.com
 *.bjeai.com
 *.bjfbac.hyundaivaudreuil.com
 *.bjfc.xyz
@@ -20204,7 +20214,6 @@
 *.cjxbeyh.cn
 *.cjxomyilmv.com
 *.cjy200107152004.ltd
-*.ck.ads.oppomobile.com
 *.ck.storematch.jp
 *.ckaiv.com
 *.ckeckstatus.biz
@@ -24280,7 +24289,6 @@
 *.data-failover.eroadvertising.com
 *.data-file-data-7.com
 *.data-fold.org
-*.data-id.ads.oppomobile.com
 *.data-location.enhance.co
 *.data-optout-service.uca.cloud.unity3d.com
 *.data-px.services
@@ -24299,7 +24307,6 @@
 *.data.accountslatam.coca-cola.com
 *.data.adlermode.com
 *.data.adobedc.net
-*.data.ads.oppomobile.com
 *.data.adwombat.com
 *.data.adxcel-ec2.com
 *.data.alexa.com
@@ -32537,7 +32544,6 @@
 *.g.promosrv.com
 *.g.siliconweek.es
 *.g.yccdn.com
-*.g1.ads.oppomobile.com
 *.g1.pptair.com
 *.g1.tagtic.cn
 *.g1.taijuba.com
@@ -74252,7 +74258,6 @@
 *.uaid-linkage.imrworldwide.com
 *.uakmufcniaki.xyz
 *.uanlisgt.fun
-*.uapi.ads.oppomobile.com
 *.uarating.com
 *.uasbet.live
 *.uasvyi.xyz
