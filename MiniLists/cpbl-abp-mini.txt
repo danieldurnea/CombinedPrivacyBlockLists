@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Jan 27 08:24:29 AM UTC 2023
+! Updated: Fri Jan 27 07:59:33 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -82559,7 +82559,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||accuradio.com/listener/track-adbreaks/
 ||accuradio.com/static/js/ltjs.js
 ||accuradio.com/sweeper/
-||activity.windows.com^$domain=~windows.com,app=~MicrosoftEdge.exe|~MicrosoftEdgeCP.exe|~MicrosoftEdgeSH.exe|~com.microsoft.emmx|~com.microsoft.emmx.dev|~com.microsoft.emmx.beta|~com.microsoft.emmx.canary|~com.microsoft.msedge
+||activity.windows.com^$domain=~windows.com
+||activity.windows.com^$app=~MicrosoftEdge.exe|~MicrosoftEdgeCP.exe|~MicrosoftEdgeSH.exe|~com.microsoft.emmx|~com.microsoft.emmx.dev|~com.microsoft.emmx.beta|~com.microsoft.emmx.canary|~com.microsoft.msedge
 ||axios.com/api/v1/licenses
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
@@ -82605,8 +82606,10 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||fls-na.amazon.ca^$third-party
 ||fls-na.amazon.com.br^$third-party
 ||fls-na.amazon.com.mx^$third-party
-||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
-||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
+||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+||graph.facebook.com^$app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
+||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+||graph.instagram.com^$app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||khou.com/assets/shared-images/icons/close.svg$image
 ||lightboxcdn.com/static/identity.html
@@ -82625,15 +82628,16 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||static.timesofisrael.com/dev/images/join_comunity_banner.svg$image
 ||tbstat.com*$script,domain=theblockcrypto.com
-||tbstat.com*$xhr,domain=theblockcrypto.com
+||tbstat.com*$xmlhttprequest,domain=theblockcrypto.com
 ||tbstat.com/wp/uploads/*popupbanner*.png$image,domain=theblockcrypto.com
 ||theblockcrypto.com/cdn-cgi/*.js$script,domain=theblockcrypto.com
-||theblockcrypto.com/cdn-cgi/*.js$xhr,domain=theblockcrypto.com
+||theblockcrypto.com/cdn-cgi/*.js$xmlhttprequest,domain=theblockcrypto.com
 ||theblockcrypto.com/sw.js$script,domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ||typeform.com$domain=theregister.com
-||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
+||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+||web.facebook.com^$app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ###ad-container
 ###ads_bottom
 ###ads_top
@@ -82727,9 +82731,9 @@ uol.com.br##body:style(overflow: visible !important;)
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
 @@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
 @@||amazon-adsystem.com^$domain=weather.com
-@@||api.segment.io^$xhr,domain=reuters.com
+@@||api.segment.io^$xmlhttprequest,domain=reuters.com
 @@||cdn.segment.com^$script,domain=reuters.com
-@@||dailymotion.com/history/log/user/*$image,1p
+@@||dailymotion.com/history/log/user/*$image,~third-party
 @@||exodus.com/support/js/subscribe-popup.js$script,domain=support.exodus.com
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||helpscout.net^$domain=exodus.com
@@ -82739,11 +82743,11 @@ uol.com.br##body:style(overflow: visible !important;)
 @@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
 @@||sndcdn.com^$domain=secure.soundcloud.com
 @@||tags.crwdcntrl.net^$domain=weather.com
-@@||thepiratebay.org/*.php$document,1p,csp
-@@||thepiratebay.org/static/main.js$script,1p
+@@||thepiratebay.org/*.php$document,~third-party,csp
+@@||thepiratebay.org/static/main.js$script,~third-party
 @@||torrindex.net^$script,domain=thepiratebay.org
 @@||torrindex.net^$image,domain=thepiratebay.org
 @@||tru.am/scripts/custom/reuters.js$script,domain=reuters.com
-@@||usasync01.admantx.com/admantx/service$xhr,domain=reuters.com
+@@||usasync01.admantx.com/admantx/service$xmlhttprequest,domain=reuters.com
 @@||z.moatads.com^$script,domain=reuters.com
 ~weather.com##+js(no-fetch-if, doubleclick)
