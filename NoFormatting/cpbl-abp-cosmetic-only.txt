@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Jan 22 07:48:22 AM UTC 2023
+! Updated: Fri Jan 27 02:49:55 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -33,6 +33,7 @@ amazon.com##[class*="dv-web-live-events"]
 amazon.com###desktop-banner
 amazon.com##.sparkle-close
 amazon.com##.sparkle-content
+animenewsnetwork.com##.gutter > a
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
 apptracker.indeed.com##.atw-IsHelpfulSurvey-initialState
@@ -497,6 +498,7 @@ thinkprogress.org##.amp-wp-article-promo
 ! Exceptions for Un-Breaking Certain Sites
 20somethingfinance.com##body,html:style(overflow: auto !important)
 accuradio.com###playerSkipButton:style(display:inline!important)
+animenewsnetwork.com##body:style(background-image: none !important; background-color: unset !important;)
 axios.com##html:style(overflow:inherit!important)
 babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
