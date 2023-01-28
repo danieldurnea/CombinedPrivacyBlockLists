@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jan 27 11:03:27 PM UTC 2023
+! Updated: Sat Jan 28 12:09:02 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -116025,11 +116025,11 @@ rebelnews.com##.remodal-is-opened.remodal-overlay
 rebelnews.com##.remodal-is-opened.remodal-wrapper
 rebelnews.com##.share-page
 reddit.com###ad_2
-reddit.com##[id*="popup-"]
 reddit.com##+js(abort-current-inline-script, adSlots)
 reddit.com##+js(abort-current-inline-script, addScript)
 reddit.com##+js(abort-current-inline-script, googletag.pubads)
 reddit.com##+js(abort-current-inline-script, window.__adslots)
+reddit.com##+js(aeld, touchmove)
 reddit.com##.Drawer__overlay
 reddit.com##.DualPartInterstitial
 reddit.com##.SignupDrawer__content.Drawer__content
@@ -116042,8 +116042,11 @@ reddit.com##.XPromoBlockingModal
 reddit.com##.XPromoInFeed
 reddit.com##.XPromoPill
 reddit.com##.XPromoPopup
+reddit.com##.XPromoPopupRpl
+reddit.com##.XPromoPopupRplNew
 reddit.com##.adLink
 reddit.com##.adLinkBar
+reddit.com##.bottom-bar, .XPromoBottomBar
 reddit.com##.dualpartinterstitialfooter
 reddit.com##.happening-now-wrap
 reddit.com##.in.fade.modal-backdrop
@@ -116056,13 +116059,18 @@ reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 reddit.com##.size-compact.Post:has([class*="promoted"])
 reddit.com##.transparentoverlay__overlay
+reddit.com##.useApp,.TopNav__promoButton
 reddit.com##.xPromoAppStoreFooter
 reddit.com##.xPromoChoiceBanner
 reddit.com##.xpromoMinimal
+reddit.com##[id*="popup-"]
 reddit.com##a[class="TopButton"][href*=".app.link/"]
 reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
+reddit.com##body:style(pointer-events:auto!important;)
+reddit.com##xpromo-app-selector
+reddit.com##xpromo-new-app-selector
 reuters.com##[class*="article-prompt"]
 sass-lang.com##.sl-c-alert--info.sl-c-alert
 slant.co##.LustrePromoteModal-Content.Modal-Content
@@ -116302,6 +116310,7 @@ mondoweiss.net##body,html:style(overflow: auto !important)
 profellow.com##body,html:style(overflow: auto !important)
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
 uol.com.br##body:style(overflow: visible !important;)
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
