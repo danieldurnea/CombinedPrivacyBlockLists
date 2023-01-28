@@ -7715,6 +7715,7 @@
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adfalcon.com
+0.0.0.0 api.adfenix.com
 0.0.0.0 api.adfly.vn
 0.0.0.0 api.adform.com
 0.0.0.0 api.adfurikun.jp
@@ -8216,6 +8217,7 @@
 0.0.0.0 assets-demo.publicgood.com
 0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 assets.ad4m.at
+0.0.0.0 assets.adfenix.com
 0.0.0.0 assets.adnuntius.com
 0.0.0.0 assets.adspruce.com
 0.0.0.0 assets.adstage.io
@@ -19821,6 +19823,7 @@
 0.0.0.0 infinite-ads.com
 0.0.0.0 infiniteloop.co.in
 0.0.0.0 infiniti.cityads.com
+0.0.0.0 infinity-tracking.com
 0.0.0.0 infinity-tracking.net
 0.0.0.0 infinityads.com
 0.0.0.0 info-ideale2018.com
