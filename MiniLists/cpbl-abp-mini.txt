@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Jan 28 12:09:04 AM UTC 2023
+! Updated: Sat Jan 28 01:05:55 AM UTC 202
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -82488,7 +82488,6 @@ reddit.com##a[class="TopButton"][href*=".app.link/"]
 reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
-reddit.com##body:style(pointer-events:auto!important;)
 reddit.com##xpromo-app-selector
 reddit.com##xpromo-new-app-selector
 reuters.com##[class*="article-prompt"]
@@ -82730,7 +82729,6 @@ mondoweiss.net##body,html:style(overflow: auto !important)
 profellow.com##body,html:style(overflow: auto !important)
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
 uol.com.br##body:style(overflow: visible !important;)
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
