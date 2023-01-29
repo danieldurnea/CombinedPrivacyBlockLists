@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Jan 28 01:49:40 AM UTC 2023
+! Updated: Sun Jan 29 09:01:56 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -1549,6 +1549,7 @@
 ||5-n-appmobile.com^
 ||5.gp^
 ||5.gzfenda.com^
+||5.luankopq.com^
 ||50039tk.com^
 ||500img.com^
 ||5025026.ru^
@@ -12701,6 +12702,7 @@
 ||applandlight.com^
 ||applaudliteratureconsultant.com^
 ||applausesuch.com^
+||apple-service93.ru^
 ||apple.analnoe24.com^
 ||apple.www.letv.com^
 ||appleads-trk.com^
@@ -19085,6 +19087,7 @@
 ||cdn.pushwoosh.com^
 ||cdn.qbaka.net^
 ||cdn.quantummetric.com^
+||cdn.radar.game^
 ||cdn.redlightcenter.com^
 ||cdn.retailads.net^
 ||cdn.segmentify.com^
@@ -21413,7 +21416,6 @@
 ||comekang.xyz^
 ||coment.live^
 ||comercial.megafin.pt^
-||comet.yahoo.com^
 ||comforitgreel.ml^
 ||comfortablecheese.com^
 ||comfortclick.co.uk^
@@ -33159,7 +33161,6 @@
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||geo.xcel.io^
 ||geo.xxxblackbook.com^
-||geo.yahoo.com^
 ||geoaddicted.net^
 ||geoads.com^
 ||geoads.eurorevenue.com^
@@ -33545,7 +33546,6 @@
 ||gigacpmserv.com^
 ||gigamega.ru^
 ||gigamega.su^
-||gigantech.org^
 ||gigaonclick.com^
 ||giglelazo.pro^
 ||gigust.cf^
@@ -35435,6 +35435,7 @@
 ||harristeavn.com^
 ||harsh-definition.pro^
 ||harshlygiraffediscover.com^
+||harshotz.com^
 ||hartalltunker.com^
 ||hartim.com^
 ||hartowpe.click^
@@ -36175,6 +36176,7 @@
 ||himselves.com^
 ||himselvesobr.club^
 ||himynameisnoah.su^
+||hindi.dailykiran.com^
 ||hindold.com^
 ||hinduswayamvaram.org^
 ||hinlargecon.com^
@@ -45452,7 +45454,6 @@
 ||m.vpadn.com^
 ||m.webtrends.com^
 ||m.yanglaopt.net^
-||m.yap.yahoo.com^
 ||m0bile.net^
 ||m0g24.ru^
 ||m0hcppadsnq8.com^
@@ -54413,7 +54414,6 @@
 ||peateryfewnes.com^
 ||peaterylebes.guru^
 ||peazip.com^
-||peb.co.il^
 ||pebadu.com^
 ||pebble-adhese.gva.be^
 ||pebble-adhese.hbvl.be^
@@ -65497,7 +65497,6 @@
 ||softboxis2.ru^
 ||softclick.com.br^
 ||softclicks.ru^
-||softdl.360tpcdn.com^
 ||softenedimmortalityprocedure.com^
 ||softguidecomputer.com^
 ||softitcare.net^
@@ -79926,7 +79925,6 @@
 ||xpdjsd.cn^
 ||xpdyqax.cn^
 ||xpectthatmy.shop^
-||xperterp.net^
 ||xpig-dev.directservices.it^
 ||xpizjd4.cn^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
@@ -82684,17 +82682,20 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||fls-na.amazon.ca^$third-party
 ||fls-na.amazon.com.br^$third-party
 ||fls-na.amazon.com.mx^$third-party
+||geo.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||khou.com/assets/shared-images/icons/close.svg$image
 ||lightboxcdn.com/static/identity.html
+||m.yap.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nyt.com^*/metered_assets$script
 ||nytimes.com^$removeparam=impression_id
 ||nytimes.com^*/metered_assets/
 ||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
+||pr.comet.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
