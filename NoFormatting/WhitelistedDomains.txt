@@ -370,6 +370,7 @@ login.live.com
 lotustalk.com
 lp.babbel.com
 m.hotmail.com
+m.yap.yahoo.com
 m1.daumcdn.net
 m1.nsimg.net
 m2.nsimg.net
@@ -440,6 +441,7 @@ players.brightcove.net
 players.pluto.tv
 plex.tv
 pmd.cdn.turner.com
+pr.comet.yahoo.com
 prisacom.112.207.net
 prisacom.112.2o7.net
 privacy-center.org
@@ -614,6 +616,7 @@ winhelp2002.mvps.org
 wix.com
 ws.audioscrobbler.com
 xda-developers.com
+yahoo.com
 yimg.com
 yimg.jp
 youtube-nocookie.com
