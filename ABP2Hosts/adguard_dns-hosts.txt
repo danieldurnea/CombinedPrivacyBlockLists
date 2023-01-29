@@ -1,4 +1,4 @@
-# Sat Jan 28 01:29:17 AM UTC 2023
+# Sun Jan 29 08:23:44 PM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -32260,7 +32260,6 @@
 0.0.0.0 pr-linktausch.de
 0.0.0.0 pr-sunshine.de
 0.0.0.0 pr.blogflux.com
-0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 pr.ikovrov.ru
 0.0.0.0 pr.rusmed.ru
 0.0.0.0 pr0gram.org
