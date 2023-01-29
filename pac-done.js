@@ -1,4 +1,4 @@
-// **** Sat Jan 28 01:40:17 AM UTC 2023
+// **** Sun Jan 29 08:28:18 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -11733,7 +11733,6 @@ shExpMatch(host, "*.comclick.com") ||
 shExpMatch(host, "*.comeisolarecasa.it") ||
 shExpMatch(host, "*.coment.live") ||
 shExpMatch(host, "*.comercial.megafin.pt") ||
-shExpMatch(host, "*.comet.yahoo.com") ||
 shExpMatch(host, "*.comforitgreel.ml") ||
 shExpMatch(host, "*.comfortablecheese.com") ||
 shExpMatch(host, "*.comic-promotion.com") ||
@@ -26014,7 +26013,6 @@ shExpMatch(host, "*.m.sancdn.net") ||
 shExpMatch(host, "*.m.trb.com") ||
 shExpMatch(host, "*.m.vpadn.com") ||
 shExpMatch(host, "*.m.webtrends.com") ||
-shExpMatch(host, "*.m.yap.yahoo.com") ||
 shExpMatch(host, "*.m0bile.net") ||
 shExpMatch(host, "*.m0vl.com") ||
 shExpMatch(host, "*.m1-shop.ru") ||
@@ -56558,7 +56556,6 @@ shExpMatch(host, "comclick.com") ||
 shExpMatch(host, "comeisolarecasa.it") ||
 shExpMatch(host, "coment.live") ||
 shExpMatch(host, "comercial.megafin.pt") ||
-shExpMatch(host, "comet.yahoo.com") ||
 shExpMatch(host, "comforitgreel.ml") ||
 shExpMatch(host, "comfortablecheese.com") ||
 shExpMatch(host, "comic-promotion.com") ||
@@ -70839,7 +70836,6 @@ shExpMatch(host, "m.sancdn.net") ||
 shExpMatch(host, "m.trb.com") ||
 shExpMatch(host, "m.vpadn.com") ||
 shExpMatch(host, "m.webtrends.com") ||
-shExpMatch(host, "m.yap.yahoo.com") ||
 shExpMatch(host, "m0bile.net") ||
 shExpMatch(host, "m0vl.com") ||
 shExpMatch(host, "m1-shop.ru") ||
