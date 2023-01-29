@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Jan 29 08:56:02 PM UTC 2023
+! Updated: Sun Jan 29 09:58:08 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -409,13 +409,13 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||fls-na.amazon.com.br^$third-party
 ||fls-na.amazon.com.mx^$third-party
 ||fls-na.amazon.com^$third-party
-||geo.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
+||geo.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||khou.com/assets/shared-images/icons/close.svg$image
 ||lightboxcdn.com/static/identity.html
-||m.yap.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
+||m.yap.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||meter-svc.nytimes.com^
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nyt.com^*/metered_assets$script
@@ -423,7 +423,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||nytimes.com^*/metered_assets/
 ||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
-||pr.comet.yahoo.com^$domain=~yahoo.ca|~yahoo.com|~yahoo.co.jp|~yahoo.co.nz|~yahoo.co.uk|~yahoo.com.au|~yahoo.com.tw,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
+||pr.comet.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
