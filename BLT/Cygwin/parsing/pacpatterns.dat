@@ -241,6 +241,7 @@
 ^(www\.)?whispersystems\.org$
 ^(www\.)?wix\.com$
 ^(www\.)?xda-developers\.com$
+^(www\.)?yahoo\.com$
 ^(www\.)?yimg\.com$
 ^(www\.)?yimg\.jp$
 ^(www\.)?youtube-nocookie\.com$
@@ -486,6 +487,7 @@
 ^m1\.nsimg\.net$
 ^m2\.nsimg\.net$
 ^m\.hotmail\.com$
+^m\.yap\.yahoo\.com$
 ^managemymove\.usps\.com$
 ^movies\.netflix\.com$
 ^mp\.twitch\.tv$
@@ -523,6 +525,7 @@
 ^players\.brightcove\.net$
 ^players\.pluto\.tv$
 ^pmd\.cdn\.turner\.com$
+^pr\.comet\.yahoo\.com$
 ^prisacom\.112\.207\.net$
 ^prisacom\.112\.2o7\.net$
 ^pro\.fontawesome\.com$
