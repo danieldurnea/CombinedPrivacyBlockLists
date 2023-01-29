@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Jan 29 09:58:12 PM UTC 2023
+! Updated: Sun Jan 29 11:30:53 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -46306,6 +46306,7 @@
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||geo.xcel.io^
 ||geo.xxxblackbook.com^
+||geo.yahoo.com^
 ||geoaddicted.net^
 ||geoads.com^
 ||geoads.eurorevenue.com^
@@ -116146,7 +116147,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||accuradio.com/listener/track-adbreaks/
 ||accuradio.com/static/js/ltjs.js
 ||accuradio.com/sweeper/
-||activity.windows.com^$domain=~windows.com,app=~MicrosoftEdge.exe|~MicrosoftEdgeCP.exe|~MicrosoftEdgeSH.exe|~com.microsoft.emmx|~com.microsoft.emmx.dev|~com.microsoft.emmx.beta|~com.microsoft.emmx.canary|~com.microsoft.msedge
+||activity.windows.com^$domain=~windows.com
+@@||activity.windows.com^$app=MicrosoftEdge.exe|MicrosoftEdgeCP.exe|MicrosoftEdgeSH.exe|com.microsoft.emmx|com.microsoft.emmx.dev|com.microsoft.emmx.beta|com.microsoft.emmx.canary|com.microsoft.msedge
 ||axios.com/api/v1/licenses
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
@@ -116192,20 +116194,23 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||fls-na.amazon.ca^$third-party
 ||fls-na.amazon.com.br^$third-party
 ||fls-na.amazon.com.mx^$third-party
-||geo.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
-||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
-||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
+||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+@@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.facebook.orca|com.mobile.legends|com.minigames.sweetcrossing|com.moonton.mobilehero|com.supercell.clashofclans|com.playrix.fishdomdd.gplay|com.tencent.ig|com.ngame.allstar.eu|com.garena.game.kgid|com.netease.g78na.gb|com.stackwares.android.storysaver.facebook
+||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+@@||graph.instagram.com^$app=com.facebook.katana|com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||khou.com/assets/shared-images/icons/close.svg$image
 ||lightboxcdn.com/static/identity.html
-||m.yap.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
+||m.yap.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com
+@@||m.yap.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail|com.yahoo.mobile.client.android.finance
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nyt.com^*/metered_assets$script
 ||nytimes.com^$removeparam=impression_id
 ||nytimes.com^*/metered_assets/
 ||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
-||pr.comet.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com,app=~outlook.exe|~com.microsoft.office.outlook|~com.yahoo.mobile.client.android.mail|~com.yahoo.mobile.client.android.finance
+||pr.comet.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com
+@@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail|com.yahoo.mobile.client.android.finance
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
@@ -116223,7 +116228,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ||typeform.com$domain=theregister.com
-||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
+||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
+@@||web.facebook.com^$app=com.facebook.katana|com.instagram.android|com.facebook.orca|com.mobile.legends|com.minigames.sweetcrossing|com.moonton.mobilehero|com.supercell.clashofclans|com.playrix.fishdomdd.gplay|com.tencent.ig|com.ngame.allstar.eu|com.garena.game.kgid|com.netease.g78na.gb|com.stackwares.android.storysaver.facebook
 ###ad-container
 ###ads_bottom
 ###ads_top
