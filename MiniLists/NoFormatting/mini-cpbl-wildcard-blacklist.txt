@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/30/23~06:41:54 -~
+# ~- 01/30/23~08:45:53 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -33198,6 +33198,7 @@
 *.geo.vortex.data.microsoft.com.akadns.net
 *.geo.xcel.io
 *.geo.xxxblackbook.com
+*.geo.yahoo.com
 *.geoaddicted.net
 *.geoads.com
 *.geoads.eurorevenue.com
