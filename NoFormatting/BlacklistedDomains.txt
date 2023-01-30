@@ -34131,7 +34131,6 @@ coment.live
 comercial.megafin.pt
 comerciariossaofrancisco.com
 comet.sputniknews.com
-comet.yahoo.com
 cometruestar.ru
 comforitgreel.ml
 comfortablecheese.com
@@ -91454,6 +91453,7 @@ pr.adxxx.com
 pr.analytics.console.aws.a2z.com
 pr.blogflux.com
 pr.cision.com
+pr.comet.yahoo.com
 pr.hefterunmete.com
 pr.ikovrov.ru
 pr.prnewswire.com

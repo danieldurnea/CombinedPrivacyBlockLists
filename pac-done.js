@@ -1,4 +1,4 @@
-// **** Mon Jan 30 06:24:14 AM UTC 2023
+// **** Mon Jan 30 09:51:52 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -31725,6 +31725,7 @@ shExpMatch(host, "*.ppz.devel.gns.com.br") ||
 shExpMatch(host, "*.pr-bh.ybp.yahoo.com") ||
 shExpMatch(host, "*.pr-star.de") ||
 shExpMatch(host, "*.pr-ten.de") ||
+shExpMatch(host, "*.pr.comet.yahoo.com") ||
 shExpMatch(host, "*.pr0gram.org") ||
 shExpMatch(host, "*.pr5dir.com") ||
 shExpMatch(host, "*.practiceartist.com") ||
@@ -76550,6 +76551,7 @@ shExpMatch(host, "ppz.devel.gns.com.br") ||
 shExpMatch(host, "pr-bh.ybp.yahoo.com") ||
 shExpMatch(host, "pr-star.de") ||
 shExpMatch(host, "pr-ten.de") ||
+shExpMatch(host, "pr.comet.yahoo.com") ||
 shExpMatch(host, "pr0gram.org") ||
 shExpMatch(host, "pr5dir.com") ||
 shExpMatch(host, "practiceartist.com") ||
