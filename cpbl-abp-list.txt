@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Jan 30 06:33:13 AM UTC 2023
+! Updated: Mon Jan 30 09:56:19 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -79011,6 +79011,7 @@
 ||pr-sunshine.de^
 ||pr-ten.de^
 ||pr.blogflux.com^
+||pr.comet.yahoo.com^
 ||pr.hefterunmete.com^
 ||pr.ikovrov.ru^
 ||pr.prnewswire.com^
@@ -116275,8 +116276,6 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||nytimes.com^*/metered_assets/
 ||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
-||pr.comet.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com
-@@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail|com.yahoo.mobile.client.android.finance
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
