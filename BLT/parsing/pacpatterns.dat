@@ -375,6 +375,7 @@
 ^cognito-identity\.us-east-1\.amazonaws\.com$
 ^collecting-consent\.g5e\.com$
 ^collector\.lightstep\.com$
+^comet\.yahoo\.com$
 ^community\.signalusers\.org$
 ^configuration\.apple\.com$
 ^connectivitycheck\.android\.com$
@@ -525,7 +526,6 @@
 ^players\.brightcove\.net$
 ^players\.pluto\.tv$
 ^pmd\.cdn\.turner\.com$
-^pr\.comet\.yahoo\.com$
 ^prisacom\.112\.207\.net$
 ^prisacom\.112\.2o7\.net$
 ^pro\.fontawesome\.com$

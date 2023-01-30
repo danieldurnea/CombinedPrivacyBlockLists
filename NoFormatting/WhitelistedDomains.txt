@@ -179,6 +179,7 @@ coinbase.com
 coinmarketcap.com
 collecting-consent.g5e.com
 collector.lightstep.com
+comet.yahoo.com
 community.signalusers.org
 computertotaal.nl
 configuration.apple.com
@@ -441,7 +442,6 @@ players.brightcove.net
 players.pluto.tv
 plex.tv
 pmd.cdn.turner.com
-pr.comet.yahoo.com
 prisacom.112.207.net
 prisacom.112.2o7.net
 privacy-center.org

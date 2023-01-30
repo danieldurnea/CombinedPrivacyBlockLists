@@ -28502,6 +28502,7 @@
 0.0.0.0 pq.ad.gt
 0.0.0.0 pr-star.de
 0.0.0.0 pr.adxxx.com
+0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 pr0gram.org
 0.0.0.0 practiceartist.com
 0.0.0.0 practicetoothpaste.com
