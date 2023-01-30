@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/30/23~06:30:12 -~
+# ~- 01/30/23~08:34:52 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -39853,6 +39853,7 @@
 0.0.0.0 geo.widdit.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.xxxblackbook.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 geo.ziffdavis.com
 0.0.0.0 geoaddicted.net
 0.0.0.0 geoads.com

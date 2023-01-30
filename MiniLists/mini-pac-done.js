@@ -1,4 +1,4 @@
-// **** Mon Jan 30 06:30:32 AM UTC 2023
+// **** Mon Jan 30 08:35:12 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -15125,6 +15125,7 @@ shExpMatch(host, "*.geo.ertya.com") ||
 shExpMatch(host, "*.geo.nbcsports.com") ||
 shExpMatch(host, "*.geo.query.yahoo.com") ||
 shExpMatch(host, "*.geo.smartadserver.mgr.consensu.org") ||
+shExpMatch(host, "*.geo.yahoo.com") ||
 shExpMatch(host, "*.geoads.com") ||
 shExpMatch(host, "*.geoads.osdn.com") ||
 shExpMatch(host, "*.geoapi123.appspot.com") ||
@@ -51081,6 +51082,7 @@ shExpMatch(host, "geo.ertya.com") ||
 shExpMatch(host, "geo.nbcsports.com") ||
 shExpMatch(host, "geo.query.yahoo.com") ||
 shExpMatch(host, "geo.smartadserver.mgr.consensu.org") ||
+shExpMatch(host, "geo.yahoo.com") ||
 shExpMatch(host, "geoads.com") ||
 shExpMatch(host, "geoads.osdn.com") ||
 shExpMatch(host, "geoapi123.appspot.com") ||

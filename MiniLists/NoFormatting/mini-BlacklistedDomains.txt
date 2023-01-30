@@ -39818,6 +39818,7 @@ geo.vortex.data.microsoft.com.akadns.net
 geo.widdit.com
 geo.xcel.io
 geo.xxxblackbook.com
+geo.yahoo.com
 geo.ziffdavis.com
 geoaddicted.net
 geoads.com

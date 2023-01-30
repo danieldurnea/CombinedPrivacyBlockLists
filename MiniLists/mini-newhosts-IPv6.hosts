@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/30/23~06:30:14 -~
+# ~- 01/30/23~08:34:53 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -39853,6 +39853,7 @@ ff02::2 ip6-allrouters
 :: geo.widdit.com
 :: geo.xcel.io
 :: geo.xxxblackbook.com
+:: geo.yahoo.com
 :: geo.ziffdavis.com
 :: geoaddicted.net
 :: geoads.com
