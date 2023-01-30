@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Jan 29 11:30:53 PM UTC 2023
+! Updated: Mon Jan 30 01:57:12 AM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -115819,6 +115819,8 @@ alltrainerspc.com##a[href*="hskwq.com"]
 amazon.com##[class*="amazonlive-widget"]
 amazon.com##[class*="dv-web-live-events"]
 amazon.com###desktop-banner
+amazon.com###mobile-hero-order
+amazon.com##.tall-hero-video
 amazon.com##.sparkle-close
 amazon.com##.sparkle-content
 animenewsnetwork.com##[rel*="sponsored"]
@@ -116170,8 +116172,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||click.oneplus.cn^$third-party
 ||click.oneplus.com^$third-party
 ||click.redditmail.com^$third-party
-||danbo.org$domain=4chan.org
-||danbo.org$domain=4channel.org
+||danbo.org^$domain=4chan.org|4channel.org
 ||dextools.io/app/assets/img/banners/*$image
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/*/subscribe-popup*
@@ -116227,7 +116228,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/sw.js$script,domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
-||typeform.com$domain=theregister.com
+||typeform.com^$domain=theregister.com
 ||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
 @@||web.facebook.com^$app=com.facebook.katana|com.instagram.android|com.facebook.orca|com.mobile.legends|com.minigames.sweetcrossing|com.moonton.mobilehero|com.supercell.clashofclans|com.playrix.fishdomdd.gplay|com.tencent.ig|com.ngame.allstar.eu|com.garena.game.kgid|com.netease.g78na.gb|com.stackwares.android.storysaver.facebook
 ###ad-container
