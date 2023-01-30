@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Jan 30 01:06:26 PM UTC 2023
+! Updated: Mon Jan 30 10:26:22 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -3423,23 +3423,10 @@
 ||a.zuowenku.net^
 ||a.zuowenxuan.cn^
 ||a.zxcvads.com^
-||a0015919.xsph.ru^
-||a0088485.xsph.ru^
 ||a013.com^
-||a0147726.xsph.ru^
-||a0148155.xsph.ru^
-||a0152338.xsph.ru^
-||a0152829.xsph.ru^
-||a0310625.xsph.ru^
-||a0349318.xsph.ru^
 ||a050fa4308.com^
-||a0604050.xsph.ru^
 ||a0675c1160de6c6.com^
-||a0684980.xsph.ru^
 ||a06bbd98194c252.com^
-||a0700356.xsph.ru^
-||a0710963.xsph.ru^
-||a0727074.xsph.ru^
 ||a07d30aaf0.com^
 ||a0b11.com^
 ||a0b22.com^
@@ -21959,6 +21946,7 @@
 ||breadbalance.com^
 ||breadcat.cc^
 ||breadpro.com^
+||breahant.site^
 ||break-even.it^
 ||breakableinsurance.com^
 ||breakdownfragileindication.com^
@@ -37205,6 +37193,7 @@
 ||dusice.live^
 ||dusihep.life^
 ||dustarlyom.com^
+||dustyhammer.com^
 ||dustymural.com^
 ||dustyrabbits.com^
 ||dustytownsplatitude.com^
@@ -41251,17 +41240,6 @@
 ||f.gogamef.com^
 ||f.sen.seg.br^
 ||f.zgbmw.com.cn^
-||f0174408.xsph.ru^
-||f0429164.xsph.ru^
-||f0439583.xsph.ru^
-||f0468736.xsph.ru^
-||f0471847.xsph.ru^
-||f0491970.xsph.ru^
-||f0492922.xsph.ru^
-||f0507215.xsph.ru^
-||f0511508.xsph.ru^
-||f0607393.xsph.ru^
-||f0719334.xsph.ru^
 ||f07neg4p.de^
 ||f0nn.oney.fr^
 ||f0tiojboxnc1.bitdomain.biz^
@@ -60475,6 +60453,7 @@
 ||laxnlqn.cn^
 ||laxthatpie.live^
 ||laydcilck.com^
+||layel.s3.fr-par.scw.cloud^
 ||layer-ad.de^
 ||layer-ad.org^
 ||layer-ads.de^
@@ -65882,6 +65861,7 @@
 ||megaplayz.com^
 ||megapolis-hack.com^
 ||megapopads.com^
+||megaproxy.beget.tech^
 ||megaproxy.no-ip.biz^
 ||megapu.sh^
 ||megartb.com^
@@ -69511,6 +69491,7 @@
 ||musthird.com^
 ||mutcheng.net^
 ||mutecrane.com^
+||muteknife.com^
 ||mutenessdollyheadlong.com^
 ||mutiaracendekia.sch.id^
 ||mutilatecoast.com^
@@ -80374,6 +80355,7 @@
 ||purpose.maxizoo.fr^
 ||purpose.maxizoo.ie^
 ||purpose.maxizoo.pl^
+||purposedesigns.net^
 ||pursedistraught.com^
 ||pursuingconjunction.com^
 ||pursuitnauseousinvalid.com^
@@ -85633,9 +85615,7 @@
 ||s7target.ru^
 ||s7ven.com^
 ||s7w53.icu^
-||s8.krakenfiles.com^
 ||s83ovp6qyhco.com^
-||s9.krakenfiles.com^
 ||s93isp.top^
 ||s99i.org^
 ||s9jp9xogfz.com^
@@ -88731,7 +88711,6 @@
 ||sieltre.it^
 ||sienns.com^
 ||sierraagrolime.com^
-||sieuthiphutungxenang.com^
 ||siewmi.uncommongoods.com^
 ||sifang.info^
 ||sifed.live^
@@ -106795,7 +106774,6 @@
 ||vanenow.com^
 ||vanfireworks.com^
 ||vanguard.demdex.net^
-||vanhook.re.xsph.ru^
 ||vanillaicebook.com^
 ||vanillaincidentfeed.com^
 ||vanlai.com^
@@ -112860,6 +112838,7 @@
 ||xsjh002.xyz^
 ||xsjyun.cn^
 ||xslmpq.ohou.se^
+||xsph.ru^
 ||xsrs.com^
 ||xsrzqh.allclassifieds.ca^
 ||xsrzqh.allekleinanzeigen.ch^
