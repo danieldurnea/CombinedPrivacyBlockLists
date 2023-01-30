@@ -2359,6 +2359,7 @@
 0.0.0.0 adk2ads.tictacti.com
 0.0.0.0 adk2x.com
 0.0.0.0 adkernel.com
+0.0.0.0 adkmob.com
 0.0.0.0 adknowledge.com
 0.0.0.0 adkomo.com
 0.0.0.0 adl-groups.com
@@ -2583,6 +2584,7 @@
 0.0.0.0 adnow.cc
 0.0.0.0 adnow.com
 0.0.0.0 adntokyo.gunosy.com
+0.0.0.0 adnuntius.com
 0.0.0.0 adnxs-simple.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
@@ -5658,6 +5660,7 @@
 0.0.0.0 adx2.adform.net
 0.0.0.0 adx3.adform.net
 0.0.0.0 adxadserv.com
+0.0.0.0 adxcore.com
 0.0.0.0 adxcorp.kr
 0.0.0.0 adxfactory.com
 0.0.0.0 adxhand.icu
@@ -13637,6 +13640,7 @@
 0.0.0.0 delphicom.112.2o7.net
 0.0.0.0 delplaya-api.advangelists.com
 0.0.0.0 deltadesignbrim.fun
+0.0.0.0 deltadna.net
 0.0.0.0 deltaflow.petametrics.com
 0.0.0.0 delus.live
 0.0.0.0 deluxe.onetag.io.edgekey.net
@@ -18133,6 +18137,7 @@
 0.0.0.0 gotohouse2.cc
 0.0.0.0 gotovacoil.com
 0.0.0.0 gotporn.info
+0.0.0.0 gotrackier.com
 0.0.0.0 gotwebsite1.com
 0.0.0.0 gourmetgiftbaskets.112.2o7.net
 0.0.0.0 gov-live-cases-update.xyz
@@ -20247,6 +20252,7 @@
 0.0.0.0 ipredictive.com
 0.0.0.0 ipro.com
 0.0.0.0 iprocollect.realmedia.com
+0.0.0.0 ipromote.com
 0.0.0.0 ips-collect.iperceptions.com
 0.0.0.0 ipsell.ir
 0.0.0.0 iptechnologysolutions.com
@@ -25519,6 +25525,7 @@
 0.0.0.0 native.djaxadserver.com
 0.0.0.0 native.propellerads.com
 0.0.0.0 native.yektanet.com
+0.0.0.0 nativeads.com
 0.0.0.0 nativeadsfeed.fs.ak-is2.net
 0.0.0.0 nativeadsfeed.xs.ak-is2.net
 0.0.0.0 nativeapi.supersonicads.com
@@ -33551,6 +33558,7 @@
 0.0.0.0 stats.docu.info
 0.0.0.0 stats.duf.de
 0.0.0.0 stats.erf.de
+0.0.0.0 stats.esomniture.com
 0.0.0.0 stats.estrema.it
 0.0.0.0 stats.feste-und-maerkte.de
 0.0.0.0 stats.fn.sportradar.com
@@ -37672,6 +37680,7 @@
 0.0.0.0 vehicle-insurance-quote.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 veinrn.click
+0.0.0.0 veinteractive.com
 0.0.0.0 veisturbharbo.com
 0.0.0.0 velocecdn.com
 0.0.0.0 vemic.live
@@ -41016,6 +41025,7 @@
 0.0.0.0 xsaudix.net
 0.0.0.0 xseed-digital.jp
 0.0.0.0 xsharenode.com
+0.0.0.0 xsph.ru
 0.0.0.0 xsvpn.cf
 0.0.0.0 xt.lykj988.com
 0.0.0.0 xtendmedia.com
