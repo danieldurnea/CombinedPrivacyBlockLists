@@ -1,7 +1,6 @@
 #This is a fork of the "immortal" malware domains list, originally archived on 12/17/2020
 #Seemingly active domains hosts version, sorted - Under continual improvement
 0.0.0.0 0-24bpautomentes.hu
-0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000007.ru
 0.0.0.0 024xuyisheng.com
 0.0.0.0 0452jhw.com
@@ -27,7 +26,6 @@
 0.0.0.0 13932685557.cn
 0.0.0.0 13cuero.com
 0.0.0.0 1407031110.bzhualin.com
-0.0.0.0 1409084329.xiaoyiwan.com
 0.0.0.0 1492tapasbar.com
 0.0.0.0 1566xueshe.com
 0.0.0.0 15jiaju.com
@@ -49,7 +47,6 @@
 0.0.0.0 2013supas.ru
 0.0.0.0 2014reltimes.ru
 0.0.0.0 2112111.com
-0.0.0.0 22.duote.org
 0.0.0.0 230x.net
 0.0.0.0 24-procent.ru
 0.0.0.0 24-verygoods.ru
@@ -105,7 +102,6 @@
 0.0.0.0 4-health.us
 0.0.0.0 43242.com
 0.0.0.0 448868.com
-0.0.0.0 44wo7w51e0.blsonepal.com
 0.0.0.0 4analytics.ws
 0.0.0.0 4c92j5.cz.cc
 0.0.0.0 4chan-tube.on.nimp.org
@@ -119,7 +115,6 @@
 0.0.0.0 516abc.com
 0.0.0.0 5178424.com
 0.0.0.0 518869.com
-0.0.0.0 51friend.anytome.com
 0.0.0.0 51she.info
 0.0.0.0 52flz.com
 0.0.0.0 52guangda.com
@@ -130,15 +125,12 @@
 0.0.0.0 591xietaoji.com
 0.0.0.0 5day.vn
 0.0.0.0 5organic.com
-0.0.0.0 5thcongress.iribs.org
 0.0.0.0 60gp.ovh.net
 0.0.0.0 68cadzx.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
 0.0.0.0 6bdsm.com
 0.0.0.0 6w2.ru
-0.0.0.0 7.1tb.in
 0.0.0.0 7.duote.com.cn
-0.0.0.0 73.duote.org
 0.0.0.0 74203s040.edusite.ru
 0.0.0.0 772268.com
 0.0.0.0 77276.com
@@ -157,7 +149,6 @@
 0.0.0.0 88kv.cn
 0.0.0.0 89757.net
 0.0.0.0 8b1b.com
-0.0.0.0 8box.8boxerp.com
 0.0.0.0 8lungu.com
 0.0.0.0 90000000.ru
 0.0.0.0 95mortgagesonline.co.uk
@@ -169,8 +160,6 @@
 0.0.0.0 999fitness.com
 0.0.0.0 99wy.cn
 0.0.0.0 a-c-sky.rzb.ir
-0.0.0.0 a.update.51edm.net
-0.0.0.0 a2132959.0lx.net
 0.0.0.0 a5j.at
 0.0.0.0 a5m.at
 0.0.0.0 a9rhiwa.cn
@@ -197,7 +186,6 @@
 0.0.0.0 acme.com.mx
 0.0.0.0 acmetoy.com
 0.0.0.0 acool.csheaven.com
-0.0.0.0 acquitteras-amilota.womeninspiringnow.org
 0.0.0.0 actionscriptcousin.ru
 0.0.0.0 activ.by
 0.0.0.0 actris.ru
@@ -217,7 +205,6 @@
 0.0.0.0 admagnet1.com
 0.0.0.0 admarvelco5.com
 0.0.0.0 admisoft.com
-0.0.0.0 adnirvgo.qhigh.com
 0.0.0.0 adobe-update.com
 0.0.0.0 adobeflashupdate14.com
 0.0.0.0 adrenalfilm.com
@@ -337,7 +324,6 @@
 0.0.0.0 amuejgo.cn
 0.0.0.0 amvgvvyasde.myfw.us
 0.0.0.0 an4u.com
-0.0.0.0 anachronisms-anaboliset.repipeseattlenow.com
 0.0.0.0 anadoluvitamin.com.tr
 0.0.0.0 analitics1.in
 0.0.0.0 analitics3.in
@@ -1124,7 +1110,6 @@
 0.0.0.0 edcomparison.com
 0.0.0.0 edf.fr.kfskz.com
 0.0.0.0 edsse.com
-0.0.0.0 eecky.butlerelectricsupply.com
 0.0.0.0 eeps.me
 0.0.0.0 eeroo.frost-electric-supply.com
 0.0.0.0 efradin.net
@@ -1140,7 +1125,6 @@
 0.0.0.0 eksenard.com
 0.0.0.0 ekspruf.com
 0.0.0.0 elantrasantrope.ru
-0.0.0.0 electrohemostasis.makemoneywithmegan.net
 0.0.0.0 electronicssense-search.com
 0.0.0.0 elew72isst.rr.nu
 0.0.0.0 elieayrouth.com
@@ -1345,7 +1329,6 @@
 0.0.0.0 free-crochet-pattern.com
 0.0.0.0 free-ddddsex-ddddpasswords.isthebe.st
 0.0.0.0 free-dsex-dpasswords.isthebe.st
-0.0.0.0 free-online-games.cybergamez.us
 0.0.0.0 freefblikes.phpnet.us
 0.0.0.0 freeguard.biz
 0.0.0.0 freepicturebox.com
@@ -1909,7 +1892,6 @@
 0.0.0.0 klaratsetkin.info
 0.0.0.0 kmqwe.in
 0.0.0.0 knittingnet.cn
-0.0.0.0 kntyisivtuitbuilde.brightfuture.biz
 0.0.0.0 kockoy.com
 0.0.0.0 kogirlsnotcryz.ru
 0.0.0.0 koklik.com
@@ -1935,7 +1917,6 @@
 0.0.0.0 kuirfufo.ru
 0.0.0.0 kulro.csheaven.com
 0.0.0.0 kumykoz.com
-0.0.0.0 kunststudentenpohjolakin.repipeseattlenow.com
 0.0.0.0 kuosum.com
 0.0.0.0 kusco.tw
 0.0.0.0 kyosoft.net
@@ -1991,7 +1972,6 @@
 0.0.0.0 liberated.org
 0.0.0.0 libidos.nl
 0.0.0.0 licenseacquisition.org
-0.0.0.0 lichttechnik.familyofpraise.org
 0.0.0.0 lifenetusa.com
 0.0.0.0 liganews.gr
 0.0.0.0 ligrfc.ncl.co.kr
@@ -2009,7 +1989,6 @@
 0.0.0.0 literalseduction.net
 0.0.0.0 litetopfindworld.cn
 0.0.0.0 liulanwangye.com
-0.0.0.0 liulanwangye.com246sjinzanylec.com
 0.0.0.0 livench.com
 0.0.0.0 livesitedesign.ru
 0.0.0.0 livinggood.se
@@ -2465,8 +2444,6 @@
 0.0.0.0 organizedmadness.org
 0.0.0.0 orkc.monquest.com
 0.0.0.0 orkut.krovatka.su
-0.0.0.0 ornitholitewhitenet.familyofpraise.org
-0.0.0.0 oroshiso-institutamque.magnetandmetal.com
 0.0.0.0 oshoa.iptvdeals.com
 0.0.0.0 oshoo.iptvdeals.com
 0.0.0.0 osmos-android.org
@@ -2678,7 +2655,6 @@
 0.0.0.0 qantasairways.net
 0.0.0.0 qdmeilinkai.cn
 0.0.0.0 qdtaihua.com
-0.0.0.0 qerfhgkadhsfukhertgrpotgjpoidfg.ce.ms
 0.0.0.0 qertea.instanthq.com
 0.0.0.0 qhcdmgq.com
 0.0.0.0 qhdast.com
@@ -3354,14 +3330,12 @@
 0.0.0.0 trafgen.org
 0.0.0.0 trakyareklam.net
 0.0.0.0 transportationrouter.net
-0.0.0.0 treestructurezeroes.pingpong-shop.info
 0.0.0.0 trenz.pl
 0.0.0.0 treplikon.com
 0.0.0.0 treventuresonline.com
 0.0.0.0 trffc3.ru
 0.0.0.0 triangleservicesltd.com
 0.0.0.0 triblabla.awasr.cn
-0.0.0.0 tricklechargercolanta.womeninspiringnow.org
 0.0.0.0 trident-fall.com
 0.0.0.0 trign.com
 0.0.0.0 triphopfifth.ru
@@ -3484,7 +3458,6 @@
 0.0.0.0 uci.securesoft.info
 0.0.0.0 ucomsoft.cn
 0.0.0.0 uduoduo.com
-0.0.0.0 uebelacker.makemoneywithmegan.net
 0.0.0.0 uegnytqslcm.myfw.us
 0.0.0.0 uglyas.com
 0.0.0.0 ugnyspyr.ru
@@ -3530,7 +3503,6 @@
 0.0.0.0 ustocn.com.cn
 0.0.0.0 uszyce.webd.pl
 0.0.0.0 uusee.com
-0.0.0.0 uvidu.butlerelectricsupply.com
 0.0.0.0 uxqt.co.cc
 0.0.0.0 uznai-pravdu-ru.1gb.ru
 0.0.0.0 uzsldka.ce.ms
@@ -3624,7 +3596,6 @@
 0.0.0.0 waterboi.com
 0.0.0.0 watermarksugary.org
 0.0.0.0 waterpipe.ca
-0.0.0.0 wavelinkswing.pingpong-shop.info
 0.0.0.0 wayoseswindows.ru
 0.0.0.0 wazesenduser.ru
 0.0.0.0 wbesnancer.org
@@ -4011,7 +3982,6 @@
 0.0.0.0 xlzxsh.cn
 0.0.0.0 xmhbcc.com
 0.0.0.0 xmjkjm.com
-0.0.0.0 xmlbasedautomaticupdate.pingpong-shop.info
 0.0.0.0 xmsjlm.com
 0.0.0.0 xmufemba.cn
 0.0.0.0 xn--80aaagge2acs2agf3bgi.xn--p1ai
@@ -4023,7 +3993,6 @@
 0.0.0.0 xorgwebs.webs.com
 0.0.0.0 xotsa.frenchgerlemanelectric.com
 0.0.0.0 xpornstarsckc.ddns.name
-0.0.0.0 xpt802v26n.babygirl-shop.com
 0.0.0.0 xq9.ru
 0.0.0.0 xtewx.com
 0.0.0.0 xtrarobotz.com
