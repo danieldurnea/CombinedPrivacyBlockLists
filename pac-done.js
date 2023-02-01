@@ -1,4 +1,4 @@
-// **** Mon Jan 30 10:14:54 PM UTC 2023
+// **** Wed Feb  1 11:37:19 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -1054,6 +1054,7 @@ shExpMatch(host, "*.accpais.com") ||
 shExpMatch(host, "*.acctspayable.com") ||
 shExpMatch(host, "*.acellr.co.uk") ||
 shExpMatch(host, "*.acemetrics.aaa.com") ||
+shExpMatch(host, "*.acemlnb.com") ||
 shExpMatch(host, "*.acenar.com") ||
 shExpMatch(host, "*.acento.com") ||
 shExpMatch(host, "*.acexedge.com") ||
@@ -6047,6 +6048,7 @@ shExpMatch(host, "*.analytics.mobile.walmart.com") ||
 shExpMatch(host, "*.analytics.mobile.yandex.net") ||
 shExpMatch(host, "*.analytics.mobilegamestats.com") ||
 shExpMatch(host, "*.analytics.molistar.com") ||
+shExpMatch(host, "*.analytics.momentum-institut.at") ||
 shExpMatch(host, "*.analytics.mondotv.jp") ||
 shExpMatch(host, "*.analytics.moneycat.vn") ||
 shExpMatch(host, "*.analytics.move.ru") ||
@@ -25868,6 +25870,7 @@ shExpMatch(host, "*.m.sancdn.net") ||
 shExpMatch(host, "*.m.trb.com") ||
 shExpMatch(host, "*.m.vpadn.com") ||
 shExpMatch(host, "*.m.webtrends.com") ||
+shExpMatch(host, "*.m.yap.yahoo.com") ||
 shExpMatch(host, "*.m0bile.net") ||
 shExpMatch(host, "*.m0vl.com") ||
 shExpMatch(host, "*.m1-shop.ru") ||
@@ -45714,6 +45717,7 @@ shExpMatch(host, "accpais.com") ||
 shExpMatch(host, "acctspayable.com") ||
 shExpMatch(host, "acellr.co.uk") ||
 shExpMatch(host, "acemetrics.aaa.com") ||
+shExpMatch(host, "acemlnb.com") ||
 shExpMatch(host, "acenar.com") ||
 shExpMatch(host, "acento.com") ||
 shExpMatch(host, "acexedge.com") ||
@@ -50707,6 +50711,7 @@ shExpMatch(host, "analytics.mobile.walmart.com") ||
 shExpMatch(host, "analytics.mobile.yandex.net") ||
 shExpMatch(host, "analytics.mobilegamestats.com") ||
 shExpMatch(host, "analytics.molistar.com") ||
+shExpMatch(host, "analytics.momentum-institut.at") ||
 shExpMatch(host, "analytics.mondotv.jp") ||
 shExpMatch(host, "analytics.moneycat.vn") ||
 shExpMatch(host, "analytics.move.ru") ||
@@ -70528,6 +70533,7 @@ shExpMatch(host, "m.sancdn.net") ||
 shExpMatch(host, "m.trb.com") ||
 shExpMatch(host, "m.vpadn.com") ||
 shExpMatch(host, "m.webtrends.com") ||
+shExpMatch(host, "m.yap.yahoo.com") ||
 shExpMatch(host, "m0bile.net") ||
 shExpMatch(host, "m0vl.com") ||
 shExpMatch(host, "m1-shop.ru") ||
