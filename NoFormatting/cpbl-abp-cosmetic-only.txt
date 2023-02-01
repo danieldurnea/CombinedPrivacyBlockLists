@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Tue Jan 31 11:11:09 AM UTC 2023
+! Updated: Wed Feb 1 07:58:53 PM UTC 2023
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -424,7 +424,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||khou.com/assets/shared-images/icons/close.svg$image
 ||lightboxcdn.com/static/identity.html
 ||m.yap.yahoo.com^$domain=~finance.yahoo.com
-@@||m.yap.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.finance
+@@||m.yap.yahoo.com^$app=com.yahoo.mobile.client.android.finance
 ||meter-svc.nytimes.com^
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nyt.com^*/metered_assets$script
@@ -432,8 +432,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||nytimes.com^*/metered_assets/
 ||nytimes.com/svc/nyt/data-layer
 ||onelink.me^$third-party
-||pr.comet.yahoo.com^$domain=~mail.yahoo.com|~finance.yahoo.com
-@@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail|com.yahoo.mobile.client.android.finance
+||pr.comet.yahoo.com^$domain=~mail.yahoo.com
+@@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
