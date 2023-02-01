@@ -1,4 +1,4 @@
-// **** Mon Jan 30 10:23:00 PM UTC 2023
+// **** Wed Feb  1 11:41:50 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -926,6 +926,7 @@ shExpMatch(host, "*.accpais.com") ||
 shExpMatch(host, "*.acctspayable.com") ||
 shExpMatch(host, "*.acellr.co.uk") ||
 shExpMatch(host, "*.acemetrics.aaa.com") ||
+shExpMatch(host, "*.acemlnb.com") ||
 shExpMatch(host, "*.acenar.com") ||
 shExpMatch(host, "*.acexedge.com") ||
 shExpMatch(host, "*.ach-edi.xyz") ||
@@ -2682,6 +2683,7 @@ shExpMatch(host, "*.ads.cordlessmedia.com") ||
 shExpMatch(host, "*.ads.corusradionetwork.com") ||
 shExpMatch(host, "*.ads.counciladvertising.net") ||
 shExpMatch(host, "*.ads.courierpostonline.com") ||
+shExpMatch(host, "*.ads.crakmedia.com") ||
 shExpMatch(host, "*.ads.crapville.com") ||
 shExpMatch(host, "*.ads.creativematch.com") ||
 shExpMatch(host, "*.ads.cricbuzz.com") ||
@@ -5725,6 +5727,7 @@ shExpMatch(host, "*.analytics.mobile.walmart.com") ||
 shExpMatch(host, "*.analytics.mobile.yandex.net") ||
 shExpMatch(host, "*.analytics.mobilegamestats.com") ||
 shExpMatch(host, "*.analytics.molistar.com") ||
+shExpMatch(host, "*.analytics.momentum-institut.at") ||
 shExpMatch(host, "*.analytics.mondotv.jp") ||
 shExpMatch(host, "*.analytics.moneycat.vn") ||
 shExpMatch(host, "*.analytics.move.ru") ||
@@ -10822,7 +10825,6 @@ shExpMatch(host, "*.cracksmsa.ug") ||
 shExpMatch(host, "*.craftive-logo.com") ||
 shExpMatch(host, "*.craghoppers.icu") ||
 shExpMatch(host, "*.craigsvoice.soxx.us") ||
-shExpMatch(host, "*.crakmedia.com") ||
 shExpMatch(host, "*.craktraffic.com") ||
 shExpMatch(host, "*.crams.live") ||
 shExpMatch(host, "*.crankyads.com") ||
@@ -36717,6 +36719,7 @@ shExpMatch(host, "accpais.com") ||
 shExpMatch(host, "acctspayable.com") ||
 shExpMatch(host, "acellr.co.uk") ||
 shExpMatch(host, "acemetrics.aaa.com") ||
+shExpMatch(host, "acemlnb.com") ||
 shExpMatch(host, "acenar.com") ||
 shExpMatch(host, "acexedge.com") ||
 shExpMatch(host, "ach-edi.xyz") ||
@@ -38473,6 +38476,7 @@ shExpMatch(host, "ads.cordlessmedia.com") ||
 shExpMatch(host, "ads.corusradionetwork.com") ||
 shExpMatch(host, "ads.counciladvertising.net") ||
 shExpMatch(host, "ads.courierpostonline.com") ||
+shExpMatch(host, "ads.crakmedia.com") ||
 shExpMatch(host, "ads.crapville.com") ||
 shExpMatch(host, "ads.creativematch.com") ||
 shExpMatch(host, "ads.cricbuzz.com") ||
@@ -41516,6 +41520,7 @@ shExpMatch(host, "analytics.mobile.walmart.com") ||
 shExpMatch(host, "analytics.mobile.yandex.net") ||
 shExpMatch(host, "analytics.mobilegamestats.com") ||
 shExpMatch(host, "analytics.molistar.com") ||
+shExpMatch(host, "analytics.momentum-institut.at") ||
 shExpMatch(host, "analytics.mondotv.jp") ||
 shExpMatch(host, "analytics.moneycat.vn") ||
 shExpMatch(host, "analytics.move.ru") ||
@@ -46613,7 +46618,6 @@ shExpMatch(host, "cracksmsa.ug") ||
 shExpMatch(host, "craftive-logo.com") ||
 shExpMatch(host, "craghoppers.icu") ||
 shExpMatch(host, "craigsvoice.soxx.us") ||
-shExpMatch(host, "crakmedia.com") ||
 shExpMatch(host, "craktraffic.com") ||
 shExpMatch(host, "crams.live") ||
 shExpMatch(host, "crankyads.com") ||
