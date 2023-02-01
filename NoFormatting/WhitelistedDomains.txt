@@ -371,7 +371,6 @@ login.live.com
 lotustalk.com
 lp.babbel.com
 m.hotmail.com
-m.yap.yahoo.com
 m1.daumcdn.net
 m1.nsimg.net
 m2.nsimg.net
@@ -617,6 +616,7 @@ wix.com
 ws.audioscrobbler.com
 xda-developers.com
 yahoo.com
+yap.yahoo.com
 yimg.com
 yimg.jp
 youtube-nocookie.com

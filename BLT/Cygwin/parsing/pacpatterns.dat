@@ -488,7 +488,6 @@
 ^m1\.nsimg\.net$
 ^m2\.nsimg\.net$
 ^m\.hotmail\.com$
-^m\.yap\.yahoo\.com$
 ^managemymove\.usps\.com$
 ^movies\.netflix\.com$
 ^mp\.twitch\.tv$
@@ -629,6 +628,7 @@
 ^widget-cdn\.rpxnow\.com$
 ^winhelp2002\.mvps\.org$
 ^ws\.audioscrobbler\.com$
+^yap\.yahoo\.com$
 ^yql\.yahoo\.com$
 ^yui\.yahooapis\.com$
 ^zee\.cws\.conviva\.com$
