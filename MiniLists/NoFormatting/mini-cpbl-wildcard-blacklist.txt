@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/03/23~01:35:40 -~
+# ~- 02/03/23~09:10:00 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -6273,7 +6273,6 @@
 *.ads-api.playfun.vn
 *.ads-api.tiktok.com
 *.ads-api.twitter.com
-*.ads-au.onelouder.com
 *.ads-b-480313385.us-west-1.elb.amazonaws.com
 *.ads-backend.nhadatmoi.net
 *.ads-bi.zenkube.com
@@ -7079,7 +7078,6 @@
 *.ads.lifethink.net
 *.ads.linkara.com
 *.ads.linkedin.com
-*.ads.linkshrink.net
 *.ads.linktracking.net
 *.ads.linuxfoundation.org
 *.ads.linuxjournal.com
@@ -7150,7 +7148,6 @@
 *.ads.mmania.com
 *.ads.mncmedia.co.kr
 *.ads.mnemosoft.com
-*.ads.mobadvent.com
 *.ads.mobafftrck.com
 *.ads.mobilautomaten.com
 *.ads.mobilebet.com
@@ -9294,7 +9291,6 @@
 *.adworx.be
 *.adworx.nl
 *.adwx6vcj.com
-*.adx-api.mobadvent.com
 *.adx-asia-imp.aarki.net
 *.adx-asia.aarki.net
 *.adx-dre.op.hicloud.com
@@ -12563,7 +12559,6 @@
 *.api.megacool.co
 *.api.metrics.heroku.com
 *.api.miui.security.xiaomi.com
-*.api.mobadvent.com
 *.api.mobcells.com
 *.api.mobileanjian.com
 *.api.mobitech-content.xyz
@@ -13222,6 +13217,7 @@
 *.arraypot.xyz
 *.arrayzonebd.com
 *.arrenothanca.xyz
+*.arriaza.net
 *.arridedoregano.tech
 *.arriedand.xyz
 *.arrietty.nrj.fr
@@ -17140,6 +17136,7 @@
 *.bnux.store
 *.bnvxcfhdgf.blogspot.com.es
 *.bnzkua.trussardi.com.br
+*.bo-projects.com
 *.bo2ffe45ss4gie.com
 *.boa-0918-verify-login-2014.icrb.cl
 *.boagloozee.com
@@ -21452,7 +21449,6 @@
 *.coconutsumptuousreseptivereseptive.com
 *.cocoon-logistics.com
 *.cocoonelectronicsconfined.com
-*.cocostrunket.com
 *.cod.bitrec.com
 *.cod.southmoney.com
 *.codata.ru
@@ -21663,6 +21659,7 @@
 *.collect.allianz.ch
 *.collect.allianzcinema.ch
 *.collect.allianzdriveincinema.ch
+*.collect.alphastream.io
 *.collect.asics.com
 *.collect.babybus.com
 *.collect.banggood.com
@@ -24730,6 +24727,7 @@
 *.data-collect-337392791.ap-northeast-2.elb.amazonaws.com
 *.data-data-vac.com
 *.data-failover.eroadvertising.com
+*.data-file-data-7.com
 *.data-fold.org
 *.data-location.enhance.co
 *.data-optout-service.uca.cloud.unity3d.com
@@ -25084,6 +25082,7 @@
 *.dc1199.com
 *.dc414.4sync.com
 *.dc442.4sync.com
+*.dc541.4sync.com
 *.dc545.4sync.com
 *.dc5ig2fc8lg83.cloudfront.net
 *.dc5k8fg5ioc8s.cloudfront.net
@@ -25806,6 +25805,7 @@
 *.dfp.bouncex.net
 *.dfpdz.top
 *.dfpstitialtag.com
+*.dfsd22.com
 *.dfseafood.com
 *.dfsfgsdfg.pw
 *.dfsvhv88.com
@@ -25814,6 +25814,7 @@
 *.dfwskw7.com
 *.dfwsocialmediaservices.com
 *.dfyouolsdq.com
+*.dfzv25.com
 *.dg.compair.com
 *.dg.irco.com
 *.dgafgadsgkjg.top
@@ -27452,7 +27453,6 @@
 *.ds-aksb-a.akamaihd.net
 *.ds-m.addthisedge.com.edgekey.net
 *.ds.haaretz.co.il
-*.ds.mobadvent.com
 *.ds02gfqy6io6i.cloudfront.net
 *.ds2.independer.nl
 *.ds38.test-hf.su
@@ -29940,7 +29940,6 @@
 *.esurf.info
 *.eswaldderinao.xyz
 *.et-code.ru
-*.et.mobadvent.com
 *.et.nytimes.com
 *.et.tidal.com
 *.etacontent.com
@@ -30273,7 +30272,6 @@
 *.eventstream.dodopizza.com
 *.eventtm.cfd
 *.eventtracker.videostrip.com
-*.eventtracking.omarsys.com
 *.eventuallybraid.com
 *.evenuewasadi.xyz
 *.evenui.com
@@ -32603,6 +32601,7 @@
 *.fpxau.net
 *.fpxewa.ilmeteo.it
 *.fq9vy0muyqi3.www.madrigalmaps.com
+*.fqla.top
 *.fqsokh.xyz
 *.fqtag.com
 *.fqtra.com
@@ -41081,6 +41080,7 @@
 *.jigyst9.tk
 *.jih465flash.com
 *.jijunlongchengxinxi.cn
+*.jike001.top
 *.jikenick12and67.com
 *.jikicotho.pro
 *.jiliw.com
@@ -41988,7 +41988,6 @@
 *.k68tkg.com
 *.k77hof1z7k.com
 *.k99.cc
-*.k9designstudio.com
 *.ka.ilius.net
 *.ka185ly.site
 *.ka3ek.com
@@ -49590,6 +49589,7 @@
 *.mobads-logs.baidu.com
 *.mobads.baidu.com
 *.mobads4app.com
+*.mobadvent.com
 *.mobagent.com
 *.mobalert.net
 *.mobapeople.com
@@ -51615,7 +51615,6 @@
 *.newfeatureview.perfectionholic.com
 *.newfield-us.info
 *.newfind.cloudns.cl
-*.newgoplus.com
 *.newhigee.net
 *.newhomescville.com
 *.newir3ltyug79aiman.com
@@ -58472,7 +58471,6 @@
 *.purplecode.pro
 *.purpleflag.net
 *.purplepatch.online
-*.purposedesigns.net
 *.pursedistraught.com
 *.pursuingconjunction.com
 *.pursuitnauseousinvalid.com
@@ -58848,6 +58846,7 @@
 *.qbcydxr.cn
 *.qbd1.site
 *.qbd2.site
+*.qbd3.site
 *.qbgrmsk.cn
 *.qbgvgw.angeloni.com.br
 *.qbhdn.com
@@ -64112,6 +64111,7 @@
 *.sernak.xyz
 *.sernoticia.com.do
 *.serpentdusks.com
+*.serpentshampoo.com
 *.serralheriacic.com.br
 *.sertificatkey.com
 *.serumbosses.com
@@ -68079,7 +68079,6 @@
 *.ssnoownmb.fun
 *.ssor.tribdss.com
 *.ssp-ad.momento.dev
-*.ssp-api.mobadvent.com
 *.ssp.21ic.com
 *.ssp.hinet.net
 *.ssp.kdnet.net
@@ -70676,7 +70675,6 @@
 *.tadamads.com
 *.tadens.live
 *.tadic.tk
-*.tads.mobadvent.com
 *.tadsbelver.com
 *.taduhy.timberland.co.uk
 *.taembed.com
@@ -70874,6 +70872,7 @@
 *.tanganrss.com
 *.tangerinenet.biz
 *.tanggoushequ.xyz
+*.tanghao.club
 *.tangibleteam.com
 *.tangiblewhereuponprestige.com
 *.tangkai.ltd
@@ -71930,6 +71929,7 @@
 *.thispositionw.biz
 *.thitsiryke.live
 *.thkxtvklfdeget.com
+*.thlnbzi.cn
 *.thmqyo.com
 *.thnqemehtyfe.com
 *.thoaltie.net
@@ -71996,6 +71996,7 @@
 *.thterras.com
 *.thuanmimamsa.com
 *.thuary.com
+*.thuexevanphong.com
 *.thugesh.cf
 *.thujo.com
 *.thumeezy.xyz
@@ -78812,6 +78813,7 @@
 *.w7.weihnachteninberlin.de
 *.w717.com
 *.w740.newstimes.com
+*.w80n.fun
 *.w88.abc.com
 *.w88.disneynow.com
 *.w88.go.com
@@ -79823,7 +79825,6 @@
 *.whouvike.com
 *.whowhipi.net
 *.whpqvmaxr.xyz
-*.whpstapp.top
 *.whqxj.xyz
 *.whrc.xyz
 *.whs82908.com
@@ -81206,6 +81207,7 @@
 *.xegust7.tk
 *.xegust8.cf
 *.xeihy.com
+*.xeiyt.cyou
 *.xektyy.cn
 *.xel-xel-fie.com
 *.xelllwrite.com
@@ -82123,7 +82125,6 @@
 *.yanarascla.com
 *.yanbenji.cn
 *.yandepit.com
-*.yandex.st
 *.yandexadexchange.net
 *.yang123.ltd
 *.yang17.xyz
@@ -83142,6 +83143,7 @@
 *.zaczvk.pl
 *.zadauque.net
 *.zadehgallery.com
+*.zads.me.zing.vn
 *.zaemaropiteds.cf
 *.zaemaropiteds.ga
 *.zaemaropiteds.gq
@@ -83235,6 +83237,7 @@
 *.zcrtd.com
 *.zcrui.com
 *.zctrack.com
+*.zczcvx.com
 *.zd05urtrpr.space
 *.zdads.e-media.com
 *.zdajdudqfq.com
