@@ -1,4 +1,4 @@
-# Fri Feb  3 01:04:58 AM UTC 2023
+# Fri Feb  3 08:44:25 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -6215,6 +6215,7 @@
 0.0.0.0 ahaurgoo.net
 0.0.0.0 ahbdsply.com
 0.0.0.0 ahcdsply.com
+0.0.0.0 ahclyq.xyz
 0.0.0.0 ahdytiyc.xyz
 0.0.0.0 ahdyvor.cn
 0.0.0.0 ahe.so
@@ -17540,10 +17541,12 @@
 0.0.0.0 dfncojkle.xyz
 0.0.0.0 dfpdz.top
 0.0.0.0 dfpstitialtag.com
+0.0.0.0 dfsd22.com
 0.0.0.0 dfseafood.com
 0.0.0.0 dfsvhv88.com
 0.0.0.0 dfwskw7.com
 0.0.0.0 dfyouolsdq.com
+0.0.0.0 dfzv25.com
 0.0.0.0 dg.champion-compressors.com
 0.0.0.0 dg.compair.com
 0.0.0.0 dg.durgahsursize.com
@@ -24751,6 +24754,7 @@
 0.0.0.0 hplrqg.interflora.fr
 0.0.0.0 hpmarzhnny.com
 0.0.0.0 hpmhvni.cn
+0.0.0.0 hppmy.cn
 0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hptechnology.arrow.com
 0.0.0.0 hpwqsjpkbiixue.com
@@ -27195,6 +27199,7 @@
 0.0.0.0 jigsawthirsty.com
 0.0.0.0 jijcyb.competitivecyclist.com
 0.0.0.0 jijunlongchengxinxi.cn
+0.0.0.0 jike001.top
 0.0.0.0 jikicotho.pro
 0.0.0.0 jiktq0fr9hv6.meleton.ru
 0.0.0.0 jikyjuu6.xsuffer.com
@@ -38672,6 +38677,7 @@
 0.0.0.0 qbcydxr.cn
 0.0.0.0 qbd1.site
 0.0.0.0 qbd2.site
+0.0.0.0 qbd3.site
 0.0.0.0 qbgrmsk.cn
 0.0.0.0 qbhdn.com
 0.0.0.0 qbj8.com
@@ -40611,6 +40617,7 @@
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rtty.in
 0.0.0.0 rtunitytostar.com
+0.0.0.0 rtycgmz.cn
 0.0.0.0 rtyvaluation.shop
 0.0.0.0 rtyznd.com
 0.0.0.0 rtzhao.site
@@ -46440,6 +46447,7 @@
 0.0.0.0 stat.alloha.tv
 0.0.0.0 stat.altalex.com
 0.0.0.0 stat.analytiall.com
+0.0.0.0 stat.arzamas.academy
 0.0.0.0 stat.bdc.ca
 0.0.0.0 stat.bill.harding.blog
 0.0.0.0 stat.botdetector.ru
@@ -48594,6 +48602,7 @@
 0.0.0.0 tan1dian.com
 0.0.0.0 tandap.dupont.com
 0.0.0.0 tanggoushequ.xyz
+0.0.0.0 tanghao.club
 0.0.0.0 tangiblewhereuponprestige.com
 0.0.0.0 tangkai.ltd
 0.0.0.0 tangli.ltd
@@ -49260,6 +49269,7 @@
 0.0.0.0 thitsiryke.live
 0.0.0.0 thj.astrakhan.ru
 0.0.0.0 thkxtvklfdeget.com
+0.0.0.0 thlnbzi.cn
 0.0.0.0 thnqemehtyfe.com
 0.0.0.0 thoaltie.net
 0.0.0.0 thoamike.xyz
@@ -52410,6 +52420,7 @@
 0.0.0.0 tvprocessing.com
 0.0.0.0 tvw8edxhpf.ru
 0.0.0.0 tvxetxjvobm.com
+0.0.0.0 tvxqdp.xyz
 0.0.0.0 tw-go.experian.com
 0.0.0.0 tw.promo.skf.com
 0.0.0.0 twadakesi.cyou
@@ -54164,6 +54175,7 @@
 0.0.0.0 w7.weihnachteninberlin.de
 0.0.0.0 w716eb02n9.ru
 0.0.0.0 w740.newstimes.com
+0.0.0.0 w80n.fun
 0.0.0.0 w88.go.com
 0.0.0.0 w88.m.espn.go.com
 0.0.0.0 w88.natgeotv.com
@@ -55856,6 +55868,7 @@
 0.0.0.0 xebadu.com
 0.0.0.0 xegluwate.com
 0.0.0.0 xeihy.com
+0.0.0.0 xeiyt.cyou
 0.0.0.0 xejevl.newchic.com
 0.0.0.0 xekjzy.rinascente.it
 0.0.0.0 xektyy.cn
@@ -57438,6 +57451,7 @@
 0.0.0.0 zcoptry.com
 0.0.0.0 zcrtd.com
 0.0.0.0 zcrui.com
+0.0.0.0 zczcvx.com
 0.0.0.0 zd.plattedrattons.com
 0.0.0.0 zdajdudqfq.com
 0.0.0.0 zdbb.net

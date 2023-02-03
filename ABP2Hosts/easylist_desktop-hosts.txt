@@ -1,4 +1,4 @@
-# Fri Feb  3 01:05:23 AM UTC 2023
+# Fri Feb  3 08:44:46 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -10927,6 +10927,7 @@
 0.0.0.0 collect.allianz.ch
 0.0.0.0 collect.allianzcinema.ch
 0.0.0.0 collect.allianzdriveincinema.ch
+0.0.0.0 collect.alphastream.io
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.cap.ch
@@ -13511,11 +13512,13 @@
 0.0.0.0 dfncojkle.xyz
 0.0.0.0 dfpdz.top
 0.0.0.0 dfpstitialtag.com
+0.0.0.0 dfsd22.com
 0.0.0.0 dfseafood.com
 0.0.0.0 dfsvhv88.com
 0.0.0.0 dfthplx.net
 0.0.0.0 dfwskw7.com
 0.0.0.0 dfyouolsdq.com
+0.0.0.0 dfzv25.com
 0.0.0.0 dg.compair.com
 0.0.0.0 dg.irco.com
 0.0.0.0 dgafgadsgkjg.top
@@ -17275,6 +17278,7 @@
 0.0.0.0 fpxau.net
 0.0.0.0 fpxewa.ilmeteo.it
 0.0.0.0 fq9vy0muyqi3.www.madrigalmaps.com
+0.0.0.0 fqla.top
 0.0.0.0 fqsokh.xyz
 0.0.0.0 fqtra.com
 0.0.0.0 fqujub.hema.com
@@ -21795,6 +21799,7 @@
 0.0.0.0 jigsawhybrid.com
 0.0.0.0 jigsawthirsty.com
 0.0.0.0 jijunlongchengxinxi.cn
+0.0.0.0 jike001.top
 0.0.0.0 jikicotho.pro
 0.0.0.0 jiliw.com
 0.0.0.0 jill.fc.yahoo.com
@@ -31291,6 +31296,7 @@
 0.0.0.0 qbcydxr.cn
 0.0.0.0 qbd1.site
 0.0.0.0 qbd2.site
+0.0.0.0 qbd3.site
 0.0.0.0 qbgrmsk.cn
 0.0.0.0 qbgvgw.angeloni.com.br
 0.0.0.0 qbhdn.com
@@ -34430,6 +34436,7 @@
 0.0.0.0 serialwarning.com
 0.0.0.0 seriy2sviter11o9.com
 0.0.0.0 serpentdusks.com
+0.0.0.0 serpentshampoo.com
 0.0.0.0 serumbosses.com
 0.0.0.0 serv01001.xyz
 0.0.0.0 serv1swork.com
@@ -38794,6 +38801,7 @@
 0.0.0.0 tamperstationerycultivate.com
 0.0.0.0 tan1dian.com
 0.0.0.0 tanggoushequ.xyz
+0.0.0.0 tanghao.club
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangiblewhereuponprestige.com
 0.0.0.0 tangkai.ltd
@@ -39394,6 +39402,7 @@
 0.0.0.0 thispositionw.biz
 0.0.0.0 thitsiryke.live
 0.0.0.0 thkxtvklfdeget.com
+0.0.0.0 thlnbzi.cn
 0.0.0.0 thnqemehtyfe.com
 0.0.0.0 thoaltie.net
 0.0.0.0 thoamike.xyz
@@ -43148,6 +43157,7 @@
 0.0.0.0 w7.weihnachteninberlin.de
 0.0.0.0 w717.com
 0.0.0.0 w740.newstimes.com
+0.0.0.0 w80n.fun
 0.0.0.0 w88.abc.com
 0.0.0.0 w88.disneynow.com
 0.0.0.0 w88.go.com
@@ -44918,6 +44928,7 @@
 0.0.0.0 xeclick.com
 0.0.0.0 xegluwate.com
 0.0.0.0 xeihy.com
+0.0.0.0 xeiyt.cyou
 0.0.0.0 xektyy.cn
 0.0.0.0 xel-xel-fie.com
 0.0.0.0 xelllwrite.com
@@ -46047,6 +46058,7 @@
 0.0.0.0 zcoptry.com
 0.0.0.0 zcrtd.com
 0.0.0.0 zcrui.com
+0.0.0.0 zczcvx.com
 0.0.0.0 zd05urtrpr.space
 0.0.0.0 zdajdudqfq.com
 0.0.0.0 zdbb.net

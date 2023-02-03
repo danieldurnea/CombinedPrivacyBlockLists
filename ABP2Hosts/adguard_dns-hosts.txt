@@ -1,4 +1,4 @@
-# Fri Feb  3 01:05:37 AM UTC 2023
+# Fri Feb  3 08:44:58 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -4680,6 +4680,7 @@
 0.0.0.0 ahaurgoo.net
 0.0.0.0 ahbdsply.com
 0.0.0.0 ahcdsply.com
+0.0.0.0 ahclyq.xyz
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 ahdytiyc.xyz
 0.0.0.0 ahdyvor.cn
@@ -11492,6 +11493,7 @@
 0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.albacross.com
+0.0.0.0 collect.alphastream.io
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.babybus.com
 0.0.0.0 collect.banggood.com
@@ -14214,10 +14216,12 @@
 0.0.0.0 dfnetwork.link
 0.0.0.0 dfpdz.top
 0.0.0.0 dfpstitialtag.com
+0.0.0.0 dfsd22.com
 0.0.0.0 dfseafood.com
 0.0.0.0 dfsvhv88.com
 0.0.0.0 dfwskw7.com
 0.0.0.0 dfyouolsdq.com
+0.0.0.0 dfzv25.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dgaoz.com
 0.0.0.0 dgbaozhuang.cn
@@ -20974,6 +20978,7 @@
 0.0.0.0 hpk42r7a.de
 0.0.0.0 hpmarzhnny.com
 0.0.0.0 hpmhvni.cn
+0.0.0.0 hppmy.cn
 0.0.0.0 hppvkbfcuq.com
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 hprofits.com
@@ -22992,6 +22997,7 @@
 0.0.0.0 jigsawhybrid.com
 0.0.0.0 jigsawthirsty.com
 0.0.0.0 jijunlongchengxinxi.cn
+0.0.0.0 jike001.top
 0.0.0.0 jikicotho.pro
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jillbuildertuck.com
@@ -33200,6 +33206,7 @@
 0.0.0.0 qbcydxr.cn
 0.0.0.0 qbd1.site
 0.0.0.0 qbd2.site
+0.0.0.0 qbd3.site
 0.0.0.0 qbgrmsk.cn
 0.0.0.0 qbhdn.com
 0.0.0.0 qbhyczr5hw.ru
@@ -35215,6 +35222,7 @@
 0.0.0.0 rtty.in
 0.0.0.0 rtunitytostar.com
 0.0.0.0 rtxpx-a.akamaihd.net
+0.0.0.0 rtycgmz.cn
 0.0.0.0 rtyvaluation.shop
 0.0.0.0 rtyznd.com
 0.0.0.0 rtzhao.site
@@ -36278,6 +36286,7 @@
 0.0.0.0 seriy2sviter11o9.com
 0.0.0.0 serl.mooo.com
 0.0.0.0 serpentdusks.com
+0.0.0.0 serpentshampoo.com
 0.0.0.0 sersh.com
 0.0.0.0 serumbosses.com
 0.0.0.0 serv-ac.com
@@ -39580,6 +39589,7 @@
 0.0.0.0 tangankanan.net
 0.0.0.0 tangerine.io
 0.0.0.0 tanggoushequ.xyz
+0.0.0.0 tanghao.club
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangiblewhereuponprestige.com
 0.0.0.0 tangkai.ltd
@@ -40221,6 +40231,7 @@
 0.0.0.0 thitsiryke.live
 0.0.0.0 thj.astrakhan.ru
 0.0.0.0 thkxtvklfdeget.com
+0.0.0.0 thlnbzi.cn
 0.0.0.0 thnqemehtyfe.com
 0.0.0.0 thoaltie.net
 0.0.0.0 thoamike.xyz
@@ -42080,6 +42091,7 @@
 0.0.0.0 tvsquared.com
 0.0.0.0 tvw8edxhpf.ru
 0.0.0.0 tvxetxjvobm.com
+0.0.0.0 tvxqdp.xyz
 0.0.0.0 tw-api.vpon.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 twadakesi.cyou
@@ -44022,6 +44034,7 @@
 0.0.0.0 w6gis5.com
 0.0.0.0 w716eb02n9.ru
 0.0.0.0 w740.newstimes.com
+0.0.0.0 w80n.fun
 0.0.0.0 w88.go.com
 0.0.0.0 w982.middletownpress.com
 0.0.0.0 w99megeneral.com
@@ -45517,6 +45530,7 @@
 0.0.0.0 xebadu.com
 0.0.0.0 xegluwate.com
 0.0.0.0 xeihy.com
+0.0.0.0 xeiyt.cyou
 0.0.0.0 xektyy.cn
 0.0.0.0 xel-xel-fie.com
 0.0.0.0 xelllwrite.com
@@ -46756,6 +46770,7 @@
 0.0.0.0 zabanit.xyz
 0.0.0.0 zacao.wang
 0.0.0.0 zadauque.net
+0.0.0.0 zads.me.zing.vn
 0.0.0.0 zaeavr.com
 0.0.0.0 zaebaladblock.ru
 0.0.0.0 zaehler.tv
@@ -46840,6 +46855,7 @@
 0.0.0.0 zcp.zwame.pt
 0.0.0.0 zcrtd.com
 0.0.0.0 zcrui.com
+0.0.0.0 zczcvx.com
 0.0.0.0 zdajdudqfq.com
 0.0.0.0 zdenochary.com
 0.0.0.0 zdhfff.xyz
@@ -47276,6 +47292,7 @@
 0.0.0.0 zsxrhkrfwwv.com
 0.0.0.0 zsyk91.cn
 0.0.0.0 zt-uc-baidu.cc
+0.0.0.0 zt.me.zing.vn
 0.0.0.0 zt1.me.zing.vn
 0.0.0.0 zt2088.com
 0.0.0.0 zt5g.top
