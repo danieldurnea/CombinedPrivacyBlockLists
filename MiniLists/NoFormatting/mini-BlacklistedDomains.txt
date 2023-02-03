@@ -8013,7 +8013,6 @@ ads-api.ft.com
 ads-api.playfun.vn
 ads-api.tiktok.com
 ads-api.twitter.com
-ads-au.onelouder.com
 ads-b-480313385.us-west-1.elb.amazonaws.com
 ads-backend.nhadatmoi.net
 ads-bi.zenkube.com
@@ -8078,7 +8077,6 @@ ads-p-us-east-1.undertone.com
 ads-p-us-west-1.undertone.com
 ads-partners.coupang.com
 ads-pebblemedia.adhese.com
-ads-pictela-net.geo.adtechus.com
 ads-pixiv.net
 ads-privacy-api.prd.mz.internal.unity3d.com
 ads-pt.spotify.com
@@ -9017,7 +9015,6 @@ ads.lifethink.net
 ads.link4ads.com
 ads.linkara.com
 ads.linkedin.com
-ads.linkshrink.net
 ads.linktracking.net
 ads.linuxfoundation.org
 ads.linuxjournal.com
@@ -10238,14 +10235,12 @@ adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com
 adserver-clarium-1718981494.us-west-1.elb.amazonaws.com
 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 adserver-e7.com
-adserver-east.adtechus.com
 adserver-east.extend.tv
 adserver-espnet.sportszone.com
 adserver-espnet.sportszone.net
 adserver-eu.adtech.advertising.com
 adserver-images.adikteev.com
 adserver-live.yoc.mobi
-adserver-qcmtc.adtechus.com
 adserver-toy.adtechjp.com
 adserver-us.adtech.advertising.com
 adserver-voice-online.co.uk
@@ -16383,6 +16378,7 @@ arrassley.info
 arraypot.xyz
 arrayzonebd.com
 arrenothanca.xyz
+arriaza.net
 arridedoregano.tech
 arriedand.xyz
 arrietty.nrj.fr
@@ -20900,6 +20896,7 @@ bntxt.com
 bnux.store
 bnvxcfhdgf.blogspot.com.es
 bnzkua.trussardi.com.br
+bo-projects.com
 bo.goadservices.com
 bo.jumptap.com
 bo2ffe45ss4gie.com
@@ -26378,7 +26375,6 @@ coconutsoftenedput.com
 coconutsumptuousreseptivereseptive.com
 cocoon-logistics.com
 cocoonelectronicsconfined.com
-cocostrunket.com
 cod.bitrec.com
 cod.southmoney.com
 codata.ru
@@ -26616,6 +26612,7 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect.alphastream.io
 collect.analytics.unity3d.com
 collect.asics.com
 collect.babybus.com
@@ -30190,6 +30187,7 @@ data-beacons.s-onetag.com
 data-collect-337392791.ap-northeast-2.elb.amazonaws.com
 data-data-vac.com
 data-failover.eroadvertising.com
+data-file-data-7.com
 data-fold.org
 data-id.ads.oppomobile.com
 data-location.enhance.co
@@ -30602,6 +30600,7 @@ dc08i221b0n8a.cloudfront.net
 dc1199.com
 dc414.4sync.com
 dc442.4sync.com
+dc541.4sync.com
 dc545.4sync.com
 dc56.s290.meetrics.net
 dc5ig2fc8lg83.cloudfront.net
@@ -31447,6 +31446,7 @@ dfp.bouncex.net
 dfp.doubleclick.net
 dfpdz.top
 dfpstitialtag.com
+dfsd22.com
 dfseafood.com
 dfsfgsdfg.pw
 dfsvhv88.com
@@ -31455,6 +31455,7 @@ dfthplx.net
 dfwskw7.com
 dfwsocialmediaservices.com
 dfyouolsdq.com
+dfzv25.com
 dg.compair.com
 dg.irco.com
 dg.specificclick.net
@@ -36617,7 +36618,6 @@ eventsinkansai.com
 eventstream.dodopizza.com
 eventtm.cfd
 eventtracker.videostrip.com
-eventtracking.omarsys.com
 eventuallybraid.com
 evenuewasadi.xyz
 evenui.com
@@ -39187,6 +39187,7 @@ fpvdxd5.com
 fpxau.net
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
+fqla.top
 fqsokh.xyz
 fqtag.com
 fqtra.com
@@ -48836,6 +48837,7 @@ jih465flash.com
 jijsonline.112.2o7.net
 jijsonline.122.2o7.net
 jijunlongchengxinxi.cn
+jike001.top
 jikenick12and67.com
 jikicotho.pro
 jiktnv.122.2o7.net
@@ -49883,7 +49885,6 @@ k67lxl.space
 k68tkg.com
 k77hof1z7k.com
 k99.cc
-k9designstudio.com
 ka.display.ad.daum.net
 ka.ilius.net
 ka185ly.site
@@ -53654,7 +53655,6 @@ log.tinnhanhchungkhoan.vn
 log.tinxe.vn
 log.toss.vn
 log.tpns.tencent.com
-log.trackad.cz
 log.trackingio.com
 log.trithuctructuyen.com.vn
 log.trithuctructuyen.vn
@@ -58330,6 +58330,7 @@ mobad.ijinshan.com
 mobads-logs.baidu.com
 mobads.baidu.com
 mobads4app.com
+mobadvent.com
 mobagent.com
 mobalert.net
 mobapeople.com
@@ -60669,7 +60670,6 @@ newerrorforwindows405.club
 newfeatureview.perfectionholic.com
 newfield-us.info
 newfind.cloudns.cl
-newgoplus.com
 newhigee.net
 newhomescville.com
 newir3ltyug79aiman.com
@@ -68513,7 +68513,6 @@ purpleads.io
 purplecode.pro
 purpleflag.net
 purplepatch.online
-purposedesigns.net
 pursedistraught.com
 pursuingconjunction.com
 pursuitnauseousinvalid.com
@@ -68946,6 +68945,7 @@ qbc1.cn
 qbcydxr.cn
 qbd1.site
 qbd2.site
+qbd3.site
 qbgrmsk.cn
 qbgvgw.angeloni.com.br
 qbhdn.com
@@ -75351,6 +75351,7 @@ sernoticia.com.do
 serpens.iad-01.braze.com
 serpens.iad.appboy.com
 serpentdusks.com
+serpentshampoo.com
 serralheriacic.com.br
 sertificatkey.com
 serumbosses.com
@@ -83213,6 +83214,7 @@ tanerm.ug
 tanganrss.com
 tangerinenet.biz
 tanggoushequ.xyz
+tanghao.club
 tangibleteam.com
 tangiblewhereuponprestige.com
 tangkai.ltd
@@ -84425,6 +84427,7 @@ thismetric.com
 thispositionw.biz
 thitsiryke.live
 thkxtvklfdeget.com
+thlnbzi.cn
 thmqyo.com
 thnqemehtyfe.com
 thoaltie.net
@@ -84496,6 +84499,7 @@ thsrh.xyz
 thterras.com
 thuanmimamsa.com
 thuary.com
+thuexevanphong.com
 thugesh.cf
 thujo.com
 thumbnail.smartnews-ads.com
@@ -86527,7 +86531,6 @@ track.cordial.io
 track.couponinu.net
 track.cpamatica.com
 track.cpatool.net
-track.cpitraffic.com
 track.cracked.com
 track.crumobiapps.com
 track.customer.io
@@ -92403,6 +92406,7 @@ w7.weihnachteninberlin.de
 w717.com
 w740.newstimes.com
 w8.hitbox.com
+w80n.fun
 w88.abc.com
 w88.disneynow.com
 w88.go.com
@@ -93484,7 +93488,6 @@ whoutsog.net
 whouvike.com
 whowhipi.net
 whpqvmaxr.xyz
-whpstapp.top
 whqxj.xyz
 whrc.xyz
 whs82908.com
@@ -95739,6 +95742,7 @@ www.deng3rada.com
 www.dens1raec.com
 www.dental.xiaoxiao.media
 www.deployads.com
+www.destinocuenca.com
 www.develop.net.zooplus.es
 www.device9.com
 www.device9.net
@@ -97484,6 +97488,7 @@ xegust7.ml
 xegust7.tk
 xegust8.cf
 xeihy.com
+xeiyt.cyou
 xektyy.cn
 xel-xel-fie.com
 xelllwrite.com
@@ -98497,7 +98502,6 @@ yan.zhouguanchen.com
 yanarascla.com
 yanbenji.cn
 yandepit.com
-yandex.st
 yandexadexchange.net
 yang.hitbox.com
 yang123.ltd
@@ -99567,6 +99571,7 @@ zacao.wang
 zaczvk.pl
 zadauque.net
 zadehgallery.com
+zads.me.zing.vn
 zads.zedo.com
 zaemaropiteds.cf
 zaemaropiteds.ga
@@ -99668,6 +99673,7 @@ zcoup.com
 zcrtd.com
 zcrui.com
 zctrack.com
+zczcvx.com
 zd05urtrpr.space
 zdads.e-media.com
 zdajdudqfq.com
