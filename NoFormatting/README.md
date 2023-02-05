@@ -13,6 +13,8 @@ Within this directory are the following items:
 
 - A plain list of [the domains blocked by my main hosts files](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt).  
 
+- The [wildcard version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) of my main hosts file, complete with FQDN-reduction / TLD-optimization.  
+
 - Stripped down [IPv4](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hosts.final) and [IPv6-only](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hostsIPv6.final) hosts files which - aside from formatting - contain the same data as the hosts files mentioned on the main readme of this repository.  
 
 - The optimized Windows hosts files ([12](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/optimized-win.hosts), [13](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/optimized-win-Dual.hosts)) mentioned on the [main readme](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/README.md) of this repository.  
