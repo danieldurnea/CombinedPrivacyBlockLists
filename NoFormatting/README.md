@@ -1,7 +1,7 @@
 # Additional Supplementary and Miscellaneous Content
 Within this directory are the following items:  
 
-- A [document covering recommendations and preferences](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/prefsandrecs.md) related to my lists, filtering software, and related topics. This will be expanded and modified from time-to-time, though I only intend it to cover a few basic areas.
+- A [document covering recommendations and preferences](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/prefsandrecs.md) related to my lists, filtering software, and some other topics. This will be expanded and modified from time-to-time, though I only intend it to cover a few basic areas.
 
 - Backups of the Immortal Malware Domain List in [hosts](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Misc/MD-Immortal_Domains-Backup-HOSTS.txt) and [plain domain](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Misc/MD-Immortal_Domains-Backup.txt) formats, along with my actively maintained forks thereof ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-H-Fork.txt)). Included in my main hosts files.  
 
