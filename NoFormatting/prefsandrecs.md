@@ -49,3 +49,10 @@ Web Browsers:
 - [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 
 <sub>Items with a "+" require a notable amount of manual configuration to be truly respecting of user privacy, but once this is done they are more than adequate choices for users who value this. I prefer IceCat and Brave under GNU/Linux; Firefox and Brave when I am forced to use Windows or OS X; Brave and Mull under Android. Additionally, I like NetSurf for reading long articles and working on websites which don't employ complex JavaScript. I think the Falkon project is wonderful as well, so I keep it around on some machines for testing. I also test my Bromite filter list in Bromite every few weeks, but the browser is not flexible enough to warrant my using it as a daily driver.</sub>
+
+---
+VPN Services:
+- [Mullvad](https://mullvad.net/)
+- [Froot](https://frootvpn.com/)
+
+<sub>I rarely use commercial VPNs outside of travel situations, but these two have proven to be the most reliable and least problematic for me, with both supporting OpenVPN + WireGuard. Highly recommended. There are a handful of free providers I would love to mention, but never will, as to not add weight to their already burdensome maintenance efforts. [Orchid](https://www.orchid.com/how-it-works/) is worth looking at as well, but not for the average user.</sub>
