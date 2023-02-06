@@ -55,4 +55,4 @@ VPN Services:
 - [Mullvad](https://mullvad.net/)
 - [Froot](https://frootvpn.com/)
 
-<sub>I rarely use commercial VPNs outside of travel situations, but these two have proven to be the most reliable and least problematic for me, with both supporting OpenVPN + WireGuard. Highly recommended. There are a handful of free providers I would love to mention, but never will, as to not add weight to their already burdensome maintenance efforts. [Orchid](https://www.orchid.com/how-it-works/) is worth looking at as well, but not for the average user.</sub>
+<sub>I rarely use commercial VPNs outside of travel situations, but these two have proven to be the most reliable and least problematic for me, with both supporting OpenVPN + WireGuard. Highly recommended. There are a handful of free providers I would love to mention, but never will, as to not throw weight upon their already burdensome maintenance efforts. [Orchid](https://www.orchid.com/how-it-works/) is worth looking at as well, but not for the average user.</sub>
