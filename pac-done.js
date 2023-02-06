@@ -1,4 +1,4 @@
-// **** Mon Feb  6 09:17:29 PM UTC 2023
+// **** Mon Feb  6 09:51:15 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -41566,7 +41566,6 @@ shExpMatch(host, "*.unlocknokialumia.info") ||
 shExpMatch(host, "*.unlockphone.me") ||
 shExpMatch(host, "*.unlocksimphone.com") ||
 shExpMatch(host, "*.unlokd.net") ||
-shExpMatch(host, "*.unmineable.com") ||
 shExpMatch(host, "*.unnaturalcaption.com") ||
 shExpMatch(host, "*.unnews.freetcp.com") ||
 shExpMatch(host, "*.unnok.biz") ||
@@ -86930,7 +86929,6 @@ shExpMatch(host, "unlocknokialumia.info") ||
 shExpMatch(host, "unlockphone.me") ||
 shExpMatch(host, "unlocksimphone.com") ||
 shExpMatch(host, "unlokd.net") ||
-shExpMatch(host, "unmineable.com") ||
 shExpMatch(host, "unnaturalcaption.com") ||
 shExpMatch(host, "unnews.freetcp.com") ||
 shExpMatch(host, "unnok.biz") ||

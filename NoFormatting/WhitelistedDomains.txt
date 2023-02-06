@@ -466,6 +466,7 @@ rethinkdns.com
 richmedia.channeladvisor.com
 rolo.nocdnrlly.xyz
 rpxnow.com
+rx.unmineable.com
 s.gateway.messenger.live.com
 s.marketwatch.com
 s.swiftypecdn.com
@@ -582,6 +583,7 @@ ui.skype.com
 ulink.adjust.com
 unagi-na.amazon.com
 unity3d.com
+unmineable.com
 unpkg.com
 upload.twitter.com
 urbanairship.com

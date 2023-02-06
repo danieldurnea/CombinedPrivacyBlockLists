@@ -230,6 +230,7 @@
 ^(www\.)?typography\.com$
 ^(www\.)?udemy\.com$
 ^(www\.)?unity3d\.com$
+^(www\.)?unmineable\.com$
 ^(www\.)?unpkg\.com$
 ^(www\.)?urbanairship\.com$
 ^(www\.)?usps\.com$
@@ -541,6 +542,7 @@
 ^res\.cloudinary\.com$
 ^richmedia\.channeladvisor\.com$
 ^rolo\.nocdnrlly\.xyz$
+^rx\.unmineable\.com$
 ^s0\.2mdn\.net$
 ^s3-eu-west-1\.amazonaws\.com$
 ^s3-iad-ww\.cf\.videorolls\.row\.aiv-cdn\.net$

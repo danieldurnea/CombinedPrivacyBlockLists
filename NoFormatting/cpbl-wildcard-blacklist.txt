@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/06/23~21:37:07 -~
+# ~- 02/06/23~21:51:11 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -106878,7 +106878,6 @@
 *.unmanedstele.com
 *.unmarine.info
 *.unmetalised.com
-*.unmineable.com
 *.unmnkkq.cn
 *.unmovedfollycomb.com
 *.unnatural-situation.pro

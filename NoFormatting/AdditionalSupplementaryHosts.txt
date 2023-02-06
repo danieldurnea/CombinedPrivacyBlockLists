@@ -31302,7 +31302,6 @@
 0.0.0.0 rwhgrosewoodhotelsprod.112.2o7.net
 0.0.0.0 rws.a8.net
 0.0.0.0 rx-stats3.unrulymedia.com
-0.0.0.0 rx.unmineable.com
 0.0.0.0 rycertaine.top
 0.0.0.0 rygust.ml
 0.0.0.0 rygust.tk
@@ -37904,7 +37903,6 @@
 0.0.0.0 unlaca.net
 0.0.0.0 unlaca.org
 0.0.0.0 unlockingdreamsfinancial.com
-0.0.0.0 unmineable.com
 0.0.0.0 unnaturalcaption.com
 0.0.0.0 unnews.freetcp.com
 0.0.0.0 unnourished-region.000webhostapp.com
