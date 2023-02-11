@@ -1,4 +1,4 @@
-// **** Sat Feb 11 12:19:23 AM UTC 2023
+// **** Sat Feb 11 04:41:30 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -21627,6 +21627,7 @@ shExpMatch(host, "*.metrics.steelcase.com") ||
 shExpMatch(host, "*.metrics.strato.de") ||
 shExpMatch(host, "*.metrics.sun.com") ||
 shExpMatch(host, "*.metrics.syf.com") ||
+shExpMatch(host, "*.metrics.target.com") ||
 shExpMatch(host, "*.metrics.td.com") ||
 shExpMatch(host, "*.metrics.ted.com") ||
 shExpMatch(host, "*.metrics.telegraph.co.uk") ||
@@ -30796,7 +30797,6 @@ shExpMatch(host, "*.target.bose.com") ||
 shExpMatch(host, "*.target.cap.ch") ||
 shExpMatch(host, "*.target.chrysler.com") ||
 shExpMatch(host, "*.target.cisco.com") ||
-shExpMatch(host, "*.target.com") ||
 shExpMatch(host, "*.target.cox.com") ||
 shExpMatch(host, "*.target.css.ch") ||
 shExpMatch(host, "*.target.dodge.com") ||
@@ -58036,6 +58036,7 @@ shExpMatch(host, "metrics.steelcase.com") ||
 shExpMatch(host, "metrics.strato.de") ||
 shExpMatch(host, "metrics.sun.com") ||
 shExpMatch(host, "metrics.syf.com") ||
+shExpMatch(host, "metrics.target.com") ||
 shExpMatch(host, "metrics.td.com") ||
 shExpMatch(host, "metrics.ted.com") ||
 shExpMatch(host, "metrics.telegraph.co.uk") ||
@@ -67205,7 +67206,6 @@ shExpMatch(host, "target.bose.com") ||
 shExpMatch(host, "target.cap.ch") ||
 shExpMatch(host, "target.chrysler.com") ||
 shExpMatch(host, "target.cisco.com") ||
-shExpMatch(host, "target.com") ||
 shExpMatch(host, "target.cox.com") ||
 shExpMatch(host, "target.css.ch") ||
 shExpMatch(host, "target.dodge.com") ||
