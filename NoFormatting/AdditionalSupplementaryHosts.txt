@@ -5437,6 +5437,7 @@
 0.0.0.0 advack.net
 0.0.0.0 advaction.ru
 0.0.0.0 advaliant.com
+0.0.0.0 advancecashloans.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advancedcleaner.com
 0.0.0.0 advancedigital-d.openx.net
@@ -8006,6 +8007,7 @@
 0.0.0.0 app.adtrace.io
 0.0.0.0 app.adywind.com
 0.0.0.0 app.bugsnag.com
+0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.clickyab.com
 0.0.0.0 app.content.ad
 0.0.0.0 app.ethicalads.io
@@ -11925,6 +11927,9 @@
 0.0.0.0 click.wisewire.com
 0.0.0.0 click2click.xyz
 0.0.0.0 click2freemoney.com
+0.0.0.0 click2net.nl
+0.0.0.0 click2paid.com
+0.0.0.0 click4cash.de
 0.0.0.0 clickability.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickadz.com
@@ -12980,6 +12985,8 @@
 0.0.0.0 cpm.adbite.com
 0.0.0.0 cpm.adjux.com
 0.0.0.0 cpm.adsolut.in
+0.0.0.0 cpm.ak-is2.net
+0.0.0.0 cpm.catapultx.com
 0.0.0.0 cpm.pwr-ads.com
 0.0.0.0 cpmadvisors.com
 0.0.0.0 cpmly.com
@@ -17338,6 +17345,7 @@
 0.0.0.0 frtyhyyttrtrreee.xyz
 0.0.0.0 frtyj.com
 0.0.0.0 fs-client-logger.herokuapp.com
+0.0.0.0 fs.ak-is2.net
 0.0.0.0 fs.moatads.com
 0.0.0.0 fsafakfskane.net
 0.0.0.0 fsitel.com
@@ -22919,6 +22927,7 @@
 0.0.0.0 liveadclicks.com
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveads.jp
+0.0.0.0 liveadvert.com
 0.0.0.0 liveclicker.net
 0.0.0.0 livedealcom.112.2o7.net
 0.0.0.0 livedoor-plus.com
@@ -27940,6 +27949,7 @@
 0.0.0.0 paxens.live
 0.0.0.0 paxon.live
 0.0.0.0 pay-ads.com
+0.0.0.0 pay-israel.com
 0.0.0.0 pay-testing.spotify.com
 0.0.0.0 pay-tm-partner.in
 0.0.0.0 pay.avastart.ir
@@ -28602,6 +28612,7 @@
 0.0.0.0 platform-metrics-api.sharethis.com
 0.0.0.0 platform.adright.com
 0.0.0.0 platform.cloud-iq.com.au
+0.0.0.0 platform.datazoom.io
 0.0.0.0 plauditeig.com
 0.0.0.0 play.adsparc.com
 0.0.0.0 play.entretenimientolz.com
@@ -31541,6 +31552,7 @@
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung-drivers.xyz
 0.0.0.0 samsungacr.com
+0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
 0.0.0.0 samuelkerns.com
@@ -37735,6 +37747,7 @@
 0.0.0.0 umstat.com
 0.0.0.0 umtrack.com
 0.0.0.0 un0.k1ristri.ru
+0.0.0.0 unagi.amazon.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 unc0ver.vip
@@ -41488,6 +41501,7 @@
 0.0.0.0 xml-eu.adright.co
 0.0.0.0 xml-eu.adxfactory.com
 0.0.0.0 xml-eu.adzestocp.com
+0.0.0.0 xml-eu.ak-is2.net
 0.0.0.0 xml-eu.netload1.com
 0.0.0.0 xml-g.adservme.com
 0.0.0.0 xml-v4.adcannyxml.com
@@ -41495,6 +41509,7 @@
 0.0.0.0 xml-v4.adzvigo.com
 0.0.0.0 xml-v4.netload1.com
 0.0.0.0 xml-v4.pwr-ads.com
+0.0.0.0 xml-v6.ak-is2.net
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adcannybid.com
 0.0.0.0 xml.adcannyxml.com
@@ -41541,6 +41556,7 @@
 0.0.0.0 xml.adzestocp.com
 0.0.0.0 xml.adzgame.com
 0.0.0.0 xml.affiliate.rakuten.co.jp
+0.0.0.0 xml.ak-is2.net
 0.0.0.0 xml.ak-tracker.com
 0.0.0.0 xml.boffoadsfeeds.com
 0.0.0.0 xml.explorads.com
@@ -41715,6 +41731,7 @@
 0.0.0.0 xr8wv50k1daj.com
 0.0.0.0 xrgrymutlq.com
 0.0.0.0 xrjlmyhds.info
+0.0.0.0 xs.ak-is2.net
 0.0.0.0 xsaudix.net
 0.0.0.0 xseed-digital.jp
 0.0.0.0 xsharenode.com
