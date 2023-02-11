@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/11/23~04:20:55 -~
+# ~- 02/11/23~04:34:21 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -114333,7 +114333,6 @@ ff02::2 ip6-allrouters
 :: target.chase.com
 :: target.chrysler.com
 :: target.cisco.com
-:: target.com
 :: target.cox.com
 :: target.css.ch
 :: target.dodge.com

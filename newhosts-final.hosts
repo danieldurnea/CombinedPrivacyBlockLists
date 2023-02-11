@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/11/23~04:20:53 -~
+# ~- 02/11/23~04:34:19 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -114333,7 +114333,6 @@
 0.0.0.0 target.chase.com
 0.0.0.0 target.chrysler.com
 0.0.0.0 target.cisco.com
-0.0.0.0 target.com
 0.0.0.0 target.cox.com
 0.0.0.0 target.css.ch
 0.0.0.0 target.dodge.com
