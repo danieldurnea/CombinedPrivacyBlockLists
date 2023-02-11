@@ -50,6 +50,7 @@
 ^(www\.)?bleacherreport\.com$
 ^(www\.)?blokada\.org$
 ^(www\.)?bluebillywig\.com$
+^(www\.)?bravedns\.com$
 ^(www\.)?brightcove\.net$
 ^(www\.)?campaign-archive\.com$
 ^(www\.)?clamav\.net$
@@ -66,6 +67,7 @@
 ^(www\.)?db\.tt$
 ^(www\.)?directvnow\.com$
 ^(www\.)?discovery\.com$
+^(www\.)?dnswarden\.com$
 ^(www\.)?dropbox\.com$
 ^(www\.)?dropboxapi\.com$
 ^(www\.)?dropboxbusiness\.com$
@@ -93,6 +95,7 @@
 ^(www\.)?fide\.com$
 ^(www\.)?fiverr\.com$
 ^(www\.)?flipboard\.com$
+^(www\.)?footlocker\.com$
 ^(www\.)?forbes\.com$
 ^(www\.)?gameanalytics\.com$
 ^(www\.)?ge\.tt$
@@ -133,6 +136,7 @@
 ^(www\.)?jwplatform\.com$
 ^(www\.)?jwplayer\.com$
 ^(www\.)?jwpltx\.com$
+^(www\.)?kingdomofloathing\.com$
 ^(www\.)?kumascans\.com$
 ^(www\.)?letsencrypt\.org$
 ^(www\.)?lightboxcdn\.com$
@@ -150,6 +154,7 @@
 ^(www\.)?neocities\.org$
 ^(www\.)?neostrada\.nl$
 ^(www\.)?netflix\.com$
+^(www\.)?newworldencyclopedia\.org$
 ^(www\.)?nextdns\.io$
 ^(www\.)?nitroflare\.com$
 ^(www\.)?nj\.com$
@@ -198,12 +203,14 @@
 ^(www\.)?smartasset\.com$
 ^(www\.)?someonewhocares\.org$
 ^(www\.)?soundcloud\.com$
+^(www\.)?sourceforge\.net$
 ^(www\.)?spankbang\.com$
 ^(www\.)?sports-streams-online\.best$
 ^(www\.)?sports-streams-online\.com$
 ^(www\.)?ssl-images-amazon\.com$
 ^(www\.)?staradvertiser\.com$
 ^(www\.)?steamcommunity\.com$
+^(www\.)?steampowered\.com$
 ^(www\.)?sysctl\.org$
 ^(www\.)?t\.co$
 ^(www\.)?target\.com$
@@ -241,7 +248,9 @@
 ^(www\.)?webmd\.com$
 ^(www\.)?weworkremotely\.com$
 ^(www\.)?whispersystems\.org$
+^(www\.)?wikipedia\.org$
 ^(www\.)?wix\.com$
+^(www\.)?wolframalpha\.com$
 ^(www\.)?xda-developers\.com$
 ^(www\.)?yahoo\.com$
 ^(www\.)?yandex\.st$
@@ -590,6 +599,7 @@
 ^stocks-analytics-events\.apple\.com$
 ^storage-staging\.signal\.org$
 ^storage\.pardot\.com$
+^store\.steampowered\.com$
 ^suche\.t-online\.de$
 ^support\.microsoft\.com$
 ^support\.signal\.org$
@@ -630,6 +640,7 @@
 ^wellsfargobankna\.demdex\.net$
 ^widget-cdn\.rpxnow\.com$
 ^winhelp2002\.mvps\.org$
+^wordnet\.princeton\.edu$
 ^ws\.audioscrobbler\.com$
 ^yap\.yahoo\.com$
 ^yql\.yahoo\.com$
