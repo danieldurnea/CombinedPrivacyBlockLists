@@ -548,6 +548,7 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.tiqcdn.com
 talk.brave.com
+target.com
 td.demdex.net
 telegraaf.nl
 telegraph.api.hbo.com
@@ -617,6 +618,7 @@ wix.com
 ws.audioscrobbler.com
 xda-developers.com
 yahoo.com
+yandex.st
 yap.yahoo.com
 yimg.com
 yimg.jp

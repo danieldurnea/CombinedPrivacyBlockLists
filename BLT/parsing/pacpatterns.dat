@@ -206,6 +206,7 @@
 ^(www\.)?steamcommunity\.com$
 ^(www\.)?sysctl\.org$
 ^(www\.)?t\.co$
+^(www\.)?target\.com$
 ^(www\.)?telegraaf\.nl$
 ^(www\.)?tenforums\.com$
 ^(www\.)?termux\.net$
@@ -243,6 +244,7 @@
 ^(www\.)?wix\.com$
 ^(www\.)?xda-developers\.com$
 ^(www\.)?yahoo\.com$
+^(www\.)?yandex\.st$
 ^(www\.)?yimg\.com$
 ^(www\.)?yimg\.jp$
 ^(www\.)?youtube-nocookie\.com$
