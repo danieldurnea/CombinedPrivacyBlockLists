@@ -10731,6 +10731,7 @@
 0.0.0.0 bridge.lga1.admarketplace.net
 0.0.0.0 bridge.sf.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
+0.0.0.0 bridgetowermedia.press
 0.0.0.0 bridgetrack.com
 0.0.0.0 brids.live
 0.0.0.0 bridsun.com
@@ -44734,6 +44735,7 @@
 0.0.0.0 usatoday1.112.2o7.net
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 uscluster.com
+0.0.0.0 uscluster.net
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 usdownload.widost.com
 0.0.0.0 use-tor.adsrvr.org
@@ -46064,6 +46066,7 @@
 0.0.0.0 webtraffic.se
 0.0.0.0 webtransferorder.xyz
 0.0.0.0 webtraxx.de
+0.0.0.0 webtrekk.com
 0.0.0.0 webtrekk.net
 0.0.0.0 webtrends-optimize.com
 0.0.0.0 webtrends.telegraph.co.uk
