@@ -1,4 +1,4 @@
-# Mon Feb 13 05:40:38 AM UTC 2023
+# Mon Feb 13 06:14:21 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -902,6 +902,7 @@
 0.0.0.0 43137c93a82b0e81da.com
 0.0.0.0 43t53c9e.de
 0.0.0.0 441a8a5527.com
+0.0.0.0 44629.com
 0.0.0.0 4480dy.net
 0.0.0.0 4484986022.com
 0.0.0.0 44afd3eae5.com
@@ -5496,6 +5497,7 @@
 0.0.0.0 analytics.crea.ca
 0.0.0.0 analytics.daasrv.net
 0.0.0.0 analytics.dap-networks.de
+0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dev.htmedia.in
@@ -24999,6 +25001,7 @@
 0.0.0.0 lgugsnp.cn
 0.0.0.0 lgxoyjjdunlwrhp.xyz
 0.0.0.0 lgyxxxlcsgwgfg.xyz
+0.0.0.0 lh54.top
 0.0.0.0 lhare.xyz
 0.0.0.0 lhedgelnha.com
 0.0.0.0 lhinsights.com
@@ -36749,6 +36752,7 @@
 0.0.0.0 shitcustody.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shitucka.net
+0.0.0.0 shiveringspot.com
 0.0.0.0 shivoaps.net
 0.0.0.0 shixiaofei864.cn
 0.0.0.0 shiyaokejishanghai.com
@@ -45559,6 +45563,7 @@
 0.0.0.0 wussucko.com
 0.0.0.0 wutaixian.shop
 0.0.0.0 wutian01.cc
+0.0.0.0 wutou20230201.live
 0.0.0.0 wuwaii.com
 0.0.0.0 wuxiann.top
 0.0.0.0 wuxie419.xyz
