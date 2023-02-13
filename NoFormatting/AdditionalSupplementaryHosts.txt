@@ -7987,7 +7987,10 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 aosag.net
 0.0.0.0 aosau.net
+0.0.0.0 aoscmt.com
 0.0.0.0 aoscufe.com
+0.0.0.0 aosdelivery.com
+0.0.0.0 aospb.com
 0.0.0.0 aotiahua.com
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-notify.bidagent.xad.com
@@ -9118,6 +9121,7 @@
 0.0.0.0 b02aee36.ngrok.io
 0.0.0.0 b1-data.ads.heytapmobi.com
 0.0.0.0 b2-data.ads.heytapmobi.com
+0.0.0.0 b2b-mail.net
 0.0.0.0 b2b.angieslist.com
 0.0.0.0 b2b.automotive-mediaventions.nl
 0.0.0.0 b2b.autotrack.nl
@@ -13200,6 +13204,7 @@
 0.0.0.0 comsss-56.com
 0.0.0.0 comsysnet.com
 0.0.0.0 comwoman.com
+0.0.0.0 conad.com
 0.0.0.0 conamylups.com
 0.0.0.0 concernedcondition.com
 0.0.0.0 concernrain.com
@@ -44728,6 +44733,7 @@
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 usatoday1.112.2o7.net
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 uscluster.com
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 usdownload.widost.com
 0.0.0.0 use-tor.adsrvr.org
