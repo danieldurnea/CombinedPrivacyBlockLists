@@ -7986,6 +7986,7 @@
 0.0.0.0 aos-creative.prf.hn
 0.0.0.0 aosafrica.co.za
 0.0.0.0 aosag.net
+0.0.0.0 aosau.net
 0.0.0.0 aoscufe.com
 0.0.0.0 aotiahua.com
 0.0.0.0 ap-adcs.rqmob.com
@@ -12787,6 +12788,7 @@
 0.0.0.0 cn2.stadiumgoods.com
 0.0.0.0 cname.ebis.ne.jp
 0.0.0.0 cnamel.com
+0.0.0.0 cncluster.net
 0.0.0.0 cnetasiapacific.122.2o7.net
 0.0.0.0 cnetaustralia.122.2o7.net
 0.0.0.0 cneteurope.122.2o7.net
@@ -38255,6 +38257,7 @@
 0.0.0.0 rubrikincproduction.112.2o7.net
 0.0.0.0 rubthemoneybear.xyz
 0.0.0.0 ruclicks.com
+0.0.0.0 rucluster.net
 0.0.0.0 ruddycast.com
 0.0.0.0 ruddywash.com
 0.0.0.0 ruga.africa
