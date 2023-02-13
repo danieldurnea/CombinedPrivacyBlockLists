@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/13/23~06:36:35 -~
+# ~- 02/13/23~07:28:44 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -19141,6 +19141,9 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos-creative.prf.hn
 0.0.0.0 aosafrica.co.za
+0.0.0.0 aosag.net
+0.0.0.0 aosau.net
+0.0.0.0 aoscufe.com
 0.0.0.0 aosyqq.sunrealtync.com
 0.0.0.0 aotiahua.com
 0.0.0.0 aoutime.hair
@@ -34222,6 +34225,7 @@
 0.0.0.0 cnamel.com
 0.0.0.0 cnb.cnews.ru
 0.0.0.0 cnbole.net
+0.0.0.0 cncluster.net
 0.0.0.0 cncnails.net
 0.0.0.0 cnco.me
 0.0.0.0 cncpa.net
@@ -51199,6 +51203,29 @@
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 ext.movixhub.com
 0.0.0.0 ext.week.news
+0.0.0.0 ext.zooplus.at
+0.0.0.0 ext.zooplus.be
+0.0.0.0 ext.zooplus.bg
+0.0.0.0 ext.zooplus.ch
+0.0.0.0 ext.zooplus.co.uk
+0.0.0.0 ext.zooplus.com
+0.0.0.0 ext.zooplus.de
+0.0.0.0 ext.zooplus.dk
+0.0.0.0 ext.zooplus.es
+0.0.0.0 ext.zooplus.fi
+0.0.0.0 ext.zooplus.fr
+0.0.0.0 ext.zooplus.gr
+0.0.0.0 ext.zooplus.hr
+0.0.0.0 ext.zooplus.hu
+0.0.0.0 ext.zooplus.ie
+0.0.0.0 ext.zooplus.io
+0.0.0.0 ext.zooplus.it
+0.0.0.0 ext.zooplus.nl
+0.0.0.0 ext.zooplus.no
+0.0.0.0 ext.zooplus.pl
+0.0.0.0 ext.zooplus.pt
+0.0.0.0 ext.zooplus.ro
+0.0.0.0 ext.zooplus.se
 0.0.0.0 exta-z.ru
 0.0.0.0 extafiles.com
 0.0.0.0 extapi-cmp.adsafeprotected.com
@@ -84840,6 +84867,7 @@
 0.0.0.0 movad.de
 0.0.0.0 movad.net
 0.0.0.0 movcpm.com
+0.0.0.0 movefreeadvancedsettlement.com
 0.0.0.0 movemeal.com
 0.0.0.0 movementdespise.com
 0.0.0.0 movementpoison.com
@@ -87307,6 +87335,29 @@
 0.0.0.0 net.rayjump.com
 0.0.0.0 net.salmonads.com
 0.0.0.0 net.sexstories69.com
+0.0.0.0 net.zooplus.at
+0.0.0.0 net.zooplus.be
+0.0.0.0 net.zooplus.bg
+0.0.0.0 net.zooplus.ch
+0.0.0.0 net.zooplus.co.uk
+0.0.0.0 net.zooplus.com
+0.0.0.0 net.zooplus.de
+0.0.0.0 net.zooplus.dk
+0.0.0.0 net.zooplus.es
+0.0.0.0 net.zooplus.fi
+0.0.0.0 net.zooplus.fr
+0.0.0.0 net.zooplus.gr
+0.0.0.0 net.zooplus.hr
+0.0.0.0 net.zooplus.hu
+0.0.0.0 net.zooplus.ie
+0.0.0.0 net.zooplus.io
+0.0.0.0 net.zooplus.it
+0.0.0.0 net.zooplus.nl
+0.0.0.0 net.zooplus.no
+0.0.0.0 net.zooplus.pl
+0.0.0.0 net.zooplus.pt
+0.0.0.0 net.zooplus.ro
+0.0.0.0 net.zooplus.se
 0.0.0.0 net00.biz
 0.0.0.0 net1.gosportmontagne.com
 0.0.0.0 net1.netski.com
@@ -105912,6 +105963,7 @@
 0.0.0.0 rubymillsnpro.com
 0.0.0.0 ruckletawpy.com
 0.0.0.0 ruclicks.com
+0.0.0.0 rucluster.net
 0.0.0.0 rucounter.ru
 0.0.0.0 rudderaxis.com
 0.0.0.0 rudderlabs.com
@@ -118502,6 +118554,7 @@
 0.0.0.0 steamcrash.su
 0.0.0.0 steamdesktopauthenticator.com
 0.0.0.0 steamdomains.com
+0.0.0.0 steamerrecallsettlement.com
 0.0.0.0 steamfreestore.ru
 0.0.0.0 steamgameadder.com
 0.0.0.0 steamgames4free.net
@@ -144296,6 +144349,7 @@
 0.0.0.0 zoominfo-txn2.aoscmt.com
 0.0.0.0 zoominfo-txn3.aoscmt.com
 0.0.0.0 zoomino.com
+0.0.0.0 zoommeetingsclassaction.com
 0.0.0.0 zoomovies.org
 0.0.0.0 zoomshort.com
 0.0.0.0 zoomstatistic.com
