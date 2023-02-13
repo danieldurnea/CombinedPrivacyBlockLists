@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/13/23~06:18:36 -~
+# ~- 02/13/23~06:28:52 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -50349,15 +50349,19 @@ ff02::2 ip6-allrouters
 :: eulerian.astro-way.com
 :: eulerian.belambra.be
 :: eulerian.belambra.fr
+:: eulerian.biz
 :: eulerian.brandalley.fr
+:: eulerian.ca
 :: eulerian.canal-plus.com
 :: eulerian.com
 :: eulerian.darty.com
 :: eulerian.digitalrefresh.fr
 :: eulerian.eidershop.com
+:: eulerian.eu
 :: eulerian.eveiletjeux.com
 :: eulerian.fr
 :: eulerian.homebox-suisse.ch
+:: eulerian.io
 :: eulerian.look-voyages.fr
 :: eulerian.love2recycle.fr
 :: eulerian.madeindesign.com
@@ -50405,6 +50409,7 @@ ff02::2 ip6-allrouters
 :: eurckherngh.com
 :: eurekaddl.cyou
 :: eurekster.com
+:: eurelian.com
 :: eurex.ps
 :: eurex01.webtrekk.net
 :: euro-linkindex.de

@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/13/23~06:18:35 -~
+# ~- 02/13/23~06:28:50 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -50349,15 +50349,19 @@
 0.0.0.0 eulerian.astro-way.com
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
+0.0.0.0 eulerian.biz
 0.0.0.0 eulerian.brandalley.fr
+0.0.0.0 eulerian.ca
 0.0.0.0 eulerian.canal-plus.com
 0.0.0.0 eulerian.com
 0.0.0.0 eulerian.darty.com
 0.0.0.0 eulerian.digitalrefresh.fr
 0.0.0.0 eulerian.eidershop.com
+0.0.0.0 eulerian.eu
 0.0.0.0 eulerian.eveiletjeux.com
 0.0.0.0 eulerian.fr
 0.0.0.0 eulerian.homebox-suisse.ch
+0.0.0.0 eulerian.io
 0.0.0.0 eulerian.look-voyages.fr
 0.0.0.0 eulerian.love2recycle.fr
 0.0.0.0 eulerian.madeindesign.com
@@ -50405,6 +50409,7 @@
 0.0.0.0 eurckherngh.com
 0.0.0.0 eurekaddl.cyou
 0.0.0.0 eurekster.com
+0.0.0.0 eurelian.com
 0.0.0.0 eurex.ps
 0.0.0.0 eurex01.webtrekk.net
 0.0.0.0 euro-linkindex.de
