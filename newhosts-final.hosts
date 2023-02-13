@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/13/23~06:28:50 -~
+# ~- 02/13/23~06:36:35 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -50385,6 +50385,7 @@
 0.0.0.0 eulerian.tgv-europe.es
 0.0.0.0 eulerian.tgv-europe.nl
 0.0.0.0 eulerian.thalasseo.com
+0.0.0.0 eulerian.uk
 0.0.0.0 eulerian.voyage-prive.com
 0.0.0.0 eulerian.wiki
 0.0.0.0 euleriancdn.net

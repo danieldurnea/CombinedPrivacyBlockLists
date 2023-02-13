@@ -1,4 +1,4 @@
-// **** Mon Feb 13 06:29:16 AM UTC 2023
+// **** Mon Feb 13 06:37:01 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -16597,8 +16597,6 @@ shExpMatch(host, "*.etruht.ga") ||
 shExpMatch(host, "*.etruht.ml") ||
 shExpMatch(host, "*.etzbnfuigipwvs.ru") ||
 shExpMatch(host, "*.eu-adcenter.net") ||
-shExpMatch(host, "*.eu-adsrv-cached.rtbsuperhub.com") ||
-shExpMatch(host, "*.eu-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "*.eu-cookie-law.info") ||
 shExpMatch(host, "*.eu-m.stat-rock.com") ||
 shExpMatch(host, "*.eu-pn4.adserver.yahoo.com") ||
@@ -16643,6 +16641,7 @@ shExpMatch(host, "*.eulerian.structube.com") ||
 shExpMatch(host, "*.eulerian.tgv-europe.com") ||
 shExpMatch(host, "*.eulerian.tgv-europe.nl") ||
 shExpMatch(host, "*.eulerian.thalasseo.com") ||
+shExpMatch(host, "*.eulerian.uk") ||
 shExpMatch(host, "*.eulerian.wiki") ||
 shExpMatch(host, "*.euleriancdn.net") ||
 shExpMatch(host, "*.eulfa.com") ||
@@ -20322,7 +20321,6 @@ shExpMatch(host, "*.gjtrack.uc.cn") ||
 shExpMatch(host, "*.gjtrack.ucweb.com") ||
 shExpMatch(host, "*.gksqdt.reitmans.com") ||
 shExpMatch(host, "*.gkz4.pepephone.com") ||
-shExpMatch(host, "*.gl-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "*.glacis.live") ||
 shExpMatch(host, "*.glam.com") ||
 shExpMatch(host, "*.glamorousfeeds.com") ||
@@ -24002,7 +24000,6 @@ shExpMatch(host, "*.ilyf4amifh.com") ||
 shExpMatch(host, "*.ilyonanalytics.herokuapp.com") ||
 shExpMatch(host, "*.im-apps.net") ||
 shExpMatch(host, "*.im.etr.im") ||
-shExpMatch(host, "*.im.eulerian.uk") ||
 shExpMatch(host, "*.im.impact.as") ||
 shExpMatch(host, "*.im.jiguang.cn") ||
 shExpMatch(host, "*.im64.jpush.cn") ||
@@ -25019,7 +25016,6 @@ shExpMatch(host, "*.j9ik.com") ||
 shExpMatch(host, "*.ja2n2u30a6rgyd.com") ||
 shExpMatch(host, "*.jaaav.ddns.net") ||
 shExpMatch(host, "*.jabber.etr.im") ||
-shExpMatch(host, "*.jabber.eulerian.uk") ||
 shExpMatch(host, "*.jabberstorm.su") ||
 shExpMatch(host, "*.jabos.live") ||
 shExpMatch(host, "*.jacbridge.com") ||
@@ -39749,6 +39745,7 @@ shExpMatch(host, "*.rtbnowads.com") ||
 shExpMatch(host, "*.rtbplatform.net") ||
 shExpMatch(host, "*.rtbpop.com") ||
 shExpMatch(host, "*.rtbpopd.com") ||
+shExpMatch(host, "*.rtbsuperhub.com") ||
 shExpMatch(host, "*.rtc-logger-va.tiktokv.com") ||
 shExpMatch(host, "*.rtgfh.pro") ||
 shExpMatch(host, "*.rtl-most.blogspot.hu") ||
@@ -46669,7 +46666,6 @@ shExpMatch(host, "*.urs-microsoft.net") ||
 shExpMatch(host, "*.ursu.hol.es") ||
 shExpMatch(host, "*.urtyert.com") ||
 shExpMatch(host, "*.us-1.gladly.com") ||
-shExpMatch(host, "*.us-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "*.us-battie.net") ||
 shExpMatch(host, "*.us-central1-adaptive-growth.cloudfunctions.net") ||
 shExpMatch(host, "*.us-east-1.telemetry.insights.video.a2z.com") ||
@@ -66869,8 +66865,6 @@ shExpMatch(host, "etruht.ga") ||
 shExpMatch(host, "etruht.ml") ||
 shExpMatch(host, "etzbnfuigipwvs.ru") ||
 shExpMatch(host, "eu-adcenter.net") ||
-shExpMatch(host, "eu-adsrv-cached.rtbsuperhub.com") ||
-shExpMatch(host, "eu-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "eu-cookie-law.info") ||
 shExpMatch(host, "eu-m.stat-rock.com") ||
 shExpMatch(host, "eu-pn4.adserver.yahoo.com") ||
@@ -66915,6 +66909,7 @@ shExpMatch(host, "eulerian.structube.com") ||
 shExpMatch(host, "eulerian.tgv-europe.com") ||
 shExpMatch(host, "eulerian.tgv-europe.nl") ||
 shExpMatch(host, "eulerian.thalasseo.com") ||
+shExpMatch(host, "eulerian.uk") ||
 shExpMatch(host, "eulerian.wiki") ||
 shExpMatch(host, "euleriancdn.net") ||
 shExpMatch(host, "eulfa.com") ||
@@ -70594,7 +70589,6 @@ shExpMatch(host, "gjtrack.uc.cn") ||
 shExpMatch(host, "gjtrack.ucweb.com") ||
 shExpMatch(host, "gksqdt.reitmans.com") ||
 shExpMatch(host, "gkz4.pepephone.com") ||
-shExpMatch(host, "gl-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "glacis.live") ||
 shExpMatch(host, "glam.com") ||
 shExpMatch(host, "glamorousfeeds.com") ||
@@ -74274,7 +74268,6 @@ shExpMatch(host, "ilyf4amifh.com") ||
 shExpMatch(host, "ilyonanalytics.herokuapp.com") ||
 shExpMatch(host, "im-apps.net") ||
 shExpMatch(host, "im.etr.im") ||
-shExpMatch(host, "im.eulerian.uk") ||
 shExpMatch(host, "im.impact.as") ||
 shExpMatch(host, "im.jiguang.cn") ||
 shExpMatch(host, "im64.jpush.cn") ||
@@ -75291,7 +75284,6 @@ shExpMatch(host, "j9ik.com") ||
 shExpMatch(host, "ja2n2u30a6rgyd.com") ||
 shExpMatch(host, "jaaav.ddns.net") ||
 shExpMatch(host, "jabber.etr.im") ||
-shExpMatch(host, "jabber.eulerian.uk") ||
 shExpMatch(host, "jabberstorm.su") ||
 shExpMatch(host, "jabos.live") ||
 shExpMatch(host, "jacbridge.com") ||
@@ -90021,6 +90013,7 @@ shExpMatch(host, "rtbnowads.com") ||
 shExpMatch(host, "rtbplatform.net") ||
 shExpMatch(host, "rtbpop.com") ||
 shExpMatch(host, "rtbpopd.com") ||
+shExpMatch(host, "rtbsuperhub.com") ||
 shExpMatch(host, "rtc-logger-va.tiktokv.com") ||
 shExpMatch(host, "rtgfh.pro") ||
 shExpMatch(host, "rtl-most.blogspot.hu") ||
@@ -96941,7 +96934,6 @@ shExpMatch(host, "urs-microsoft.net") ||
 shExpMatch(host, "ursu.hol.es") ||
 shExpMatch(host, "urtyert.com") ||
 shExpMatch(host, "us-1.gladly.com") ||
-shExpMatch(host, "us-adsrv.rtbsuperhub.com") ||
 shExpMatch(host, "us-battie.net") ||
 shExpMatch(host, "us-central1-adaptive-growth.cloudfunctions.net") ||
 shExpMatch(host, "us-east-1.telemetry.insights.video.a2z.com") ||

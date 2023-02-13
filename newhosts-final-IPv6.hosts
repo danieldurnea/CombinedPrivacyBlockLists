@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/13/23~06:28:52 -~
+# ~- 02/13/23~06:36:37 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -50385,6 +50385,7 @@ ff02::2 ip6-allrouters
 :: eulerian.tgv-europe.es
 :: eulerian.tgv-europe.nl
 :: eulerian.thalasseo.com
+:: eulerian.uk
 :: eulerian.voyage-prive.com
 :: eulerian.wiki
 :: euleriancdn.net
