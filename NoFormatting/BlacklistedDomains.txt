@@ -27814,6 +27814,7 @@ bridge.sf.admarketplace.net
 bridge.sfo1.admarketplace.net
 bridgesfoundationrepair.com
 bridgetobalance.com
+bridgetowermedia.press
 bridgetrack.com
 bridgetrack.speedera.r3h.net
 bridgevine.com
@@ -131033,6 +131034,7 @@ usc.adserver.snapads.com
 uscdn.top
 uscfootball.us
 uscluster.com
+uscluster.net
 uscollector.tealeaf.ibmcloud.com
 usdm.122.2o7.net
 usdownload.widost.com
